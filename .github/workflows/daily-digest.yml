@@ -1,0 +1,72 @@
+name: Generate Daily Digest
+
+on:
+  # Run daily at 6:00 AM PST (14:00 UTC)
+  schedule:
+    - cron: '0 14 * * *'
+  
+  # Allow manual triggering
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Setup Python 3.11
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+      
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+      
+      - name: Generate digest
+        env:
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+          OPENWEATHER_API_KEY: ${{ secrets.OPENWEATHER_API_KEY }}
+          BRAVE_API_KEY: ${{ secrets.BRAVE_API_KEY }}
+          SPORTS_API_KEY: ${{ secrets.SPORTS_API_KEY }}
+          NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
+          FINANCE_API_KEY: ${{ secrets.FINANCE_API_KEY }}
+        run: |
+          cd src
+          python generate_digest.py
+      
+      - name: Commit and push updates
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add docs/
+          git diff --quiet && git diff --staged --quiet || \
+            (git commit -m "Update digest: $(date +'%Y-%m-%d %H:%M')" && git push)
+      
+      - name: Upload logs as artifact
+        if: always()
+        uses: actions/upload-artifact@v3
+        with:
+          name: digest-logs
+          path: logs/
+          retention-days: 30
+      
+      - name: Create issue on failure
+        if: failure()
+        uses: actions/github-script@v6
+        with:
+          script: |
+            github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: '❌ Daily Digest Generation Failed',
+              body: `The daily digest generation workflow failed on ${new Date().toLocaleDateString()}.\n\nCheck the [workflow run](https://github.com/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}) for details.`,
+              labels: ['automated', 'digest-failure']
+            })
