@@ -1,0 +1,178 @@
+{
+  "date": "2025-12-01",
+  "generated_at": "2025-12-01T21:40:46.601804",
+  "sections": [
+    {
+      "name": "weather",
+      "data": {
+        "current": {
+          "description": "Clear sky",
+          "feels_like": 56.2,
+          "humidity": 65,
+          "icon": "01d",
+          "temp": 57.6,
+          "wind_speed": 4.6
+        },
+        "forecast": [
+          {
+            "date": "2025-12-02",
+            "description": "Broken clouds",
+            "icon": "04n",
+            "temp": 46
+          },
+          {
+            "date": "2025-12-03",
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 48.7
+          },
+          {
+            "date": "2025-12-04",
+            "description": "Broken clouds",
+            "icon": "04n",
+            "temp": 49.3
+          },
+          {
+            "date": "2025-12-05",
+            "description": "Few clouds",
+            "icon": "02n",
+            "temp": 50.6
+          },
+          {
+            "date": "2025-12-06",
+            "description": "Broken clouds",
+            "icon": "04n",
+            "temp": 53.4
+          }
+        ],
+        "location": "San Jose",
+        "source": "OpenWeather API",
+        "timestamp": "2025-12-01T21:40:46.597435"
+      },
+      "timestamp": "2025-12-01T21:40:46.597435",
+      "source": "OpenWeather API"
+    },
+    {
+      "name": "sports",
+      "data": {
+        "source": "Mock Sports Data (replace with The Sports DB or ESPN API)",
+        "teams": [
+          {
+            "latest_game": "W 35-29 vs Packers (2025-11-28)",
+            "league": "NFL",
+            "name": "San Francisco 49ers",
+            "next_game": "vs Packers on 2025-12-03",
+            "record": "15-12",
+            "standings": "#2 in division"
+          },
+          {
+            "latest_game": "W 35-23 vs Ducks (2025-11-28)",
+            "league": "NHL",
+            "name": "San Jose Sharks",
+            "next_game": "vs Golden Knights on 2025-12-02",
+            "record": "9-7",
+            "standings": "#4 in division"
+          },
+          {
+            "latest_game": "L 96-103 vs Kings (2025-11-30)",
+            "league": "NBA",
+            "name": "Golden State Warriors",
+            "next_game": "vs Lakers on 2025-12-04",
+            "record": "12-12",
+            "standings": "#1 in division"
+          }
+        ],
+        "timestamp": "2025-12-01T21:40:46.600343"
+      },
+      "timestamp": "2025-12-01T21:40:46.600343",
+      "source": "Mock Sports Data (replace with The Sports DB or ESPN API)"
+    },
+    {
+      "name": "tech",
+      "data": {
+        "articles": [
+          {
+            "category": "technology",
+            "published_at": "2025-11-29T12:40:46.601032",
+            "source": "TechCrunch",
+            "summary": "This article discusses recent developments in technology. Experts say this could have significant implications for the industry.",
+            "title": "Major AI breakthrough announced in language understanding",
+            "url": "https://example.com/article-1"
+          },
+          {
+            "category": "technology",
+            "published_at": "2025-12-01T10:40:46.601048",
+            "source": "VentureBeat",
+            "summary": "This article discusses recent developments in AI. Experts say this could have significant implications for the industry.",
+            "title": "New machine learning model achieves record performance",
+            "url": "https://example.com/article-2"
+          },
+          {
+            "category": "technology",
+            "published_at": "2025-11-29T01:40:46.601058",
+            "source": "Ars Technica",
+            "summary": "This article discusses recent developments in AI. Experts say this could have significant implications for the industry.",
+            "title": "Tech giant releases open-source AI framework",
+            "url": "https://example.com/article-3"
+          },
+          {
+            "category": "technology",
+            "published_at": "2025-12-01T16:40:46.601066",
+            "source": "The Verge",
+            "summary": "This article discusses recent developments in technology. Experts say this could have significant implications for the industry.",
+            "title": "Artificial intelligence transforming healthcare industry",
+            "url": "https://example.com/article-4"
+          },
+          {
+            "category": "technology",
+            "published_at": "2025-12-01T06:40:46.601073",
+            "source": "Ars Technica",
+            "summary": "This article discusses recent developments in technology. Experts say this could have significant implications for the industry.",
+            "title": "Breakthrough in neural network efficiency",
+            "url": "https://example.com/article-5"
+          }
+        ],
+        "source": "Mock News Data (replace with News API)",
+        "timestamp": "2025-12-01T21:40:46.601081"
+      },
+      "timestamp": "2025-12-01T21:40:46.601081",
+      "source": "Mock News Data (replace with News API)"
+    },
+    {
+      "name": "market",
+      "data": {
+        "indexes": [
+          {
+            "change": -57.7,
+            "change_percent": -1.27,
+            "is_positive": false,
+            "name": "S&P 500",
+            "symbol": "^GSPC",
+            "value": 4531.13
+          },
+          {
+            "change": 69.01,
+            "change_percent": 0.49,
+            "is_positive": true,
+            "name": "NASDAQ",
+            "symbol": "^IXIC",
+            "value": 13976.05
+          },
+          {
+            "change": -91.62,
+            "change_percent": -0.26,
+            "is_positive": false,
+            "name": "DOW JONES",
+            "symbol": "^DJI",
+            "value": 34977.42
+          }
+        ],
+        "market_summary": "Markets showed mixed performance today as investors digest economic data.",
+        "source": "Mock Market Data (replace with Alpha Vantage or Yahoo Finance)",
+        "timestamp": "2025-12-01T21:40:46.601660"
+      },
+      "timestamp": "2025-12-01T21:40:46.601660",
+      "source": "Mock Market Data (replace with Alpha Vantage or Yahoo Finance)"
+    }
+  ]
+}
