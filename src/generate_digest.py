@@ -220,7 +220,13 @@ async def generate_digest():
         
         # Extract JSON from agent response
         response_text = results[0]
-        response_text = response_text.replace("False", "false").replace("True", "true")  # ← ADD THIS LINE
+
+        #response_text = response_text.replace("False", "false").replace("True", "true")  # ← ADD THIS LINE
+        
+        # Handle Python booleans - case insensitive
+        response_text = response_text.replace(": False", ": false").replace(": True", ": true")
+        response_text = response_text.replace(":False", ":false").replace(":True", ":true")
+        
         logger.debug(f"Raw response: {response_text[:500]}...")
         
         # Try to extract JSON (agent might wrap it in markdown code blocks)
