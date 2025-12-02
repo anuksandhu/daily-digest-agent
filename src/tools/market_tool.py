@@ -20,10 +20,8 @@ def get_market_data(indexes: List[str] = None) -> Dict[str, Any]:
     """
     Fetches current market data for major indexes.
     
-    NOTE: This is a mock implementation. In production, replace with:
-    - Alpha Vantage (https://www.alphavantage.co/)
-    - Yahoo Finance API
-    - Financial Modeling Prep API
+    Uses Alpha Vantage API if key is available, otherwise falls back to mock data.
+    Get API key from: https://www.alphavantage.co/support/#api-key
     
     Args:
         indexes: List of index symbols (e.g., ["^GSPC", "^IXIC", "^DJI"])
@@ -53,16 +51,18 @@ def get_market_data(indexes: List[str] = None) -> Dict[str, Any]:
     metrics.start_timer("tool.get_market_data")
     
     try:
+        # Use real Alpha Vantage API if key is available
         if config.finance_api_key:
-            logger.warning("Finance API key detected but not implemented yet - using mock data")
-        
-        # Mock data (replace with real API calls)
-        result = {
-            'indexes': _generate_mock_indexes(indexes),
-            'market_summary': _generate_market_summary(),
-            'timestamp': datetime.now().isoformat(),
-            'source': 'Mock Market Data (replace with Alpha Vantage or Yahoo Finance)'
-        }
+            logger.info("Using Alpha Vantage API for real data")
+            result = _fetch_real_market_data(config.finance_api_key, indexes)
+        else:
+            logger.warning("No Finance API key - using mock data")
+            result = {
+                'indexes': _generate_mock_indexes(indexes),
+                'market_summary': _generate_market_summary(),
+                'timestamp': datetime.now().isoformat(),
+                'source': 'Mock Market Data (add FINANCE_API_KEY for real data)'
+            }
         
         duration = metrics.stop_timer("tool.get_market_data", {"tool": "get_market_data", "type": "tool"})
         logger.info(
@@ -84,12 +84,104 @@ def get_market_data(indexes: List[str] = None) -> Dict[str, Any]:
             duration_ms=duration
         )
         
+        # Return mock data on error
         return {
-            'error': str(e),
-            'indexes': [],
+            'indexes': _generate_mock_indexes(indexes),
+            'market_summary': 'Market data unavailable',
             'timestamp': datetime.now().isoformat(),
-            'source': 'Market API (failed)'
+            'source': 'Mock Market Data (API failed)',
+            'error': str(e)
         }
+
+
+def _fetch_real_market_data(api_key: str, symbols: List[str]) -> Dict[str, Any]:
+    """
+    Fetch real market data from Alpha Vantage API
+    
+    Args:
+        api_key: Alpha Vantage API key
+        symbols: List of index symbols (e.g., ["^GSPC", "^IXIC", "^DJI"])
+    
+    Returns:
+        Dictionary with indexes and market summary
+    """
+    import requests
+    
+    indexes = []
+    
+    # Symbol mapping - Alpha Vantage uses ETF proxies for indexes
+    symbol_map = {
+        '^GSPC': ('S&P 500', 'SPY'),      # SPDR S&P 500 ETF
+        '^IXIC': ('NASDAQ', 'QQQ'),       # Invesco QQQ Trust
+        '^DJI': ('DOW JONES', 'DIA')      # SPDR Dow Jones Industrial Average ETF
+    }
+    
+    for symbol in symbols:
+        name, ticker = symbol_map.get(symbol, (symbol, symbol.replace('^', '')))
+        
+        url = "https://www.alphavantage.co/query"
+        params = {
+            'function': 'GLOBAL_QUOTE',
+            'symbol': ticker,
+            'apikey': api_key
+        }
+        
+        try:
+            response = requests.get(url, params=params, timeout=10)
+            response.raise_for_status()
+            data = response.json()
+            
+            quote = data.get('Global Quote', {})
+            
+            if quote:
+                price = float(quote.get('05. price', 0))
+                change = float(quote.get('09. change', 0))
+                change_pct = float(quote.get('10. change percent', '0').replace('%', ''))
+                
+                indexes.append({
+                    'name': name,
+                    'symbol': symbol,
+                    'value': round(price, 2),
+                    'change': round(change, 2),
+                    'change_percent': round(change_pct, 2),
+                    'is_positive': change > 0
+                })
+            else:
+                logger.warning(f"No data returned for {symbol}")
+                
+        except Exception as e:
+            logger.warning(f"Failed to fetch {symbol}: {e}")
+            continue
+    
+    # If no data was fetched (API error/quota), fall back to mock
+    if not indexes:
+        logger.warning("No market data retrieved, using mock data")
+        return {
+            'indexes': _generate_mock_indexes(symbols),
+            'market_summary': 'Market data unavailable (API quota exceeded)',
+            'timestamp': datetime.now().isoformat(),
+            'source': 'Mock Market Data (API quota exceeded)'
+        }
+    
+    # Generate summary based on market performance
+    positive_count = sum(1 for idx in indexes if idx.get('is_positive', False))
+    total = len(indexes)
+    
+    if positive_count == total:
+        summary = "Markets rallied across all major indexes on positive sentiment."
+    elif positive_count >= total * 0.66:
+        summary = "Markets mostly higher with broad-based gains."
+    elif positive_count >= total * 0.33:
+        summary = "Mixed trading session with varied performance across indexes."
+    else:
+        summary = "Markets declined on concerns about economic outlook."
+    
+    return {
+        'indexes': indexes,
+        'market_summary': summary,
+        'timestamp': datetime.now().isoformat(),
+        'source': 'Alpha Vantage API'
+    }
 
 
 def _generate_mock_indexes(symbols: List[str]) -> List[Dict[str, Any]]:
@@ -136,53 +228,3 @@ def _generate_market_summary() -> str:
         "Major indexes ended mostly flat in cautious trading."
     ]
     return random.choice(sentiments)
-
-
-# ============================================================================
-# Production Implementation with Alpha Vantage
-# ============================================================================
-"""
-To implement with Alpha Vantage API:
-
-import requests
-
-def _fetch_real_market_data(symbols: List[str], api_key: str) -> List[Dict[str, Any]]:
-    indexes = []
-    
-    for symbol in symbols:
-        # Remove ^ prefix for API call
-        api_symbol = symbol.replace('^', '')
-        
-        # Fetch quote data
-        url = "https://www.alphavantage.co/query"
-        params = {
-            'function': 'GLOBAL_QUOTE',
-            'symbol': api_symbol,
-            'apikey': api_key
-        }
-        
-        response = requests.get(url, params=params, timeout=10)
-        response.raise_for_status()
-        data = response.json()
-        
-        if 'Global Quote' in data:
-            quote = data['Global Quote']
-            indexes.append({
-                'name': _get_index_name(symbol),
-                'symbol': symbol,
-                'value': float(quote.get('05. price', 0)),
-                'change': float(quote.get('09. change', 0)),
-                'change_percent': float(quote.get('10. change percent', '0').replace('%', '')),
-                'is_positive': float(quote.get('09. change', 0)) > 0
-            })
-    
-    return indexes
-
-def _get_index_name(symbol: str) -> str:
-    names = {
-        "^GSPC": "S&P 500",
-        "^IXIC": "NASDAQ",
-        "^DJI": "DOW JONES"
-    }
-    return names.get(symbol, symbol)
-"""
