@@ -110,14 +110,19 @@ def _fetch_real_market_data(api_key: str, symbols: List[str]) -> Dict[str, Any]:
     indexes = []
     
     # Symbol mapping - Alpha Vantage uses ETF proxies for indexes
+    # We need to scale ETF prices to approximate index values
     symbol_map = {
-        '^GSPC': ('S&P 500', 'SPY'),      # SPDR S&P 500 ETF
-        '^IXIC': ('NASDAQ', 'QQQ'),       # Invesco QQQ Trust
-        '^DJI': ('DOW JONES', 'DIA')      # SPDR Dow Jones Industrial Average ETF
+        '^GSPC': ('S&P 500', 'SPY', 10.0),      # SPY is ~1/10 of S&P 500
+        '^IXIC': ('NASDAQ', 'QQQ', 38.0),       # QQQ is ~1/38 of NASDAQ
+        '^DJI': ('DOW JONES', 'DIA', 100.0)     # DIA is ~1/100 of DOW
     }
     
     for symbol in symbols:
-        name, ticker = symbol_map.get(symbol, (symbol, symbol.replace('^', '')))
+        if symbol not in symbol_map:
+            logger.warning(f"Unknown symbol {symbol}, skipping")
+            continue
+            
+        name, ticker, scale_factor = symbol_map[symbol]
         
         url = "https://www.alphavantage.co/query"
         params = {
@@ -134,17 +139,22 @@ def _fetch_real_market_data(api_key: str, symbols: List[str]) -> Dict[str, Any]:
             quote = data.get('Global Quote', {})
             
             if quote:
-                price = float(quote.get('05. price', 0))
-                change = float(quote.get('09. change', 0))
+                # Get ETF values
+                etf_price = float(quote.get('05. price', 0))
+                etf_change = float(quote.get('09. change', 0))
                 change_pct = float(quote.get('10. change percent', '0').replace('%', ''))
+                
+                # Scale to approximate index values
+                index_value = etf_price * scale_factor
+                index_change = etf_change * scale_factor
                 
                 indexes.append({
                     'name': name,
                     'symbol': symbol,
-                    'value': round(price, 2),
-                    'change': round(change, 2),
+                    'value': round(index_value, 2),
+                    'change': round(index_change, 2),
                     'change_percent': round(change_pct, 2),
-                    'is_positive': change > 0
+                    'is_positive': etf_change > 0
                 })
             else:
                 logger.warning(f"No data returned for {symbol}")
@@ -180,42 +190,8 @@ def _fetch_real_market_data(api_key: str, symbols: List[str]) -> Dict[str, Any]:
         'indexes': indexes,
         'market_summary': summary,
         'timestamp': datetime.now().isoformat(),
-        'source': 'Alpha Vantage API'
+        'source': 'Alpha Vantage API (via ETF proxies)'
     }
-
-
-def _generate_mock_indexes(symbols: List[str]) -> List[Dict[str, Any]]:
-    """Generate realistic mock market data"""
-    
-    index_names = {
-        "^GSPC": "S&P 500",
-        "^IXIC": "NASDAQ",
-        "^DJI": "DOW JONES"
-    }
-    
-    base_values = {
-        "^GSPC": 4500,
-        "^IXIC": 14000,
-        "^DJI": 35000
-    }
-    
-    indexes = []
-    for symbol in symbols:
-        base_value = base_values.get(symbol, 1000)
-        value = base_value + random.uniform(-50, 50)
-        change = random.uniform(-100, 100)
-        change_percent = (change / value) * 100
-        
-        indexes.append({
-            'name': index_names.get(symbol, symbol),
-            'symbol': symbol,
-            'value': round(value, 2),
-            'change': round(change, 2),
-            'change_percent': round(change_percent, 2),
-            'is_positive': change > 0
-        })
-    
-    return indexes
 
 
 def _generate_market_summary() -> str:
