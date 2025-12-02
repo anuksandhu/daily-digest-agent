@@ -1,177 +1,169 @@
 {
   "date": "2025-12-02",
-  "generated_at": "2025-12-02T04:52:02.732893",
+  "generated_at": "2025-12-02T14:24:20.058175",
   "sections": [
     {
-      "name": "weather",
       "data": {
         "current": {
           "description": "Mist",
-          "feels_like": 45.9,
-          "humidity": 83,
+          "feels_like": 46.1,
+          "humidity": 91,
           "icon": "50n",
-          "temp": 47,
-          "wind_speed": 3.4
+          "temp": 46.1,
+          "wind_speed": 2
         },
         "forecast": [
           {
-            "date": "2025-12-02",
-            "description": "Broken clouds",
-            "icon": "04n",
-            "temp": 46.5
-          },
-          {
             "date": "2025-12-03",
-            "description": "Broken clouds",
+            "description": "Overcast clouds",
             "icon": "04n",
             "temp": 48.7
           },
           {
             "date": "2025-12-04",
-            "description": "Overcast clouds",
+            "description": "Broken clouds",
             "icon": "04n",
-            "temp": 49.8
+            "temp": 49.4
           },
           {
             "date": "2025-12-05",
             "description": "Broken clouds",
             "icon": "04n",
-            "temp": 50.8
+            "temp": 50.4
           },
           {
             "date": "2025-12-06",
-            "description": "Broken clouds",
+            "description": "Overcast clouds",
             "icon": "04n",
-            "temp": 53.4
+            "temp": 54.2
+          },
+          {
+            "date": "2025-12-07",
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 54.2
           }
         ],
         "location": "San Jose",
-        "source": "OpenWeather API",
-        "timestamp": "2025-12-02T04:52:02.476944"
+        "timestamp": "2025-12-02T14:24:19.886666"
       },
-      "timestamp": "2025-12-02T04:52:02.476944",
+      "name": "weather",
       "source": "OpenWeather API"
     },
     {
-      "name": "sports",
       "data": {
-        "source": "Mock Sports Data (replace with The Sports DB or ESPN API)",
         "teams": [
           {
-            "latest_game": "W 22-16 vs Cardinals (2025-12-01)",
+            "latest_game": "W 23-21 vs Cardinals (2025-11-30)",
             "league": "NFL",
             "name": "San Francisco 49ers",
-            "next_game": "vs Seahawks on 2025-12-06",
-            "record": "15-8",
-            "standings": "#2 in division"
+            "next_game": "vs Cardinals on 2025-12-05",
+            "record": "10-3",
+            "standings": "#6 in division"
           },
           {
-            "latest_game": "W 24-19 vs Canucks (2025-11-30)",
+            "latest_game": "W 32-15 vs Avalanche (2025-11-29)",
             "league": "NHL",
             "name": "San Jose Sharks",
-            "next_game": "vs Canucks on 2025-12-04",
-            "record": "13-10",
+            "next_game": "vs Golden Knights on 2025-12-06",
+            "record": "5-10",
             "standings": "#2 in division"
           },
           {
-            "latest_game": "W 117-93 vs Kings (2025-11-29)",
+            "latest_game": "L 115-116 vs Clippers (2025-12-01)",
             "league": "NBA",
             "name": "Golden State Warriors",
-            "next_game": "vs Clippers on 2025-12-05",
-            "record": "14-9",
-            "standings": "#4 in division"
+            "next_game": "vs Suns on 2025-12-03",
+            "record": "9-5",
+            "standings": "#2 in division"
           }
         ],
-        "timestamp": "2025-12-02T04:52:02.481105"
+        "timestamp": "2025-12-02T14:24:19.889616"
       },
-      "timestamp": "2025-12-02T04:52:02.481105",
+      "name": "sports",
       "source": "Mock Sports Data (replace with The Sports DB or ESPN API)"
     },
     {
-      "name": "tech",
       "data": {
         "articles": [
           {
             "category": "technology",
-            "published_at": "2025-12-01T04:51:52Z",
+            "published_at": "2025-12-01T14:23:49Z",
+            "source": "Financial Post",
+            "summary": "Nvidia Corp. has struck a deal to invest $2 billion into chip-design software maker Synopsys Inc.\u2019s stock as part of a broader engineering and design tie-up, the latest massive investment by the chipmaker into one of its own suppliers.",
+            "title": "Nvidia Buys $2 Billion of Chip Software Maker Synopsys Stock",
+            "url": "https://financialpost.com/pmn/business-pmn/nvidia-buys-2-billion-of-chip-software-maker-synopsys-stock"
+          },
+          {
+            "category": "technology",
+            "published_at": "2025-12-01T14:23:30Z",
             "source": "Biztoc.com",
-            "summary": "An outage at the world's biggest exchange operator, CME Group, has put a spotlight on data centers overheating.",
-            "title": "Keeping cool: heat a key challenge for data centers and AI",
-            "url": "https://biztoc.com/x/a31232e411dfc7f1"
+            "summary": "Quick Read\n \n \n Meta (META) revenue grew 26.2% year-over-year to $51.24B in Q3 2025 and beat analyst estimates by 3.71%. \n \n Meta\u2019s cash per share declined 76.74% year-over-year as the company plans to spend up to $72B on AI in 2025. \n \n The stock fell from a\u2026",
+            "title": "Is Meta Platforms Stock a Buy Below $650?",
+            "url": "https://biztoc.com/x/aeb36227d478275b"
           },
           {
             "category": "technology",
-            "published_at": "2025-12-01T04:51:09Z",
-            "source": "Pypi.org",
-            "summary": "This package helps to abstract Gen Ai applications' observability using Langfuse.",
-            "title": "veriskgo 22.0.4",
-            "url": "https://pypi.org/project/veriskgo/22.0.4/"
+            "published_at": "2025-12-01T14:23:24Z",
+            "source": "Yahoo Entertainment",
+            "summary": "Accenture will equip tens of thousands of \u200bits IT professionals with ChatGPT Enterprise through \u200ba partnership with OpenAI, as the consulting firm looks to...",
+            "title": "Accenture ties up with OpenAI to equip thousands of its employees with ChatGPT",
+            "url": "https://finance.yahoo.com/news/accenture-ties-openai-equip-thousands-142324468.html"
           },
           {
             "category": "technology",
-            "published_at": "2025-12-01T04:49:15Z",
-            "source": "The Indian Express",
-            "summary": "Gujarat Biotechnology University team to work on affordable, scalable and minimally invasive RNA-based diagnostic and therapeutic tools for HMB",
-            "title": "Gujarat biotech varsity\u2019s research on Heavy Menstrual Bleeding gets financial aid from Gates Foundation",
-            "url": "https://indianexpress.com/article/cities/ahmedabad/gujarat-biotech-varsitys-research-on-heavy-menstrual-bleeding-financial-aid-gates-foundation-10395259/"
+            "published_at": "2025-12-01T14:23:24Z",
+            "source": "Yahoo Entertainment",
+            "summary": "Dec 1 (Reuters) - Accenture will equip tens of thousands of its IT professionals with ChatGPT Enterprise through a partnership with OpenAI, as the consulting...",
+            "title": "Accenture ties up with OpenAI to equip thousands of its employees with ChatGPT",
+            "url": "https://finance.yahoo.com/news/accenture-ties-openai-equip-thousands-142324575.html"
           },
           {
             "category": "technology",
-            "published_at": "2025-12-01T04:47:18Z",
-            "source": "The Times of India",
-            "summary": "Meesho\u2019s Rs 5,421-crore IPO is drawing strong interest, with GMP indicating a possible 40% listing premium. Backed by improving fundamentals, rising user growth, and a defensible value-ecommerce position, analysts see medium-term potential despite near-term p\u2026",
-            "title": "Meesho IPO: GMP hints at strong listing. Check price band, financials - Should you bid?",
-            "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/meesho-ipo-gmp-hints-at-strong-listing-check-price-band-financials-should-you-bid/articleshow/125685460.cms"
-          },
-          {
-            "category": "technology",
-            "published_at": "2025-12-01T04:45:07Z",
-            "source": "Pypi.org",
-            "summary": "This package helps to abstract Gen Ai applications' observability using Langfuse.",
-            "title": "veriskgo 22.0.3",
-            "url": "https://pypi.org/project/veriskgo/22.0.3/"
+            "published_at": "2025-12-01T14:23:22Z",
+            "source": "Biztoc.com",
+            "summary": "Key Points\n-\nNvidia sees monster growth over the next few years.\n-\nTaiwan Semiconductor is supplying the chips for artificial intelligence (AI) computing providers.\nThe artificial intelligence (AI) investment trend seemed to be on its way out in the middle of\u2026",
+            "title": "2 Best Artificial Intelligence Stocks to Buy in December",
+            "url": "https://biztoc.com/x/40114c4695e05156"
           }
         ],
-        "source": "News API",
-        "timestamp": "2025-12-02T04:52:02.729544"
+        "timestamp": "2025-12-02T14:24:20.055727"
       },
-      "timestamp": "2025-12-02T04:52:02.729544",
+      "name": "tech",
       "source": "News API"
     },
     {
-      "name": "market",
       "data": {
         "indexes": [
           {
-            "change": -6.48,
-            "change_percent": -0.14,
+            "change": -64.83,
+            "change_percent": -1.45,
             "is_positive": false,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 4523.76
+            "value": 4473.51
           },
           {
-            "change": -27.41,
-            "change_percent": -0.2,
-            "is_positive": false,
+            "change": 0.31,
+            "change_percent": 0,
+            "is_positive": true,
             "name": "NASDAQ",
             "symbol": "^IXIC",
-            "value": 13955.15
+            "value": 13965.26
           },
           {
-            "change": -6.86,
-            "change_percent": -0.02,
-            "is_positive": false,
+            "change": 11.11,
+            "change_percent": 0.03,
+            "is_positive": true,
             "name": "DOW JONES",
             "symbol": "^DJI",
-            "value": 34953.09
+            "value": 34985.74
           }
         ],
-        "market_summary": "Tech stocks led gains as the broader market advanced.",
-        "source": "Mock Market Data (replace with Alpha Vantage or Yahoo Finance)",
-        "timestamp": "2025-12-02T04:52:02.731878"
+        "market_summary": "Markets pulled back amid concerns about inflation and interest rates.",
+        "timestamp": "2025-12-02T14:24:20.057709"
       },
-      "timestamp": "2025-12-02T04:52:02.731878",
+      "name": "market",
       "source": "Mock Market Data (replace with Alpha Vantage or Yahoo Finance)"
     }
   ]
