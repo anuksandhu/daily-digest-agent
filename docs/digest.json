@@ -1,30 +1,23 @@
 {
   "date": "2025-12-02",
-  "generated_at": "2025-12-02T19:09:53.917215",
+  "generated_at": "2025-12-02T21:49:24.000000",
   "sections": [
     {
-      "name": "weather",
       "data": {
         "current": {
-          "description": "Haze",
-          "feels_like": 56.8,
-          "humidity": 67,
-          "icon": "50d",
-          "temp": 58.1,
-          "wind_speed": 3.4
+          "description": "Few clouds",
+          "feels_like": 61.3,
+          "humidity": 57,
+          "icon": "02d",
+          "temp": 62.7,
+          "wind_speed": 3
         },
         "forecast": [
-          {
-            "date": "2025-12-02",
-            "description": "Few clouds",
-            "icon": "02d",
-            "temp": 60
-          },
           {
             "date": "2025-12-03",
             "description": "Broken clouds",
             "icon": "04n",
-            "temp": 59
+            "temp": 61.8
           },
           {
             "date": "2025-12-04",
@@ -43,136 +36,143 @@
             "description": "Broken clouds",
             "icon": "04n",
             "temp": 65.9
+          },
+          {
+            "date": "2025-12-07",
+            "description": "Broken clouds",
+            "icon": "04n",
+            "temp": 65.2
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2025-12-02T19:09:53.511176"
+        "timestamp": "2025-12-02T21:49:22.937648"
       },
-      "timestamp": "2025-12-02T19:09:53.511176",
-      "source": "OpenWeather API"
+      "name": "weather",
+      "source": "OpenWeather API",
+      "timestamp": "2025-12-02T21:49:22.937648"
     },
     {
-      "name": "sports",
       "data": {
         "source": "Mock Sports Data (replace with The Sports DB or ESPN API)",
         "teams": [
           {
-            "latest_game": "L 23-28 vs Cowboys (2025-12-01)",
+            "latest_game": "W 26-16 vs Rams (2025-11-29)",
             "league": "NFL",
             "name": "San Francisco 49ers",
-            "next_game": "vs Cardinals on 2025-12-05",
-            "record": "13-5",
+            "next_game": "vs Seahawks on 2025-12-03",
+            "record": "14-9",
             "standings": "#6 in division"
           },
           {
-            "latest_game": "W 34-14 vs Kings (2025-12-01)",
+            "latest_game": "L 21-29 vs Kings (2025-11-29)",
             "league": "NHL",
             "name": "San Jose Sharks",
-            "next_game": "vs Golden Knights on 2025-12-05",
-            "record": "9-3",
-            "standings": "#4 in division"
+            "next_game": "vs Kings on 2025-12-06",
+            "record": "5-8",
+            "standings": "#1 in division"
           },
           {
-            "latest_game": "W 119-95 vs Blazers (2025-12-01)",
+            "latest_game": "L 95-108 vs Suns (2025-12-01)",
             "league": "NBA",
             "name": "Golden State Warriors",
-            "next_game": "vs Kings on 2025-12-06",
-            "record": "7-11",
-            "standings": "#7 in division"
+            "next_game": "vs Suns on 2025-12-03",
+            "record": "5-11",
+            "standings": "#3 in division"
           }
         ],
-        "timestamp": "2025-12-02T19:09:53.513767"
+        "timestamp": "2025-12-02T21:49:22.940769"
       },
-      "timestamp": "2025-12-02T19:09:53.513767",
-      "source": "Mock Sports Data (replace with The Sports DB or ESPN API)"
+      "name": "sports",
+      "source": "Mock Sports Data (replace with The Sports DB or ESPN API)",
+      "timestamp": "2025-12-02T21:49:22.940769"
     },
     {
-      "name": "tech",
       "data": {
         "articles": [
           {
             "category": "technology",
-            "published_at": "2025-12-01T19:09:00Z",
+            "published_at": "2025-12-01T21:49:04Z",
+            "source": "TheJournal.ie",
+            "summary": "Internet regulators the world over are watching to see if Australia can rein in the tech giants.",
+            "title": "In a world-first move, Australia will soon ban under-16s from social media \u2013 how will it work?",
+            "url": "https://www.thejournal.ie/social-media-ban-under-16s-australia-explainer-6890571-Dec2025/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2025-12-01T21:49:00Z",
+            "source": "Notebookcheck.net",
+            "summary": "Deal | 32-inch 4K OLED gaming monitors no longer demand $1000+ for their top-end performance. The Alienware AW3225QF is particularly affordable, after a $480 Cyber Monday discount. The gently curved monitor is equally equipped to handle demanding gaming, stre\u2026",
+            "title": "The curved 32-inch Alienware 4K OLED gaming monitor grabs attention with a massive discount",
+            "url": "https://www.notebookcheck.net/The-curved-32-inch-Alienware-4K-OLED-gaming-monitor-grabs-attention-with-a-massive-discount.1174778.0.html"
+          },
+          {
+            "category": "technology",
+            "published_at": "2025-12-01T21:48:00Z",
             "source": "GlobeNewswire",
-            "summary": "Los Angeles,California, Dec. 01, 2025 (GLOBE NEWSWIRE) -- Linkhome Holdings Inc. (Nasdaq: LHAI), an AI-powered real estate technology platform, today announced the official launch of Linkhome AI Ads, its new artificial intelligence\u2013driven advertising system. \u2026",
-            "title": "Linkhome Launches AI Advertising Platform and \u201cPay for Closing\u201d Model, Accelerating Monetization Strategy",
-            "url": "https://www.globenewswire.com/news-release/2025/12/01/3197393/0/en/Linkhome-Launches-AI-Advertising-Platform-and-Pay-for-Closing-Model-Accelerating-Monetization-Strategy.html"
+            "summary": "NEW YORK CITY, NY,, Dec. 01, 2025 (GLOBE NEWSWIRE) -- December 01, 2025, BetWhale emerges as the Highest Paying Online Casino in 2025, setting a new benchmark in an industry where players often struggle with low payout rates, slow withdrawals, and uncertain g\u2026",
+            "title": "Highest Paying Online Casino USA 2025: BetWhale Announces New $2,500 Bonus & Same Day Withdrawals",
+            "url": "https://www.globenewswire.com/news-release/2025/12/01/3197493/0/en/Highest-Paying-Online-Casino-USA-2025-BetWhale-Announces-New-2-500-Bonus-Same-Day-Withdrawals.html"
           },
           {
             "category": "technology",
-            "published_at": "2025-12-01T19:07:00Z",
+            "published_at": "2025-12-01T21:47:00Z",
             "source": "GlobeNewswire",
-            "summary": "According to Towards Chemical and Materials Consulting, the global Green Coatings market size was accounted for USD 145.19 billion in 2025 and is expected to be worth around 236.27 billion by 2035, growing at a compound annual growth rate (CAGR) of 4.99% from\u2026",
-            "title": "Green Coatings Market Size to Worth USD 236.27 Bn by 2035",
-            "url": "https://www.globenewswire.com/news-release/2025/12/01/3197392/0/en/Green-Coatings-Market-Size-to-Worth-USD-236-27-Bn-by-2035.html"
+            "summary": "A Practical Guide to Generative AI Copyright Risk Management A Practical Guide to Generative AI Copyright Risk Management",
+            "title": "Martensen IP Offers Critical Guidance on Understanding the Essentials of AI Risk and Intellectual Property Compliance",
+            "url": "https://www.globenewswire.com/news-release/2025/12/01/3197492/0/en/Martensen-IP-Offers-Critical-Guidance-on-Understanding-the-Essentials-of-AI-Risk-and-Intellectual-Property-Compliance.html"
           },
           {
             "category": "technology",
-            "published_at": "2025-12-01T19:06:53Z",
-            "source": "Freerepublic.com",
-            "summary": "On paper, Lexington County, S.C., and Placer County, Calif., have a lot in common. They\u2019re both big, wealthy, suburban counties with white supermajorities that border on their respective state\u2019s capital cities\u2026But when it comes to how long their residents can\u2026",
-            "title": "America\u2019s Surprising Partisan Divide on Life Expectancy",
-            "url": "https://freerepublic.com/focus/f-chat/4355478/posts"
-          },
-          {
-            "category": "technology",
-            "published_at": "2025-12-01T19:06:47Z",
-            "source": "Econbrowser.com",
-            "summary": "Today, we present a guest post written by\u00a0Jeffrey Frankel, Harpel Professor at Harvard\u2019s Kennedy School of Government, and formerly a member of the White House Council of Economic Advisers.* A shorter version\u00a0was published by\u00a0Project Syndicate.\u00a0 \u00a0 November 30\u2026",
-            "title": "Guest Contribution: \u201cHow will unsustainable US debt end?\u201d",
-            "url": "https://econbrowser.com/archives/2025/12/guest-contribution-how-will-unsustainable-us-debt-end"
-          },
-          {
-            "category": "technology",
-            "published_at": "2025-12-01T19:05:23Z",
-            "source": "Tom's Hardware UK",
-            "summary": "These are the best HDD deals for Cyber Monday and Black Friday, guaranteed to expand your PC's storage without emptying your wallet. We're constantly updating this list the best deals across all sales at all retailers throughout the Black Friday season.",
-            "title": "Best Cyber Monday Hard Drive deals 2025 \u2014 Black Friday HDD deals from WD, Seagate, and Toshiba that you can still get",
-            "url": "https://www.tomshardware.com/pc-components/hdds/best-hard-drive-hdd-deals-amazon"
+            "published_at": "2025-12-01T21:46:24Z",
+            "source": "SiliconANGLE News",
+            "summary": "In major move signaling how Amazon Web Services Inc. intends to redefine Kubernetes operations for the artificial intelligence era, AWS today announced Amazon EKS Capabilities, a fully managed suite of Kubernetes-native tools that integrate popular open-sourc\u2026",
+            "title": "AWS unveils EKS capabilities to reinvent Kubernetes operations as AI workloads surge",
+            "url": "https://siliconangle.com/2025/12/01/aws-unveils-eks-capabilities-reinvent-kubernetes-operations-ai-workloads-surge/"
           }
         ],
         "source": "News API",
-        "timestamp": "2025-12-02T19:09:53.905081"
+        "timestamp": "2025-12-02T21:49:23.300960"
       },
-      "timestamp": "2025-12-02T19:09:53.905081",
-      "source": "News API"
+      "name": "tech",
+      "source": "News API",
+      "timestamp": "2025-12-02T21:49:23.300960"
     },
     {
-      "name": "market",
       "data": {
         "indexes": [
           {
-            "change": 86.82,
-            "change_percent": 1.94,
+            "change": 1.16,
+            "change_percent": 0.17,
             "is_positive": true,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 4470
+            "value": 681.43
           },
           {
-            "change": 51.51,
-            "change_percent": 0.37,
-            "is_positive": true,
+            "change": -2.08,
+            "change_percent": -0.34,
+            "is_positive": false,
             "name": "NASDAQ",
             "symbol": "^IXIC",
-            "value": 13965.82
+            "value": 617.17
           },
           {
-            "change": 77.91,
-            "change_percent": 0.22,
+            "change": 1.88,
+            "change_percent": 0.4,
             "is_positive": true,
             "name": "DOW JONES",
             "symbol": "^DJI",
-            "value": 34951.01
+            "value": 475.2
           }
         ],
-        "market_summary": "Markets showed mixed performance today as investors digest economic data.",
-        "source": "Mock Market Data (replace with Alpha Vantage or Yahoo Finance)",
-        "timestamp": "2025-12-02T19:09:53.906848"
+        "market_summary": "Markets mostly higher with broad-based gains.",
+        "source": "Alpha Vantage API",
+        "timestamp": "2025-12-02T21:49:23.686263"
       },
-      "timestamp": "2025-12-02T19:09:53.906848",
-      "source": "Mock Market Data (replace with Alpha Vantage or Yahoo Finance)"
+      "name": "market",
+      "source": "Alpha Vantage API",
+      "timestamp": "2025-12-02T21:49:23.686263"
     }
   ]
 }
