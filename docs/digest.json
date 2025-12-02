@@ -1,169 +1,177 @@
 {
   "date": "2025-12-02",
-  "generated_at": "2025-12-02T14:24:20.058175",
+  "generated_at": "2025-12-02T19:09:53.917215",
   "sections": [
     {
+      "name": "weather",
       "data": {
         "current": {
-          "description": "Mist",
-          "feels_like": 46.1,
-          "humidity": 91,
-          "icon": "50n",
-          "temp": 46.1,
-          "wind_speed": 2
+          "description": "Haze",
+          "feels_like": 56.8,
+          "humidity": 67,
+          "icon": "50d",
+          "temp": 58.1,
+          "wind_speed": 3.4
         },
         "forecast": [
           {
+            "date": "2025-12-02",
+            "description": "Few clouds",
+            "icon": "02d",
+            "temp": 60
+          },
+          {
             "date": "2025-12-03",
-            "description": "Overcast clouds",
+            "description": "Broken clouds",
             "icon": "04n",
-            "temp": 48.7
+            "temp": 59
           },
           {
             "date": "2025-12-04",
-            "description": "Broken clouds",
+            "description": "Overcast clouds",
             "icon": "04n",
-            "temp": 49.4
+            "temp": 63.4
           },
           {
             "date": "2025-12-05",
-            "description": "Broken clouds",
-            "icon": "04n",
-            "temp": 50.4
+            "description": "Few clouds",
+            "icon": "02n",
+            "temp": 64.4
           },
           {
             "date": "2025-12-06",
-            "description": "Overcast clouds",
+            "description": "Broken clouds",
             "icon": "04n",
-            "temp": 54.2
-          },
-          {
-            "date": "2025-12-07",
-            "description": "Overcast clouds",
-            "icon": "04n",
-            "temp": 54.2
+            "temp": 65.9
           }
         ],
         "location": "San Jose",
-        "timestamp": "2025-12-02T14:24:19.886666"
+        "source": "OpenWeather API",
+        "timestamp": "2025-12-02T19:09:53.511176"
       },
-      "name": "weather",
+      "timestamp": "2025-12-02T19:09:53.511176",
       "source": "OpenWeather API"
     },
     {
+      "name": "sports",
       "data": {
+        "source": "Mock Sports Data (replace with The Sports DB or ESPN API)",
         "teams": [
           {
-            "latest_game": "W 23-21 vs Cardinals (2025-11-30)",
+            "latest_game": "L 23-28 vs Cowboys (2025-12-01)",
             "league": "NFL",
             "name": "San Francisco 49ers",
             "next_game": "vs Cardinals on 2025-12-05",
-            "record": "10-3",
+            "record": "13-5",
             "standings": "#6 in division"
           },
           {
-            "latest_game": "W 32-15 vs Avalanche (2025-11-29)",
+            "latest_game": "W 34-14 vs Kings (2025-12-01)",
             "league": "NHL",
             "name": "San Jose Sharks",
-            "next_game": "vs Golden Knights on 2025-12-06",
-            "record": "5-10",
-            "standings": "#2 in division"
+            "next_game": "vs Golden Knights on 2025-12-05",
+            "record": "9-3",
+            "standings": "#4 in division"
           },
           {
-            "latest_game": "L 115-116 vs Clippers (2025-12-01)",
+            "latest_game": "W 119-95 vs Blazers (2025-12-01)",
             "league": "NBA",
             "name": "Golden State Warriors",
-            "next_game": "vs Suns on 2025-12-03",
-            "record": "9-5",
-            "standings": "#2 in division"
+            "next_game": "vs Kings on 2025-12-06",
+            "record": "7-11",
+            "standings": "#7 in division"
           }
         ],
-        "timestamp": "2025-12-02T14:24:19.889616"
+        "timestamp": "2025-12-02T19:09:53.513767"
       },
-      "name": "sports",
+      "timestamp": "2025-12-02T19:09:53.513767",
       "source": "Mock Sports Data (replace with The Sports DB or ESPN API)"
     },
     {
+      "name": "tech",
       "data": {
         "articles": [
           {
             "category": "technology",
-            "published_at": "2025-12-01T14:23:49Z",
-            "source": "Financial Post",
-            "summary": "Nvidia Corp. has struck a deal to invest $2 billion into chip-design software maker Synopsys Inc.\u2019s stock as part of a broader engineering and design tie-up, the latest massive investment by the chipmaker into one of its own suppliers.",
-            "title": "Nvidia Buys $2 Billion of Chip Software Maker Synopsys Stock",
-            "url": "https://financialpost.com/pmn/business-pmn/nvidia-buys-2-billion-of-chip-software-maker-synopsys-stock"
+            "published_at": "2025-12-01T19:09:00Z",
+            "source": "GlobeNewswire",
+            "summary": "Los Angeles,California, Dec. 01, 2025 (GLOBE NEWSWIRE) -- Linkhome Holdings Inc. (Nasdaq: LHAI), an AI-powered real estate technology platform, today announced the official launch of Linkhome AI Ads, its new artificial intelligence\u2013driven advertising system. \u2026",
+            "title": "Linkhome Launches AI Advertising Platform and \u201cPay for Closing\u201d Model, Accelerating Monetization Strategy",
+            "url": "https://www.globenewswire.com/news-release/2025/12/01/3197393/0/en/Linkhome-Launches-AI-Advertising-Platform-and-Pay-for-Closing-Model-Accelerating-Monetization-Strategy.html"
           },
           {
             "category": "technology",
-            "published_at": "2025-12-01T14:23:30Z",
-            "source": "Biztoc.com",
-            "summary": "Quick Read\n \n \n Meta (META) revenue grew 26.2% year-over-year to $51.24B in Q3 2025 and beat analyst estimates by 3.71%. \n \n Meta\u2019s cash per share declined 76.74% year-over-year as the company plans to spend up to $72B on AI in 2025. \n \n The stock fell from a\u2026",
-            "title": "Is Meta Platforms Stock a Buy Below $650?",
-            "url": "https://biztoc.com/x/aeb36227d478275b"
+            "published_at": "2025-12-01T19:07:00Z",
+            "source": "GlobeNewswire",
+            "summary": "According to Towards Chemical and Materials Consulting, the global Green Coatings market size was accounted for USD 145.19 billion in 2025 and is expected to be worth around 236.27 billion by 2035, growing at a compound annual growth rate (CAGR) of 4.99% from\u2026",
+            "title": "Green Coatings Market Size to Worth USD 236.27 Bn by 2035",
+            "url": "https://www.globenewswire.com/news-release/2025/12/01/3197392/0/en/Green-Coatings-Market-Size-to-Worth-USD-236-27-Bn-by-2035.html"
           },
           {
             "category": "technology",
-            "published_at": "2025-12-01T14:23:24Z",
-            "source": "Yahoo Entertainment",
-            "summary": "Accenture will equip tens of thousands of \u200bits IT professionals with ChatGPT Enterprise through \u200ba partnership with OpenAI, as the consulting firm looks to...",
-            "title": "Accenture ties up with OpenAI to equip thousands of its employees with ChatGPT",
-            "url": "https://finance.yahoo.com/news/accenture-ties-openai-equip-thousands-142324468.html"
+            "published_at": "2025-12-01T19:06:53Z",
+            "source": "Freerepublic.com",
+            "summary": "On paper, Lexington County, S.C., and Placer County, Calif., have a lot in common. They\u2019re both big, wealthy, suburban counties with white supermajorities that border on their respective state\u2019s capital cities\u2026But when it comes to how long their residents can\u2026",
+            "title": "America\u2019s Surprising Partisan Divide on Life Expectancy",
+            "url": "https://freerepublic.com/focus/f-chat/4355478/posts"
           },
           {
             "category": "technology",
-            "published_at": "2025-12-01T14:23:24Z",
-            "source": "Yahoo Entertainment",
-            "summary": "Dec 1 (Reuters) - Accenture will equip tens of thousands of its IT professionals with ChatGPT Enterprise through a partnership with OpenAI, as the consulting...",
-            "title": "Accenture ties up with OpenAI to equip thousands of its employees with ChatGPT",
-            "url": "https://finance.yahoo.com/news/accenture-ties-openai-equip-thousands-142324575.html"
+            "published_at": "2025-12-01T19:06:47Z",
+            "source": "Econbrowser.com",
+            "summary": "Today, we present a guest post written by\u00a0Jeffrey Frankel, Harpel Professor at Harvard\u2019s Kennedy School of Government, and formerly a member of the White House Council of Economic Advisers.* A shorter version\u00a0was published by\u00a0Project Syndicate.\u00a0 \u00a0 November 30\u2026",
+            "title": "Guest Contribution: \u201cHow will unsustainable US debt end?\u201d",
+            "url": "https://econbrowser.com/archives/2025/12/guest-contribution-how-will-unsustainable-us-debt-end"
           },
           {
             "category": "technology",
-            "published_at": "2025-12-01T14:23:22Z",
-            "source": "Biztoc.com",
-            "summary": "Key Points\n-\nNvidia sees monster growth over the next few years.\n-\nTaiwan Semiconductor is supplying the chips for artificial intelligence (AI) computing providers.\nThe artificial intelligence (AI) investment trend seemed to be on its way out in the middle of\u2026",
-            "title": "2 Best Artificial Intelligence Stocks to Buy in December",
-            "url": "https://biztoc.com/x/40114c4695e05156"
+            "published_at": "2025-12-01T19:05:23Z",
+            "source": "Tom's Hardware UK",
+            "summary": "These are the best HDD deals for Cyber Monday and Black Friday, guaranteed to expand your PC's storage without emptying your wallet. We're constantly updating this list the best deals across all sales at all retailers throughout the Black Friday season.",
+            "title": "Best Cyber Monday Hard Drive deals 2025 \u2014 Black Friday HDD deals from WD, Seagate, and Toshiba that you can still get",
+            "url": "https://www.tomshardware.com/pc-components/hdds/best-hard-drive-hdd-deals-amazon"
           }
         ],
-        "timestamp": "2025-12-02T14:24:20.055727"
+        "source": "News API",
+        "timestamp": "2025-12-02T19:09:53.905081"
       },
-      "name": "tech",
+      "timestamp": "2025-12-02T19:09:53.905081",
       "source": "News API"
     },
     {
+      "name": "market",
       "data": {
         "indexes": [
           {
-            "change": -64.83,
-            "change_percent": -1.45,
-            "is_positive": false,
+            "change": 86.82,
+            "change_percent": 1.94,
+            "is_positive": true,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 4473.51
+            "value": 4470
           },
           {
-            "change": 0.31,
-            "change_percent": 0,
+            "change": 51.51,
+            "change_percent": 0.37,
             "is_positive": true,
             "name": "NASDAQ",
             "symbol": "^IXIC",
-            "value": 13965.26
+            "value": 13965.82
           },
           {
-            "change": 11.11,
-            "change_percent": 0.03,
+            "change": 77.91,
+            "change_percent": 0.22,
             "is_positive": true,
             "name": "DOW JONES",
             "symbol": "^DJI",
-            "value": 34985.74
+            "value": 34951.01
           }
         ],
-        "market_summary": "Markets pulled back amid concerns about inflation and interest rates.",
-        "timestamp": "2025-12-02T14:24:20.057709"
+        "market_summary": "Markets showed mixed performance today as investors digest economic data.",
+        "source": "Mock Market Data (replace with Alpha Vantage or Yahoo Finance)",
+        "timestamp": "2025-12-02T19:09:53.906848"
       },
-      "name": "market",
+      "timestamp": "2025-12-02T19:09:53.906848",
       "source": "Mock Market Data (replace with Alpha Vantage or Yahoo Finance)"
     }
   ]
