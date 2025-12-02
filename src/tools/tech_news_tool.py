@@ -20,7 +20,7 @@ def get_tech_news(topics: List[str] = None, limit: int = 5) -> Dict[str, Any]:
     """
     Fetches recent technology news articles.
     
-    NOTE: This is a mock implementation. In production, replace with News API.
+    Uses News API if key is available, otherwise falls back to mock data.
     Get API key from: https://newsapi.org/
     
     Args:
@@ -49,15 +49,17 @@ def get_tech_news(topics: List[str] = None, limit: int = 5) -> Dict[str, Any]:
     metrics.start_timer("tool.get_tech_news")
     
     try:
+        # Use real News API if key is available
         if config.news_api_key:
-            logger.warning("News API key detected but not implemented yet - using mock data")
-        
-        # Mock data (replace with real News API calls)
-        result = {
-            'articles': _generate_mock_articles(topics, limit),
-            'timestamp': datetime.now().isoformat(),
-            'source': 'Mock News Data (replace with News API)'
-        }
+            logger.info("Using News API for real data")
+            result = _fetch_real_news(config.news_api_key, topics, limit)
+        else:
+            logger.warning("No News API key - using mock data")
+            result = {
+                'articles': _generate_mock_articles(topics, limit),
+                'timestamp': datetime.now().isoformat(),
+                'source': 'Mock News Data (add NEWS_API_KEY for real data)'
+            }
         
         duration = metrics.stop_timer("tool.get_tech_news", {"tool": "get_tech_news", "type": "tool"})
         logger.info(
@@ -80,63 +82,32 @@ def get_tech_news(topics: List[str] = None, limit: int = 5) -> Dict[str, Any]:
             duration_ms=duration
         )
         
+        # Return error with fallback to mock data
         return {
-            'error': str(e),
-            'articles': [],
+            'articles': _generate_mock_articles(topics, limit),
             'timestamp': datetime.now().isoformat(),
-            'source': 'News API (failed)'
+            'source': 'Mock News Data (API failed)',
+            'error': str(e)
         }
 
 
-def _generate_mock_articles(topics: List[str], limit: int) -> List[Dict[str, Any]]:
-    """Generate realistic mock news articles"""
+def _fetch_real_news(api_key: str, topics: List[str], limit: int) -> Dict[str, Any]:
+    """
+    Fetch real news from News API
     
-    sources = ["TechCrunch", "The Verge", "Ars Technica", "Wired", "VentureBeat"]
+    Args:
+        api_key: News API key
+        topics: List of search topics
+        limit: Number of articles to return
     
-    sample_titles = [
-        "Major AI breakthrough announced in language understanding",
-        "New machine learning model achieves record performance",
-        "Tech giant releases open-source AI framework",
-        "Artificial intelligence transforming healthcare industry",
-        "Breakthrough in neural network efficiency",
-        "AI safety research sees significant progress",
-        "Machine learning algorithm predicts market trends",
-        "New AI chip promises 10x performance boost",
-        "Researchers develop explainable AI system",
-        "AI-powered tool revolutionizes software development"
-    ]
+    Returns:
+        Dictionary with articles and metadata
+    """
+    import requests
     
-    articles = []
-    for i in range(min(limit, len(sample_titles))):
-        days_ago = random.randint(0, 2)
-        pub_date = datetime.now() - timedelta(days=days_ago, hours=random.randint(0, 23))
-        
-        articles.append({
-            'title': sample_titles[i],
-            'summary': f"This article discusses recent developments in {random.choice(topics)}. "
-                      f"Experts say this could have significant implications for the industry.",
-            'source': random.choice(sources),
-            'url': f"https://example.com/article-{i+1}",
-            'published_at': pub_date.isoformat(),
-            'category': 'technology'
-        })
-    
-    return articles
-
-
-# ============================================================================
-# Production Implementation with News API
-# ============================================================================
-"""
-To implement with real News API:
-
-import requests
-
-def _fetch_real_tech_news(topics: List[str], limit: int, api_key: str) -> List[Dict[str, Any]]:
-    # Build query
+    # Build query from topics
     query = " OR ".join(topics)
     
-    # Call News API
     url = "https://newsapi.org/v2/everything"
     params = {
         'q': query,
@@ -148,19 +119,72 @@ def _fetch_real_tech_news(topics: List[str], limit: int, api_key: str) -> List[D
     
     response = requests.get(url, params=params, timeout=10)
     response.raise_for_status()
+    
     data = response.json()
     
-    # Parse articles
     articles = []
-    for article in data.get('articles', []):
+    for article in data.get('articles', [])[:limit]:
+        # Extract clean summary (description or first 200 chars of content)
+        summary = article.get('description') or ''
+        if not summary and article.get('content'):
+            summary = article.get('content', '')[:200].strip()
+        
         articles.append({
-            'title': article['title'],
-            'summary': article['description'] or article['content'][:200],
-            'source': article['source']['name'],
-            'url': article['url'],
-            'published_at': article['publishedAt'],
+            'title': article.get('title', 'No title'),
+            'summary': summary,
+            'source': article.get('source', {}).get('name', 'Unknown'),
+            'url': article.get('url', '#'),
+            'published_at': article.get('publishedAt', datetime.now().isoformat()),
+            'category': 'technology'
+        })
+    
+    return {
+        'articles': articles,
+        'timestamp': datetime.now().isoformat(),
+        'source': 'News API'
+    }
+
+
+def _generate_mock_articles(topics: List[str], limit: int) -> List[Dict[str, Any]]:
+    """
+    Generate mock news articles for testing
+    
+    Args:
+        topics: List of topics (used for variety)
+        limit: Number of articles to generate
+    
+    Returns:
+        List of mock article dictionaries
+    """
+    sources = ["TechCrunch", "The Verge", "Ars Technica", "VentureBeat", "Wired"]
+    
+    mock_titles = [
+        "Major AI breakthrough announced in language understanding",
+        "New machine learning model achieves record performance",
+        "Tech giant releases open-source AI framework",
+        "Artificial intelligence transforming healthcare industry",
+        "Breakthrough in neural network efficiency",
+        "Quantum computing reaches new milestone",
+        "AI startup raises significant funding round",
+        "Research reveals advances in computer vision"
+    ]
+    
+    articles = []
+    for i in range(min(limit, len(mock_titles))):
+        # Random recent date
+        hours_ago = random.randint(6, 72)
+        pub_date = datetime.now() - timedelta(hours=hours_ago)
+        
+        # Pick topic for this article
+        topic = random.choice(topics) if topics else "technology"
+        
+        articles.append({
+            'title': mock_titles[i],
+            'summary': f"This article discusses recent developments in {topic}. Experts say this could have significant implications for the industry.",
+            'source': random.choice(sources),
+            'url': f"https://example.com/article-{i+1}",
+            'published_at': pub_date.isoformat(),
             'category': 'technology'
         })
     
     return articles
-"""

@@ -19,7 +19,6 @@ from google.adk.sessions import InMemorySessionService
 from google.adk.tools import FunctionTool
 from google.genai import types
 
-from utils.config import get_config
 from utils.logging import setup_logging, setup_tracing, get_logger
 from utils.metrics import MetricsCollector
 from utils.validation import DigestValidator
@@ -30,6 +29,7 @@ from tools.sports_tool import get_sports_scores
 from tools.tech_news_tool import get_tech_news
 from tools.market_tool import get_market_data
 
+from utils.config import get_config
 
 async def generate_digest():
     """
@@ -84,6 +84,8 @@ async def generate_digest():
         # ====================================================================
         logger.info("Creating coordinator agent")
         
+        config = get_config()
+
         coordinator_agent = LlmAgent(
             model=Gemini(
                 model=config.model_name,
@@ -91,7 +93,7 @@ async def generate_digest():
             ),
             name="digest_coordinator",
             description="Coordinates content gathering for Daily Digest",
-            instruction="""
+            instruction=f"""
             You are the Daily Digest coordinator. Your job is to gather current, 
             factual information for today's digest.
             
