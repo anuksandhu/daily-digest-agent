@@ -522,7 +522,6 @@ def _render_sports_card(data: dict) -> str:
     <div class="card">
         <h2 class="card-title">🏈 Sports</h2>
         <div class="card-content">
-            {disclaimer}
             {teams_html if teams_html else '<p>No sports data available</p>'}
         </div>
     </div>
