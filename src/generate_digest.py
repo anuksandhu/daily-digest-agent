@@ -226,30 +226,49 @@ async def generate_digest():
         
         # Handle Python booleans - case insensitive
         # Clean up the response
-        response_text = response_text.strip()  # Remove leading/trailing whitespace
-        response_text = response_text.replace(": False,", ": false,").replace(": True,", ": true,")
-        response_text = response_text.replace(": False}", ": false}").replace(": True}", ": true}")
-        response_text = response_text.replace(":False,", ":false,").replace(":True,", ":true,")
-        response_text = response_text.replace(":False}", ":false}").replace(":True}", ":true}")
+        response_text = response_text.strip()
 
-        logger.debug(f"Raw response: {response_text[:500]}...")
+        logger.debug(f"Raw response (first 500): {response_text[:500]}...")
 
         # Try to extract JSON (agent might wrap it in markdown code blocks)
         json_text = response_text
         if "```json" in response_text:
-            json_text = response_text.split("```json")[1].split("```")[0].strip()
+            # Extract content between ```json and ```
+            parts = response_text.split("```json")
+            if len(parts) > 1:
+                json_text = parts[1].split("```")[0].strip()
         elif "```" in response_text:
-            json_text = response_text.split("```")[1].split("```")[0].strip()
+            # Extract content between ``` and ```
+            parts = response_text.split("```")
+            if len(parts) > 2:
+                json_text = parts[1].strip()
 
         # Additional cleanup
         json_text = json_text.strip()
+
+        # Fix Python booleans to JSON booleans
+        json_text = json_text.replace(": true,", ": true,").replace(": false,", ": false,")
+        json_text = json_text.replace(": true}", ": true}").replace(": false}", ": false}")
+        json_text = json_text.replace(":true,", ":true,").replace(":false,", ":false,")
+        json_text = json_text.replace(":true}", ":true}").replace(":false}", ":false}")
+
+        # Handle escaped characters that break JSON parsing
+        # Replace problematic escape sequences
+        json_text = json_text.replace("\\n", "\\n")  # Keep newlines
+        json_text = json_text.replace("\\t", "\\t")  # Keep tabs
+        # Remove or escape other backslash sequences that aren't valid JSON escapes
+        import re
+        # This regex finds backslashes followed by characters that aren't valid JSON escapes
+        json_text = re.sub(r'\\(?!["\\/bfnrtu])', r'\\\\', json_text)
+
+        logger.debug(f"Cleaned JSON (first 500): {json_text[:500]}...")
 
         try:
             digest_data = json.loads(json_text)
             logger.info("JSON parsed successfully")
         except json.JSONDecodeError as e:
-            logger.error(f"Failed to parse JSON: {str(e)[:200]}")
-            logger.debug(f"Failed JSON text: {json_text[:1000]}")
+            logger.error(f"Failed to parse JSON: {str(e)}")
+            logger.error(f"Failed at position {e.pos}: ...{json_text[max(0,e.pos-50):e.pos+50]}...")
             # If JSON parsing fails, create structure from raw text
             digest_data = {
                 "date": datetime.now().strftime('%Y-%m-%d'),
@@ -257,7 +276,6 @@ async def generate_digest():
                 "sections": [],
                 "raw_response": response_text
             }
-        
         logger.info("Results parsed successfully")
         
         # ====================================================================
