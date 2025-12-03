@@ -1,6 +1,178 @@
 {
   "date": "2025-12-03",
-  "generated_at": "2025-12-03T04:42:39.191560",
-  "sections": [],
-  "raw_response": "{\"date\": \"2025-12-03\", \"generated_at\": \"2025-12-03T04:42:34.621513\", \"sections\": [{\"data\": {\"current\": {\"description\": \"Few clouds\", \"feels_like\": 49.3, \"humidity\": 85, \"icon\": \"02n\", \"temp\": 50.5, \"wind_speed\": 8.1}, \"forecast\": [{\"date\": \"2025-12-03\", \"description\": \"Broken clouds\", \"icon\": \"04n\", \"temp\": 59.6}, {\"date\": \"2025-12-04\", \"description\": \"Overcast clouds\", \"icon\": \"04n\", \"temp\": 62.8}, {\"date\": \"2025-12-05\", \"description\": \"Clear sky\", \"icon\": \"01n\", \"temp\": 64.3}, {\"date\": \"2025-12-06\", \"description\": \"Few clouds\", \"icon\": \"02n\", \"temp\": 66.9}, {\"date\": \"2025-12-07\", \"description\": \"Few clouds\", \"icon\": \"02n\", \"temp\": 64.8}], \"location\": \"San Jose\", \"source\": \"OpenWeather API\", \"timestamp\": \"2025-12-03T04:42:33.732958\"}, \"name\": \"weather\", \"source\": \"OpenWeather API\"}, {\"data\": {\"source\": \"Mock Sports Data (replace with The Sports DB or ESPN API)\", \"teams\": [{\"latest_game\": \"L 18-30 vs Seahawks (2025-12-01)\", \"league\": \"NFL\", \"name\": \"San Francisco 49ers\", \"next_game\": \"vs Seahawks on 2025-12-07\", \"record\": \"15-3\", \"standings\": \"#4 in division\"}, {\"latest_game\": \"L 29-31 vs Canucks (2025-12-02)\", \"league\": \"NHL\", \"name\": \"San Jose Sharks\", \"next_game\": \"vs Canucks on 2025-12-04\", \"record\": \"6-11\", \"standings\": \"#1 in division\"}, {\"latest_game\": \"W 110-88 vs Clippers (2025-12-02)\", \"league\": \"NBA\", \"name\": \"Golden State Warriors\", \"next_game\": \"vs Lakers on 2025-12-04\", \"record\": \"8-6\", \"standings\": \"#5 in division\"}], \"timestamp\": \"2025-12-03T04:42:33.735470\"}, \"name\": \"sports\", \"source\": \"Mock Sports Data (replace with The Sports DB or ESPN API)\"}, {\"data\": {\"articles\": [{\"category\": \"technology\", \"published_at\": \"2025-12-02T04:41:36Z\", \"source\": \"Digitimes\", \"summary\": \"Apple announced that John Giannandrea, its senior vice president of Machine Learning and AI Strategy, will officially retire in spring 2026. He will serve as an advisor during the transition period.\", \"title\": \"Apple AI chief to retire, replaced by ex-Microsoft executive\", \"url\": \"https://www.digitimes.com/news/a20251202PD233/apple-ai-siri-microsoft.html\"}, {\"category\": \"technology\", \"published_at\": \"2025-12-02T04:41:20Z\", \"source\": \"The Times of India\", \"summary\": \"Samsung unveils the Galaxy Z TriFold, a groundbreaking device merging phone, tablet, and desktop capabilities. This innovative gadget boasts a large 10-inch display, offering enhanced multitasking and productivity. Powered by a custom Snapdragon 8 Elite chips\u2026\", \"title\": \"Galaxy Z TriFold: Samsung\u2019s most ambitious foldable yet finally steps into the real world\", \"url\": \"https://economictimes.indiatimes.com/magazines/panache/galaxy-z-trifold-samsungs-most-ambitious-foldable-yet-finally-steps-into-the-real-world/articleshow/125709525.cms\"}, {\"category\": \"technology\", \"published_at\": \"2025-12-02T04:40:33Z\", \"source\": \"Prtimes.jp\", \"summary\": \"[\u682a\u5f0f\u4f1a\u793eXBRAIN]\\n[\u753b\u50cf1: https://prcdn.freetls.fastly.net/release_image/170286/9/170286-9-91f7e96a8d2e0b957b808bd47afe329d-1920x677.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&amp...\", \"title\": \"\u3010\u5175\u5eab\u30fb\u897f\u5bae\u767a\u3011\u6708\u984d980\u5186\u3067\u300cAI\u6559\u80b2\u683c\u5dee\u300d\u306e\u662f\u6b63\u3078\u30022030\u5e7480\u4e07\u4eba\u306e\u4eba\u6750\u4e0d\u8db3\u306b\u6311\u3080\u3001\u5b9f\u8df5\u578bAI\u30b3\u30df\u30e5\u30cb\u30c6\u30a3\u300emirAI\u587e\u300f2026\u5e741\u6708\u958b\u8b1b\", \"url\": \"https://prtimes.jp/main/html/rd/p/000000009.000170286.html\"}, {\"category\": \"technology\", \"published_at\": \"2025-12-02T04:40:00Z\", \"source\": \"DW (English)\", \"summary\": \"Veteran Google and Microsoft engineer Amar Subramany is replacing Apple's AI chief, John Giannandrea, in a shake up of the company's artificial intelligence group. Key points\\n\\n\\nThe head of Apple's AI team, John Giannandrea, is to retire in early 2026\\nApple fa\u2026\", \"title\": \"Apple names new AI chief amid pressure to catch up\", \"url\": \"https://www.dw.com/en/apple-names-new-ai-chief-amid-pressure-to-catch-up/a-74976131\"}, {\"category\": \"technology\", \"published_at\": \"2025-12-02T04:39:59Z\", \"source\": \"Cointelegraph\", \"summary\": \"BitMine buys $70 million in ETH in 3 days, betting big on Ethereum's future. Meanwhile, chairman Tom Lee revises his Bitcoin ATH prediction to January amid a market slump.\", \"title\": \"BitMine buys $70M ETH while Tom Lee revises Bitcoin prediction\", \"url\": \"https://cointelegraph.com/news/bitmine-buys-eth-tom-lee-shifts-bitcoin-all-time-high-prediction-january\"}], \"source\": \"News API\", \"timestamp\": \"2025-12-03T04:42:34.060801\"}, \"name\": \"tech\", \"source\": \"News API\"}, {\"data\": {\"indexes\": [{\"change\": 12.6, \"change_percent\": 0.19, \"is_positive\": True, \"name\": \"S&P 500\", \"symbol\": \"^GSPC\", \"value\": 6815.3}, {\"change\": 183.54, \"change_percent\": 0.78, \"is_positive\": True, \"name\": \"NASDAQ\", \"symbol\": \"^IXIC\", \"value\": 23636}, {\"change\": 194, \"change_percent\": 0.41, \"is_positive\": True, \"name\": \"DOW JONES\", \"symbol\": \"^DJI\", \"value\": 47526}], \"market_summary\": \"Markets rallied across all major indexes on positive sentiment.\", \"source\": \"Alpha Vantage API (via ETF proxies)\", \"timestamp\": \"2025-12-03T04:42:34.335591\"}, \"name\": \"market\", \"source\": \"Alpha Vantage API (via ETF proxies)\"}]}"
+  "generated_at": "2025-12-03T05:18:14.929129",
+  "sections": [
+    {
+      "name": "weather",
+      "data": {
+        "current": {
+          "description": "Clear sky",
+          "feels_like": 48.2,
+          "humidity": 86,
+          "icon": "01n",
+          "temp": 49.8,
+          "wind_speed": 4.6
+        },
+        "forecast": [
+          {
+            "date": "2025-12-03",
+            "description": "Scattered clouds",
+            "icon": "03n",
+            "temp": 59.6
+          },
+          {
+            "date": "2025-12-04",
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 62.8
+          },
+          {
+            "date": "2025-12-05",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 64.3
+          },
+          {
+            "date": "2025-12-06",
+            "description": "Few clouds",
+            "icon": "02n",
+            "temp": 66.9
+          },
+          {
+            "date": "2025-12-07",
+            "description": "Few clouds",
+            "icon": "02n",
+            "temp": 64.8
+          }
+        ],
+        "location": "San Jose",
+        "source": "OpenWeather API",
+        "timestamp": "2025-12-03T05:18:14.054965"
+      },
+      "timestamp": "2025-12-03T05:18:14.054965",
+      "source": "OpenWeather API"
+    },
+    {
+      "name": "sports",
+      "data": {
+        "source": "Mock Sports Data (replace with The Sports DB or ESPN API)",
+        "teams": [
+          {
+            "latest_game": "L 18-24 vs Cowboys (2025-12-01)",
+            "league": "NFL",
+            "name": "San Francisco 49ers",
+            "next_game": "vs Cowboys on 2025-12-04",
+            "record": "15-9",
+            "standings": "#7 in division"
+          },
+          {
+            "latest_game": "W 34-14 vs Canucks (2025-12-02)",
+            "league": "NHL",
+            "name": "San Jose Sharks",
+            "next_game": "vs Avalanche on 2025-12-06",
+            "record": "6-10",
+            "standings": "#3 in division"
+          },
+          {
+            "latest_game": "W 106-103 vs Blazers (2025-12-02)",
+            "league": "NBA",
+            "name": "Golden State Warriors",
+            "next_game": "vs Suns on 2025-12-06",
+            "record": "8-9",
+            "standings": "#5 in division"
+          }
+        ],
+        "timestamp": "2025-12-03T05:18:14.057890"
+      },
+      "timestamp": "2025-12-03T05:18:14.057890",
+      "source": "Mock Sports Data (replace with The Sports DB or ESPN API)"
+    },
+    {
+      "name": "tech",
+      "data": {
+        "articles": [
+          {
+            "category": "technology",
+            "published_at": "2025-12-02T05:17:34Z",
+            "source": "BusinessLine",
+            "summary": "IT services company Wipro\\'s $375-million acquisition of HARMAN\\'s Digital Transformation Solutions (DTS) business unit has been completed following regulatory nods, according to a release on Tuesday.",
+            "title": "Wipro completes $375 million acquisition of Harman\u2019s DTS unit",
+            "url": "https://www.thehindubusinessline.com/companies/wipro-completes-375-million-acquisition-of-harmans-dts-unit/article70348079.ece"
+          },
+          {
+            "category": "technology",
+            "published_at": "2025-12-02T05:17:25Z",
+            "source": "The Times of India",
+            "summary": "Proprietary trading firms are offering lucrative packages exceeding Rs 2.8 crore to IIT students for Amsterdam-based roles. Top IITs saw strong campus placements on Day 1, with recruiters like Amazon, Qualcomm, and Nvidia offering substantial compensation. Al\u2026",
+            "title": "Trading, investment platforms line up at IITs, with many pay cheques over Rs 2.5 crore",
+            "url": "https://economictimes.indiatimes.com/jobs/fresher/trading-investment-platforms-line-up-at-iits-with-many-pay-cheques-over-rs-2-5-crore/articleshow/125710051.cms"
+          },
+          {
+            "category": "technology",
+            "published_at": "2025-12-02T05:16:39Z",
+            "source": "New Zealand Herald",
+            "summary": "The S&P/NZX 50 Index closed at 13,502.77, up 54.28 points or 0.4%.",
+            "title": "NZ sharemarket up despite crypto concerns - Market close",
+            "url": "https://www.nzherald.co.nz/business/markets/shares/nz-sharemarket-up-despite-crypto-concerns-market-close/premium/5YKPHWQUSJEDVCNGN7USMXVHO4/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2025-12-02T05:13:00Z",
+            "source": "Slashdot.org",
+            "summary": "At an event in Seoul on Tuesday, Samsung unveiled the Galaxy Z TriFold, a dual-hinged smartphone that unfolds into a 10-inch tablet (source paywalled; alternative source). It launches on Dec. 12 in Korea for about $2,450. It plans to sell the phone in the US,\u2026",
+            "title": "Samsung Debuts Its First Trifold Phone",
+            "url": "https://mobile.slashdot.org/story/25/12/02/0511211/samsung-debuts-its-first-trifold-phone"
+          },
+          {
+            "category": "technology",
+            "published_at": "2025-12-02T05:10:46Z",
+            "source": "Al Jazeera English",
+            "summary": "PM Modi said he wants those who can\\'t afford shoes to be able to fly. But shrinking competition is killing that hope.",
+            "title": "India\u2019s sky-high fares crash dreams to make flying accessible to all",
+            "url": "https://www.aljazeera.com/features/2025/12/2/indias-sky-high-fares-crash-dreams-to-make-flying-accessible-to-all"
+          }
+        ],
+        "source": "News API",
+        "timestamp": "2025-12-03T05:18:14.422395"
+      },
+      "timestamp": "2025-12-03T05:18:14.422395",
+      "source": "News API"
+    },
+    {
+      "name": "market",
+      "data": {
+        "indexes": [
+          {
+            "change": 12.6,
+            "change_percent": 0.19,
+            "is_positive": true,
+            "name": "S&P 500",
+            "symbol": "^GSPC",
+            "value": 6815.3
+          },
+          {
+            "change": 183.54,
+            "change_percent": 0.78,
+            "is_positive": true,
+            "name": "NASDAQ",
+            "symbol": "^IXIC",
+            "value": 23636
+          },
+          {
+            "change": 194,
+            "change_percent": 0.41,
+            "is_positive": true,
+            "name": "DOW JONES",
+            "symbol": "^DJI",
+            "value": 47526
+          }
+        ],
+        "market_summary": "Markets rallied across all major indexes on positive sentiment.",
+        "source": "Alpha Vantage API (via ETF proxies)",
+        "timestamp": "2025-12-03T05:18:14.927962"
+      },
+      "timestamp": "2025-12-03T05:18:14.927962",
+      "source": "Alpha Vantage API (via ETF proxies)"
+    }
+  ]
 }
