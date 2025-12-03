@@ -18,23 +18,24 @@ metrics = get_metrics()
 
 def get_tech_news(topics: List[str] = None, limit: int = 5) -> Dict[str, Any]:
     """
-    Fetches recent technology news articles.
-    
-    Uses News API if key is available, otherwise falls back to mock data.
-    Get API key from: https://newsapi.org/
-    
+    Fetches recent technology news articles from premium tech sources via RSS feeds.
+
+    Uses RSS feeds from TechCrunch, The Verge, Ars Technica, Wired, 
+    MIT Technology Review, and VentureBeat. No API key required.
+
     Args:
         topics: Keywords for filtering (e.g., ["AI", "machine learning"])
+                Articles are filtered to match at least one topic.
                 If not provided, uses default topics from config.
         limit: Number of articles to return (default: 5)
-    
+
     Returns:
         Dictionary containing:
         - articles: List of articles (title, summary, source, url, published_at)
         - timestamp: ISO format timestamp
-        - source: Data source
+        - source: Data source (RSS Feeds)
         - error: Error message if failed
-    
+
     Example:
         >>> news = get_tech_news(["AI", "ChatGPT"], limit=3)
         >>> print(news['articles'][0]['title'])
@@ -70,6 +71,30 @@ def get_tech_news(topics: List[str] = None, limit: int = 5) -> Dict[str, Any]:
         )
         
         return result
+    
+    def get_tech_news(topics: List[str] = None, limit: int = 5) -> Dict[str, Any]:
+    config = get_config()
+    
+    if topics is None:
+        topics = config.tech_topics
+    
+    logger.info("Fetching tech news", topics=topics, limit=limit)
+    metrics.start_timer("tool.get_tech_news")
+    
+    try:
+        # Always use RSS feeds (free, reliable, premium sources)
+        logger.info("Using RSS feeds for real data")
+        result = _fetch_real_news(None, topics, limit)  # api_key not needed
+        
+        duration = metrics.stop_timer("tool.get_tech_news", {"tool": "get_tech_news", "type": "tool"})
+        logger.info(
+            "Tech news fetched successfully",
+            topics=topics,
+            article_count=len(result['articles']),
+            duration_ms=duration
+        )
+        
+        return result
         
     except Exception as e:
         duration = metrics.stop_timer("tool.get_tech_news", {"tool": "get_tech_news", "type": "tool"})
@@ -93,91 +118,78 @@ def get_tech_news(topics: List[str] = None, limit: int = 5) -> Dict[str, Any]:
 
 def _fetch_real_news(api_key: str, topics: List[str], limit: int) -> Dict[str, Any]:
     """
-    Fetch real news from News API with quality filtering
+    Fetch real news from RSS feeds of premium tech sources
     
     Args:
-        api_key: News API key
-        topics: List of search topics
+        api_key: Not used for RSS (kept for compatibility)
+        topics: Used for filtering articles
         limit: Number of articles to return
     
     Returns:
         Dictionary with articles and metadata
     """
-    import requests
+    import feedparser
+    from datetime import datetime, timedelta
     
-    # Build query from topics
-    query = " OR ".join(topics)
-    
-    url = "https://newsapi.org/v2/everything"
-    params = {
-        'q': query,
-        'language': 'en',
-        'sortBy': 'publishedAt',
-        'pageSize': limit * 3,  # Get 3x articles for filtering
-        'apiKey': api_key
+    # Premium tech news RSS feeds
+    rss_feeds = {
+        'TechCrunch': 'https://techcrunch.com/feed/',
+        'The Verge': 'https://www.theverge.com/rss/index.xml',
+        'Ars Technica': 'https://feeds.arstechnica.com/arstechnica/index',
+        'Wired': 'https://www.wired.com/feed/rss',
+        'MIT Technology Review': 'https://www.technologyreview.com/feed/',
+        'VentureBeat': 'https://venturebeat.com/feed/'
     }
     
-    response = requests.get(url, params=params, timeout=10)
-    response.raise_for_status()
-    
-    data = response.json()
-    logger.info(f"Available sources from API: {[article.get('source', {}).get('name') for article in data.get('articles', [])[:10]]}")
-    
-    # High-quality tech news sources (whitelist)
-    allowed_sources = [
-        'TechCrunch',
-        'MIT Technology Review', 
-        'The Verge',
-        'Ars Technica',
-        'Wired',
-        'VentureBeat'
-    ]
-    
     articles = []
-    for article in data.get('articles', []):
-        source_name = article.get('source', {}).get('name', 'Unknown')
-        
-        # Skip if not from allowed sources
-        if source_name not in allowed_sources:
+    topics_lower = [t.lower() for t in topics]
+    
+    for source_name, feed_url in rss_feeds.items():
+        try:
+            feed = feedparser.parse(feed_url)
+            
+            for entry in feed.entries[:10]:  # Check first 10 from each source
+                # Check if article is relevant to topics
+                title = entry.get('title', '')
+                summary = entry.get('summary', entry.get('description', ''))
+                
+                # Simple topic matching
+                text_to_check = (title + ' ' + summary).lower()
+                is_relevant = any(topic in text_to_check for topic in topics_lower)
+                
+                if not is_relevant:
+                    continue
+                
+                # Get publish date
+                published = entry.get('published_parsed') or entry.get('updated_parsed')
+                if published:
+                    pub_date = datetime(*published[:6]).isoformat() + 'Z'
+                else:
+                    pub_date = datetime.now().isoformat() + 'Z'
+                
+                articles.append({
+                    'title': title,
+                    'summary': summary[:200] if summary else '',
+                    'source': source_name,
+                    'url': entry.get('link', '#'),
+                    'published_at': pub_date,
+                    'category': 'technology'
+                })
+                
+                if len(articles) >= limit:
+                    break
+            
+            if len(articles) >= limit:
+                break
+                
+        except Exception as e:
+            logger.warning(f"Failed to fetch RSS from {source_name}: {e}")
             continue
-        
-        title = article.get('title', 'No title')
-        
-        # Skip if title is too short (likely package releases)
-        if len(title) < 20:
-            continue
-        
-        # Skip if title looks like a version number (e.g., "veriskgo 22.0.4")
-        first_word = title.split()[0] if title.split() else ''
-        if any(char.isdigit() for char in first_word) and '.' in title[:20]:
-            continue
-        
-        # Skip if title is "[Removed]" (deleted articles)
-        if '[Removed]' in title or title.startswith('Removed'):
-            continue
-        
-        # Extract clean summary
-        summary = article.get('description') or ''
-        if not summary and article.get('content'):
-            summary = article.get('content', '')[:200].strip()
-        
-        articles.append({
-            'title': title,
-            'summary': summary,
-            'source': source_name,
-            'url': article.get('url', '#'),
-            'published_at': article.get('publishedAt', datetime.now().isoformat()),
-            'category': 'technology'
-        })
-        
-        # Stop when we have enough quality articles
-        if len(articles) >= limit:
-            break
     
     return {
         'articles': articles,
         'timestamp': datetime.now().isoformat(),
-        'source': 'News API'
+        'source': 'RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)'
     }
 
 def _generate_mock_articles(topics: List[str], limit: int) -> List[Dict[str, Any]]:
