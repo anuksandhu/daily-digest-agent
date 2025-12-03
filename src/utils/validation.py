@@ -21,7 +21,8 @@ TRUSTED_SOURCES = {
         "Official team websites",
         "NBA.com",
         "NFL.com",
-        "NHL.com"
+        "NHL.com",
+        "Mock Sports Data" 
     ],
     "tech": [
         "TechCrunch",
@@ -30,14 +31,16 @@ TRUSTED_SOURCES = {
         "Wired",
         "MIT Technology Review",
         "VentureBeat",
-        "News API"
+        "News API",
+        "RSS Feeds"
     ],
     "market": [
         "Alpha Vantage",
         "Yahoo Finance",
         "Bloomberg",
         "Reuters",
-        "MarketWatch"
+        "MarketWatch",
+        "Alpha Vantage API"
     ]
 }
 
