@@ -122,17 +122,25 @@ def _fetch_real_news(api_key: str, topics: List[str], limit: int) -> Dict[str, A
     
     data = response.json()
     
-    # Low-quality sources to filter out
-    blocked_sources = ['Pypi.org', 'Github.com', 'Removed.com']
+    # High-quality tech news sources (whitelist)
+    allowed_sources = [
+        'TechCrunch',
+        'MIT Technology Review', 
+        'The Verge',
+        'Ars Technica',
+        'Wired',
+        'VentureBeat'
+    ]
     
     articles = []
     for article in data.get('articles', []):
         source_name = article.get('source', {}).get('name', 'Unknown')
-        title = article.get('title', 'No title')
         
-        # Skip blocked sources
-        if source_name in blocked_sources:
+        # Skip if not from allowed sources
+        if source_name not in allowed_sources:
             continue
+        
+        title = article.get('title', 'No title')
         
         # Skip if title is too short (likely package releases)
         if len(title) < 20:
