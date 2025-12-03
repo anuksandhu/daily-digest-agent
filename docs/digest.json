@@ -1,24 +1,24 @@
 {
   "date": "2025-12-03",
-  "generated_at": "2025-12-03T17:26:25.316060",
+  "generated_at": "2025-12-03T18:12:17.123456",
   "sections": [
     {
       "name": "weather",
       "data": {
         "current": {
           "description": "Broken clouds",
-          "feels_like": 52.4,
-          "humidity": 53,
+          "feels_like": 54.1,
+          "humidity": 48,
           "icon": "04d",
-          "temp": 54.8,
-          "wind_speed": 9.2
+          "temp": 56.5,
+          "wind_speed": 12.7
         },
         "forecast": [
           {
             "date": "2025-12-03",
             "description": "Broken clouds",
             "icon": "04d",
-            "temp": 56.2
+            "temp": 57.3
           },
           {
             "date": "2025-12-04",
@@ -47,9 +47,9 @@
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2025-12-03T17:26:22.860948"
+        "timestamp": "2025-12-03T18:12:13.880930"
       },
-      "timestamp": "2025-12-03T17:26:22.860948",
+      "timestamp": "2025-12-03T18:12:13.880930",
       "source": "OpenWeather API"
     },
     {
@@ -61,7 +61,7 @@
             "latest_game": "W 20-9 vs Panthers (2025-11-25)",
             "league": "NFL",
             "name": "San Francisco 49ers",
-            "next_game": "Schedule unavailable",
+            "next_game": "vs Titans on 2025-12-14",
             "record": "1-0",
             "standings": "N/A"
           },
@@ -69,7 +69,7 @@
             "latest_game": "W 6-3 vs Mammoth (2025-12-02)",
             "league": "NHL",
             "name": "San Jose Sharks",
-            "next_game": "Schedule unavailable",
+            "next_game": "vs Capitals on 2025-12-04",
             "record": "1-0",
             "standings": "N/A"
           },
@@ -77,14 +77,14 @@
             "latest_game": "W 104-96 vs Pelicans (2025-11-30)",
             "league": "NBA",
             "name": "Golden State Warriors",
-            "next_game": "Schedule unavailable",
+            "next_game": "vs Thunder on 2025-12-03",
             "record": "1-0",
             "standings": "N/A"
           }
         ],
-        "timestamp": "2025-12-03T17:26:24.493258"
+        "timestamp": "2025-12-03T18:12:15.523954"
       },
-      "timestamp": "2025-12-03T17:26:24.493258",
+      "timestamp": "2025-12-03T18:12:15.523954",
       "source": "The Sports DB API"
     },
     {
@@ -101,41 +101,41 @@
           },
           {
             "category": "technology",
-            "published_at": "2025-12-03T16:15:00Z",
-            "source": "TechCrunch",
-            "summary": "Bending Spoons remains largely unknown, even as its portfolio of products has served more than a billion people.",
-            "title": "What is Bending Spoons? Everything to know about Eventbrite\u2019s acquirer",
-            "url": "https://techcrunch.com/2025/12/03/what-is-bending-spoons-everything-to-know-about-aols-acquirer/"
+            "published_at": "2025-12-03T17:47:45Z",
+            "source": "The Verge",
+            "summary": "Elon Musk envisions Grokipedia - xAI\\'s AI-generated, anti-woke spin on Wikipedia - as a definitive monument to human knowledge, something complete and truthful enough to etch in stone and preserve in ",
+            "title": "Anyone can try to edit Grokipedia 0.2 but Grok is running the show",
+            "url": "https://www.theverge.com/report/837431/grokipedia-update-editing-mess"
           },
           {
             "category": "technology",
-            "published_at": "2025-12-03T16:06:35Z",
-            "source": "TechCrunch",
-            "summary": "Republicans\u2019 attempt to ban state AI regulations was removed from the defense bill after bipartisan opposition, underscoring tensions between tech-industry demands, consumer protection concerns, and T",
-            "title": "Another bid to block state AI regulation has failed\u2026 for now",
-            "url": "https://techcrunch.com/2025/12/03/another-bid-to-block-state-ai-regulation-has-failedfor-now/"
+            "published_at": "2025-12-03T17:04:50Z",
+            "source": "Ars Technica",
+            "summary": "The sequel to 2019\\'s delightful horror comedy hits theaters next spring.",
+            "title": "Samara Weaving levels up in Ready or Not 2: Here I Come trailer",
+            "url": "https://arstechnica.com/culture/2025/12/samara-weaving-levels-up-in-ready-or-not-2-here-i-come-trailer/"
           },
           {
             "category": "technology",
-            "published_at": "2025-12-03T16:00:00Z",
-            "source": "TechCrunch",
-            "summary": "The Google Photos Recap will use Gemini\\'s AI to find your memorable moments throughout the year, and adds new metrics, like a \\'selfie\\' count.",
-            "title": "Google Photos\u2019 2025 Recap turns to Gemini to find your highlights",
-            "url": "https://techcrunch.com/2025/12/03/google-photos-2025-recap-turns-to-gemini-to-find-your-highlights/"
+            "published_at": "2025-12-03T13:00:00Z",
+            "source": "Wired",
+            "summary": "AI-powered startup Fortell has become a secret handshake for the privileged hearing-impaired crowd who swear by the product. Now, it wants to be in your ears.",
+            "title": "Want a Fortell Hearing Aid? Well, Who Do You Know?",
+            "url": "https://www.wired.com/story/hearing-aid-startup-ai-fortell/"
           },
           {
             "category": "technology",
-            "published_at": "2025-12-03T15:54:58Z",
-            "source": "TechCrunch",
-            "summary": "Amazon says you can describe the scene to Alexa by mentioning details like the actor or character\\'s name, or a memorable quote.",
-            "title": "Amazon Fire TV\u2019s new AI feature lets you jump to scenes by describing them to Alexa+",
-            "url": "https://techcrunch.com/2025/12/03/amazon-fire-tvs-new-ai-feature-lets-you-jump-to-scenes-by-describing-them-to-alexa/"
+            "published_at": "2025-12-03T13:10:00Z",
+            "source": "MIT Technology Review",
+            "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Everything you need to know about AI and coding AI",
+            "title": "The Download: AI and coding, and Waymo\u2019s aggressive driverless cars",
+            "url": "https://www.technologyreview.com/2025/12/03/1128724/the-download-ai-and-coding-and-waymos-aggressive-driverless-cars/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2025-12-03T17:26:24.786051"
+        "timestamp": "2025-12-03T18:12:16.287759"
       },
-      "timestamp": "2025-12-03T17:26:24.786051",
+      "timestamp": "2025-12-03T18:12:16.287759",
       "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
@@ -169,9 +169,9 @@
         ],
         "market_summary": "Markets rallied across all major indexes on positive sentiment.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2025-12-03T17:26:25.316060"
+        "timestamp": "2025-12-03T18:12:16.775896"
       },
-      "timestamp": "2025-12-03T17:26:25.316060",
+      "timestamp": "2025-12-03T18:12:16.775896",
       "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
