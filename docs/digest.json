@@ -1,23 +1,22 @@
 {
   "date": "2025-12-03",
-  "generated_at": "2025-12-03T05:41:59.326415",
+  "generated_at": "2025-12-03T06:01:49.855049",
   "sections": [
     {
-      "name": "weather",
       "data": {
         "current": {
           "description": "Few clouds",
-          "feels_like": 48.8,
+          "feels_like": 48.3,
           "humidity": 86,
           "icon": "02n",
-          "temp": 49.6,
+          "temp": 49.1,
           "wind_speed": 3.4
         },
         "forecast": [
           {
             "date": "2025-12-03",
-            "description": "Broken clouds",
-            "icon": "04n",
+            "description": "Scattered clouds",
+            "icon": "03n",
             "temp": 59.6
           },
           {
@@ -47,58 +46,58 @@
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2025-12-03T05:41:58.469550"
+        "timestamp": "2025-12-03T06:01:48.662509"
       },
-      "timestamp": "2025-12-03T05:41:58.469550",
-      "source": "OpenWeather API"
+      "name": "weather",
+      "source": "OpenWeather API",
+      "timestamp": "2025-12-03T06:01:48.662509"
     },
     {
-      "name": "sports",
       "data": {
         "source": "Mock Sports Data (replace with The Sports DB or ESPN API)",
         "teams": [
           {
-            "latest_game": "W 29-15 vs Packers (2025-11-30)",
+            "latest_game": "L 27-29 vs Rams (2025-12-02)",
             "league": "NFL",
             "name": "San Francisco 49ers",
-            "next_game": "vs Cardinals on 2025-12-05",
-            "record": "12-7",
-            "standings": "#3 in division"
+            "next_game": "vs Cowboys on 2025-12-04",
+            "record": "11-11",
+            "standings": "#6 in division"
           },
           {
-            "latest_game": "L 18-26 vs Golden Knights (2025-12-01)",
+            "latest_game": "W 32-17 vs Ducks (2025-12-02)",
             "league": "NHL",
             "name": "San Jose Sharks",
-            "next_game": "vs Ducks on 2025-12-04",
-            "record": "8-7",
-            "standings": "#1 in division"
+            "next_game": "vs Avalanche on 2025-12-04",
+            "record": "7-9",
+            "standings": "#2 in division"
           },
           {
-            "latest_game": "L 94-103 vs Suns (2025-12-02)",
+            "latest_game": "W 120-96 vs Lakers (2025-11-30)",
             "league": "NBA",
             "name": "Golden State Warriors",
-            "next_game": "vs Blazers on 2025-12-08",
-            "record": "11-6",
-            "standings": "#5 in division"
+            "next_game": "vs Clippers on 2025-12-04",
+            "record": "15-4",
+            "standings": "#6 in division"
           }
         ],
-        "timestamp": "2025-12-03T05:41:58.472273"
+        "timestamp": "2025-12-03T06:01:48.664729"
       },
-      "timestamp": "2025-12-03T05:41:58.472273",
-      "source": "Mock Sports Data (replace with The Sports DB or ESPN API)"
+      "name": "sports",
+      "source": "Mock Sports Data (replace with The Sports DB or ESPN API)",
+      "timestamp": "2025-12-03T06:01:48.664729"
     },
     {
-      "name": "tech",
       "data": {
         "articles": [],
         "source": "News API",
-        "timestamp": "2025-12-03T05:41:58.841189"
+        "timestamp": "2025-12-03T06:01:49.030968"
       },
-      "timestamp": "2025-12-03T05:41:58.841189",
-      "source": "News API"
+      "name": "tech",
+      "source": "News API",
+      "timestamp": "2025-12-03T06:01:49.030968"
     },
     {
-      "name": "market",
       "data": {
         "indexes": [
           {
@@ -128,10 +127,11 @@
         ],
         "market_summary": "Markets rallied across all major indexes on positive sentiment.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2025-12-03T05:41:59.325961"
+        "timestamp": "2025-12-03T06:01:49.351967"
       },
-      "timestamp": "2025-12-03T05:41:59.325961",
-      "source": "Alpha Vantage API (via ETF proxies)"
+      "name": "market",
+      "source": "Alpha Vantage API (via ETF proxies)",
+      "timestamp": "2025-12-03T06:01:49.351967"
     }
   ]
 }
