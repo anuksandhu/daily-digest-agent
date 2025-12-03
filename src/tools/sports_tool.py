@@ -20,10 +20,8 @@ def get_sports_scores(teams: List[str] = None) -> Dict[str, Any]:
     """
     Fetches recent scores and upcoming games for specified teams.
     
-    NOTE: This is a mock implementation. In production, replace with:
-    - The Sports DB API (https://www.thesportsdb.com/)
-    - ESPN API
-    - Official team APIs
+    Uses The Sports DB API if key is available, otherwise falls back to mock data.
+    Get free API key from: https://www.thesportsdb.com/api.php
     
     Args:
         teams: List of team names (e.g., ["49ers", "Sharks", "Warriors"])
@@ -45,32 +43,23 @@ def get_sports_scores(teams: List[str] = None) -> Dict[str, Any]:
     
     # Use provided teams or defaults
     if teams is None:
-        teams_config = config.sports_teams
-        teams = [
-            teams_config.get("nfl", "49ers"),
-            teams_config.get("nhl", "Sharks"),
-            teams_config.get("nba", "Warriors")
-        ]
+        teams = config.sports_teams
     
     logger.info("Fetching sports scores", teams=teams)
     metrics.start_timer("tool.get_sports_scores")
     
     try:
-        # Check if real API key is available
+        # Use real Sports DB API if key is available
         if config.sports_api_key:
-            logger.warning("Sports API key detected but not implemented yet - using mock data")
-        
-        # Mock data (replace with real API calls)
-        result = {
-            'teams': [],
-            'timestamp': datetime.now().isoformat(),
-            'source': 'Mock Sports Data (replace with The Sports DB or ESPN API)'
-        }
-        
-        # Generate realistic mock data for each team
-        for team_name in teams:
-            team_data = _generate_mock_team_data(team_name)
-            result['teams'].append(team_data)
+            logger.info("Using The Sports DB API for real data")
+            result = _fetch_real_sports_data(config.sports_api_key, teams)
+        else:
+            logger.warning("No Sports API key - using mock data")
+            result = {
+                'teams': _generate_mock_teams(teams),
+                'timestamp': datetime.now().isoformat(),
+                'source': 'Mock Sports Data (add SPORTS_API_KEY for real data)'
+            }
         
         duration = metrics.stop_timer("tool.get_sports_scores", {"tool": "get_sports_scores", "type": "tool"})
         logger.info(
@@ -92,12 +81,126 @@ def get_sports_scores(teams: List[str] = None) -> Dict[str, Any]:
             duration_ms=duration
         )
         
+        # Return mock data on error
         return {
-            'error': str(e),
-            'teams': teams,
+            'teams': _generate_mock_teams(teams),
             'timestamp': datetime.now().isoformat(),
-            'source': 'Sports API (failed)'
+            'source': 'Mock Sports Data (API failed)',
+            'error': str(e)
         }
+
+
+def _fetch_real_sports_data(api_key: str, team_names: List[str]) -> Dict[str, Any]:
+    """
+    Fetch real sports data from The Sports DB API
+    
+    Args:
+        api_key: The Sports DB API key
+        team_names: List of team nicknames (e.g., ["49ers", "Warriors"])
+    
+    Returns:
+        Dictionary with teams data
+    """
+    import requests
+    
+    # Team name mapping for API searches
+    full_names = {
+        '49ers': 'San Francisco 49ers',
+        'Sharks': 'San Jose Sharks',
+        'Warriors': 'Golden State Warriors'
+    }
+    
+    teams_data = []
+    
+    for nickname in team_names:
+        full_name = full_names.get(nickname, nickname)
+        
+        try:
+            # Search for team by name
+            search_url = f"https://www.thesportsdb.com/api/v1/json/{api_key}/searchteams.php"
+            search_params = {'t': full_name}
+            
+            response = requests.get(search_url, params=search_params, timeout=10)
+            response.raise_for_status()
+            data = response.json()
+            
+            teams = data.get('teams', [])
+            if not teams:
+                logger.warning(f"No team found for {full_name}")
+                continue
+            
+            team = teams[0]
+            team_id = team.get('idTeam')
+            league = team.get('strLeague', 'Unknown')
+            
+            # Get last 5 events for this team
+            events_url = f"https://www.thesportsdb.com/api/v1/json/{api_key}/eventslast.php"
+            events_params = {'id': team_id}
+            
+            events_response = requests.get(events_url, params=events_params, timeout=10)
+            events_response.raise_for_status()
+            events_data = events_response.json()
+            
+            events = events_data.get('results', [])
+            
+            # Find most recent completed game
+            latest_game = "No recent games"
+            if events:
+                last_event = events[0]
+                home_team = last_event.get('strHomeTeam', '')
+                away_team = last_event.get('strAwayTeam', '')
+                home_score = last_event.get('intHomeScore', '0')
+                away_score = last_event.get('intAwayScore', '0')
+                event_date = last_event.get('dateEvent', '')
+                
+                # Determine if won or lost
+                is_home = full_name in home_team
+                team_score = int(home_score) if is_home else int(away_score)
+                opp_score = int(away_score) if is_home else int(home_score)
+                opponent = away_team if is_home else home_team
+                result = "W" if team_score > opp_score else "L"
+                
+                latest_game = f"{result} {team_score}-{opp_score} vs {opponent.split()[-1]} ({event_date})"
+            
+            # Get next event (The Sports DB free tier may not have this)
+            next_game = "Schedule unavailable"
+            
+            # Calculate record from last 5 games (approximate)
+            wins = sum(1 for e in events[:5] if _is_win(e, full_name))
+            losses = len(events[:5]) - wins
+            record = f"{wins}-{losses}"
+            
+            teams_data.append({
+                'name': full_name,
+                'league': league,
+                'record': record,
+                'latest_game': latest_game,
+                'next_game': next_game,
+                'standings': 'N/A'  # Free tier doesn't provide standings
+            })
+            
+        except Exception as e:
+            logger.warning(f"Failed to fetch data for {nickname}: {e}")
+            continue
+    
+    return {
+        'teams': teams_data,
+        'timestamp': datetime.now().isoformat(),
+        'source': 'The Sports DB API'
+    }
+
+
+def _is_win(event: dict, team_name: str) -> bool:
+    """Check if event was a win for the team"""
+    home_team = event.get('strHomeTeam', '')
+    home_score = int(event.get('intHomeScore', 0))
+    away_score = int(event.get('intAwayScore', 0))
+    
+    is_home = team_name in home_team
+    team_score = home_score if is_home else away_score
+    opp_score = away_score if is_home else home_score
+    
+    return team_score > opp_score
 
 
 def _generate_mock_team_data(team_name: str) -> Dict[str, Any]:

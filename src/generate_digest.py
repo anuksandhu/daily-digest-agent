@@ -499,13 +499,13 @@ def _render_sports_card(data: dict) -> str:
     source = data.get('source', '')
     
     # Check if using mock data
-    is_mock = 'Mock' in source
-    disclaimer = """
-    <div style="background: #fff3cd; border-left: 4px solid #ffc107; padding: 12px; margin-bottom: 16px; border-radius: 4px;">
-        <strong>⚠️ Sample Data</strong><br>
-        <span style="font-size: 0.9em; color: #856404;">This is sample data for demonstration. Enable Sports API for real scores.</span>
-    </div>
-    """ if is_mock else ''
+    # is_mock = 'Mock' in source
+    # disclaimer = """
+    # <div style="background: #fff3cd; border-left: 4px solid #ffc107; padding: 12px; margin-bottom: 16px; border-radius: 4px;">
+    #     <strong>⚠️ Sample Data</strong><br>
+    #     <span style="font-size: 0.9em; color: #856404;">This is sample data for demonstration. Enable Sports API for real scores.</span>
+    # </div>
+    # """ if is_mock else ''
     
     teams_html = ""
     for team in teams:
