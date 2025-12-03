@@ -1,6 +1,178 @@
 {
   "date": "2025-12-03",
-  "generated_at": "2025-12-03T18:58:51.190572",
-  "sections": [],
-  "raw_response": "{\"date\": \"2025-12-03\", \"generated_at\": \"2025-12-03T18:58:45.999999\", \"sections\": [{\"name\": \"weather\", \"data\": {\"current\": {\"description\": \"Broken clouds\", \"feels_like\": 55.5, \"humidity\": 47, \"icon\": \"04d\", \"temp\": 57.8, \"wind_speed\": 12.7}, \"forecast\": [{\"date\": \"2025-12-03\", \"description\": \"Broken clouds\", \"icon\": \"04d\", \"temp\": 58.5}, {\"date\": \"2025-12-04\", \"description\": \"Overcast clouds\", \"icon\": \"04n\", \"temp\": 62.9}, {\"date\": \"2025-12-05\", \"description\": \"Clear sky\", \"icon\": \"01n\", \"temp\": 63.8}, {\"date\": \"2025-12-06\", \"description\": \"Clear sky\", \"icon\": \"01n\", \"temp\": 65.5}, {\"date\": \"2025-12-07\", \"description\": \"Scattered clouds\", \"icon\": \"03n\", \"temp\": 65.5}], \"location\": \"San Jose\", \"source\": \"OpenWeather API\", \"timestamp\": \"2025-12-03T18:58:32.138504\"}, \"timestamp\": \"2025-12-03T18:58:32.138504\", \"source\": \"OpenWeather API\"}, {\"name\": \"sports\", \"data\": {\"teams\": [{\"latest_game\": \"W 20-9 vs Panthers (2025-11-25)\", \"league\": \"NFL\", \"name\": \"San Francisco 49ers\", \"next_game\": \"vs Titans on 2025-12-14\", \"record\": \"Season in progress\", \"standings\": \"N/A\"}, {\"latest_game\": \"W 6-3 vs Mammoth (2025-12-02)\", \"league\": \"NHL\", \"name\": \"San Jose Sharks\", \"next_game\": \"vs Capitals on 2025-12-04\", \"record\": \"Season in progress\", \"standings\": \"N/A\"}, {\"latest_game\": \"W 104-96 vs Pelicans (2025-11-30)\", \"league\": \"NBA\", \"name\": \"Golden State Warriors\", \"next_game\": \"vs Thunder on 2025-12-03\", \"record\": \"Season in progress\", \"standings\": \"N/A\"}], \"timestamp\": \"2025-12-03T18:58:33.586321\", \"source\": \"The Sports DB API\"}, \"timestamp\": \"2025-12-03T18:58:33.586321\", \"source\": \"The Sports DB API\"}, {\"name\": \"tech\", \"data\": {\"articles\": [{\"category\": \"technology\", \"published_at\": \"2025-12-03T18:55:02Z\", \"source\": \"TechCrunch\", \"summary\": \"Marquis said ransomware hackers stole reams of banking customer data, containing personal information and financial records, as well as Social Security numbers, belonging to hundreds of thousands of p\", \"title\": \"Fintech firm Marquis alerts dozens of US banks and credit unions of a data breach after ransomware attack\", \"url\": \"https://techcrunch.com/2025/12/03/fintech-firm-marquis-alerts-dozens-of-us-banks-and-credit-unions-of-a-data-breach-after-ransomware-attack/\"}, {\"category\": \"technology\", \"published_at\": \"2025-12-03T18:34:46Z\", \"source\": \"The Verge\", \"summary\": \"Fitness trackers have come a long way from the simple bands that tracked steps and little else. Modern trackers can monitor everything from your heart health to how well you\u2019ve recovered from a hard b\", \"title\": \"The best fitness trackers and watches we\u2019ve tested\", \"url\": \"https://www.theverge.com/22985108/best-fitness-tracker\"}, {\"category\": \"technology\", \"published_at\": \"2025-12-03T17:04:50Z\", \"source\": \"Ars Technica\", \"summary\": \"The sequel to 2019\\'s delightful horror comedy hits theaters next spring.\", \"title\": \"Samara Weaving levels up in Ready or Not 2: Here I Come trailer\", \"url\": \"https://arstechnica.com/culture/2025/12/samara-weaving-levels-up-in-ready-or-not-2-here-i-come-trailer/\"}, {\"category\": \"technology\", \"published_at\": \"2025-12-03T13:00:00Z\", \"source\": \"Wired\", \"summary\": \"AI-powered startup Fortell has become a secret handshake for the privileged hearing-impaired crowd who swear by the product. Now, it wants to be in your ears.\", \"title\": \"Want a Fortell Hearing Aid? Well, Who Do You Know?\", \"url\": \"https://www.wired.com/story/hearing-aid-startup-ai-fortell/\"}, {\"category\": \"technology\", \"published_at\": \"2025-12-03T18:01:39Z\", \"source\": \"MIT Technology Review\", \"summary\": \"OpenAI is testing another new way to expose the complicated processes at work inside large language models. Researchers at the company can make an LLM produce what they call a confession, in which the\", \"title\": \"OpenAI has trained its LLM to confess to bad behavior\", \"url\": \"https://www.technologyreview.com/2025/12/03/1128740/openai-has-trained-its-llm-to-confess-to-bad-behavior/\"}], \"timestamp\": \"2025-12-03T18:58:34.284800\", \"source\": \"RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)\"}, {\"name\": \"market\", \"data\": {\"indexes\": [{\"change\": 12.6, \"change_percent\": 0.19, \"is_positive\": True, \"name\": \"S&P 500\", \"symbol\": \"^GSPC\", \"value\": 6815.3}, {\"change\": 183.54, \"change_percent\": 0.78, \"is_positive\": True, \"name\": \"NASDAQ\", \"symbol\": \"^IXIC\", \"value\": 23636}, {\"change\": null, \"change_percent\": null, \"is_positive\": null, \"name\": \"DOW JONES\", \"symbol\": \"^DJI\", \"value\": null}], \"market_summary\": \"Markets rallied across all major indexes on positive sentiment.\", \"timestamp\": \"2025-12-03T18:58:44.519360\", \"source\": \"Alpha Vantage API (via ETF proxies)\"}, \"timestamp\": \"2025-12-03T18:58:44.519360\", \"source\": \"Alpha Vantage API (via ETF proxies)\"}]}"
+  "generated_at": "2025-12-03T19:08:57.231916",
+  "sections": [
+    {
+      "name": "weather",
+      "data": {
+        "current": {
+          "description": "Broken clouds",
+          "feels_like": 55.5,
+          "humidity": 46,
+          "icon": "04d",
+          "temp": 57.9,
+          "wind_speed": 9.2
+        },
+        "forecast": [
+          {
+            "date": "2025-12-03",
+            "description": "Broken clouds",
+            "icon": "04d",
+            "temp": 58.5
+          },
+          {
+            "date": "2025-12-04",
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 62.9
+          },
+          {
+            "date": "2025-12-05",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 63.8
+          },
+          {
+            "date": "2025-12-06",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 65.5
+          },
+          {
+            "date": "2025-12-07",
+            "description": "Scattered clouds",
+            "icon": "03n",
+            "temp": 65.5
+          }
+        ],
+        "location": "San Jose",
+        "source": "OpenWeather API",
+        "timestamp": "2025-12-03T19:08:53.113512"
+      },
+      "timestamp": "2025-12-03T19:08:53.113512",
+      "source": "OpenWeather API"
+    },
+    {
+      "name": "sports",
+      "data": {
+        "source": "The Sports DB API",
+        "teams": [
+          {
+            "latest_game": "W 20-9 vs Panthers (2025-11-25)",
+            "league": "NFL",
+            "name": "San Francisco 49ers",
+            "next_game": "vs Titans on 2025-12-14",
+            "record": "Season in progress",
+            "standings": "N/A"
+          },
+          {
+            "latest_game": "W 6-3 vs Mammoth (2025-12-02)",
+            "league": "NHL",
+            "name": "San Jose Sharks",
+            "next_game": "vs Capitals on 2025-12-04",
+            "record": "Season in progress",
+            "standings": "N/A"
+          },
+          {
+            "latest_game": "W 104-96 vs Pelicans (2025-11-30)",
+            "league": "NBA",
+            "name": "Golden State Warriors",
+            "next_game": "vs Thunder on 2025-12-03",
+            "record": "Season in progress",
+            "standings": "N/A"
+          }
+        ],
+        "timestamp": "2025-12-03T19:08:55.160677"
+      },
+      "timestamp": "2025-12-03T19:08:55.160677",
+      "source": "The Sports DB API"
+    },
+    {
+      "name": "tech",
+      "data": {
+        "articles": [
+          {
+            "category": "technology",
+            "published_at": "2025-12-03T18:55:02Z",
+            "source": "TechCrunch",
+            "summary": "Marquis said ransomware hackers stole reams of banking customer data, containing personal information and financial records, as well as Social Security numbers, belonging to hundreds of thousands of p",
+            "title": "Fintech firm Marquis alerts dozens of US banks and credit unions of a data breach after ransomware attack",
+            "url": "https://techcrunch.com/2025/12/03/fintech-firm-marquis-alerts-dozens-of-us-banks-and-credit-unions-of-a-data-breach-after-ransomware-attack/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2025-12-03T19:01:06Z",
+            "source": "The Verge",
+            "summary": "Micron is retiring the Crucial brand, marking the end of its line of budget-friendly solid-state drives (SSDs) and RAM kits, as reported earlier by VideoCardz. In an announcement on Wednesday, Micron ",
+            "title": "Crucial is shutting down \u2014 because Micron wants to sell its RAM and SSDs to AI companies instead",
+            "url": "https://www.theverge.com/news/837594/crucial-ram-ssd-micron-ai"
+          },
+          {
+            "category": "technology",
+            "published_at": "2025-12-03T18:24:06Z",
+            "source": "Ars Technica",
+            "summary": "Report: Microsoft declared \"the era of AI agents\" in May, but enterprise customers aren't buying.",
+            "title": "Microsoft drops AI sales targets in half after salespeople miss their quotas",
+            "url": "https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2025-12-03T19:00:00Z",
+            "source": "Wired",
+            "summary": "The Chinese video game giant Tencent is now building some of the world\u2019s best 3D AI models. This could have implications far outside game design.",
+            "title": "An AI Dark Horse Is Rewriting the Rules of Game Design",
+            "url": "https://www.wired.com/story/tecent-3d-models-video-game-design-artificial-intelligence/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2025-12-03T18:01:39Z",
+            "source": "MIT Technology Review",
+            "summary": "OpenAI is testing another new way to expose the complicated processes at work inside large language models. Researchers at the company can make an LLM produce what they call a confession, in which the",
+            "title": "OpenAI has trained its LLM to confess to bad behavior",
+            "url": "https://www.technologyreview.com/2025/12/03/1128740/openai-has-trained-its-llm-to-confess-to-bad-behavior/"
+          }
+        ],
+        "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
+        "timestamp": "2025-12-03T19:08:56.285291"
+      },
+      "timestamp": "2025-12-03T19:08:56.285291",
+      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
+    },
+    {
+      "name": "market",
+      "data": {
+        "indexes": [
+          {
+            "change": 12.6,
+            "change_percent": 0.19,
+            "is_positive": true,
+            "name": "S&P 500",
+            "symbol": "^GSPC",
+            "value": 6815.3
+          },
+          {
+            "change": 183.54,
+            "change_percent": 0.78,
+            "is_positive": true,
+            "name": "NASDAQ",
+            "symbol": "^IXIC",
+            "value": 23636
+          },
+          {
+            "change": 194,
+            "change_percent": 0.41,
+            "is_positive": true,
+            "name": "DOW JONES",
+            "symbol": "^DJI",
+            "value": 47526
+          }
+        ],
+        "market_summary": "Markets rallied across all major indexes on positive sentiment.",
+        "source": "Alpha Vantage API (via ETF proxies)",
+        "timestamp": "2025-12-03T19:08:56.722711"
+      },
+      "timestamp": "2025-12-03T19:08:56.722711",
+      "source": "Alpha Vantage API (via ETF proxies)"
+    }
+  ]
 }
