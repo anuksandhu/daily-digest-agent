@@ -446,8 +446,8 @@ def generate_html(digest_data: dict) -> str:
         <div class="grid">
             {_render_weather_card(weather_data)}
             {_render_sports_card(sports_data)}
-            {_render_tech_card(tech_data)}
             {_render_market_card(market_data)}
+            {_render_tech_card(tech_data)}
         </div>
         
         <footer>

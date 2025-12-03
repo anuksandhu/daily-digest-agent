@@ -215,8 +215,9 @@ def _fetch_real_sports_data(api_key: str, team_names: List[str]) -> Dict[str, An
                 elif team_score < opp_score:
                     losses += 1
             
-            record = f"{wins}-{losses}" if wins > 0 or losses > 0 else "N/A"
-            
+            # record = f"{wins}-{losses}" if wins > 0 or losses > 0 else "N/A"
+            record = "Season in progress"
+
             teams_data.append({
                 'name': full_name,
                 'league': league,
