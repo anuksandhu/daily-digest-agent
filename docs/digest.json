@@ -1,24 +1,24 @@
 {
   "date": "2025-12-03",
-  "generated_at": "2025-12-03T14:22:45.000000",
+  "generated_at": "2025-12-03T15:29:45.617890",
   "sections": [
     {
       "name": "weather",
       "data": {
         "current": {
           "description": "Clear sky",
-          "feels_like": 43.3,
-          "humidity": 78,
-          "icon": "01n",
-          "temp": 46.7,
-          "wind_speed": 6.9
+          "feels_like": 44.4,
+          "humidity": 73,
+          "icon": "01d",
+          "temp": 47.2,
+          "wind_speed": 6
         },
         "forecast": [
           {
             "date": "2025-12-03",
-            "description": "Clear sky",
-            "icon": "01n",
-            "temp": 54.9
+            "description": "Scattered clouds",
+            "icon": "03d",
+            "temp": 55.1
           },
           {
             "date": "2025-12-04",
@@ -47,9 +47,9 @@
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2025-12-03T14:22:43.961715"
+        "timestamp": "2025-12-03T15:29:44.673280"
       },
-      "timestamp": "2025-12-03T14:22:43.961715",
+      "timestamp": "2025-12-03T15:29:44.673280",
       "source": "OpenWeather API"
     },
     {
@@ -58,33 +58,33 @@
         "source": "Mock Sports Data (replace with The Sports DB or ESPN API)",
         "teams": [
           {
-            "latest_game": "W 22-17 vs Packers (2025-11-30)",
+            "latest_game": "L 19-26 vs Rams (2025-12-02)",
             "league": "NFL",
             "name": "San Francisco 49ers",
-            "next_game": "vs Seahawks on 2025-12-04",
-            "record": "11-9",
-            "standings": "#6 in division"
+            "next_game": "vs Rams on 2025-12-05",
+            "record": "9-3",
+            "standings": "#8 in division"
           },
           {
-            "latest_game": "W 23-20 vs Golden Knights (2025-11-30)",
+            "latest_game": "W 27-17 vs Canucks (2025-12-01)",
             "league": "NHL",
             "name": "San Jose Sharks",
-            "next_game": "vs Golden Knights on 2025-12-08",
-            "record": "8-11",
-            "standings": "#1 in division"
+            "next_game": "vs Ducks on 2025-12-05",
+            "record": "13-4",
+            "standings": "#4 in division"
           },
           {
-            "latest_game": "W 110-95 vs Blazers (2025-12-02)",
+            "latest_game": "W 119-105 vs Kings (2025-12-01)",
             "league": "NBA",
             "name": "Golden State Warriors",
-            "next_game": "vs Kings on 2025-12-05",
-            "record": "9-12",
-            "standings": "#2 in division"
+            "next_game": "vs Suns on 2025-12-05",
+            "record": "15-5",
+            "standings": "#6 in division"
           }
         ],
-        "timestamp": "2025-12-03T14:22:43.963801"
+        "timestamp": "2025-12-03T15:29:44.676095"
       },
-      "timestamp": "2025-12-03T14:22:43.963801",
+      "timestamp": "2025-12-03T15:29:44.676095",
       "source": "Mock Sports Data (replace with The Sports DB or ESPN API)"
     },
     {
@@ -133,9 +133,9 @@
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2025-12-03T14:22:44.216728"
+        "timestamp": "2025-12-03T15:29:44.868121"
       },
-      "timestamp": "2025-12-03T14:22:44.216728",
+      "timestamp": "2025-12-03T15:29:44.868121",
       "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
@@ -169,9 +169,9 @@
         ],
         "market_summary": "Markets rallied across all major indexes on positive sentiment.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2025-12-03T14:22:44.675130"
+        "timestamp": "2025-12-03T15:29:45.617668"
       },
-      "timestamp": "2025-12-03T14:22:44.675130",
+      "timestamp": "2025-12-03T15:29:45.617668",
       "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
