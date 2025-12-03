@@ -1,103 +1,145 @@
 {
   "date": "2025-12-03",
-  "generated_at": "2025-12-03T06:01:49.855049",
+  "generated_at": "2025-12-03T06:56:11.140000",
   "sections": [
     {
+      "name": "weather",
       "data": {
         "current": {
-          "description": "Few clouds",
-          "feels_like": 48.3,
-          "humidity": 86,
-          "icon": "02n",
-          "temp": 49.1,
+          "description": "Overcast clouds",
+          "feels_like": 46.9,
+          "humidity": 87,
+          "icon": "04n",
+          "temp": 47.9,
           "wind_speed": 3.4
         },
         "forecast": [
           {
             "date": "2025-12-03",
-            "description": "Scattered clouds",
-            "icon": "03n",
-            "temp": 59.6
+            "description": "Broken clouds",
+            "icon": "04n",
+            "temp": 58.8
           },
           {
             "date": "2025-12-04",
             "description": "Overcast clouds",
             "icon": "04n",
-            "temp": 62.8
+            "temp": 62.9
           },
           {
             "date": "2025-12-05",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 64.3
+            "temp": 64.4
           },
           {
             "date": "2025-12-06",
             "description": "Few clouds",
             "icon": "02n",
-            "temp": 66.9
+            "temp": 64.7
           },
           {
             "date": "2025-12-07",
-            "description": "Few clouds",
-            "icon": "02n",
-            "temp": 64.8
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 65.7
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2025-12-03T06:01:48.662509"
+        "timestamp": "2025-12-03T06:56:09.802451"
       },
-      "name": "weather",
-      "source": "OpenWeather API",
-      "timestamp": "2025-12-03T06:01:48.662509"
+      "timestamp": "2025-12-03T06:56:09.802451",
+      "source": "OpenWeather API"
     },
     {
+      "name": "sports",
       "data": {
         "source": "Mock Sports Data (replace with The Sports DB or ESPN API)",
         "teams": [
           {
-            "latest_game": "L 27-29 vs Rams (2025-12-02)",
+            "latest_game": "W 33-24 vs Packers (2025-11-30)",
             "league": "NFL",
             "name": "San Francisco 49ers",
-            "next_game": "vs Cowboys on 2025-12-04",
-            "record": "11-11",
-            "standings": "#6 in division"
+            "next_game": "vs Seahawks on 2025-12-06",
+            "record": "15-4",
+            "standings": "#5 in division"
           },
           {
-            "latest_game": "W 32-17 vs Ducks (2025-12-02)",
+            "latest_game": "W 25-16 vs Canucks (2025-12-01)",
             "league": "NHL",
             "name": "San Jose Sharks",
-            "next_game": "vs Avalanche on 2025-12-04",
-            "record": "7-9",
-            "standings": "#2 in division"
+            "next_game": "vs Ducks on 2025-12-07",
+            "record": "8-10",
+            "standings": "#3 in division"
           },
           {
-            "latest_game": "W 120-96 vs Lakers (2025-11-30)",
+            "latest_game": "W 115-109 vs Suns (2025-12-02)",
             "league": "NBA",
             "name": "Golden State Warriors",
-            "next_game": "vs Clippers on 2025-12-04",
-            "record": "15-4",
+            "next_game": "vs Lakers on 2025-12-05",
+            "record": "15-5",
             "standings": "#6 in division"
           }
         ],
-        "timestamp": "2025-12-03T06:01:48.664729"
+        "timestamp": "2025-12-03T06:56:09.806067"
       },
-      "name": "sports",
-      "source": "Mock Sports Data (replace with The Sports DB or ESPN API)",
-      "timestamp": "2025-12-03T06:01:48.664729"
+      "timestamp": "2025-12-03T06:56:09.806067",
+      "source": "Mock Sports Data"
     },
     {
-      "data": {
-        "articles": [],
-        "source": "News API",
-        "timestamp": "2025-12-03T06:01:49.030968"
-      },
       "name": "tech",
-      "source": "News API",
-      "timestamp": "2025-12-03T06:01:49.030968"
+      "data": {
+        "articles": [
+          {
+            "category": "technology",
+            "published_at": "2025-12-03T01:06:25Z",
+            "source": "TechCrunch",
+            "summary": "Amazon Web Services giant tech conference is happening this week with news ranging from chips to AI services.",
+            "title": "All the biggest news from AWS re:Invent 2025",
+            "url": "https://techcrunch.com/2025/12/02/all-the-biggest-news-from-aws-big-tech-show-reinvent-2025/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2025-12-03T00:43:37Z",
+            "source": "TechCrunch",
+            "summary": "If the product name sounds familiar, it should. It's a collab with Nvidia that combines AWS tech with the chip maker's tech.",
+            "title": "Amazon challenges competitors with on-premises Nvidia \u2018AI Factories\u2019",
+            "url": "https://techcrunch.com/2025/12/02/amazon-challenges-competitors-with-on-premises-nvidia-ai-factories/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2025-12-02T22:30:42Z",
+            "source": "TechCrunch",
+            "summary": "The latest funding comes less than two months after Kalshi announced that it raised $300 million at a $5 billion valuation.",
+            "title": "Kalshi raises $1B at $11B valuation, doubling value in under two months",
+            "url": "https://techcrunch.com/2025/12/02/kalshi-raises-1b-at-11b-valuation-doubling-value-in-under-two-months/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2025-12-02T22:26:34Z",
+            "source": "TechCrunch",
+            "summary": "Google is testing how to make it easier to move from search to an AI chat in a new global test.",
+            "title": "Google tests merging AI Overviews with AI Mode",
+            "url": "https://techcrunch.com/2025/12/02/google-tests-merging-ai-overviews-with-ai-mode/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2025-12-02T22:18:01Z",
+            "source": "TechCrunch",
+            "summary": "Amazon Web Services on Tuesday announced three new AI agents it calls \"Frontier agents\" for coding, security, and DevOps.",
+            "title": "Amazon previews 3 AI agents, including \u2018Kiro\u2019 that can code on its own for days",
+            "url": "https://techcrunch.com/2025/12/02/amazon-previews-3-ai-agents-including-kiro-that-can-code-on-its-own-for-days/"
+          }
+        ],
+        "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
+        "timestamp": "2025-12-03T06:56:10.629228"
+      },
+      "timestamp": "2025-12-03T06:56:10.629228",
+      "source": "RSS Feeds"
     },
     {
+      "name": "market",
       "data": {
         "indexes": [
           {
@@ -127,11 +169,10 @@
         ],
         "market_summary": "Markets rallied across all major indexes on positive sentiment.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2025-12-03T06:01:49.351967"
+        "timestamp": "2025-12-03T06:56:11.136904"
       },
-      "name": "market",
-      "source": "Alpha Vantage API (via ETF proxies)",
-      "timestamp": "2025-12-03T06:01:49.351967"
+      "timestamp": "2025-12-03T06:56:11.136904",
+      "source": "Alpha Vantage API"
     }
   ]
 }
