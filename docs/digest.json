@@ -1,55 +1,55 @@
 {
-  "date": "2025-12-05",
-  "generated_at": "2025-12-05T14:22:22.780799",
+  "date": "2025-12-06",
+  "generated_at": "2025-12-06T14:18:16.000000",
   "sections": [
     {
       "name": "weather",
       "data": {
         "current": {
-          "description": "Clear sky",
-          "feels_like": 48.6,
-          "humidity": 81,
-          "icon": "01n",
-          "temp": 48.6,
-          "wind_speed": 2
+          "description": "Mist",
+          "feels_like": 44,
+          "humidity": 90,
+          "icon": "50n",
+          "temp": 46.1,
+          "wind_speed": 4.6
         },
         "forecast": [
           {
-            "date": "2025-12-05",
-            "description": "Clear sky",
-            "icon": "01n",
-            "temp": 53.6
-          },
-          {
             "date": "2025-12-06",
-            "description": "Clear sky",
-            "icon": "01n",
-            "temp": 64.6
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 57
           },
           {
             "date": "2025-12-07",
-            "description": "Few clouds",
-            "icon": "02n",
-            "temp": 64.7
+            "description": "Scattered clouds",
+            "icon": "03n",
+            "temp": 64.5
           },
           {
             "date": "2025-12-08",
-            "description": "Few clouds",
-            "icon": "02n",
-            "temp": 65.2
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 65.9
           },
           {
             "date": "2025-12-09",
             "description": "Scattered clouds",
             "icon": "03n",
-            "temp": 66.3
+            "temp": 65.1
+          },
+          {
+            "date": "2025-12-10",
+            "description": "Scattered clouds",
+            "icon": "03n",
+            "temp": 67.4
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2025-12-05T14:22:18.649692"
+        "timestamp": "2025-12-06T14:18:08.438395"
       },
-      "timestamp": "2025-12-05T14:22:18.649692",
+      "timestamp": "2025-12-06T14:18:08.438395",
       "source": "OpenWeather API"
     },
     {
@@ -77,14 +77,14 @@
             "latest_game": "L 112-124 vs Thunder (2025-12-03)",
             "league": "NBA",
             "name": "Golden State Warriors",
-            "next_game": "@ 76ers on 2025-12-05",
+            "next_game": "@ Cavaliers on 2025-12-07",
             "record": "Season in progress",
             "standings": "N/A"
           }
         ],
-        "timestamp": "2025-12-05T14:22:20.683000"
+        "timestamp": "2025-12-06T14:18:10.127643"
       },
-      "timestamp": "2025-12-05T14:22:20.683000",
+      "timestamp": "2025-12-06T14:18:10.127643",
       "source": "The Sports DB API"
     },
     {
@@ -93,49 +93,49 @@
         "articles": [
           {
             "category": "technology",
-            "published_at": "2025-12-05T12:56:47Z",
+            "published_at": "2025-12-06T14:00:00Z",
             "source": "TechCrunch",
-            "summary": "\"You could really, in a very fundamental sense, talk about redrawing the border around a brain,\" Hodak says, \"possibly to include four hemispheres, or a device, or a whole group of people.\"",
-            "title": "After Neuralink, Max Hodak is building something stranger",
-            "url": "https://techcrunch.com/2025/12/05/after-neuralink-max-hodak-is-building-something-stranger/"
+            "summary": "Spotify\u2019s annual Wrapped feature just dropped, giving listeners a fun, personalized summary of their listening habits. It has gained immense popularity over the years, and as a result, many companies ",
+            "title": "After you check out your Spotify Wrapped 2025, explore these copycats",
+            "url": "https://techcrunch.com/2025/12/06/spotify-wrapped-2024-is-almost-here-its-time-to-explore-all-the-copycats/"
           },
           {
             "category": "technology",
-            "published_at": "2025-12-05T13:45:35Z",
+            "published_at": "2025-12-06T14:00:00Z",
             "source": "The Verge",
-            "summary": "The National Highway Traffic Safety Administration has opened an investigation into Waymo following reports that the company\u2019s robotaxis illegally drove past stopped school buses in Austin, Texas.&#16",
-            "title": "Waymo&#8217;s robotaxis are under investigation for passing stopped school buses",
-            "url": "https://www.theverge.com/news/838879/waymo-school-buses-probe"
+            "summary": "Horses has become the current face of the fight against video game censorship and what gets to be art. After getting banned from Steam and the Epic Game Store, the narrative horror game has become a b",
+            "title": "Horses deserves to be played, even if it&#8217;s not very good",
+            "url": "https://www.theverge.com/games/839464/horses-review-santa-ragione-steam-epic-bans"
           },
           {
             "category": "technology",
-            "published_at": "2025-12-05T12:15:43Z",
+            "published_at": "2025-12-06T12:30:35Z",
             "source": "Ars Technica",
-            "summary": "Foundations of daily life are being pushed to the brink by human-caused warming.",
-            "title": "New report warns of critical climate risks in Arab region",
-            "url": "https://arstechnica.com/science/2025/12/new-report-warns-of-critical-climate-risks-in-arab-region/"
+            "summary": "The port will revolutionize global trade, but it\u2019s sparking destructive rainforest routes.",
+            "title": "A massive, Chinese-backed port could push the Amazon Rainforest over the edge",
+            "url": "https://arstechnica.com/science/2025/12/a-massive-chinese-backed-port-could-push-the-amazon-rainforest-over-the-edge/"
           },
           {
             "category": "technology",
-            "published_at": "2025-12-05T12:00:00Z",
+            "published_at": "2025-12-06T11:30:00Z",
             "source": "Wired",
-            "summary": "Reddit is considered one of the most human spaces left on the internet, but mods and users are overwhelmed with slop posts in the most popular subreddits.",
-            "title": "AI Slop Is Ruining Reddit for Everyone",
-            "url": "https://www.wired.com/story/ai-slop-is-ruining-reddit-for-everyone/"
+            "summary": "Canyon\u2019s latest off-road helmet is the first bike helmet in the United States to feature RLS\u2019s game-changing safety tech.",
+            "title": "Canyon Deflectr RLS Bike Helmet Review: Game-Changing Safety Technology",
+            "url": "https://www.wired.com/review/canyon-deflectr-rls-bike-helmet/"
           },
           {
             "category": "technology",
-            "published_at": "2025-12-05T13:10:00Z",
+            "published_at": "2025-12-05T15:00:00Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of&#160;The Download,&#160;our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI chatbots can sway voters better than ",
-            "title": "The Download: political chatbot persuasion, and gene editing adverts",
-            "url": "https://www.technologyreview.com/2025/12/05/1128927/the-download-political-chatbot-persuasion-gene-editing-adverts/"
+            "summary": "The past year has marked a turning point in the corporate AI conversation. After a period of eager experimentation, organizations are now confronting a more complex reality: While investment in AI has",
+            "title": "Harnessing human-AI collaboration for an AI roadmap that moves beyond pilots",
+            "url": "https://www.technologyreview.com/2025/12/05/1128730/harnessing-human-ai-collaboration-for-an-ai-roadmap-that-moves-beyond-pilots/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2025-12-05T14:22:21.673522"
+        "timestamp": "2025-12-06T14:18:14.738260"
       },
-      "timestamp": "2025-12-05T14:22:21.673522",
+      "timestamp": "2025-12-06T14:18:14.738260",
       "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
@@ -143,35 +143,35 @@
       "data": {
         "indexes": [
           {
-            "change": 5,
-            "change_percent": 0.07,
+            "change": 13,
+            "change_percent": 0.19,
             "is_positive": true,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 6843.9
+            "value": 6856.9
           },
           {
-            "change": -22.04,
-            "change_percent": -0.09,
-            "is_positive": false,
+            "change": 96.52,
+            "change_percent": 0.41,
+            "is_positive": true,
             "name": "NASDAQ",
             "symbol": "^IXIC",
-            "value": 23671.72
+            "value": 23768.24
           },
           {
-            "change": -34,
-            "change_percent": -0.07,
-            "is_positive": false,
+            "change": 96,
+            "change_percent": 0.2,
+            "is_positive": true,
             "name": "DOW JONES",
             "symbol": "^DJI",
-            "value": 47907
+            "value": 48003
           }
         ],
-        "market_summary": "Mixed trading session with varied performance across indexes.",
+        "market_summary": "Markets rallied across all major indexes on positive sentiment.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2025-12-05T14:22:22.080689"
+        "timestamp": "2025-12-06T14:18:15.372078"
       },
-      "timestamp": "2025-12-05T14:22:22.080689",
+      "timestamp": "2025-12-06T14:18:15.372078",
       "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
