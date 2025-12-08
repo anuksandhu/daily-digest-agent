@@ -1,55 +1,55 @@
 {
-  "date": "2025-12-07",
-  "generated_at": "2025-12-07T14:18:41.500000",
+  "date": "2025-12-08",
+  "generated_at": "2025-12-08T14:24:19.314743",
   "sections": [
     {
       "name": "weather",
       "data": {
         "current": {
           "description": "Mist",
-          "feels_like": 42,
-          "humidity": 93,
+          "feels_like": 38.7,
+          "humidity": 92,
           "icon": "50n",
-          "temp": 45.2,
-          "wind_speed": 5.8
+          "temp": 44.2,
+          "wind_speed": 10.4
         },
         "forecast": [
           {
-            "date": "2025-12-07",
+            "date": "2025-12-08",
             "description": "Overcast clouds",
             "icon": "04n",
-            "temp": 57.3
-          },
-          {
-            "date": "2025-12-08",
-            "description": "Clear sky",
-            "icon": "01n",
-            "temp": 64.8
+            "temp": 57.7
           },
           {
             "date": "2025-12-09",
-            "description": "Overcast clouds",
-            "icon": "04n",
-            "temp": 66.9
+            "description": "Scattered clouds",
+            "icon": "03n",
+            "temp": 67.3
           },
           {
             "date": "2025-12-10",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 69.5
+            "temp": 70.6
           },
           {
             "date": "2025-12-11",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 71.6
+            "temp": 71.2
+          },
+          {
+            "date": "2025-12-12",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 71.7
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2025-12-07T14:18:38.607255"
+        "timestamp": "2025-12-08T14:24:16.520396"
       },
-      "timestamp": "2025-12-07T14:18:38.607255",
+      "timestamp": "2025-12-08T14:24:16.520396",
       "source": "OpenWeather API"
     },
     {
@@ -69,7 +69,7 @@
             "latest_game": "L 1-7 vs Capitals (2025-12-04)",
             "league": "NHL",
             "name": "San Jose Sharks",
-            "next_game": "@ Hurricanes on 2025-12-07",
+            "next_game": "@ Flyers on 2025-12-10",
             "record": "Season in progress",
             "standings": "N/A"
           },
@@ -77,14 +77,14 @@
             "latest_game": "L 112-124 vs Thunder (2025-12-03)",
             "league": "NBA",
             "name": "Golden State Warriors",
-            "next_game": "@ Cavaliers on 2025-12-07",
+            "next_game": "@ Bulls on 2025-12-08",
             "record": "Season in progress",
             "standings": "N/A"
           }
         ],
-        "timestamp": "2025-12-07T14:18:40.261347"
+        "timestamp": "2025-12-08T14:24:18.270199"
       },
-      "timestamp": "2025-12-07T14:18:40.261347",
+      "timestamp": "2025-12-08T14:24:18.270199",
       "source": "The Sports DB API"
     },
     {
@@ -93,19 +93,19 @@
         "articles": [
           {
             "category": "technology",
-            "published_at": "2025-12-07T00:18:51Z",
+            "published_at": "2025-12-08T13:00:00Z",
             "source": "TechCrunch",
-            "summary": "The company is aiming to produce its first silicon wafers by 2028 and have its first commercial system online by 2029.",
-            "title": "Pat Gelsinger wants to save Moore\u2019s Law, with a little help from the Feds",
-            "url": "https://techcrunch.com/2025/12/06/pat-gelsinger-wants-to-save-moores-law-with-a-little-help-from-the-feds/"
+            "summary": "Hinge\u2019s new AI feature helps daters move beyond boring small talk",
+            "title": "Hinge\u2019s new AI feature helps daters move beyond boring small talk",
+            "url": "https://techcrunch.com/2025/12/08/hinges-new-ai-feature-helps-daters-start-better-convos-moving-beyond-boring-small-talk/"
           },
           {
             "category": "technology",
-            "published_at": "2025-12-07T14:17:43Z",
+            "published_at": "2025-12-08T14:00:00Z",
             "source": "The Verge",
-            "summary": "Google didn't invent the concept of smart glasses, but it did help make them mainstream. In retrospect, 13 years after their launch, this is both a good and bad thing. Glass made a lot of people dream",
-            "title": "What Google Glass got right \u2014 and really, really wrong",
-            "url": "https://www.theverge.com/podcast/839712/google-glass-smart-glasses-version-history"
+            "summary": "Segway\u2019s modest e-bike lineup is about to gain a new entrant. The Ninebot-owned brand, once known for its pioneering self-balancing scooters, currently only sells two e-bikes: the moto-styled Xyber an",
+            "title": "Segway\u2019s new Myon e-bike will straddle past and future",
+            "url": "https://www.theverge.com/news/839169/segway-myon-ebike-teaser-ces-radar"
           },
           {
             "category": "technology",
@@ -117,25 +117,25 @@
           },
           {
             "category": "technology",
-            "published_at": "2025-12-07T11:30:00Z",
+            "published_at": "2025-12-08T10:00:00Z",
             "source": "Wired",
-            "summary": "This new-ish hybrid between trail runners and road runners is designed for less technical terrain and the occasional road run.",
-            "title": "What Are Gravel Running Shoes? (2025)",
-            "url": "https://www.wired.com/story/what-are-gravel-running-shoes/"
+            "summary": "NASA has announced when the longest total solar eclipse of the century will occur\u2014and you won\u2019t have to wait long. Here\u2019s what you should know.",
+            "title": "The Longest Solar Eclipse for 100 Years Is Coming. Don\u2019t Miss It",
+            "url": "https://www.wired.com/story/the-longest-solar-eclipse-for-100-years-is-coming-dont-miss-it/"
           },
           {
             "category": "technology",
-            "published_at": "2025-12-05T15:00:00Z",
+            "published_at": "2025-12-08T13:14:00Z",
             "source": "MIT Technology Review",
-            "summary": "The past year has marked a turning point in the corporate AI conversation. After a period of eager experimentation, organizations are now confronting a more complex reality: While investment in AI has",
-            "title": "Harnessing human-AI collaboration for an AI roadmap that moves beyond pilots",
-            "url": "https://www.technologyreview.com/2025/12/05/1128730/harnessing-human-ai-collaboration-for-an-ai-roadmap-that-moves-beyond-pilots/"
+            "summary": "This is today&#8217;s edition of&#160;The Download,&#160;our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. 4 technologies that didn\u2019t make our 2026",
+            "title": "The Download: four (still) big breakthroughs, and how our bodies fare in extreme heat",
+            "url": "https://www.technologyreview.com/2025/12/08/1128982/the-download-four-still-big-breakthroughs-and-how-our-bodies-fare-in-extreme-heat/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2025-12-07T14:18:41.145064"
+        "timestamp": "2025-12-08T14:24:19.051291"
       },
-      "timestamp": "2025-12-07T14:18:41.145064",
+      "timestamp": "2025-12-08T14:24:19.051291",
       "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
@@ -169,9 +169,9 @@
         ],
         "market_summary": "Markets rallied across all major indexes on positive sentiment.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2025-12-07T14:18:41.482483"
+        "timestamp": "2025-12-08T14:24:19.314743"
       },
-      "timestamp": "2025-12-07T14:18:41.482483",
+      "timestamp": "2025-12-08T14:24:19.314743",
       "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
