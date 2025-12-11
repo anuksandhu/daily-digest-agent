@@ -1,59 +1,58 @@
 {
-  "date": "2025-12-09",
-  "generated_at": "2025-12-09T14:24:11.521396",
+  "date": "2025-12-11",
+  "generated_at": "2025-12-11T14:23:27.315151",
   "sections": [
     {
-      "name": "weather",
       "data": {
         "current": {
-          "description": "Mist",
-          "feels_like": 41.3,
-          "humidity": 93,
+          "description": "Fog",
+          "feels_like": 41.9,
+          "humidity": 100,
           "icon": "50n",
-          "temp": 43.9,
+          "temp": 44.3,
           "wind_speed": 4.6
         },
         "forecast": [
           {
-            "date": "2025-12-09",
+            "date": "2025-12-11",
             "description": "Overcast clouds",
             "icon": "04n",
-            "temp": 58.6
-          },
-          {
-            "date": "2025-12-10",
-            "description": "Clear sky",
-            "icon": "01n",
-            "temp": 70.2
-          },
-          {
-            "date": "2025-12-11",
-            "description": "Clear sky",
-            "icon": "01n",
-            "temp": 70.9
+            "temp": 60.8
           },
           {
             "date": "2025-12-12",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 71.1
+            "temp": 70.9
           },
           {
             "date": "2025-12-13",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 69.8
+            "temp": 71.5
+          },
+          {
+            "date": "2025-12-14",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 70.8
+          },
+          {
+            "date": "2025-12-15",
+            "description": "Scattered clouds",
+            "icon": "03n",
+            "temp": 67.7
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2025-12-09T14:24:07.756762"
+        "timestamp": "2025-12-11T14:23:23.998942"
       },
-      "timestamp": "2025-12-09T14:24:07.756762",
-      "source": "OpenWeather API"
+      "name": "weather",
+      "source": "OpenWeather API",
+      "timestamp": "2025-12-11T14:23:23.998942"
     },
     {
-      "name": "sports",
       "data": {
         "source": "The Sports DB API",
         "teams": [
@@ -69,7 +68,7 @@
             "latest_game": "L 1-7 vs Capitals (2025-12-04)",
             "league": "NHL",
             "name": "San Jose Sharks",
-            "next_game": "@ Flyers on 2025-12-10",
+            "next_game": "@ Leafs on 2025-12-12",
             "record": "Season in progress",
             "standings": "N/A"
           },
@@ -82,97 +81,98 @@
             "standings": "N/A"
           }
         ],
-        "timestamp": "2025-12-09T14:24:09.668237"
+        "timestamp": "2025-12-11T14:23:25.434193"
       },
-      "timestamp": "2025-12-09T14:24:09.668237",
-      "source": "The Sports DB API"
+      "name": "sports",
+      "source": "The Sports DB API",
+      "timestamp": "2025-12-11T14:23:25.434193"
     },
     {
-      "name": "tech",
       "data": {
         "articles": [
           {
             "category": "technology",
-            "published_at": "2025-12-09T13:51:22Z",
+            "published_at": "2025-12-11T13:35:08Z",
             "source": "TechCrunch",
-            "summary": "Empromptu claims all a user has to do is tell the platform\\'s AI chatbot what they want \u2014 like a new HTML or JavaScript app \u2014 and the AI will go ahead and build it.",
-            "title": "Empromptu raises $2M pre-seed to help enterprises build AI apps",
-            "url": "https://techcrunch.com/2025/12/09/empromptu-raises-2m-pre-seed-to-help-enterprises-build-ai-apps/"
+            "summary": "The founder of Freedom Chat said the company has reset user PINs and released a new version to app stores.",
+            "title": "Security flaws in Freedom Chat app exposed users\u2019 phone numbers and PINs",
+            "url": "https://techcrunch.com/2025/12/11/security-flaws-in-freedom-chat-app-exposed-users-phone-numbers-and-pins/"
           },
           {
             "category": "technology",
-            "published_at": "2025-12-09T13:00:00Z",
+            "published_at": "2025-12-11T11:06:44Z",
             "source": "The Verge",
-            "summary": "DIY repair site iFixit has launched its own app for iOS and Android, featuring its extensive library of repair guides and resources, a battery health monitor, and a new AI \"FixBot\" tool that's been tr",
-            "title": "iFixit\u2019s FixBot helps with repairs \u2018the way a master technician would\u2019",
-            "url": "https://www.theverge.com/news/840570/ifixit-app-android-ios-fixbot-ai"
+            "summary": "Entrenching generative AI into Adobe\\'s creative software ecosystem is paying off, according to the company's latest earnings. While its share price has fallen by more than 37 percent this year at the ",
+            "title": "Adobe sees a bright future as AI bet pays off",
+            "url": "https://www.theverge.com/news/842256/adobe-2025-earnings-ai-growth"
           },
           {
             "category": "technology",
-            "published_at": "2025-12-07T12:08:58Z",
+            "published_at": "2025-12-10T23:16:52Z",
             "source": "Ars Technica",
-            "summary": "Dog behavior is a lot more complicated than any one gene variant.",
-            "title": "Why is my dog like this? Current DNA tests won\u2019t explain it to you.",
-            "url": "https://arstechnica.com/science/2025/12/why-is-my-dog-like-this-current-dna-tests-wont-explain-it-to-you/"
+            "summary": "\"Much of the AI race comes down to amassing and deploying assets.\"",
+            "title": "After years of resisting it, SpaceX now plans to go public. Why?",
+            "url": "https://arstechnica.com/space/2025/12/after-years-of-resisting-it-spacex-now-plans-to-go-public-why/"
           },
           {
             "category": "technology",
-            "published_at": "2025-12-09T13:00:00Z",
+            "published_at": "2025-12-11T12:30:00Z",
             "source": "Wired",
-            "summary": "FixBot can check on the health of your devices and talk you through necessary repairs. You can even point your phone's camera at broken gear to get started.",
-            "title": "iFixit Put a Chatbot Repair Expert in an App",
-            "url": "https://www.wired.com/story/ifixit-chatbot-app-fixbot-point-your-camera-at-what-you-want-to-fix/"
+            "summary": "Merino is one of the best fabrics you can wear. We explain the different blends, what \u201cgsm\u201d means, and how to care for your clothes.",
+            "title": "Best Merino Wool Clothing (2025): Base Layers, Hoodies, Jackets & More",
+            "url": "https://www.wired.com/story/best-merino-wool-clothes/"
           },
           {
             "category": "technology",
-            "published_at": "2025-12-09T13:10:00Z",
+            "published_at": "2025-12-11T13:10:00Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of&#160;The Download,&#160;our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The State of AI: A vision of the world i",
-            "title": "The Download: a peek at AI\u2019s future",
-            "url": "https://www.technologyreview.com/2025/12/09/1129029/the-download-a-peek-at-ais-future/"
+            "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Solar geoengineering startups are getting serious ",
+            "title": "The Download: solar geoengineering\u2019s future, and OpenAI is being sued",
+            "url": "https://www.technologyreview.com/2025/12/11/1129288/the-download-solar-geoengineerings-future-and-openai-is-being-sued/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2025-12-09T14:24:10.788357"
+        "timestamp": "2025-12-11T14:23:26.571550"
       },
-      "timestamp": "2025-12-09T14:24:10.788357",
-      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
+      "name": "tech",
+      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
+      "timestamp": "2025-12-11T14:23:26.571550"
     },
     {
-      "name": "market",
       "data": {
         "indexes": [
           {
-            "change": -20.6,
-            "change_percent": -0.3,
-            "is_positive": false,
+            "change": 45.3,
+            "change_percent": 0.66,
+            "is_positive": true,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 6836.3
+            "value": 6875.7
           },
           {
-            "change": -45.6,
-            "change_percent": -0.19,
+            "change": -120.5,
+            "change_percent": -0.72,
             "is_positive": false,
             "name": "NASDAQ",
             "symbol": "^IXIC",
-            "value": 23722.64
+            "value": 16558.2
           },
           {
-            "change": -188,
-            "change_percent": -0.39,
+            "change": -85.1,
+            "change_percent": -0.24,
             "is_positive": false,
             "name": "DOW JONES",
             "symbol": "^DJI",
-            "value": 47815
+            "value": 35330.9
           }
         ],
-        "market_summary": "Markets declined on concerns about economic outlook.",
+        "market_summary": "Markets rallied across all major indexes on positive sentiment.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2025-12-09T14:24:11.366782"
+        "timestamp": "2025-12-11T14:23:26.809508"
       },
-      "timestamp": "2025-12-09T14:24:11.366782",
-      "source": "Alpha Vantage API (via ETF proxies)"
+      "name": "market",
+      "source": "Alpha Vantage API (via ETF proxies)",
+      "timestamp": "2025-12-11T14:23:26.809508"
     }
   ]
 }
