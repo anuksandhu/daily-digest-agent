@@ -1,58 +1,59 @@
 {
-  "date": "2025-12-11",
-  "generated_at": "2025-12-11T14:23:27.315151",
+  "date": "2025-12-12",
+  "generated_at": "2025-12-12T14:20:35.363876",
   "sections": [
     {
+      "name": "weather",
       "data": {
         "current": {
           "description": "Fog",
-          "feels_like": 41.9,
-          "humidity": 100,
+          "feels_like": 44.8,
+          "humidity": 96,
           "icon": "50n",
-          "temp": 44.3,
-          "wind_speed": 4.6
+          "temp": 44.8,
+          "wind_speed": 0
         },
         "forecast": [
           {
-            "date": "2025-12-11",
+            "date": "2025-12-12",
             "description": "Overcast clouds",
             "icon": "04n",
-            "temp": 60.8
-          },
-          {
-            "date": "2025-12-12",
-            "description": "Clear sky",
-            "icon": "01n",
-            "temp": 70.9
+            "temp": 61.5
           },
           {
             "date": "2025-12-13",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 71.5
+            "temp": 71.6
           },
           {
             "date": "2025-12-14",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 70.8
+            "temp": 70.4
           },
           {
             "date": "2025-12-15",
             "description": "Scattered clouds",
             "icon": "03n",
-            "temp": 67.7
+            "temp": 67.4
+          },
+          {
+            "date": "2025-12-16",
+            "description": "Broken clouds",
+            "icon": "04n",
+            "temp": 67.4
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2025-12-11T14:23:23.998942"
+        "timestamp": "2025-12-12T14:20:31.398289"
       },
-      "name": "weather",
-      "source": "OpenWeather API",
-      "timestamp": "2025-12-11T14:23:23.998942"
+      "timestamp": "2025-12-12T14:20:31.398289",
+      "source": "OpenWeather API"
     },
     {
+      "name": "sports",
       "data": {
         "source": "The Sports DB API",
         "teams": [
@@ -81,98 +82,81 @@
             "standings": "N/A"
           }
         ],
-        "timestamp": "2025-12-11T14:23:25.434193"
+        "timestamp": "2025-12-12T14:20:33.989988"
       },
-      "name": "sports",
-      "source": "The Sports DB API",
-      "timestamp": "2025-12-11T14:23:25.434193"
+      "timestamp": "2025-12-12T14:20:33.989988",
+      "source": "The Sports DB API"
     },
     {
+      "name": "tech",
       "data": {
         "articles": [
           {
             "category": "technology",
-            "published_at": "2025-12-11T13:35:08Z",
+            "published_at": "2025-12-12T13:51:29Z",
             "source": "TechCrunch",
-            "summary": "The founder of Freedom Chat said the company has reset user PINs and released a new version to app stores.",
-            "title": "Security flaws in Freedom Chat app exposed users\u2019 phone numbers and PINs",
-            "url": "https://techcrunch.com/2025/12/11/security-flaws-in-freedom-chat-app-exposed-users-phone-numbers-and-pins/"
+            "summary": "Reddit, one of the world's largest social platforms, is arguing that it doesn't meet the definition of \"social media platforms\" as it seeks to overturn Australia's law banning children under 16 years ",
+            "title": "Reddit argues it isn\u2019t like other social platforms in case against Australia\u2019s social media ban",
+            "url": "https://techcrunch.com/2025/12/12/reddit-argues-it-isnt-like-other-social-platforms-in-case-against-australias-social-media-ban/"
           },
           {
             "category": "technology",
-            "published_at": "2025-12-11T11:06:44Z",
+            "published_at": "2025-12-12T14:00:00Z",
             "source": "The Verge",
-            "summary": "Entrenching generative AI into Adobe\\'s creative software ecosystem is paying off, according to the company's latest earnings. While its share price has fallen by more than 37 percent this year at the ",
-            "title": "Adobe sees a bright future as AI bet pays off",
-            "url": "https://www.theverge.com/news/842256/adobe-2025-earnings-ai-growth"
+            "summary": "Where's the Trump Phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump Phone's whereabouts. As usual, we're still waiting for a response. In the ",
+            "title": "A presidential refresher on wireless terminology, courtesy of Trump Mobile",
+            "url": "https://www.theverge.com/tech/842937/trump-mobile-4g5g-4k-explainer"
           },
           {
             "category": "technology",
-            "published_at": "2025-12-10T23:16:52Z",
+            "published_at": "2025-12-12T12:15:02Z",
             "source": "Ars Technica",
-            "summary": "\"Much of the AI race comes down to amassing and deploying assets.\"",
-            "title": "After years of resisting it, SpaceX now plans to go public. Why?",
-            "url": "https://arstechnica.com/space/2025/12/after-years-of-resisting-it-spacex-now-plans-to-go-public-why/"
+            "summary": "\"... AI toys shouldn\u2019t be capable of having sexually explicit conversations, period.\"",
+            "title": "Chatbot-powered toys rebuked for discussing sexual, dangerous topics with kids",
+            "url": "https://arstechnica.com/gadgets/2025/12/chatbot-powered-toys-rebuked-for-discussing-sexual-dangerous-topics-with-kids/"
           },
           {
             "category": "technology",
-            "published_at": "2025-12-11T12:30:00Z",
+            "published_at": "2025-12-12T11:30:00Z",
             "source": "Wired",
-            "summary": "Merino is one of the best fabrics you can wear. We explain the different blends, what \u201cgsm\u201d means, and how to care for your clothes.",
-            "title": "Best Merino Wool Clothing (2025): Base Layers, Hoodies, Jackets & More",
-            "url": "https://www.wired.com/story/best-merino-wool-clothes/"
+            "summary": "Even if the glowing mask scares your family, red-light therapy can rejuvenate skin and aid in muscle repair.",
+            "title": "Does Red-Light Therapy Work? (2025)",
+            "url": "https://www.wired.com/story/does-red-light-therapy-work/"
           },
           {
             "category": "technology",
-            "published_at": "2025-12-11T13:10:00Z",
+            "published_at": "2025-12-12T13:10:00Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Solar geoengineering startups are getting serious ",
-            "title": "The Download: solar geoengineering\u2019s future, and OpenAI is being sued",
-            "url": "https://www.technologyreview.com/2025/12/11/1129288/the-download-solar-geoengineerings-future-and-openai-is-being-sued/"
+            "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Expanded carrier screening: Is it worth it? Carrie",
+            "title": "The Download: expanded carrier screening, and how Southeast Asia plans to get to space",
+            "url": "https://www.technologyreview.com/2025/12/12/1129478/the-download-expanded-carrier-screening-and-how-southeast-asia-plans-to-get-to-space/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2025-12-11T14:23:26.571550"
+        "timestamp": "2025-12-12T14:20:34.896056"
       },
-      "name": "tech",
-      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-      "timestamp": "2025-12-11T14:23:26.571550"
+      "timestamp": "2025-12-12T14:20:34.896056",
+      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
+      "name": "market",
       "data": {
         "indexes": [
           {
-            "change": 45.3,
-            "change_percent": 0.66,
+            "change": 16,
+            "change_percent": 0.23,
             "is_positive": true,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 6875.7
-          },
-          {
-            "change": -120.5,
-            "change_percent": -0.72,
-            "is_positive": false,
-            "name": "NASDAQ",
-            "symbol": "^IXIC",
-            "value": 16558.2
-          },
-          {
-            "change": -85.1,
-            "change_percent": -0.24,
-            "is_positive": false,
-            "name": "DOW JONES",
-            "symbol": "^DJI",
-            "value": 35330.9
+            "value": 6891.7
           }
         ],
         "market_summary": "Markets rallied across all major indexes on positive sentiment.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2025-12-11T14:23:26.809508"
+        "timestamp": "2025-12-12T14:20:35.363876"
       },
-      "name": "market",
-      "source": "Alpha Vantage API (via ETF proxies)",
-      "timestamp": "2025-12-11T14:23:26.809508"
+      "timestamp": "2025-12-12T14:20:35.363876",
+      "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
 }
