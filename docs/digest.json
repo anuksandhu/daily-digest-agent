@@ -1,55 +1,55 @@
 {
-  "date": "2025-12-12",
-  "generated_at": "2025-12-12T14:20:35.363876",
+  "date": "2025-12-13",
+  "generated_at": "2025-12-13T14:19:09.523908",
   "sections": [
     {
       "name": "weather",
       "data": {
         "current": {
-          "description": "Fog",
-          "feels_like": 44.8,
-          "humidity": 96,
-          "icon": "50n",
-          "temp": 44.8,
+          "description": "Few clouds",
+          "feels_like": 37.3,
+          "humidity": 93,
+          "icon": "02n",
+          "temp": 37.3,
           "wind_speed": 0
         },
         "forecast": [
           {
-            "date": "2025-12-12",
-            "description": "Overcast clouds",
-            "icon": "04n",
-            "temp": 61.5
-          },
-          {
             "date": "2025-12-13",
-            "description": "Clear sky",
-            "icon": "01n",
-            "temp": 71.6
+            "description": "Few clouds",
+            "icon": "02n",
+            "temp": 59.2
           },
           {
             "date": "2025-12-14",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 70.4
+            "temp": 70.6
           },
           {
             "date": "2025-12-15",
-            "description": "Scattered clouds",
-            "icon": "03n",
-            "temp": 67.4
+            "description": "Broken clouds",
+            "icon": "04n",
+            "temp": 66.9
           },
           {
             "date": "2025-12-16",
             "description": "Broken clouds",
             "icon": "04n",
-            "temp": 67.4
+            "temp": 69.8
+          },
+          {
+            "date": "2025-12-17",
+            "description": "Light rain",
+            "icon": "10n",
+            "temp": 65.3
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2025-12-12T14:20:31.398289"
+        "timestamp": "2025-12-13T14:19:06.332578"
       },
-      "timestamp": "2025-12-12T14:20:31.398289",
+      "timestamp": "2025-12-13T14:19:06.332578",
       "source": "OpenWeather API"
     },
     {
@@ -69,7 +69,7 @@
             "latest_game": "L 1-7 vs Capitals (2025-12-04)",
             "league": "NHL",
             "name": "San Jose Sharks",
-            "next_game": "@ Leafs on 2025-12-12",
+            "next_game": "@ Penguins on 2025-12-13",
             "record": "Season in progress",
             "standings": "N/A"
           },
@@ -82,9 +82,9 @@
             "standings": "N/A"
           }
         ],
-        "timestamp": "2025-12-12T14:20:33.989988"
+        "timestamp": "2025-12-13T14:19:08.258440"
       },
-      "timestamp": "2025-12-12T14:20:33.989988",
+      "timestamp": "2025-12-13T14:19:08.258440",
       "source": "The Sports DB API"
     },
     {
@@ -93,49 +93,49 @@
         "articles": [
           {
             "category": "technology",
-            "published_at": "2025-12-12T13:51:29Z",
+            "published_at": "2025-12-12T20:45:00Z",
             "source": "TechCrunch",
-            "summary": "Reddit, one of the world's largest social platforms, is arguing that it doesn't meet the definition of \"social media platforms\" as it seeks to overturn Australia's law banning children under 16 years ",
-            "title": "Reddit argues it isn\u2019t like other social platforms in case against Australia\u2019s social media ban",
-            "url": "https://techcrunch.com/2025/12/12/reddit-argues-it-isnt-like-other-social-platforms-in-case-against-australias-social-media-ban/"
+            "summary": "Your iPhone clock doesn't have to be so \"glassy\" anymore, thanks to a new Apple software update.",
+            "title": "With iOS 26.2, Apple lets you roll back Liquid Glass again \u2014 this time on the Lock Screen",
+            "url": "https://techcrunch.com/2025/12/12/with-ios-26-2-apple-lets-you-roll-back-liquid-glass-again-this-time-on-the-lock-screen/"
           },
           {
             "category": "technology",
-            "published_at": "2025-12-12T14:00:00Z",
+            "published_at": "2025-12-13T14:00:00Z",
             "source": "The Verge",
-            "summary": "Where's the Trump Phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump Phone's whereabouts. As usual, we're still waiting for a response. In the ",
-            "title": "A presidential refresher on wireless terminology, courtesy of Trump Mobile",
-            "url": "https://www.theverge.com/tech/842937/trump-mobile-4g5g-4k-explainer"
+            "summary": "Sektori is an old-school twin-stick shooter. Created by a former developer at Returnal studio Housemarque, it puts you in the role of a little ship that blasts through swarms of enemies, and you have ",
+            "title": "Sektori is psychedelic, tough as nails, and worth the pain",
+            "url": "https://www.theverge.com/games/840324/sektori-review-pc-ps5-xbox-series-x-s"
           },
           {
             "category": "technology",
-            "published_at": "2025-12-12T12:15:02Z",
+            "published_at": "2025-12-13T12:00:06Z",
             "source": "Ars Technica",
-            "summary": "\"... AI toys shouldn\u2019t be capable of having sexually explicit conversations, period.\"",
-            "title": "Chatbot-powered toys rebuked for discussing sexual, dangerous topics with kids",
-            "url": "https://arstechnica.com/gadgets/2025/12/chatbot-powered-toys-rebuked-for-discussing-sexual-dangerous-topics-with-kids/"
+            "summary": "Gov'ts agree to ban or restrict international trade in shark meat, fins, and other products.",
+            "title": "Sharks and rays gain landmark protections as nations move to curb international trade",
+            "url": "https://arstechnica.com/science/2025/12/sharks-and-rays-gain-landmark-protections-as-nations-move-to-curb-international-trade/"
           },
           {
             "category": "technology",
-            "published_at": "2025-12-12T11:30:00Z",
+            "published_at": "2025-12-13T11:30:00Z",
             "source": "Wired",
-            "summary": "Even if the glowing mask scares your family, red-light therapy can rejuvenate skin and aid in muscle repair.",
-            "title": "Does Red-Light Therapy Work? (2025)",
-            "url": "https://www.wired.com/story/does-red-light-therapy-work/"
+            "summary": "This laid-back ride comes with an almost bewildering array of power modes and riding styles. Just make sure you obey the law.",
+            "title": "Velotric Discover 2 Electric Bike Review: Versatile and Powerful",
+            "url": "https://www.wired.com/review/velotric-discover-2/"
           },
           {
             "category": "technology",
             "published_at": "2025-12-12T13:10:00Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Expanded carrier screening: Is it worth it? Carrie",
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Expanded carrier screening: Is it worth it? Carrie",
             "title": "The Download: expanded carrier screening, and how Southeast Asia plans to get to space",
             "url": "https://www.technologyreview.com/2025/12/12/1129478/the-download-expanded-carrier-screening-and-how-southeast-asia-plans-to-get-to-space/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2025-12-12T14:20:34.896056"
+        "timestamp": "2025-12-13T14:19:09.011092"
       },
-      "timestamp": "2025-12-12T14:20:34.896056",
+      "timestamp": "2025-12-13T14:19:09.011092",
       "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
@@ -143,19 +143,35 @@
       "data": {
         "indexes": [
           {
-            "change": 16,
-            "change_percent": 0.23,
-            "is_positive": true,
+            "change": -74.1,
+            "change_percent": -1.08,
+            "is_positive": false,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 6891.7
+            "value": 6817.6
+          },
+          {
+            "change": -144.84,
+            "change_percent": -0.96,
+            "is_positive": false,
+            "name": "NASDAQ",
+            "symbol": "^IXIC",
+            "value": 14915.34
+          },
+          {
+            "change": -271.24,
+            "change_percent": -0.73,
+            "is_positive": false,
+            "name": "DOW JONES",
+            "symbol": "^DJI",
+            "value": 36980.54
           }
         ],
-        "market_summary": "Markets rallied across all major indexes on positive sentiment.",
+        "market_summary": "Markets declined on concerns about economic outlook.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2025-12-12T14:20:35.363876"
+        "timestamp": "2025-12-13T14:19:09.299263"
       },
-      "timestamp": "2025-12-12T14:20:35.363876",
+      "timestamp": "2025-12-13T14:19:09.299263",
       "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
