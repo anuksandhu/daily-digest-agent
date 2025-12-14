@@ -1,55 +1,55 @@
 {
-  "date": "2025-12-13",
-  "generated_at": "2025-12-13T14:19:09.523908",
+  "date": "2025-12-14",
+  "generated_at": "2025-12-14T14:19:07.511043",
   "sections": [
     {
       "name": "weather",
       "data": {
         "current": {
-          "description": "Few clouds",
-          "feels_like": 37.3,
-          "humidity": 93,
-          "icon": "02n",
-          "temp": 37.3,
-          "wind_speed": 0
+          "description": "Mist",
+          "feels_like": 45.4,
+          "humidity": 94,
+          "icon": "50n",
+          "temp": 45.4,
+          "wind_speed": 1
         },
         "forecast": [
           {
-            "date": "2025-12-13",
-            "description": "Few clouds",
-            "icon": "02n",
-            "temp": 59.2
-          },
-          {
             "date": "2025-12-14",
-            "description": "Clear sky",
-            "icon": "01n",
-            "temp": 70.6
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 60.8
           },
           {
             "date": "2025-12-15",
-            "description": "Broken clouds",
-            "icon": "04n",
-            "temp": 66.9
+            "description": "Scattered clouds",
+            "icon": "03n",
+            "temp": 65.5
           },
           {
             "date": "2025-12-16",
             "description": "Broken clouds",
             "icon": "04n",
-            "temp": 69.8
+            "temp": 68.5
           },
           {
             "date": "2025-12-17",
             "description": "Light rain",
             "icon": "10n",
-            "temp": 65.3
+            "temp": 66.3
+          },
+          {
+            "date": "2025-12-18",
+            "description": "Broken clouds",
+            "icon": "04n",
+            "temp": 64.4
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2025-12-13T14:19:06.332578"
+        "timestamp": "2025-12-14T14:19:03.911043"
       },
-      "timestamp": "2025-12-13T14:19:06.332578",
+      "timestamp": "2025-12-14T14:19:03.911043",
       "source": "OpenWeather API"
     },
     {
@@ -69,22 +69,22 @@
             "latest_game": "L 1-7 vs Capitals (2025-12-04)",
             "league": "NHL",
             "name": "San Jose Sharks",
-            "next_game": "@ Penguins on 2025-12-13",
+            "next_game": "vs Flames on 2025-12-17",
             "record": "Season in progress",
             "standings": "N/A"
           },
           {
-            "latest_game": "L 112-124 vs Thunder (2025-12-03)",
+            "latest_game": "L 120-127 vs Timberwolves (2025-12-13)",
             "league": "NBA",
             "name": "Golden State Warriors",
-            "next_game": "vs Timberwolves on 2025-12-13",
+            "next_game": "@ Blazers on 2025-12-15",
             "record": "Season in progress",
             "standings": "N/A"
           }
         ],
-        "timestamp": "2025-12-13T14:19:08.258440"
+        "timestamp": "2025-12-14T14:19:06.167829"
       },
-      "timestamp": "2025-12-13T14:19:08.258440",
+      "timestamp": "2025-12-14T14:19:06.167829",
       "source": "The Sports DB API"
     },
     {
@@ -93,19 +93,19 @@
         "articles": [
           {
             "category": "technology",
-            "published_at": "2025-12-12T20:45:00Z",
+            "published_at": "2025-12-13T19:37:47Z",
             "source": "TechCrunch",
-            "summary": "Your iPhone clock doesn't have to be so \"glassy\" anymore, thanks to a new Apple software update.",
-            "title": "With iOS 26.2, Apple lets you roll back Liquid Glass again \u2014 this time on the Lock Screen",
-            "url": "https://techcrunch.com/2025/12/12/with-ios-26-2-apple-lets-you-roll-back-liquid-glass-again-this-time-on-the-lock-screen/"
+            "summary": "Improvements to roads, bridges, and other infrastructure could take a hit as data center construction accelerates.",
+            "title": "AI data center boom could be bad news for other infrastructure projects",
+            "url": "https://techcrunch.com/2025/12/13/ai-data-center-boom-could-be-bad-news-for-other-infrastructure-projects/"
           },
           {
             "category": "technology",
-            "published_at": "2025-12-13T14:00:00Z",
+            "published_at": "2025-12-14T13:00:00Z",
             "source": "The Verge",
-            "summary": "Sektori is an old-school twin-stick shooter. Created by a former developer at Returnal studio Housemarque, it puts you in the role of a little ship that blasts through swarms of enemies, and you have ",
-            "title": "Sektori is psychedelic, tough as nails, and worth the pain",
-            "url": "https://www.theverge.com/games/840324/sektori-review-pc-ps5-xbox-series-x-s"
+            "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on smartphones and digital imagery - real or otherwise - follow Allison Johnson. The Stepback ",
+            "title": "AI image generators are getting better by getting worse",
+            "url": "https://www.theverge.com/column/843883/ai-image-generators-better-worse"
           },
           {
             "category": "technology",
@@ -117,25 +117,25 @@
           },
           {
             "category": "technology",
-            "published_at": "2025-12-13T11:30:00Z",
+            "published_at": "2025-12-14T13:00:00Z",
             "source": "Wired",
-            "summary": "This laid-back ride comes with an almost bewildering array of power modes and riding styles. Just make sure you obey the law.",
-            "title": "Velotric Discover 2 Electric Bike Review: Versatile and Powerful",
-            "url": "https://www.wired.com/review/velotric-discover-2/"
+            "summary": "Stay strong, fair-weather friends\u2014you can keep biking to work even through the darkest, coldest days.",
+            "title": "The Best Bike Gear for Your Brisk, Wintry Commute (2025)",
+            "url": "https://www.wired.com/gallery/bike-gear-winter-commute/"
           },
           {
             "category": "technology",
             "published_at": "2025-12-12T13:10:00Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Expanded carrier screening: Is it worth it? Carrie",
+            "summary": "This is today&#8217;s edition of&#160;The Download,&#160;our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Expanded carrier screening: Is it worth it? Carrie",
             "title": "The Download: expanded carrier screening, and how Southeast Asia plans to get to space",
             "url": "https://www.technologyreview.com/2025/12/12/1129478/the-download-expanded-carrier-screening-and-how-southeast-asia-plans-to-get-to-space/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2025-12-13T14:19:09.011092"
+        "timestamp": "2025-12-14T14:19:07.015591"
       },
-      "timestamp": "2025-12-13T14:19:09.011092",
+      "timestamp": "2025-12-14T14:19:07.015591",
       "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
@@ -149,29 +149,13 @@
             "name": "S&P 500",
             "symbol": "^GSPC",
             "value": 6817.6
-          },
-          {
-            "change": -144.84,
-            "change_percent": -0.96,
-            "is_positive": false,
-            "name": "NASDAQ",
-            "symbol": "^IXIC",
-            "value": 14915.34
-          },
-          {
-            "change": -271.24,
-            "change_percent": -0.73,
-            "is_positive": false,
-            "name": "DOW JONES",
-            "symbol": "^DJI",
-            "value": 36980.54
           }
         ],
         "market_summary": "Markets declined on concerns about economic outlook.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2025-12-13T14:19:09.299263"
+        "timestamp": "2025-12-14T14:19:07.465112"
       },
-      "timestamp": "2025-12-13T14:19:09.299263",
+      "timestamp": "2025-12-14T14:19:07.465112",
       "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
