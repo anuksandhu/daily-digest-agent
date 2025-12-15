@@ -1,55 +1,55 @@
 {
-  "date": "2025-12-14",
-  "generated_at": "2025-12-14T14:19:07.511043",
+  "date": "2025-12-15",
+  "generated_at": "2025-12-15T14:27:22.777130",
   "sections": [
     {
       "name": "weather",
       "data": {
         "current": {
-          "description": "Mist",
-          "feels_like": 45.4,
-          "humidity": 94,
+          "description": "Fog",
+          "feels_like": 44.6,
+          "humidity": 95,
           "icon": "50n",
-          "temp": 45.4,
-          "wind_speed": 1
+          "temp": 44.6,
+          "wind_speed": 0
         },
         "forecast": [
           {
-            "date": "2025-12-14",
+            "date": "2025-12-15",
             "description": "Overcast clouds",
             "icon": "04n",
-            "temp": 60.8
-          },
-          {
-            "date": "2025-12-15",
-            "description": "Scattered clouds",
-            "icon": "03n",
-            "temp": 65.5
+            "temp": 54.2
           },
           {
             "date": "2025-12-16",
-            "description": "Broken clouds",
-            "icon": "04n",
-            "temp": 68.5
+            "description": "Scattered clouds",
+            "icon": "03n",
+            "temp": 68.3
           },
           {
             "date": "2025-12-17",
             "description": "Light rain",
             "icon": "10n",
-            "temp": 66.3
+            "temp": 66.1
           },
           {
             "date": "2025-12-18",
+            "description": "Few clouds",
+            "icon": "02n",
+            "temp": 64.4
+          },
+          {
+            "date": "2025-12-19",
             "description": "Broken clouds",
             "icon": "04n",
-            "temp": 64.4
+            "temp": 64.1
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2025-12-14T14:19:03.911043"
+        "timestamp": "2025-12-15T14:27:19.148664"
       },
-      "timestamp": "2025-12-14T14:19:03.911043",
+      "timestamp": "2025-12-15T14:27:19.148664",
       "source": "OpenWeather API"
     },
     {
@@ -58,10 +58,10 @@
         "source": "The Sports DB API",
         "teams": [
           {
-            "latest_game": "W 20-9 vs Panthers (2025-11-25)",
+            "latest_game": "W 37-24 vs Titans (2025-12-14)",
             "league": "NFL",
             "name": "San Francisco 49ers",
-            "next_game": "vs Titans on 2025-12-14",
+            "next_game": "@ Colts on 2025-12-23",
             "record": "Season in progress",
             "standings": "N/A"
           },
@@ -82,9 +82,9 @@
             "standings": "N/A"
           }
         ],
-        "timestamp": "2025-12-14T14:19:06.167829"
+        "timestamp": "2025-12-15T14:27:20.924858"
       },
-      "timestamp": "2025-12-14T14:19:06.167829",
+      "timestamp": "2025-12-15T14:27:20.924858",
       "source": "The Sports DB API"
     },
     {
@@ -93,19 +93,19 @@
         "articles": [
           {
             "category": "technology",
-            "published_at": "2025-12-13T19:37:47Z",
+            "published_at": "2025-12-15T12:30:00Z",
             "source": "TechCrunch",
-            "summary": "Improvements to roads, bridges, and other infrastructure could take a hit as data center construction accelerates.",
-            "title": "AI data center boom could be bad news for other infrastructure projects",
-            "url": "https://techcrunch.com/2025/12/13/ai-data-center-boom-could-be-bad-news-for-other-infrastructure-projects/"
+            "summary": "Mirelo, a German startup that is building AI to add synced sound effects to videos, has raised a $41 million seed round led by Index Ventures and Andreessen Horowitz.",
+            "title": "Mirelo raises $41M from Index and a16z to solve AI video\u2019s silent problem",
+            "url": "https://techcrunch.com/2025/12/15/mirelo-raises-41m-from-index-and-a16z-to-solve-ai-videos-silent-problem/"
           },
           {
             "category": "technology",
-            "published_at": "2025-12-14T13:00:00Z",
+            "published_at": "2025-12-15T14:00:00Z",
             "source": "The Verge",
-            "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on smartphones and digital imagery - real or otherwise - follow Allison Johnson. The Stepback ",
-            "title": "AI image generators are getting better by getting worse",
-            "url": "https://www.theverge.com/column/843883/ai-image-generators-better-worse"
+            "summary": "\"Not ideal.\" \"Completely unacceptable.\" \"Shameless.\" \"Predatory.\" \"Some bullshit.\" \"Total bullshit.\" This is how musicians, producers, and others in the industry are describing the relentless spread o",
+            "title": "Musicians are getting really tired of this AI clone \u2018bullshit\u2019",
+            "url": "https://www.theverge.com/report/844454/musicians-tired-of-ai-clones"
           },
           {
             "category": "technology",
@@ -117,25 +117,25 @@
           },
           {
             "category": "technology",
-            "published_at": "2025-12-14T13:00:00Z",
+            "published_at": "2025-12-15T14:00:00Z",
             "source": "Wired",
-            "summary": "Stay strong, fair-weather friends\u2014you can keep biking to work even through the darkest, coldest days.",
-            "title": "The Best Bike Gear for Your Brisk, Wintry Commute (2025)",
-            "url": "https://www.wired.com/gallery/bike-gear-winter-commute/"
+            "summary": "The world\u2019s top chipmaker wants open source AI to succeed\u2014perhaps because closed models increasingly run on its rivals\u2019 silicon.",
+            "title": "Nvidia Becomes a Major Model Maker With Nemotron 3",
+            "url": "https://www.wired.com/story/nvidia-becomes-major-model-maker-nemotron-3/"
           },
           {
             "category": "technology",
-            "published_at": "2025-12-12T13:10:00Z",
+            "published_at": "2025-12-15T13:10:00Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of&#160;The Download,&#160;our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Expanded carrier screening: Is it worth it? Carrie",
-            "title": "The Download: expanded carrier screening, and how Southeast Asia plans to get to space",
-            "url": "https://www.technologyreview.com/2025/12/12/1129478/the-download-expanded-carrier-screening-and-how-southeast-asia-plans-to-get-to-space/"
+            "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the AI Hype Correction package AI is ",
+            "title": "The Download: introducing the AI Hype Correction package",
+            "url": "https://www.technologyreview.com/2025/12/15/1129719/the-download-introducing-the-ai-hype-correction-package/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2025-12-14T14:19:07.015591"
+        "timestamp": "2025-12-15T14:27:21.819052"
       },
-      "timestamp": "2025-12-14T14:19:07.015591",
+      "timestamp": "2025-12-15T14:27:21.819052",
       "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
@@ -153,9 +153,9 @@
         ],
         "market_summary": "Markets declined on concerns about economic outlook.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2025-12-14T14:19:07.465112"
+        "timestamp": "2025-12-15T14:27:22.166967"
       },
-      "timestamp": "2025-12-14T14:19:07.465112",
+      "timestamp": "2025-12-15T14:27:22.166967",
       "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
