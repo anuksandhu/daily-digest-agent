@@ -1,55 +1,55 @@
 {
-  "date": "2025-12-15",
-  "generated_at": "2025-12-15T14:27:22.777130",
+  "date": "2025-12-16",
+  "generated_at": "2025-12-16T14:25:25.111111",
   "sections": [
     {
       "name": "weather",
       "data": {
         "current": {
-          "description": "Fog",
-          "feels_like": 44.6,
-          "humidity": 95,
-          "icon": "50n",
-          "temp": 44.6,
+          "description": "Few clouds",
+          "feels_like": 49.2,
+          "humidity": 89,
+          "icon": "02n",
+          "temp": 49.2,
           "wind_speed": 0
         },
         "forecast": [
           {
-            "date": "2025-12-15",
-            "description": "Overcast clouds",
-            "icon": "04n",
-            "temp": 54.2
-          },
-          {
             "date": "2025-12-16",
-            "description": "Scattered clouds",
-            "icon": "03n",
-            "temp": 68.3
+            "description": "Broken clouds",
+            "icon": "04n",
+            "temp": 57.9
           },
           {
             "date": "2025-12-17",
-            "description": "Light rain",
-            "icon": "10n",
-            "temp": 66.1
+            "description": "Broken clouds",
+            "icon": "04n",
+            "temp": 61.5
           },
           {
             "date": "2025-12-18",
-            "description": "Few clouds",
-            "icon": "02n",
-            "temp": 64.4
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 64.8
           },
           {
             "date": "2025-12-19",
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 63.5
+          },
+          {
+            "date": "2025-12-20",
             "description": "Broken clouds",
             "icon": "04n",
-            "temp": 64.1
+            "temp": 70.1
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2025-12-15T14:27:19.148664"
+        "timestamp": "2025-12-16T14:25:20.880495"
       },
-      "timestamp": "2025-12-15T14:27:19.148664",
+      "timestamp": "2025-12-16T14:25:20.880495",
       "source": "OpenWeather API"
     },
     {
@@ -77,14 +77,14 @@
             "latest_game": "L 120-127 vs Timberwolves (2025-12-13)",
             "league": "NBA",
             "name": "Golden State Warriors",
-            "next_game": "@ Blazers on 2025-12-15",
+            "next_game": "@ Suns on 2025-12-19",
             "record": "Season in progress",
             "standings": "N/A"
           }
         ],
-        "timestamp": "2025-12-15T14:27:20.924858"
+        "timestamp": "2025-12-16T14:25:23.593826"
       },
-      "timestamp": "2025-12-15T14:27:20.924858",
+      "timestamp": "2025-12-16T14:25:23.593826",
       "source": "The Sports DB API"
     },
     {
@@ -93,49 +93,49 @@
         "articles": [
           {
             "category": "technology",
-            "published_at": "2025-12-15T12:30:00Z",
+            "published_at": "2025-12-16T14:00:00Z",
             "source": "TechCrunch",
-            "summary": "Mirelo, a German startup that is building AI to add synced sound effects to videos, has raised a $41 million seed round led by Index Ventures and Andreessen Horowitz.",
-            "title": "Mirelo raises $41M from Index and a16z to solve AI video\u2019s silent problem",
-            "url": "https://techcrunch.com/2025/12/15/mirelo-raises-41m-from-index-and-a16z-to-solve-ai-videos-silent-problem/"
+            "summary": "Adobe is updating its AI video-generation app, Firefly, with a new video editor that supports precise prompt-based edits, as well as adding new third-party models for image and video generation, inclu",
+            "title": "Adobe Firefly now supports prompt-based video editing, adds more third-party models",
+            "url": "https://techcrunch.com/2025/12/16/adobe-firefly-now-supports-prompt-based-video-editing-adds-more-third-party-models/"
           },
           {
             "category": "technology",
-            "published_at": "2025-12-15T14:00:00Z",
+            "published_at": "2025-12-16T14:00:00Z",
             "source": "The Verge",
-            "summary": "\"Not ideal.\" \"Completely unacceptable.\" \"Shameless.\" \"Predatory.\" \"Some bullshit.\" \"Total bullshit.\" This is how musicians, producers, and others in the industry are describing the relentless spread o",
-            "title": "Musicians are getting really tired of this AI clone \u2018bullshit\u2019",
-            "url": "https://www.theverge.com/report/844454/musicians-tired-of-ai-clones"
+            "summary": "The most impressive thing about Fallout\\'s first season was how well it nailed the tone. The games are a mix of grim and goofy, a postapocalyptic story in a bleak world that's also full of crude jokes ",
+            "title": "Fallout\u2019s goofy apocalypse gets serious in season 2",
+            "url": "https://www.theverge.com/entertainment/844926/fallout-season-2-review-amazon-prime-video"
           },
           {
             "category": "technology",
-            "published_at": "2025-12-13T12:00:06Z",
+            "published_at": "2025-12-15T22:41:43Z",
             "source": "Ars Technica",
-            "summary": "Gov'ts agree to ban or restrict international trade in shark meat, fins, and other products.",
-            "title": "Sharks and rays gain landmark protections as nations move to curb international trade",
-            "url": "https://arstechnica.com/science/2025/12/sharks-and-rays-gain-landmark-protections-as-nations-move-to-curb-international-trade/"
+            "summary": "Dictionary codifies the term that took hold in 2024 for low-quality AI-generated content.",
+            "title": "Merriam-Webster\u2019s word of the year delivers a dismissive verdict on junk AI content",
+            "url": "https://arstechnica.com/ai/2025/12/merriam-webster-crowns-slop-word-of-the-year-as-ai-content-floods-internet/"
           },
           {
             "category": "technology",
-            "published_at": "2025-12-15T14:00:00Z",
+            "published_at": "2025-12-16T13:00:00Z",
             "source": "Wired",
-            "summary": "The world\u2019s top chipmaker wants open source AI to succeed\u2014perhaps because closed models increasingly run on its rivals\u2019 silicon.",
-            "title": "Nvidia Becomes a Major Model Maker With Nemotron 3",
-            "url": "https://www.wired.com/story/nvidia-becomes-major-model-maker-nemotron-3/"
+            "summary": "Sitting at a desk for hours? Upgrade your WFH setup and work in style with these comfy WIRED-tested seats.",
+            "title": "15 Best Office Chairs of 2025\u2014 I\u2019ve Tested Nearly 60 to Pick Them",
+            "url": "https://www.wired.com/gallery/best-office-chairs/"
           },
           {
             "category": "technology",
-            "published_at": "2025-12-15T13:10:00Z",
+            "published_at": "2025-12-16T13:10:00Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the AI Hype Correction package AI is ",
-            "title": "The Download: introducing the AI Hype Correction package",
-            "url": "https://www.technologyreview.com/2025/12/15/1129719/the-download-introducing-the-ai-hype-correction-package/"
+            "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The great AI hype correction of 2025 Some disillus",
+            "title": "The Download: why 2025 has been the year of AI hype correction, and fighting GPS jamming",
+            "url": "https://www.technologyreview.com/2025/12/16/1129944/the-download-why-2025-has-been-the-year-of-ai-hype-correction-and-fighting-gps-jamming/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2025-12-15T14:27:21.819052"
+        "timestamp": "2025-12-16T14:25:24.266669"
       },
-      "timestamp": "2025-12-15T14:27:21.819052",
+      "timestamp": "2025-12-16T14:25:24.266669",
       "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
@@ -143,19 +143,19 @@
       "data": {
         "indexes": [
           {
-            "change": -74.1,
-            "change_percent": -1.08,
+            "change": -10.3,
+            "change_percent": -0.15,
             "is_positive": false,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 6817.6
+            "value": 6807.3
           }
         ],
         "market_summary": "Markets declined on concerns about economic outlook.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2025-12-15T14:27:22.166967"
+        "timestamp": "2025-12-16T14:25:24.650384"
       },
-      "timestamp": "2025-12-15T14:27:22.166967",
+      "timestamp": "2025-12-16T14:25:24.650384",
       "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
