@@ -1,59 +1,58 @@
 {
-  "date": "2025-12-16",
-  "generated_at": "2025-12-16T14:25:25.111111",
+  "date": "2025-12-17",
+  "generated_at": "2025-12-17T14:23:53.781234",
   "sections": [
     {
-      "name": "weather",
       "data": {
         "current": {
-          "description": "Few clouds",
-          "feels_like": 49.2,
-          "humidity": 89,
-          "icon": "02n",
-          "temp": 49.2,
-          "wind_speed": 0
+          "description": "Overcast clouds",
+          "feels_like": 53,
+          "humidity": 90,
+          "icon": "04n",
+          "temp": 53.6,
+          "wind_speed": 5.8
         },
         "forecast": [
           {
-            "date": "2025-12-16",
-            "description": "Broken clouds",
-            "icon": "04n",
-            "temp": 57.9
-          },
-          {
             "date": "2025-12-17",
-            "description": "Broken clouds",
+            "description": "Overcast clouds",
             "icon": "04n",
-            "temp": 61.5
+            "temp": 62.6
           },
           {
             "date": "2025-12-18",
-            "description": "Overcast clouds",
+            "description": "Broken clouds",
             "icon": "04n",
-            "temp": 64.8
+            "temp": 66.2
           },
           {
             "date": "2025-12-19",
-            "description": "Overcast clouds",
+            "description": "Broken clouds",
             "icon": "04n",
-            "temp": 63.5
+            "temp": 65.4
           },
           {
             "date": "2025-12-20",
-            "description": "Broken clouds",
+            "description": "Overcast clouds",
             "icon": "04n",
-            "temp": 70.1
+            "temp": 69.9
+          },
+          {
+            "date": "2025-12-21",
+            "description": "Moderate rain",
+            "icon": "10n",
+            "temp": 67.6
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2025-12-16T14:25:20.880495"
+        "timestamp": "2025-12-17T14:23:49.983624"
       },
-      "timestamp": "2025-12-16T14:25:20.880495",
-      "source": "OpenWeather API"
+      "name": "weather",
+      "source": "OpenWeather API",
+      "timestamp": "2025-12-17T14:23:49.983624"
     },
     {
-      "name": "sports",
       "data": {
         "source": "The Sports DB API",
         "teams": [
@@ -82,81 +81,82 @@
             "standings": "N/A"
           }
         ],
-        "timestamp": "2025-12-16T14:25:23.593826"
+        "timestamp": "2025-12-17T14:23:51.923697"
       },
-      "timestamp": "2025-12-16T14:25:23.593826",
-      "source": "The Sports DB API"
+      "name": "sports",
+      "source": "The Sports DB API",
+      "timestamp": "2025-12-17T14:23:51.923697"
     },
     {
-      "name": "tech",
       "data": {
         "articles": [
           {
             "category": "technology",
-            "published_at": "2025-12-16T14:00:00Z",
+            "published_at": "2025-12-17T12:03:36Z",
             "source": "TechCrunch",
-            "summary": "Adobe is updating its AI video-generation app, Firefly, with a new video editor that supports precise prompt-based edits, as well as adding new third-party models for image and video generation, inclu",
-            "title": "Adobe Firefly now supports prompt-based video editing, adds more third-party models",
-            "url": "https://techcrunch.com/2025/12/16/adobe-firefly-now-supports-prompt-based-video-editing-adds-more-third-party-models/"
+            "summary": "Amazon is in early discussions to invest as much as $10 billion in OpenAI in a deal that would see the AI lab using the e-commerce giant\\'s AI chips.",
+            "title": "Amazon reportedly in talks to invest $10B in OpenAI as circular deals stay popular",
+            "url": "https://techcrunch.com/2025/12/17/amazon-reportedly-in-talks-to-invest-10b-in-openai-as-circular-deals-stay-popular/"
           },
           {
             "category": "technology",
-            "published_at": "2025-12-16T14:00:00Z",
+            "published_at": "2025-12-17T14:14:39Z",
             "source": "The Verge",
-            "summary": "The most impressive thing about Fallout\\'s first season was how well it nailed the tone. The games are a mix of grim and goofy, a postapocalyptic story in a bleak world that's also full of crude jokes ",
-            "title": "Fallout\u2019s goofy apocalypse gets serious in season 2",
-            "url": "https://www.theverge.com/entertainment/844926/fallout-season-2-review-amazon-prime-video"
+            "summary": "Rad Power Bikes, the once dominant electric bicycle brand in the US, filed for Chapter 11 bankruptcy protection this week as it seeks to sell of its company. The move comes less than a month after Rad",
+            "title": "Rad Power Bikes files for bankruptcy protection",
+            "url": "https://www.theverge.com/news/846201/rad-power-bikes-chapter-11-bankruptcy"
           },
           {
             "category": "technology",
-            "published_at": "2025-12-15T22:41:43Z",
+            "published_at": "2025-12-17T12:30:15Z",
             "source": "Ars Technica",
-            "summary": "Dictionary codifies the term that took hold in 2024 for low-quality AI-generated content.",
-            "title": "Merriam-Webster\u2019s word of the year delivers a dismissive verdict on junk AI content",
-            "url": "https://arstechnica.com/ai/2025/12/merriam-webster-crowns-slop-word-of-the-year-as-ai-content-floods-internet/"
+            "summary": "The financial picture around drilling is moving against the Trump administration\u2019s hopes",
+            "title": "US oil industry doesn\u2019t see profit in Trump\u2019s \u201cpro-petroleum\u201d moves",
+            "url": "https://arstechnica.com/science/2025/12/us-oil-industry-doesnt-see-profit-in-trumps-pro-petroleum-moves/"
           },
           {
             "category": "technology",
-            "published_at": "2025-12-16T13:00:00Z",
+            "published_at": "2025-12-17T12:00:00Z",
             "source": "Wired",
-            "summary": "Sitting at a desk for hours? Upgrade your WFH setup and work in style with these comfy WIRED-tested seats.",
-            "title": "15 Best Office Chairs of 2025\u2014 I\u2019ve Tested Nearly 60 to Pick Them",
-            "url": "https://www.wired.com/gallery/best-office-chairs/"
+            "summary": "An online marketplace is selling code modules that simulate the effects of cannabis, ketamine, cocaine, ayahuasca, and alcohol when they are uploaded to ChatGPT.",
+            "title": "People Are Paying to Get Their Chatbots High on \u2018Drugs\u2019",
+            "url": "https://www.wired.com/story/people-are-paying-to-get-their-chatbots-high-on-drugs/"
           },
           {
             "category": "technology",
-            "published_at": "2025-12-16T13:10:00Z",
+            "published_at": "2025-12-17T11:00:00Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The great AI hype correction of 2025 Some disillus",
-            "title": "The Download: why 2025 has been the year of AI hype correction, and fighting GPS jamming",
-            "url": "https://www.technologyreview.com/2025/12/16/1129944/the-download-why-2025-has-been-the-year-of-ai-hype-correction-and-fighting-gps-jamming/"
+            "summary": "Omar Yaghi was a quiet child, diligent, unlikely to roughhouse with his nine siblings. So when he was old enough, his parents tasked him with one of the family\u2019s most vital chores: fetching water. Lik",
+            "title": "This Nobel Prize\u2013winning chemist dreams of making water from thin air",
+            "url": "https://www.technologyreview.com/2025/12/17/1129259/omar-yaghi-chemist-nobel-prize-crystals-water-air/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2025-12-16T14:25:24.266669"
+        "timestamp": "2025-12-17T14:23:52.709586"
       },
-      "timestamp": "2025-12-16T14:25:24.266669",
-      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
+      "name": "tech",
+      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
+      "timestamp": "2025-12-17T14:23:52.709586"
     },
     {
-      "name": "market",
       "data": {
         "indexes": [
           {
-            "change": -10.3,
-            "change_percent": -0.15,
+            "change": -18.6,
+            "change_percent": -0.27,
             "is_positive": false,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 6807.3
+            "value": 6788.7
           }
         ],
         "market_summary": "Markets declined on concerns about economic outlook.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2025-12-16T14:25:24.650384"
+        "timestamp": "2025-12-17T14:23:53.275732"
       },
-      "timestamp": "2025-12-16T14:25:24.650384",
-      "source": "Alpha Vantage API (via ETF proxies)"
+      "name": "market",
+      "source": "Alpha Vantage API (via ETF proxies)",
+      "timestamp": "2025-12-17T14:23:53.275732"
     }
   ]
 }
