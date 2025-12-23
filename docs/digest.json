@@ -1,6 +1,178 @@
 {
-  "date": "2025-12-20",
-  "generated_at": "2025-12-20T14:19:10.221411",
-  "sections": [],
-  "raw_response": "{\"date\": \"2025-12-20\", \"generated_at\": \"2025-12-20T14:19:04.501908\", \"sections\": [{\"data\": {\"current\": {\"description\": \"Broken clouds\", \"feels_like\": 59.2, \"humidity\": 87, \"icon\": \"04n\", \"temp\": 59.5, \"wind_speed\": 10.4}, \"forecast\": [{\"date\": \"2025-12-20\", \"description\": \"Broken clouds\", \"icon\": \"04n\", \"temp\": 66.4}, {\"date\": \"2025-12-21\", \"description\": \"Light rain\", \"icon\": \"10n\", \"temp\": 64.4}, {\"date\": \"2025-12-22\", \"description\": \"Light rain\", \"icon\": \"10n\", \"temp\": 60.1}, {\"date\": \"2025-12-23\", \"description\": \"Light rain\", \"icon\": \"10n\", \"temp\": 62}, {\"date\": \"2025-12-24\", \"description\": \"Light rain\", \"icon\": \"10n\", \"temp\": 60.9}], \"location\": \"San Jose\", \"source\": \"OpenWeather API\", \"timestamp\": \"2025-12-20T14:19:01.671520\"}, \"name\": \"weather\", \"source\": \"OpenWeather API\", \"timestamp\": \"2025-12-20T14:19:01.671520\"}, {\"data\": {\"source\": \"The Sports DB API\", \"teams\": [{\"latest_game\": \"W 37-24 vs Titans (2025-12-14)\", \"league\": \"NFL\", \"name\": \"San Francisco 49ers\", \"next_game\": \"@ Colts on 2025-12-23\", \"record\": \"Season in progress\", \"standings\": \"N/A\"}, {\"latest_game\": \"L 3-5 vs Stars (2025-12-19)\", \"league\": \"NHL\", \"name\": \"San Jose Sharks\", \"next_game\": \"vs Kraken on 2025-12-21\", \"record\": \"Season in progress\", \"standings\": \"N/A\"}, {\"latest_game\": \"L 120-127 vs Timberwolves (2025-12-13)\", \"league\": \"NBA\", \"name\": \"Golden State Warriors\", \"next_game\": \"vs Suns on 2025-12-21\", \"record\": \"Season in progress\", \"standings\": \"N/A\"}], \"timestamp\": \"2025-12-20T14:19:03.285101\"}, \"name\": \"sports\", \"source\": \"The Sports DB API\", \"timestamp\": \"2025-12-20T14:19:03.285101\"}, {\"data\": {\"articles\": [{\"category\": \"technology\", \"published_at\": \"2025-12-20T02:31:43Z\", \"source\": \"TechCrunch\", \"summary\": \"The newest episode raises questions about whether Sequoia\\'s new leadership -- managing partners Alfred Lin and Pat Grady, who took over last month -- can or will rein in Maguire\\'s social media activit\", \"title\": \"Sequoia partner spreads debunked Brown shooting theory, testing new leadership\", \"url\": \"https://techcrunch.com/2025/12/19/sequoia-partner-spreads-debunked-brown-shooting-theory-testing-new-leadership/\"}, {\"category\": \"technology\", \"published_at\": \"2025-12-20T14:00:00Z\", \"source\": \"The Verge\", \"summary\": \"Even at $1,000, the Xbox Ally X handheld didn\\'t ship with magnetic drift-resistant joysticks, and neither did the $600 model. But for an extra $20 at Amazon, you can change that today - with officiall\", \"title\": \"You can buy your Xbox Ally an official pair of anti-drift joysticks\", \"url\": \"https://www.theverge.com/games/848568/xbox-ally-gulikit-tmr-joysticks\"}, {\"category\": \"technology\", \"published_at\": \"2025-12-19T21:18:07Z\", \"source\": \"Ars Technica\", \"summary\": \"LG says it\\'ll let people delete the Copilot icon. But TV chatbots aren\\'t going away.\", \"title\": \"LG TVs\\u2019 unremovable Copilot shortcut is the least of smart TVs\\u2019 AI problems\", \"url\": \"https://arstechnica.com/gadgets/2025/12/lg-tvs-unremovable-copilot-shortcut-is-the-least-of-smart-tvs-ai-problems/\"}, {\"category\": \"technology\", \"published_at\": \"2025-12-20T12:00:00Z\", \"source\": \"Wired\", \"summary\": \"The administration\u2019s pro-industry tilt\u2014across three executive agencies\u2014is feeding the MAHA movement\u2019s growing discontent.\", \"title\": \"Trump\u2019s Agriculture Bailout Is Alienating His MAHA Base\", \"url\": \"https://www.wired.com/story/trumps-agriculture-bailout-is-alienating-his-maha-base/\"}, {\"category\": \"technology\", \"published_at\": \"2025-12-19T13:10:00Z\", \"source\": \"MIT Technology Review\", \"summary\": \"This is today&#8217;s edition of\\u00a0The Download,\\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. China figured out how to sell EVs. Now it has to b\", \"title\": \"The Download: China\u2019s dying EV batteries, and why AI doomers are doubling down\", \"url\": \"https://www.technologyreview.com/2025/12/19/1130167/the-download-chinas-dying-ev-batteries-and-why-ai-doomers-are-doubling-down/\"}], \"source\": \"RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)\", \"timestamp\": \"2025-12-20T14:19:04.071141\"}, \"name\": \"tech\", \"source\": \"RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)\", \"timestamp\": \"2025-12-20T14:19:04.071141\"}, {\"data\": {\"indexes\": [{\"change\": 60.96, \"change_percent\": 0.9, \"is_positive\": True, \"name\": \"S&P 500\", \"symbol\": \"^GSPC\", \"value\": 6805.9}], \"market_summary\": \"Markets rallied across all major indexes on positive sentiment.\", \"source\": \"Alpha Vantage API (via ETF proxies)\", \"timestamp\": \"2025-12-20T14:19:04.284940\"}, \"name\": \"market\", \"source\": \"Alpha Vantage API (via ETF proxies)\", \"timestamp\": \"2025-12-20T14:19:04.284940\"}]} a\u00e7\u0131s\u0131ndan"
+  "date": "2025-12-23",
+  "generated_at": "2025-12-23T14:22:35.123456",
+  "sections": [
+    {
+      "name": "weather",
+      "data": {
+        "current": {
+          "description": "Broken clouds",
+          "feels_like": 55.3,
+          "humidity": 91,
+          "icon": "04n",
+          "temp": 55.8,
+          "wind_speed": 8.1
+        },
+        "forecast": [
+          {
+            "date": "2025-12-23",
+            "description": "Broken clouds",
+            "icon": "04n",
+            "temp": 60.9
+          },
+          {
+            "date": "2025-12-24",
+            "description": "Light rain",
+            "icon": "10n",
+            "temp": 61.8
+          },
+          {
+            "date": "2025-12-25",
+            "description": "Moderate rain",
+            "icon": "10n",
+            "temp": 59
+          },
+          {
+            "date": "2025-12-26",
+            "description": "Light rain",
+            "icon": "10n",
+            "temp": 55.4
+          },
+          {
+            "date": "2025-12-27",
+            "description": "Light rain",
+            "icon": "10n",
+            "temp": 58.2
+          }
+        ],
+        "location": "San Jose",
+        "source": "OpenWeather API",
+        "timestamp": "2025-12-23T14:22:31.889505"
+      },
+      "timestamp": "2025-12-23T14:22:31.889505",
+      "source": "OpenWeather API"
+    },
+    {
+      "name": "sports",
+      "data": {
+        "source": "The Sports DB API",
+        "teams": [
+          {
+            "latest_game": "W 37-24 vs Titans (2025-12-14)",
+            "league": "NFL",
+            "name": "San Francisco 49ers",
+            "next_game": "@ Colts on 2025-12-23",
+            "record": "Season in progress",
+            "standings": "N/A"
+          },
+          {
+            "latest_game": "L 2-4 vs Kraken (2025-12-21)",
+            "league": "NHL",
+            "name": "San Jose Sharks",
+            "next_game": "@ Knights on 2025-12-24",
+            "record": "Season in progress",
+            "standings": "N/A"
+          },
+          {
+            "latest_game": "W 119-116 vs Suns (2025-12-21)",
+            "league": "NBA",
+            "name": "Golden State Warriors",
+            "next_game": "vs Magic on 2025-12-23",
+            "record": "Season in progress",
+            "standings": "N/A"
+          }
+        ],
+        "timestamp": "2025-12-23T14:22:33.666409"
+      },
+      "timestamp": "2025-12-23T14:22:33.666409",
+      "source": "The Sports DB API"
+    },
+    {
+      "name": "tech",
+      "data": {
+        "articles": [
+          {
+            "category": "technology",
+            "published_at": "2025-12-23T14:00:00Z",
+            "source": "TechCrunch",
+            "summary": "Move over, Santa. Now there\u2019s another magical character for kids to track: the Tooth Fairy. After making a personalized Tooth Fairy video for his nephew, Oliver Finel noticed a gap. While there are pl",
+            "title": "The tooth fairy just got reimagined for the tech-savvy generation",
+            "url": "https://techcrunch.com/2025/12/23/the-tooth-fairy-just-got-reimagined-for-the-tech-savvy-generation/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2025-12-23T13:30:00Z",
+            "source": "The Verge",
+            "summary": "This morning, I asked my Alexa-enabled Bosch coffee machine to make me a coffee. Instead of running my routine, it told me it couldn\\'t do that. Ever since I upgraded to Alexa Plus, Amazon\\'s generative",
+            "title": "How AI broke the smart home in 2025",
+            "url": "https://www.theverge.com/tech/845958/ai-smart-home-broken"
+          },
+          {
+            "category": "technology",
+            "published_at": "2025-12-22T17:43:42Z",
+            "source": "Ars Technica",
+            "summary": "\"After years of war, no one could stand between my men and home. Not even me.\"",
+            "title": "Odyssey trailer brings the myth to vivid life",
+            "url": "https://arstechnica.com/culture/2025/12/odyssey-trailer-brings-the-myth-to-vivid-life/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2025-12-23T11:30:00Z",
+            "source": "Wired",
+            "summary": "Users of AI image generators are offering each other instructions on how to use the tech to alter pictures of women into realistic, revealing deepfakes.",
+            "title": "Google\u2019s and OpenAI\u2019s Chatbots Can Strip Women in Photos Down to Bikinis",
+            "url": "https://www.wired.com/story/google-and-openais-chatbots-can-strip-women-in-photos-down-to-bikinis/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2025-12-23T10:00:00Z",
+            "source": "MIT Technology Review",
+            "summary": "Demis Hassabis, CEO of Google DeepMind, summed it up in three words: \u201cThis is embarrassing.\u201d&#160;&#160; Hassabis was replying on X to an overexcited post by S\u00e9bastien Bubeck, a research scientist at ",
+            "title": "How social media encourages the worst of AI boosterism",
+            "url": "https://www.technologyreview.com/2025/12/23/1130393/how-social-media-encourages-the-worst-of-ai-boosterism/"
+          }
+        ],
+        "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
+        "timestamp": "2025-12-23T14:22:34.261629"
+      },
+      "timestamp": "2025-12-23T14:22:34.261629",
+      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
+    },
+    {
+      "name": "market",
+      "data": {
+        "indexes": [
+          {
+            "change": 42.4,
+            "change_percent": 0.62,
+            "is_positive": true,
+            "name": "S&P 500",
+            "symbol": "^GSPC",
+            "value": 6848.3
+          },
+          {
+            "change": 85.8,
+            "change_percent": 0.54,
+            "is_positive": true,
+            "name": "NASDAQ",
+            "symbol": "^IXIC",
+            "value": 15850.6
+          },
+          {
+            "change": 210.2,
+            "change_percent": 0.59,
+            "is_positive": true,
+            "name": "DOW JONES",
+            "symbol": "^DJI",
+            "value": 35500.1
+          }
+        ],
+        "market_summary": "Markets rallied across all major indexes on positive sentiment.",
+        "source": "Alpha Vantage API (via ETF proxies)",
+        "timestamp": "2025-12-23T14:22:34.635158"
+      },
+      "timestamp": "2025-12-23T14:22:34.635158",
+      "source": "Alpha Vantage API (via ETF proxies)"
+    }
+  ]
 }
