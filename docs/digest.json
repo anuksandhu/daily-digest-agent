@@ -1,55 +1,55 @@
 {
-  "date": "2025-12-23",
-  "generated_at": "2025-12-23T14:22:35.123456",
+  "date": "2025-12-26",
+  "generated_at": "2025-12-26T14:21:28.370384",
   "sections": [
     {
       "name": "weather",
       "data": {
         "current": {
-          "description": "Broken clouds",
-          "feels_like": 55.3,
-          "humidity": 91,
-          "icon": "04n",
-          "temp": 55.8,
+          "description": "Few clouds",
+          "feels_like": 51.1,
+          "humidity": 82,
+          "icon": "02n",
+          "temp": 52.3,
           "wind_speed": 8.1
         },
         "forecast": [
           {
-            "date": "2025-12-23",
-            "description": "Broken clouds",
-            "icon": "04n",
-            "temp": 60.9
-          },
-          {
-            "date": "2025-12-24",
-            "description": "Light rain",
-            "icon": "10n",
-            "temp": 61.8
-          },
-          {
-            "date": "2025-12-25",
-            "description": "Moderate rain",
-            "icon": "10n",
-            "temp": 59
-          },
-          {
             "date": "2025-12-26",
-            "description": "Light rain",
-            "icon": "10n",
-            "temp": 55.4
+            "description": "Few clouds",
+            "icon": "02n",
+            "temp": 55.9
           },
           {
             "date": "2025-12-27",
             "description": "Light rain",
             "icon": "10n",
-            "temp": 58.2
+            "temp": 54.6
+          },
+          {
+            "date": "2025-12-28",
+            "description": "Broken clouds",
+            "icon": "04n",
+            "temp": 57.1
+          },
+          {
+            "date": "2025-12-29",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 61
+          },
+          {
+            "date": "2025-12-30",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 64.3
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2025-12-23T14:22:31.889505"
+        "timestamp": "2025-12-26T14:21:24.822956"
       },
-      "timestamp": "2025-12-23T14:22:31.889505",
+      "timestamp": "2025-12-26T14:21:24.822956",
       "source": "OpenWeather API"
     },
     {
@@ -61,7 +61,7 @@
             "latest_game": "W 37-24 vs Titans (2025-12-14)",
             "league": "NFL",
             "name": "San Francisco 49ers",
-            "next_game": "@ Colts on 2025-12-23",
+            "next_game": "vs Bears on 2025-12-29",
             "record": "Season in progress",
             "standings": "N/A"
           },
@@ -69,22 +69,22 @@
             "latest_game": "L 2-4 vs Kraken (2025-12-21)",
             "league": "NHL",
             "name": "San Jose Sharks",
-            "next_game": "@ Knights on 2025-12-24",
+            "next_game": "@ Canucks on 2025-12-28",
             "record": "Season in progress",
             "standings": "N/A"
           },
           {
-            "latest_game": "W 119-116 vs Suns (2025-12-21)",
+            "latest_game": "W 126-116 vs Mavericks (2025-12-25)",
             "league": "NBA",
             "name": "Golden State Warriors",
-            "next_game": "vs Magic on 2025-12-23",
+            "next_game": "@ Raptors on 2025-12-28",
             "record": "Season in progress",
             "standings": "N/A"
           }
         ],
-        "timestamp": "2025-12-23T14:22:33.666409"
+        "timestamp": "2025-12-26T14:21:26.722551"
       },
-      "timestamp": "2025-12-23T14:22:33.666409",
+      "timestamp": "2025-12-26T14:21:26.722551",
       "source": "The Sports DB API"
     },
     {
@@ -93,49 +93,49 @@
         "articles": [
           {
             "category": "technology",
-            "published_at": "2025-12-23T14:00:00Z",
+            "published_at": "2025-12-24T22:03:16Z",
             "source": "TechCrunch",
-            "summary": "Move over, Santa. Now there\u2019s another magical character for kids to track: the Tooth Fairy. After making a personalized Tooth Fairy video for his nephew, Oliver Finel noticed a gap. While there are pl",
-            "title": "The tooth fairy just got reimagined for the tech-savvy generation",
-            "url": "https://techcrunch.com/2025/12/23/the-tooth-fairy-just-got-reimagined-for-the-tech-savvy-generation/"
+            "summary": "With Groq on its side, Nvidia is poised to become even more dominant in chip manufacturing.",
+            "title": "Nvidia to license AI chip challenger Groq\u2019s tech and hire its CEO",
+            "url": "https://techcrunch.com/2025/12/24/nvidia-acquires-ai-chip-challenger-groq-for-20b-report-says/"
           },
           {
             "category": "technology",
-            "published_at": "2025-12-23T13:30:00Z",
+            "published_at": "2025-12-25T14:00:00Z",
             "source": "The Verge",
-            "summary": "This morning, I asked my Alexa-enabled Bosch coffee machine to make me a coffee. Instead of running my routine, it told me it couldn\\'t do that. Ever since I upgraded to Alexa Plus, Amazon\\'s generative",
-            "title": "How AI broke the smart home in 2025",
-            "url": "https://www.theverge.com/tech/845958/ai-smart-home-broken"
+            "summary": "When your kid starts showing a preference for one of their stuffed animals, you're supposed to buy a backup in case it goes missing. I've heard this advice again and again, but never got around to buy",
+            "title": "I re-created Google&#8217;s cute Gemini ad with my own kid&#8217;s stuffie, and I wish I hadn&#8217;t",
+            "url": "https://www.theverge.com/tech/849998/gemini-ai-stuffed-animal-commercial"
           },
           {
             "category": "technology",
-            "published_at": "2025-12-22T17:43:42Z",
+            "published_at": "2025-12-24T13:30:59Z",
             "source": "Ars Technica",
-            "summary": "\"After years of war, no one could stand between my men and home. Not even me.\"",
-            "title": "Odyssey trailer brings the myth to vivid life",
-            "url": "https://arstechnica.com/culture/2025/12/odyssey-trailer-brings-the-myth-to-vivid-life/"
+            "summary": "The bill would significantly curtail scope of the federal environmental review process.",
+            "title": "SPEED Act passes in House despite changes that threaten clean power projects",
+            "url": "https://arstechnica.com/tech-policy/2025/12/speed-act-passes-in-house-despite-changes-that-threaten-clean-power-projects/"
           },
           {
             "category": "technology",
-            "published_at": "2025-12-23T11:30:00Z",
+            "published_at": "2025-12-26T12:00:00Z",
             "source": "Wired",
-            "summary": "Users of AI image generators are offering each other instructions on how to use the tech to alter pictures of women into realistic, revealing deepfakes.",
-            "title": "Google\u2019s and OpenAI\u2019s Chatbots Can Strip Women in Photos Down to Bikinis",
-            "url": "https://www.wired.com/story/google-and-openais-chatbots-can-strip-women-in-photos-down-to-bikinis/"
+            "summary": "In Pirates of the Caribbean, Jack and Will use an overturned dinghy to hold air underwater. Madness or brilliance?",
+            "title": "Could You Use a Rowboat to Walk on the Seafloor Like Jack Sparrow?",
+            "url": "https://www.wired.com/story/using-a-rowboat-to-walk-on-the-seafloor-like-jack-sparrow/"
           },
           {
             "category": "technology",
-            "published_at": "2025-12-23T10:00:00Z",
+            "published_at": "2025-12-26T12:00:00Z",
             "source": "MIT Technology Review",
-            "summary": "Demis Hassabis, CEO of Google DeepMind, summed it up in three words: \u201cThis is embarrassing.\u201d&#160;&#160; Hassabis was replying on X to an overexcited post by S\u00e9bastien Bubeck, a research scientist at ",
-            "title": "How social media encourages the worst of AI boosterism",
-            "url": "https://www.technologyreview.com/2025/12/23/1130393/how-social-media-encourages-the-worst-of-ai-boosterism/"
+            "summary": "It&#8217;s been a busy and productive year here at MIT Technology Review. We published magazine issues on power, creativity, innovation, bodies, relationships, and security. We hosted 14 exclusive vir",
+            "title": "MIT Technology Review\u2019s most popular stories of 2025",
+            "url": "https://www.technologyreview.com/2025/12/26/1130318/mit-technology-review-most-popular-stories-2025/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2025-12-23T14:22:34.261629"
+        "timestamp": "2025-12-26T14:21:27.764288"
       },
-      "timestamp": "2025-12-23T14:22:34.261629",
+      "timestamp": "2025-12-26T14:21:27.764288",
       "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
@@ -143,35 +143,35 @@
       "data": {
         "indexes": [
           {
-            "change": 42.4,
-            "change_percent": 0.62,
+            "change": 24.2,
+            "change_percent": 0.35,
             "is_positive": true,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 6848.3
+            "value": 6903.8
           },
           {
-            "change": 85.8,
-            "change_percent": 0.54,
+            "change": 24.2,
+            "change_percent": 0.35,
             "is_positive": true,
             "name": "NASDAQ",
             "symbol": "^IXIC",
-            "value": 15850.6
+            "value": 14646.0
           },
           {
-            "change": 210.2,
-            "change_percent": 0.59,
+            "change": 24.2,
+            "change_percent": 0.35,
             "is_positive": true,
             "name": "DOW JONES",
             "symbol": "^DJI",
-            "value": 35500.1
+            "value": 39000.0
           }
         ],
         "market_summary": "Markets rallied across all major indexes on positive sentiment.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2025-12-23T14:22:34.635158"
+        "timestamp": "2025-12-26T14:21:28.370384"
       },
-      "timestamp": "2025-12-23T14:22:34.635158",
+      "timestamp": "2025-12-26T14:21:28.370384",
       "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
