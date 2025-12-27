@@ -1,55 +1,55 @@
 {
-  "date": "2025-12-26",
-  "generated_at": "2025-12-26T14:21:28.370384",
+  "date": "2025-12-27",
+  "generated_at": "2025-12-27T14:19:33.123456",
   "sections": [
     {
       "name": "weather",
       "data": {
         "current": {
-          "description": "Few clouds",
-          "feels_like": 51.1,
-          "humidity": 82,
-          "icon": "02n",
-          "temp": 52.3,
-          "wind_speed": 8.1
+          "description": "Scattered clouds",
+          "feels_like": 44.2,
+          "humidity": 92,
+          "icon": "03n",
+          "temp": 47,
+          "wind_speed": 5.8
         },
         "forecast": [
           {
-            "date": "2025-12-26",
-            "description": "Few clouds",
-            "icon": "02n",
-            "temp": 55.9
-          },
-          {
             "date": "2025-12-27",
-            "description": "Light rain",
-            "icon": "10n",
-            "temp": 54.6
+            "description": "Scattered clouds",
+            "icon": "03n",
+            "temp": 52.7
           },
           {
             "date": "2025-12-28",
-            "description": "Broken clouds",
-            "icon": "04n",
-            "temp": 57.1
+            "description": "Scattered clouds",
+            "icon": "03n",
+            "temp": 58.1
           },
           {
             "date": "2025-12-29",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 61
+            "temp": 60.8
           },
           {
             "date": "2025-12-30",
-            "description": "Clear sky",
-            "icon": "01n",
-            "temp": 64.3
+            "description": "Few clouds",
+            "icon": "02n",
+            "temp": 63.3
+          },
+          {
+            "date": "2025-12-31",
+            "description": "Few clouds",
+            "icon": "02n",
+            "temp": 64.5
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2025-12-26T14:21:24.822956"
+        "timestamp": "2025-12-27T14:19:29.914207"
       },
-      "timestamp": "2025-12-26T14:21:24.822956",
+      "timestamp": "2025-12-27T14:19:29.914207",
       "source": "OpenWeather API"
     },
     {
@@ -82,9 +82,9 @@
             "standings": "N/A"
           }
         ],
-        "timestamp": "2025-12-26T14:21:26.722551"
+        "timestamp": "2025-12-27T14:19:31.428524"
       },
-      "timestamp": "2025-12-26T14:21:26.722551",
+      "timestamp": "2025-12-27T14:19:31.428524",
       "source": "The Sports DB API"
     },
     {
@@ -93,35 +93,27 @@
         "articles": [
           {
             "category": "technology",
-            "published_at": "2025-12-24T22:03:16Z",
+            "published_at": "2025-12-26T22:52:08Z",
             "source": "TechCrunch",
-            "summary": "With Groq on its side, Nvidia is poised to become even more dominant in chip manufacturing.",
-            "title": "Nvidia to license AI chip challenger Groq\u2019s tech and hire its CEO",
-            "url": "https://techcrunch.com/2025/12/24/nvidia-acquires-ai-chip-challenger-groq-for-20b-report-says/"
+            "summary": "French insect farming company \u0178nsect was recently placed into judicial liquidation for insolvency, despite raising over $600 million.",
+            "title": "How reality crushed \u0178nsect, the French startup that had raised over $600M for insect farming",
+            "url": "https://techcrunch.com/2025/12/26/how-reality-crushed-ynsect-the-french-startup-that-had-raised-over-600m-for-insect-farming/"
           },
           {
             "category": "technology",
-            "published_at": "2025-12-25T14:00:00Z",
+            "published_at": "2025-12-26T22:14:47Z",
             "source": "The Verge",
-            "summary": "When your kid starts showing a preference for one of their stuffed animals, you're supposed to buy a backup in case it goes missing. I've heard this advice again and again, but never got around to buy",
-            "title": "I re-created Google&#8217;s cute Gemini ad with my own kid&#8217;s stuffie, and I wish I hadn&#8217;t",
-            "url": "https://www.theverge.com/tech/849998/gemini-ai-stuffed-animal-commercial"
+            "summary": "Dominion Energy, an offshore wind developer and utility serving Virginia's \"data center alley,\" filed suit against the Trump administration this week over its decision to pause federal leases for larg",
+            "title": "Trump\u2019s war on offshore wind faces another lawsuit",
+            "url": "https://www.theverge.com/news/850461/offshore-wind-trump-lawsuit-dominion-energy-ai-data-center"
           },
           {
             "category": "technology",
-            "published_at": "2025-12-24T13:30:59Z",
-            "source": "Ars Technica",
-            "summary": "The bill would significantly curtail scope of the federal environmental review process.",
-            "title": "SPEED Act passes in House despite changes that threaten clean power projects",
-            "url": "https://arstechnica.com/tech-policy/2025/12/speed-act-passes-in-house-despite-changes-that-threaten-clean-power-projects/"
-          },
-          {
-            "category": "technology",
-            "published_at": "2025-12-26T12:00:00Z",
+            "published_at": "2025-12-27T12:00:00Z",
             "source": "Wired",
-            "summary": "In Pirates of the Caribbean, Jack and Will use an overturned dinghy to hold air underwater. Madness or brilliance?",
-            "title": "Could You Use a Rowboat to Walk on the Seafloor Like Jack Sparrow?",
-            "url": "https://www.wired.com/story/using-a-rowboat-to-walk-on-the-seafloor-like-jack-sparrow/"
+            "summary": "Stranger Things, City of Shadows, and Tomb Raider: The Legend of Lara Croft are just a few of the shows you need to watch on Netflix this month.",
+            "title": "The 48 Best Shows on Netflix, WIRED's Picks (December 2025)",
+            "url": "https://www.wired.com/story/netflix-best-shows-this-week/"
           },
           {
             "category": "technology",
@@ -130,12 +122,20 @@
             "summary": "It&#8217;s been a busy and productive year here at MIT Technology Review. We published magazine issues on power, creativity, innovation, bodies, relationships, and security. We hosted 14 exclusive vir",
             "title": "MIT Technology Review\u2019s most popular stories of 2025",
             "url": "https://www.technologyreview.com/2025/12/26/1130318/mit-technology-review-most-popular-stories-2025/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2025-12-26T08:00:00Z",
+            "source": "VentureBeat",
+            "summary": "For the past year, enterprise decision-makers have faced a rigid architectural trade-off in voice AI: adopt a \"Native\" speech-to-speech (S2S) model for speed and emotional fidelity, or stick",
+            "title": "The enterprise voice AI split: Why architecture \u2014 not model quality \u2014 defines your compliance posture",
+            "url": "https://venturebeat.com/security/the-enterprise-voice-ai-split-why-architecture-not-model-quality-defines"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2025-12-26T14:21:27.764288"
+        "timestamp": "2025-12-27T14:19:32.413527"
       },
-      "timestamp": "2025-12-26T14:21:27.764288",
+      "timestamp": "2025-12-27T14:19:32.413527",
       "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
@@ -143,35 +143,35 @@
       "data": {
         "indexes": [
           {
-            "change": 24.2,
-            "change_percent": 0.35,
-            "is_positive": true,
+            "change": -0.7,
+            "change_percent": -0.01,
+            "is_positive": false,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 6903.8
+            "value": 6903.1
           },
           {
-            "change": 24.2,
-            "change_percent": 0.35,
-            "is_positive": true,
+            "change": -0.15,
+            "change_percent": -0.001,
+            "is_positive": false,
             "name": "NASDAQ",
             "symbol": "^IXIC",
-            "value": 14646.0
+            "value": 15487.5
           },
           {
-            "change": 24.2,
-            "change_percent": 0.35,
-            "is_positive": true,
+            "change": -50.2,
+            "change_percent": -0.14,
+            "is_positive": false,
             "name": "DOW JONES",
             "symbol": "^DJI",
-            "value": 39000.0
+            "value": 35890.1
           }
         ],
-        "market_summary": "Markets rallied across all major indexes on positive sentiment.",
+        "market_summary": "Markets declined on concerns about economic outlook.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2025-12-26T14:21:28.370384"
+        "timestamp": "2025-12-27T14:19:32.825718"
       },
-      "timestamp": "2025-12-26T14:21:28.370384",
+      "timestamp": "2025-12-27T14:19:32.825718",
       "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
