@@ -1,55 +1,55 @@
 {
-  "date": "2025-12-27",
-  "generated_at": "2025-12-27T14:19:33.123456",
+  "date": "2025-12-28",
+  "generated_at": "2025-12-28T14:20:39.345123",
   "sections": [
     {
       "name": "weather",
       "data": {
         "current": {
-          "description": "Scattered clouds",
-          "feels_like": 44.2,
-          "humidity": 92,
-          "icon": "03n",
-          "temp": 47,
-          "wind_speed": 5.8
+          "description": "Few clouds",
+          "feels_like": 41.5,
+          "humidity": 87,
+          "icon": "02n",
+          "temp": 41.5,
+          "wind_speed": 1
         },
         "forecast": [
           {
-            "date": "2025-12-27",
-            "description": "Scattered clouds",
-            "icon": "03n",
-            "temp": 52.7
-          },
-          {
             "date": "2025-12-28",
-            "description": "Scattered clouds",
-            "icon": "03n",
-            "temp": 58.1
+            "description": "Few clouds",
+            "icon": "02n",
+            "temp": 51.9
           },
           {
             "date": "2025-12-29",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 60.8
+            "temp": 61.5
           },
           {
             "date": "2025-12-30",
-            "description": "Few clouds",
-            "icon": "02n",
-            "temp": 63.3
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 64.7
           },
           {
             "date": "2025-12-31",
-            "description": "Few clouds",
-            "icon": "02n",
-            "temp": 64.5
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 59.9
+          },
+          {
+            "date": "2026-01-01",
+            "description": "Light rain",
+            "icon": "10n",
+            "temp": 59.9
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2025-12-27T14:19:29.914207"
+        "timestamp": "2025-12-28T14:20:35.456268"
       },
-      "timestamp": "2025-12-27T14:19:29.914207",
+      "timestamp": "2025-12-28T14:20:35.456268",
       "source": "OpenWeather API"
     },
     {
@@ -82,9 +82,9 @@
             "standings": "N/A"
           }
         ],
-        "timestamp": "2025-12-27T14:19:31.428524"
+        "timestamp": "2025-12-28T14:20:37.561961"
       },
-      "timestamp": "2025-12-27T14:19:31.428524",
+      "timestamp": "2025-12-28T14:20:37.561961",
       "source": "The Sports DB API"
     },
     {
@@ -93,27 +93,27 @@
         "articles": [
           {
             "category": "technology",
-            "published_at": "2025-12-26T22:52:08Z",
+            "published_at": "2025-12-27T20:39:07Z",
             "source": "TechCrunch",
-            "summary": "French insect farming company \u0178nsect was recently placed into judicial liquidation for insolvency, despite raising over $600 million.",
-            "title": "How reality crushed \u0178nsect, the French startup that had raised over $600M for insect farming",
-            "url": "https://techcrunch.com/2025/12/26/how-reality-crushed-ynsect-the-french-startup-that-had-raised-over-600m-for-insect-farming/"
+            "summary": "Six influencers recently announced that they are leaving esports group FaZe Clan following unsuccessful contract negotiations with new management.",
+            "title": "FaZe Clan\u2019s future is uncertain after influencers depart",
+            "url": "https://techcrunch.com/2025/12/27/faze-clans-future-is-uncertain-after-influencers-depart/"
           },
           {
             "category": "technology",
-            "published_at": "2025-12-26T22:14:47Z",
+            "published_at": "2025-12-27T19:00:35Z",
             "source": "The Verge",
-            "summary": "Dominion Energy, an offshore wind developer and utility serving Virginia's \"data center alley,\" filed suit against the Trump administration this week over its decision to pause federal leases for larg",
-            "title": "Trump\u2019s war on offshore wind faces another lawsuit",
-            "url": "https://www.theverge.com/news/850461/offshore-wind-trump-lawsuit-dominion-energy-ai-data-center"
+            "summary": "OpenAI is hiring a Head of Preparedness. Or, in other words, someone whose primary job is to think about all the ways AI could go horribly, horribly wrong. In a post on X, Sam Altman announced the pos",
+            "title": "Sam Altman is hiring someone to worry about the dangers of AI",
+            "url": "https://www.theverge.com/news/850537/sam-altman-openai-head-of-preparedness"
           },
           {
             "category": "technology",
-            "published_at": "2025-12-27T12:00:00Z",
+            "published_at": "2025-12-28T13:09:00Z",
             "source": "Wired",
-            "summary": "Stranger Things, City of Shadows, and Tomb Raider: The Legend of Lara Croft are just a few of the shows you need to watch on Netflix this month.",
-            "title": "The 48 Best Shows on Netflix, WIRED's Picks (December 2025)",
-            "url": "https://www.wired.com/story/netflix-best-shows-this-week/"
+            "summary": "Many people rely on the sleep aid melatonin to help them get a more restful night\u2019s sleep. But is it safe? And how much is too much?",
+            "title": "How Much Melatonin Should You Be Taking? (2026)",
+            "url": "https://www.wired.com/story/how-much-melatonin-should-i-take-2026/"
           },
           {
             "category": "technology",
@@ -125,17 +125,17 @@
           },
           {
             "category": "technology",
-            "published_at": "2025-12-26T08:00:00Z",
+            "published_at": "2025-12-27T19:00:00Z",
             "source": "VentureBeat",
-            "summary": "For the past year, enterprise decision-makers have faced a rigid architectural trade-off in voice AI: adopt a \"Native\" speech-to-speech (S2S) model for speed and emotional fidelity, or stick",
-            "title": "The enterprise voice AI split: Why architecture \u2014 not model quality \u2014 defines your compliance posture",
-            "url": "https://venturebeat.com/security/the-enterprise-voice-ai-split-why-architecture-not-model-quality-defines"
+            "summary": "The drumbeat for AI is deafening. We\u2019re surrounded by a mix of hype, fear and intense pressure to do something with this technology that seems to be advancing at the speed of light. For CIOs and enter",
+            "title": "Why CIOs must lead AI experimentation, not just govern it",
+            "url": "https://venturebeat.com/technology/why-cios-must-lead-ai-experimentation-not-just-govern-it"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2025-12-27T14:19:32.413527"
+        "timestamp": "2025-12-28T14:20:38.493567"
       },
-      "timestamp": "2025-12-27T14:19:32.413527",
+      "timestamp": "2025-12-28T14:20:38.493567",
       "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
@@ -149,29 +149,13 @@
             "name": "S&P 500",
             "symbol": "^GSPC",
             "value": 6903.1
-          },
-          {
-            "change": -0.15,
-            "change_percent": -0.001,
-            "is_positive": false,
-            "name": "NASDAQ",
-            "symbol": "^IXIC",
-            "value": 15487.5
-          },
-          {
-            "change": -50.2,
-            "change_percent": -0.14,
-            "is_positive": false,
-            "name": "DOW JONES",
-            "symbol": "^DJI",
-            "value": 35890.1
           }
         ],
         "market_summary": "Markets declined on concerns about economic outlook.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2025-12-27T14:19:32.825718"
+        "timestamp": "2025-12-28T14:20:38.889371"
       },
-      "timestamp": "2025-12-27T14:19:32.825718",
+      "timestamp": "2025-12-28T14:20:38.889371",
       "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
