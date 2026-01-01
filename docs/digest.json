@@ -1,58 +1,59 @@
 {
-  "date": "2025-12-31",
-  "generated_at": "2025-12-31T14:21:16.726617",
+  "date": "2026-01-01",
+  "generated_at": "2026-01-01T14:20:59.000000",
   "sections": [
     {
+      "name": "weather",
       "data": {
         "current": {
-          "description": "Broken clouds",
-          "feels_like": 48,
-          "humidity": 88,
-          "icon": "04n",
-          "temp": 48,
-          "wind_speed": 0
+          "description": "Mist",
+          "feels_like": 50.4,
+          "humidity": 94,
+          "icon": "50n",
+          "temp": 51.2,
+          "wind_speed": 4.6
         },
         "forecast": [
           {
-            "date": "2025-12-31",
-            "description": "Light rain",
-            "icon": "10n",
-            "temp": 50.9
-          },
-          {
             "date": "2026-01-01",
-            "description": "Light rain",
+            "description": "Moderate rain",
             "icon": "10n",
-            "temp": 62.3
+            "temp": 56.8
           },
           {
             "date": "2026-01-02",
-            "description": "Scattered clouds",
-            "icon": "03n",
-            "temp": 61.9
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 61.8
           },
           {
             "date": "2026-01-03",
-            "description": "Moderate rain",
+            "description": "Light rain",
             "icon": "10n",
-            "temp": 60
+            "temp": 62.4
           },
           {
             "date": "2026-01-04",
             "description": "Light rain",
             "icon": "10n",
-            "temp": 60.3
+            "temp": 59.8
+          },
+          {
+            "date": "2026-01-05",
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 58.7
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2025-12-31T14:21:13.291684"
+        "timestamp": "2026-01-01T14:20:55.776413"
       },
-      "name": "weather",
-      "source": "OpenWeather API",
-      "timestamp": "2025-12-31T14:21:13.291684"
+      "timestamp": "2026-01-01T14:20:55.776413",
+      "source": "OpenWeather API"
     },
     {
+      "name": "sports",
       "data": {
         "source": "The Sports DB API",
         "teams": [
@@ -65,10 +66,10 @@
             "standings": "N/A"
           },
           {
-            "latest_game": "L 2-4 vs Kraken (2025-12-21)",
+            "latest_game": "W 4-3 vs Wild (2025-12-31)",
             "league": "NHL",
             "name": "San Jose Sharks",
-            "next_game": "vs Wild on 2025-12-31",
+            "next_game": "vs Lightning on 2026-01-03",
             "record": "Season in progress",
             "standings": "N/A"
           },
@@ -76,51 +77,51 @@
             "latest_game": "W 126-116 vs Mavericks (2025-12-25)",
             "league": "NBA",
             "name": "Golden State Warriors",
-            "next_game": "@ Hornets on 2025-12-31",
+            "next_game": "vs Thunder on 2026-01-03",
             "record": "Season in progress",
             "standings": "N/A"
           }
         ],
-        "timestamp": "2025-12-31T14:21:14.743844"
+        "timestamp": "2026-01-01T14:20:57.465616"
       },
-      "name": "sports",
-      "source": "The Sports DB API",
-      "timestamp": "2025-12-31T14:21:14.743844"
+      "timestamp": "2026-01-01T14:20:57.465616",
+      "source": "The Sports DB API"
     },
     {
+      "name": "tech",
       "data": {
         "articles": [
           {
             "category": "technology",
-            "published_at": "2025-12-30T16:00:00Z",
+            "published_at": "2026-01-01T02:44:02Z",
             "source": "TechCrunch",
-            "summary": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice",
-            "title": "The best AI-powered dictation apps of 2025",
-            "url": "https://techcrunch.com/2025/12/30/the-best-ai-powered-dictation-apps-of-2025/"
+            "summary": "AI founders are increasingly using their \"dropout\" status as a credential during YC pitches.",
+            "title": "\u2018College dropout\u2019 has become the most coveted startup founder credential",
+            "url": "https://techcrunch.com/2025/12/31/college-dropout-has-become-the-most-coveted-startup-founder-credential/"
           },
           {
             "category": "technology",
-            "published_at": "2025-12-30T15:47:34Z",
+            "published_at": "2025-12-31T14:51:29Z",
             "source": "The Verge",
-            "summary": "Winter storms across the country are bringing heavy snow, rain, and \u2014 in some cases, as this Californian who briefly lost power a few days ago can attest \u2014 outages. If you want to prepare, Anker\u2019s 521",
-            "title": "Anker\u2019s portable backup battery is an even better investment now that it\u2019s nearly half off",
-            "url": "https://www.theverge.com/gadgets/851016/anker-521-powerhouse-google-tv-streamer-4k-deal-sale"
+            "summary": "New photos and video seem to confirm previous leaks hinting that the Samsung Galaxy S26 Ultra will sport a new camera bump. OnLeaks posted images of what look like dummy phones on X, following renders",
+            "title": "Leaked video shows the Galaxy S26 Ultra\u2019s new camera island",
+            "url": "https://www.theverge.com/news/851931/samsung-galaxy-236-ultra-video-photo-leak"
           },
           {
             "category": "technology",
-            "published_at": "2025-12-31T12:00:31Z",
+            "published_at": "2025-12-31T16:30:33Z",
             "source": "Ars Technica",
-            "summary": "In a year where lofty promises collided with inconvenient research, would-be oracles became software tools.",
-            "title": "From prophet to product: How AI came back down to earth in 2025",
-            "url": "https://arstechnica.com/ai/2025/12/from-prophet-to-product-how-ai-came-back-down-to-earth-in-2025/"
+            "summary": "This time, a Colorado plant scheduled to shut down will be kept on standby.",
+            "title": "Here we go again: Retiring coal plant forced to stay open by Trump Admin",
+            "url": "https://arstechnica.com/science/2025/12/trump-admin-orders-another-coal-plant-to-stay-open/"
           },
           {
             "category": "technology",
-            "published_at": "2025-12-31T12:31:00Z",
+            "published_at": "2026-01-01T11:00:00Z",
             "source": "Wired",
-            "summary": "Factor meal kits offer a free $200 Withings body-scanning scale after a three-week subscription. I was afraid, then maybe a little motivated?",
-            "title": "Factor Meal Delivery Promo: Free $200 Withings Body-Scan Scale",
-            "url": "https://www.wired.com/story/factor-withings-deal/"
+            "summary": "After years of hype about generative AI increasing productivity and making lives easier, 2025 was the year erotic chatbots defined AI\u2019s narrative.",
+            "title": "AI Labor Is Boring. AI Lust Is Big Business",
+            "url": "https://www.wired.com/story/expired-tired-wired-sexy-chatbots/"
           },
           {
             "category": "technology",
@@ -132,31 +133,30 @@
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2025-12-31T14:21:15.637426"
+        "timestamp": "2026-01-01T14:20:58.120276"
       },
-      "name": "tech",
-      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-      "timestamp": "2025-12-31T14:21:15.637426"
+      "timestamp": "2026-01-01T14:20:58.120276",
+      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
+      "name": "market",
       "data": {
         "indexes": [
           {
-            "change": -8.4,
-            "change_percent": -0.12,
+            "change": -50.9,
+            "change_percent": -0.74,
             "is_positive": false,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 6870.1
+            "value": 6819.2
           }
         ],
         "market_summary": "Markets declined on concerns about economic outlook.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2025-12-31T14:21:15.931466"
+        "timestamp": "2026-01-01T14:20:58.383526"
       },
-      "name": "market",
-      "source": "Alpha Vantage API (via ETF proxies)",
-      "timestamp": "2025-12-31T14:21:15.931466"
+      "timestamp": "2026-01-01T14:20:58.383526",
+      "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
 }
