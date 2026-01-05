@@ -1,66 +1,67 @@
 {
-  "date": "2026-01-04",
-  "generated_at": "2026-01-04T14:20:00.650112",
+  "date": "2026-01-05",
+  "generated_at": "2026-01-05T14:26:20.587304",
   "sections": [
     {
+      "name": "weather",
       "data": {
         "current": {
-          "description": "Light intensity drizzle",
-          "feels_like": 52.6,
-          "humidity": 92,
-          "icon": "09n",
-          "temp": 53.2,
+          "description": "Light rain",
+          "feels_like": 49.6,
+          "humidity": 90,
+          "icon": "10n",
+          "temp": 50.6,
           "wind_speed": 12.7
         },
         "forecast": [
           {
-            "date": "2026-01-04",
-            "description": "Moderate rain",
-            "icon": "10n",
-            "temp": 53.3
-          },
-          {
             "date": "2026-01-05",
-            "description": "Light rain",
-            "icon": "10n",
-            "temp": 58
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 55.5
           },
           {
             "date": "2026-01-06",
-            "description": "Clear sky",
-            "icon": "01n",
-            "temp": 59.3
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 61.3
           },
           {
             "date": "2026-01-07",
-            "description": "Broken clouds",
-            "icon": "04n",
-            "temp": 60
+            "description": "Scattered clouds",
+            "icon": "03n",
+            "temp": 59.8
           },
           {
             "date": "2026-01-08",
-            "description": "Clear sky",
-            "icon": "01n",
-            "temp": 58.3
+            "description": "Scattered clouds",
+            "icon": "03n",
+            "temp": 57.9
+          },
+          {
+            "date": "2026-01-09",
+            "description": "Scattered clouds",
+            "icon": "03n",
+            "temp": 57.8
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-01-04T14:19:57.508635"
+        "timestamp": "2026-01-05T14:26:17.480893"
       },
-      "name": "weather",
-      "source": "OpenWeather API",
-      "timestamp": "2026-01-04T14:19:57.508635"
+      "timestamp": "2026-01-05T14:26:17.480893",
+      "source": "OpenWeather API"
     },
     {
+      "name": "sports",
       "data": {
         "source": "The Sports DB API",
         "teams": [
           {
-            "latest_game": "W 42-38 vs Bears (2025-12-29)",
+            "latest_game": "L 3-13 vs Seahawks (2026-01-04)",
             "league": "NFL",
             "name": "San Francisco 49ers",
-            "next_game": "vs Seahawks on 2026-01-04",
+            "next_game": "No upcoming games scheduled",
             "record": "Season in progress",
             "standings": "N/A"
           },
@@ -73,38 +74,38 @@
             "standings": "N/A"
           },
           {
-            "latest_game": "L 94-131 vs Thunder (2026-01-03)",
+            "latest_game": "W 123-114 vs Jazz (2026-01-04)",
             "league": "NBA",
             "name": "Golden State Warriors",
-            "next_game": "vs Jazz on 2026-01-04",
+            "next_game": "@ Clippers on 2026-01-06",
             "record": "Season in progress",
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-01-04T14:19:59.356281"
+        "timestamp": "2026-01-05T14:26:19.308108"
       },
-      "name": "sports",
-      "source": "The Sports DB API",
-      "timestamp": "2026-01-04T14:19:59.356281"
+      "timestamp": "2026-01-05T14:26:19.308108",
+      "source": "The Sports DB API"
     },
     {
+      "name": "tech",
       "data": {
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-01-03T23:45:07Z",
+            "published_at": "2026-01-05T12:10:00Z",
             "source": "TechCrunch",
-            "summary": "Jeff Bezos led the way. The Amazon founder sold 25 million shares for $5.7 billion in June and July, right around the time he was getting hitched to Lauren Sanchez in Venice.",
-            "title": "Tech billionaires cashed out $16 billion in 2025 as stocks soared",
-            "url": "https://techcrunch.com/2026/01/03/tech-billionaires-cashed-out-16-billion-in-2025-as-stocks-soared/"
+            "summary": "The Luminar founder claims he has been cooperative.",
+            "title": "Luminar claims founder Austin Russell is dodging a subpoena in the bankruptcy case",
+            "url": "https://techcrunch.com/2026/01/05/luminar-claims-founder-austin-russell-is-dodging-a-subpoena-in-the-bankruptcy-case/"
           },
           {
             "category": "technology",
-            "published_at": "2026-01-04T14:00:00Z",
+            "published_at": "2026-01-05T14:00:00Z",
             "source": "The Verge",
-            "summary": "An AI robotics startup called Zeroth is turning WALL-E into a real-life robot companion. Though the WALL-E version with the Disney-licensed design is currently only on sale in China, Zeroth is launchi",
-            "title": "This startup brought WALL-E to life and will also sell you WALL-E&#8217;s weird cousin",
-            "url": "https://www.theverge.com/tech/852956/zeroth-wall-e-robot-w1-m1-ces-2026"
+            "summary": "A new company called TDM, or \"Tomorrow Doesn\\'t Matter,\" has announced its first pair of wireless headphones at CES 2026 with a unique multifunctional design. The Neo look like a traditional pair of ov",
+            "title": "These wireless headphones roll up to become a Bluetooth speaker",
+            "url": "https://www.theverge.com/tech/851496/tdm-neo-wireless-headphones-bluetooth-speaker-kickstarter"
           },
           {
             "category": "technology",
@@ -116,29 +117,29 @@
           },
           {
             "category": "technology",
-            "published_at": "2026-01-04T07:14:00Z",
+            "published_at": "2026-01-05T11:36:00Z",
             "source": "Wired",
-            "summary": "Save up to $400 on top air purifiers and filters with verified AirDoctor promo codes and special offers for January 2026.",
-            "title": "AirDoctor Coupon Codes: 40% Off | January 2026",
-            "url": "https://www.wired.com/story/airdoctor-coupon-code/"
+            "summary": "Ensuring your cat is drinking enough water is one of the best ways to keep your pet healthy. We tested nearly two dozen models to find the best water fountains for most cats.",
+            "title": "9 Best Cat Water Fountains, WIRED-Tested and Reviewed (2025)",
+            "url": "https://www.wired.com/gallery/the-best-cat-water-fountains/"
           },
           {
             "category": "technology",
-            "published_at": "2026-01-02T11:00:00Z",
+            "published_at": "2026-01-05T13:10:00Z",
             "source": "MIT Technology Review",
-            "summary": "The Italian neurosurgeon Sergio Canavero has been preparing for a surgery that might never happen. His idea? Swap a sick person\u2019s head\u2014or perhaps just the brain\u2014onto a younger, healthier body. Canaver",
-            "title": "Job titles of the future: Head-transplant surgeon",
-            "url": "https://www.technologyreview.com/2026/01/02/1129416/head-transplant-surgeon-sergio-canavero-future-job/"
+            "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Welcome to Kenya\u2019s Great Carbon Valley: a bold new",
+            "title": "The Download: Kenya\u2019s Great Carbon Valley, and the AI terms that were everywhere in 2025",
+            "url": "https://www.technologyreview.com/2026/01/05/1130672/the-download-kenyas-great-carbon-valley-and-the-ai-terms-that-were-everywhere-in-2025/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-01-04T14:20:00.328431"
+        "timestamp": "2026-01-05T14:26:19.939157"
       },
-      "name": "tech",
-      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-      "timestamp": "2026-01-04T14:20:00.328431"
+      "timestamp": "2026-01-05T14:26:19.939157",
+      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
+      "name": "market",
       "data": {
         "indexes": [
           {
@@ -152,11 +153,10 @@
         ],
         "market_summary": "Markets rallied across all major indexes on positive sentiment.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-01-04T14:20:00.578216"
+        "timestamp": "2026-01-05T14:26:20.293285"
       },
-      "name": "market",
-      "source": "Alpha Vantage API (via ETF proxies)",
-      "timestamp": "2026-01-04T14:20:00.578216"
+      "timestamp": "2026-01-05T14:26:20.293285",
+      "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
 }
