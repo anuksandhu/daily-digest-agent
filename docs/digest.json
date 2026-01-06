@@ -1,67 +1,63 @@
 {
-  "date": "2026-01-05",
-  "generated_at": "2026-01-05T14:26:20.587304",
+  "date": "2026-01-06",
+  "generated_at": "2026-01-06T14:24:18.000000",
   "sections": [
     {
-      "name": "weather",
       "data": {
         "current": {
-          "description": "Light rain",
-          "feels_like": 49.6,
-          "humidity": 90,
-          "icon": "10n",
-          "temp": 50.6,
-          "wind_speed": 12.7
+          "description": "Broken clouds",
+          "feels_like": 51.4,
+          "humidity": 88,
+          "icon": "04n",
+          "temp": 52.3,
+          "wind_speed": 6.9
         },
         "forecast": [
           {
-            "date": "2026-01-05",
-            "description": "Overcast clouds",
-            "icon": "04n",
-            "temp": 55.5
-          },
-          {
             "date": "2026-01-06",
-            "description": "Overcast clouds",
+            "description": "Broken clouds",
             "icon": "04n",
-            "temp": 61.3
+            "temp": 57.3
           },
           {
             "date": "2026-01-07",
-            "description": "Scattered clouds",
-            "icon": "03n",
-            "temp": 59.8
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 59
           },
           {
             "date": "2026-01-08",
-            "description": "Scattered clouds",
-            "icon": "03n",
-            "temp": 57.9
+            "description": "Light rain",
+            "icon": "10n",
+            "temp": 56.2
           },
           {
             "date": "2026-01-09",
-            "description": "Scattered clouds",
-            "icon": "03n",
-            "temp": 57.8
+            "description": "Broken clouds",
+            "icon": "04n",
+            "temp": 56.9
+          },
+          {
+            "date": "2026-01-10",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 60.7
           }
         ],
         "location": "San Jose",
-        "source": "OpenWeather API",
-        "timestamp": "2026-01-05T14:26:17.480893"
+        "timestamp": "2026-01-06T14:24:15.632032"
       },
-      "timestamp": "2026-01-05T14:26:17.480893",
+      "name": "weather",
       "source": "OpenWeather API"
     },
     {
-      "name": "sports",
       "data": {
-        "source": "The Sports DB API",
         "teams": [
           {
             "latest_game": "L 3-13 vs Seahawks (2026-01-04)",
             "league": "NFL",
             "name": "San Francisco 49ers",
-            "next_game": "No upcoming games scheduled",
+            "next_game": "@ Eagles on 2026-01-11",
             "record": "Season in progress",
             "standings": "N/A"
           },
@@ -82,80 +78,76 @@
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-01-05T14:26:19.308108"
+        "timestamp": "2026-01-06T14:24:17.058749"
       },
-      "timestamp": "2026-01-05T14:26:19.308108",
+      "name": "sports",
       "source": "The Sports DB API"
     },
     {
-      "name": "tech",
       "data": {
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-01-05T12:10:00Z",
+            "published_at": "2026-01-06T14:00:00Z",
             "source": "TechCrunch",
-            "summary": "The Luminar founder claims he has been cooperative.",
-            "title": "Luminar claims founder Austin Russell is dodging a subpoena in the bankruptcy case",
-            "url": "https://techcrunch.com/2026/01/05/luminar-claims-founder-austin-russell-is-dodging-a-subpoena-in-the-bankruptcy-case/"
+            "summary": "The new Ring Sensors can detect motion, openings, glass breakage, and smoke, and can also monitor carbon monoxide levels, leaks, temperature changes, and air quality.",
+            "title": "Amazon\u2019s Ring doorbells get fire alerts, an app store and new sensors",
+            "url": "https://techcrunch.com/2026/01/06/amazons-ring-doorbells-get-fire-alerts-an-app-store-and-new-sensors/"
           },
           {
             "category": "technology",
-            "published_at": "2026-01-05T14:00:00Z",
+            "published_at": "2026-01-06T14:00:00Z",
             "source": "The Verge",
-            "summary": "A new company called TDM, or \"Tomorrow Doesn\\'t Matter,\" has announced its first pair of wireless headphones at CES 2026 with a unique multifunctional design. The Neo look like a traditional pair of ov",
-            "title": "These wireless headphones roll up to become a Bluetooth speaker",
-            "url": "https://www.theverge.com/tech/851496/tdm-neo-wireless-headphones-bluetooth-speaker-kickstarter"
+            "summary": "Pila Energy's home batteries are now available to preorder with deliveries expected to begin in February 2026. These power stations are meant to be seen, unlike most batteries in this class that are b",
+            "title": "Pila makes the power station pretty",
+            "url": "https://www.theverge.com/tech/844583/pila-makes-the-power-station-pretty"
           },
           {
             "category": "technology",
-            "published_at": "2026-01-02T23:08:13Z",
+            "published_at": "2026-01-06T13:49:02Z",
             "source": "Ars Technica",
-            "summary": "Letting the unreliable Grok be its own \"spokesperson\" lets xAI off the hook.",
-            "title": "No, Grok can\u2019t really \u201capologize\u201d for posting non-consensual sexual images",
-            "url": "https://arstechnica.com/ai/2026/01/no-grok-cant-really-apologize-for-posting-non-consensual-sexual-images/"
+            "summary": "AI will help drive you and entertain you, according to Sony Honda Mobility.",
+            "title": "Spot the difference: Sony\u2019s electric car gets a crossover version",
+            "url": "https://arstechnica.com/cars/2026/01/sony-wants-its-afeela-ev-to-be-heavy-on-ai-also-shows-crossover/"
           },
           {
             "category": "technology",
-            "published_at": "2026-01-05T11:36:00Z",
+            "published_at": "2026-01-06T14:00:00Z",
             "source": "Wired",
-            "summary": "Ensuring your cat is drinking enough water is one of the best ways to keep your pet healthy. We tested nearly two dozen models to find the best water fountains for most cats.",
-            "title": "9 Best Cat Water Fountains, WIRED-Tested and Reviewed (2025)",
-            "url": "https://www.wired.com/gallery/the-best-cat-water-fountains/"
+            "summary": "Some of the objects came from Steve Jobs\u2019 childhood bedroom. They\u2019re being made available by his stepbrother, John Chovanec.",
+            "title": "Steve Jobs\u2019 Early Apple Items Are Going Up for Auction\u2014Along With His Bow Ties",
+            "url": "https://www.wired.com/story/steve-jobs-ephemera-auction-apple/"
           },
           {
             "category": "technology",
-            "published_at": "2026-01-05T13:10:00Z",
+            "published_at": "2026-01-06T13:10:00Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Welcome to Kenya\u2019s Great Carbon Valley: a bold new",
-            "title": "The Download: Kenya\u2019s Great Carbon Valley, and the AI terms that were everywhere in 2025",
-            "url": "https://www.technologyreview.com/2026/01/05/1130672/the-download-kenyas-great-carbon-valley-and-the-ai-terms-that-were-everywhere-in-2025/"
+            "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What\u2019s next for AI in 2026 In an industry in const",
+            "title": "The Download: our predictions for AI, and good climate news",
+            "url": "https://www.technologyreview.com/2026/01/06/1130744/the-download-our-predictions-for-ai-and-good-climate-news/"
           }
         ],
-        "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-01-05T14:26:19.939157"
+        "timestamp": "2026-01-06T14:24:17.728199"
       },
-      "timestamp": "2026-01-05T14:26:19.939157",
+      "name": "tech",
       "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
-      "name": "market",
       "data": {
         "indexes": [
           {
-            "change": 12.5,
-            "change_percent": 0.18,
+            "change": 45.5,
+            "change_percent": 0.67,
             "is_positive": true,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 6831.7
+            "value": 6877.2
           }
         ],
         "market_summary": "Markets rallied across all major indexes on positive sentiment.",
-        "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-01-05T14:26:20.293285"
+        "timestamp": "2026-01-06T14:24:17.979935"
       },
-      "timestamp": "2026-01-05T14:26:20.293285",
+      "name": "market",
       "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
