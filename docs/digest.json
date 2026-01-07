@@ -1,57 +1,60 @@
 {
-  "date": "2026-01-06",
-  "generated_at": "2026-01-06T14:24:18.000000",
+  "date": "2026-01-07",
+  "generated_at": "2026-01-07T14:25:27.500000",
   "sections": [
     {
       "data": {
         "current": {
-          "description": "Broken clouds",
-          "feels_like": 51.4,
-          "humidity": 88,
+          "description": "Overcast clouds",
+          "feels_like": 45.9,
+          "humidity": 93,
           "icon": "04n",
-          "temp": 52.3,
-          "wind_speed": 6.9
+          "temp": 47.8,
+          "wind_speed": 4.6
         },
         "forecast": [
-          {
-            "date": "2026-01-06",
-            "description": "Broken clouds",
-            "icon": "04n",
-            "temp": 57.3
-          },
           {
             "date": "2026-01-07",
             "description": "Overcast clouds",
             "icon": "04n",
-            "temp": 59
+            "temp": 54.7
           },
           {
             "date": "2026-01-08",
             "description": "Light rain",
             "icon": "10n",
-            "temp": 56.2
+            "temp": 56.3
           },
           {
             "date": "2026-01-09",
-            "description": "Broken clouds",
-            "icon": "04n",
-            "temp": 56.9
+            "description": "Scattered clouds",
+            "icon": "03n",
+            "temp": 57.1
           },
           {
             "date": "2026-01-10",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 60.7
+            "temp": 60.3
+          },
+          {
+            "date": "2026-01-11",
+            "description": "Broken clouds",
+            "icon": "04n",
+            "temp": 60.5
           }
         ],
         "location": "San Jose",
-        "timestamp": "2026-01-06T14:24:15.632032"
+        "source": "OpenWeather API",
+        "timestamp": "2026-01-07T14:25:24.194762"
       },
       "name": "weather",
-      "source": "OpenWeather API"
+      "source": "OpenWeather API",
+      "timestamp": "2026-01-07T14:25:24.194762"
     },
     {
       "data": {
+        "source": "The Sports DB API",
         "teams": [
           {
             "latest_game": "L 3-13 vs Seahawks (2026-01-04)",
@@ -73,82 +76,103 @@
             "latest_game": "W 123-114 vs Jazz (2026-01-04)",
             "league": "NBA",
             "name": "Golden State Warriors",
-            "next_game": "@ Clippers on 2026-01-06",
+            "next_game": "vs Bucks on 2026-01-08",
             "record": "Season in progress",
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-01-06T14:24:17.058749"
+        "timestamp": "2026-01-07T14:25:26.008630"
       },
       "name": "sports",
-      "source": "The Sports DB API"
+      "source": "The Sports DB API",
+      "timestamp": "2026-01-07T14:25:26.008630"
     },
     {
       "data": {
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-01-06T14:00:00Z",
+            "published_at": "2026-01-07T12:00:00Z",
             "source": "TechCrunch",
-            "summary": "The new Ring Sensors can detect motion, openings, glass breakage, and smoke, and can also monitor carbon monoxide levels, leaks, temperature changes, and air quality.",
-            "title": "Amazon\u2019s Ring doorbells get fire alerts, an app store and new sensors",
-            "url": "https://techcrunch.com/2026/01/06/amazons-ring-doorbells-get-fire-alerts-an-app-store-and-new-sensors/"
+            "summary": "Articul8\\'s valuation for its current funding round marks a roughly fivefold increase since its Series A.",
+            "title": "Intel spinout Articul8 raises more than half of $70M round at $500M valuation",
+            "url": "https://techcrunch.com/2026/01/07/intel-spin-off-articul8-is-halfway-to-70m-ai-funding-round-at-500m-valuation/"
           },
           {
             "category": "technology",
-            "published_at": "2026-01-06T14:00:00Z",
+            "published_at": "2026-01-07T14:00:00Z",
             "source": "The Verge",
-            "summary": "Pila Energy's home batteries are now available to preorder with deliveries expected to begin in February 2026. These power stations are meant to be seen, unlike most batteries in this class that are b",
-            "title": "Pila makes the power station pretty",
-            "url": "https://www.theverge.com/tech/844583/pila-makes-the-power-station-pretty"
+            "summary": "Ikea\\'s new cute, colorful Kallsup Bluetooth speakers cost just $10 (&#8364;5 in Europe) each and feature instant Bluetooth pairing. Pair one to your phone, then, with a two-button sequence, another Ka",
+            "title": "Ikea\u2019s $10 Kallsup speakers are tiny, colorful, and surprisingly loud",
+            "url": "https://www.theverge.com/tech/857403/ikea-kallsup-bluetooth-speaker-price-release-date"
           },
           {
             "category": "technology",
-            "published_at": "2026-01-06T13:49:02Z",
+            "published_at": "2026-01-07T01:00:06Z",
             "source": "Ars Technica",
-            "summary": "AI will help drive you and entertain you, according to Sony Honda Mobility.",
-            "title": "Spot the difference: Sony\u2019s electric car gets a crossover version",
-            "url": "https://arstechnica.com/cars/2026/01/sony-wants-its-afeela-ev-to-be-heavy-on-ai-also-shows-crossover/"
+            "summary": "Motorola is light on details but heavy on hype for its first book-style foldable.",
+            "title": "Motorola reveals the Razr Fold, a book-style foldable launching this summer",
+            "url": "https://arstechnica.com/gadgets/2026/01/motorola-reveals-the-razr-fold-a-book-style-foldable-launching-this-summer/"
           },
           {
             "category": "technology",
-            "published_at": "2026-01-06T14:00:00Z",
+            "published_at": "2026-01-07T08:00:00Z",
             "source": "Wired",
-            "summary": "Some of the objects came from Steve Jobs\u2019 childhood bedroom. They\u2019re being made available by his stepbrother, John Chovanec.",
-            "title": "Steve Jobs\u2019 Early Apple Items Are Going Up for Auction\u2014Along With His Bow Ties",
-            "url": "https://www.wired.com/story/steve-jobs-ephemera-auction-apple/"
+            "summary": "Read our live updates from CES 2026 in Las Vegas to see the latest consumer gadgetry in all of its chatbot-enabled, sensor-packed, AI-infused glory.",
+            "title": "CES Live Blog, Day 3: Even More of the Coolest Tech We\u2019ve Seen",
+            "url": "https://www.wired.com/live/ces-2026-live-blog/"
           },
           {
             "category": "technology",
-            "published_at": "2026-01-06T13:10:00Z",
+            "published_at": "2026-01-07T14:00:00Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What\u2019s next for AI in 2026 In an industry in const",
-            "title": "The Download: our predictions for AI, and good climate news",
-            "url": "https://www.technologyreview.com/2026/01/06/1130744/the-download-our-predictions-for-ai-and-good-climate-news/"
+            "summary": "When the concept of \u201cWeb 3.0\u201d first emerged about a decade ago the idea was clear: Create a more user-controlled internet that lets you do everything you can now, except without servers or intermediar",
+            "title": "Deploying a hybrid approach to Web3 in the AI era",
+            "url": "https://www.technologyreview.com/2026/01/07/1129490/deploying-a-hybrid-approach-to-web3-in-the-ai-era/"
           }
         ],
-        "timestamp": "2026-01-06T14:24:17.728199"
+        "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
+        "timestamp": "2026-01-07T14:25:26.772551"
       },
       "name": "tech",
-      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
+      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
+      "timestamp": "2026-01-07T14:25:26.772551"
     },
     {
       "data": {
         "indexes": [
           {
-            "change": 45.5,
-            "change_percent": 0.67,
+            "change": 40.9,
+            "change_percent": 0.59,
             "is_positive": true,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 6877.2
+            "value": 6918.1
+          },
+          {
+            "change": -7.5,
+            "change_percent": -0.05,
+            "is_positive": false,
+            "name": "NASDAQ",
+            "symbol": "^IXIC",
+            "value": 16015.0
+          },
+          {
+            "change": 120.2,
+            "change_percent": 0.31,
+            "is_positive": true,
+            "name": "DOW JONES",
+            "symbol": "^DJI",
+            "value": 38750.5
           }
         ],
         "market_summary": "Markets rallied across all major indexes on positive sentiment.",
-        "timestamp": "2026-01-06T14:24:17.979935"
+        "source": "Alpha Vantage API (via ETF proxies)",
+        "timestamp": "2026-01-07T14:25:27.175361"
       },
       "name": "market",
-      "source": "Alpha Vantage API (via ETF proxies)"
+      "source": "Alpha Vantage API (via ETF proxies)",
+      "timestamp": "2026-01-07T14:25:27.175361"
     }
   ]
 }
