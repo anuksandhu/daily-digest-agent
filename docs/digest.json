@@ -1,59 +1,58 @@
 {
-  "date": "2026-01-10",
-  "generated_at": "2026-01-10T14:20:32.000000",
+  "date": "2026-01-11",
+  "generated_at": "2026-01-11T14:20:11.475892",
   "sections": [
     {
-      "name": "weather",
       "data": {
         "current": {
           "description": "Overcast clouds",
-          "feels_like": 44.4,
-          "humidity": 62,
+          "feels_like": 45.1,
+          "humidity": 78,
           "icon": "04n",
-          "temp": 44.4,
-          "wind_speed": 2.7
+          "temp": 45.1,
+          "wind_speed": 1
         },
         "forecast": [
-          {
-            "date": "2026-01-10",
-            "description": "Overcast clouds",
-            "icon": "04n",
-            "temp": 54.8
-          },
           {
             "date": "2026-01-11",
             "description": "Overcast clouds",
             "icon": "04n",
-            "temp": 62.4
+            "temp": 56.2
           },
           {
             "date": "2026-01-12",
             "description": "Overcast clouds",
             "icon": "04n",
-            "temp": 64
+            "temp": 64.1
           },
           {
             "date": "2026-01-13",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 67.5
+            "temp": 66.9
           },
           {
             "date": "2026-01-14",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 67.5
+            "temp": 67.3
+          },
+          {
+            "date": "2026-01-15",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 70.8
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-01-10T14:20:28.498099"
+        "timestamp": "2026-01-11T14:20:08.174479"
       },
-      "timestamp": "2026-01-10T14:20:28.498099",
-      "source": "OpenWeather API"
+      "name": "weather",
+      "source": "OpenWeather API",
+      "timestamp": "2026-01-11T14:20:08.174479"
     },
     {
-      "name": "sports",
       "data": {
         "source": "The Sports DB API",
         "teams": [
@@ -66,46 +65,46 @@
             "standings": "N/A"
           },
           {
-            "latest_game": "W 5-2 vs Jackets (2026-01-07)",
+            "latest_game": "W 5-4 vs Stars (2026-01-10)",
             "league": "NHL",
             "name": "San Jose Sharks",
-            "next_game": "vs Stars on 2026-01-10",
+            "next_game": "vs Knights on 2026-01-12",
             "record": "Season in progress",
             "standings": "N/A"
           },
           {
-            "latest_game": "W 120-113 vs Bucks (2026-01-08)",
+            "latest_game": "W 137-103 vs Kings (2026-01-10)",
             "league": "NBA",
             "name": "Golden State Warriors",
-            "next_game": "vs Kings on 2026-01-10",
+            "next_game": "vs Hawks on 2026-01-12",
             "record": "Season in progress",
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-01-10T14:20:30.432921"
+        "timestamp": "2026-01-11T14:20:09.461417"
       },
-      "timestamp": "2026-01-10T14:20:30.432921",
-      "source": "The Sports DB API"
+      "name": "sports",
+      "source": "The Sports DB API",
+      "timestamp": "2026-01-11T14:20:09.461417"
     },
     {
-      "name": "tech",
       "data": {
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-01-10T00:37:59Z",
+            "published_at": "2026-01-10T21:18:29Z",
             "source": "TechCrunch",
-            "summary": "A former SandboxAQ executive filed a wrongful termination lawsuit filled with shocking allegations. The company is fighting back, hard.",
-            "title": "Google moonshot spinout SandboxAQ claims an ex-exec is attempting \u2018extortion\u2019",
-            "url": "https://techcrunch.com/2026/01/09/google-moonshot-spinout-sandboxaq-claims-an-ex-exec-is-attempting-extortion/"
+            "summary": "An intellectual property lawyer says OpenAI is \"putting itself at great risk\" with this approach.",
+            "title": "OpenAI is reportedly asking contractors to upload real work from past jobs",
+            "url": "https://techcrunch.com/2026/01/10/openai-is-reportedly-asking-contractors-to-upload-real-work-from-past-jobs/"
           },
           {
             "category": "technology",
-            "published_at": "2026-01-10T14:00:00Z",
+            "published_at": "2026-01-10T21:06:30Z",
             "source": "The Verge",
-            "summary": "Stevie Bonifield is a news writer here at The Verge and, they say, \u201cI cover a little bit of just about everything, from the FCC to AI shopping tools to Linux.\u201d Before joining our news team, they wrote",
-            "title": "What&#8217;s on your desk, Stevie Bonifield?",
-            "url": "https://www.theverge.com/gadgets/850479/desk-pc-keyboard-razer-kobo"
+            "summary": "The FCC approved SpaceX\\'s plan to launch an additional 7,500 Gen2 Starlink satellites on Friday. That brings the total number of satellites the company will have in orbit to around 15,000 worldwide. A",
+            "title": "The FCC is letting SpaceX launch 7,500 more Starlink satellites",
+            "url": "https://www.theverge.com/news/860210/fcc-spacex-7500-more-starlink-satellites"
           },
           {
             "category": "technology",
@@ -117,11 +116,11 @@
           },
           {
             "category": "technology",
-            "published_at": "2026-01-10T06:00:00Z",
+            "published_at": "2026-01-11T12:30:00Z",
             "source": "Wired",
-            "summary": "Save on every purchase with top KitchenAid coupons from WIRED, including up to 50% off select countertop appliances.",
-            "title": "KitchenAid Promo Code: 50% Off This Month",
-            "url": "https://www.wired.com/story/exclusive-kitchenaid-promo-code/"
+            "summary": "I\\'ve spent almost a year testing dozens of heat protectants for hair. Whether you\u2019re blow-drying, curling, or straightening, these are the best formulas I\\'ve found.",
+            "title": "16 Best Heat Protectant Sprays for Wet and Dry Hair (2026)",
+            "url": "https://www.wired.com/gallery/the-best-heat-protectants-for-hair/"
           },
           {
             "category": "technology",
@@ -133,13 +132,13 @@
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-01-10T14:20:31.073546"
+        "timestamp": "2026-01-11T14:20:10.267967"
       },
-      "timestamp": "2026-01-10T14:20:31.073546",
-      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
+      "name": "tech",
+      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
+      "timestamp": "2026-01-11T14:20:10.267967"
     },
     {
-      "name": "market",
       "data": {
         "indexes": [
           {
@@ -153,10 +152,11 @@
         ],
         "market_summary": "Markets rallied across all major indexes on positive sentiment.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-01-10T14:20:31.620356"
+        "timestamp": "2026-01-11T14:20:10.463487"
       },
-      "timestamp": "2026-01-10T14:20:31.620356",
-      "source": "Alpha Vantage API (via ETF proxies)"
+      "name": "market",
+      "source": "Alpha Vantage API (via ETF proxies)",
+      "timestamp": "2026-01-11T14:20:10.463487"
     }
   ]
 }
