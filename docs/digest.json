@@ -1,58 +1,59 @@
 {
-  "date": "2026-01-11",
-  "generated_at": "2026-01-11T14:20:11.475892",
+  "date": "2026-01-12",
+  "generated_at": "2026-01-12T14:27:23.258390",
   "sections": [
     {
+      "name": "weather",
       "data": {
         "current": {
-          "description": "Overcast clouds",
-          "feels_like": 45.1,
-          "humidity": 78,
-          "icon": "04n",
-          "temp": 45.1,
-          "wind_speed": 1
+          "description": "Clear sky",
+          "feels_like": 38.5,
+          "humidity": 85,
+          "icon": "01n",
+          "temp": 40.6,
+          "wind_speed": 3.4
         },
         "forecast": [
           {
-            "date": "2026-01-11",
-            "description": "Overcast clouds",
-            "icon": "04n",
-            "temp": 56.2
-          },
-          {
             "date": "2026-01-12",
-            "description": "Overcast clouds",
-            "icon": "04n",
-            "temp": 64.1
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 55.1
           },
           {
             "date": "2026-01-13",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 66.9
+            "temp": 66.5
           },
           {
             "date": "2026-01-14",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 67.3
+            "temp": 67.6
           },
           {
             "date": "2026-01-15",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 70.8
+            "temp": 69.3
+          },
+          {
+            "date": "2026-01-16",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 70.3
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-01-11T14:20:08.174479"
+        "timestamp": "2026-01-12T14:27:17.989095"
       },
-      "name": "weather",
-      "source": "OpenWeather API",
-      "timestamp": "2026-01-11T14:20:08.174479"
+      "timestamp": "2026-01-12T14:27:17.989095",
+      "source": "OpenWeather API"
     },
     {
+      "name": "sports",
       "data": {
         "source": "The Sports DB API",
         "teams": [
@@ -60,7 +61,7 @@
             "latest_game": "L 3-13 vs Seahawks (2026-01-04)",
             "league": "NFL",
             "name": "San Francisco 49ers",
-            "next_game": "@ Eagles on 2026-01-11",
+            "next_game": "No upcoming games scheduled",
             "record": "Season in progress",
             "standings": "N/A"
           },
@@ -81,30 +82,30 @@
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-01-11T14:20:09.461417"
+        "timestamp": "2026-01-12T14:27:20.633881"
       },
-      "name": "sports",
-      "source": "The Sports DB API",
-      "timestamp": "2026-01-11T14:20:09.461417"
+      "timestamp": "2026-01-12T14:27:20.633881",
+      "source": "The Sports DB API"
     },
     {
+      "name": "tech",
       "data": {
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-01-10T21:18:29Z",
+            "published_at": "2026-01-12T14:00:44Z",
             "source": "TechCrunch",
-            "summary": "An intellectual property lawyer says OpenAI is \"putting itself at great risk\" with this approach.",
-            "title": "OpenAI is reportedly asking contractors to upload real work from past jobs",
-            "url": "https://techcrunch.com/2026/01/10/openai-is-reportedly-asking-contractors-to-upload-real-work-from-past-jobs/"
+            "summary": "French defense tech company Harmattan AI is now valued at $1.4 billion after raising a $200 million Series B round led by Dassault Aviation, which is best known for making the Rafale fighter jet.",
+            "title": "Harmattan AI raises $200M Series B led by Dassault Aviation, becomes defense unicorn",
+            "url": "https://techcrunch.com/2026/01/12/harmattan-ai-raises-200m-series-b-led-by-dassault-aviation-becomes-defense-unicorn/"
           },
           {
             "category": "technology",
-            "published_at": "2026-01-10T21:06:30Z",
+            "published_at": "2026-01-12T12:44:24Z",
             "source": "The Verge",
-            "summary": "The FCC approved SpaceX\\'s plan to launch an additional 7,500 Gen2 Starlink satellites on Friday. That brings the total number of satellites the company will have in orbit to around 15,000 worldwide. A",
-            "title": "The FCC is letting SpaceX launch 7,500 more Starlink satellites",
-            "url": "https://www.theverge.com/news/860210/fcc-spacex-7500-more-starlink-satellites"
+            "summary": "Google turned up the heat in the AI shopping wars this weekend, announcing plans to turn Gemini into a merchant and launching an open-source standard built together with major retailers including Shop",
+            "title": "Google brings buy buttons to Gemini and AI search",
+            "url": "https://www.theverge.com/news/860446/google-ai-shopping-standard-buy-button-gemini"
           },
           {
             "category": "technology",
@@ -118,27 +119,27 @@
             "category": "technology",
             "published_at": "2026-01-11T12:30:00Z",
             "source": "Wired",
-            "summary": "I\\'ve spent almost a year testing dozens of heat protectants for hair. Whether you\u2019re blow-drying, curling, or straightening, these are the best formulas I\\'ve found.",
+            "summary": "I've spent almost a year testing dozens of heat protectants for hair. Whether you\u2019re blow-drying, curling, or straightening, these are the best formulas I've found.",
             "title": "16 Best Heat Protectant Sprays for Wet and Dry Hair (2026)",
             "url": "https://www.wired.com/gallery/the-best-heat-protectants-for-hair/"
           },
           {
             "category": "technology",
-            "published_at": "2026-01-09T13:10:00Z",
+            "published_at": "2026-01-12T13:10:00Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How I learned to stop worrying and love AI slop \u2014C",
-            "title": "The Download: the case for AI slop, and helping CRISPR fulfill its promise",
-            "url": "https://www.technologyreview.com/2026/01/09/1130953/the-download-the-case-for-ai-slop-and-helping-crispr-fulfill-its-promise/"
+            "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Introducing this year\u2019s 10 Breakthrough Technologies",
+            "title": "The Download: introducing this year\u2019s 10 Breakthrough Technologies",
+            "url": "https://www.technologyreview.com/2026/01/12/1131176/the-download-introducing-this-years-10-breakthrough-technologies/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-01-11T14:20:10.267967"
+        "timestamp": "2026-01-12T14:27:21.310663"
       },
-      "name": "tech",
-      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-      "timestamp": "2026-01-11T14:20:10.267967"
+      "timestamp": "2026-01-12T14:27:21.310663",
+      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
+      "name": "market",
       "data": {
         "indexes": [
           {
@@ -148,15 +149,30 @@
             "name": "S&P 500",
             "symbol": "^GSPC",
             "value": 6940.7
+          },
+          {
+            "change": 45.6,
+            "change_percent": 0.66,
+            "is_positive": true,
+            "name": "NASDAQ",
+            "symbol": "^IXIC",
+            "value": 13000.5
+          },
+          {
+            "change": 45.6,
+            "change_percent": 0.66,
+            "is_positive": true,
+            "name": "DOW JONES",
+            "symbol": "^DJI",
+            "value": 36000.2
           }
         ],
         "market_summary": "Markets rallied across all major indexes on positive sentiment.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-01-11T14:20:10.463487"
+        "timestamp": "2026-01-12T14:27:22.418150"
       },
-      "name": "market",
-      "source": "Alpha Vantage API (via ETF proxies)",
-      "timestamp": "2026-01-11T14:20:10.463487"
+      "timestamp": "2026-01-12T14:27:22.418150",
+      "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
 }
