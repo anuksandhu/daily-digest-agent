@@ -1,91 +1,87 @@
 {
-  "date": "2026-01-12",
-  "generated_at": "2026-01-12T14:27:23.258390",
+  "date": "2026-01-13",
+  "generated_at": "2026-01-13T14:27:15.361523",
   "sections": [
     {
       "name": "weather",
       "data": {
         "current": {
           "description": "Clear sky",
-          "feels_like": 38.5,
-          "humidity": 85,
+          "feels_like": 48.5,
+          "humidity": 68,
           "icon": "01n",
-          "temp": 40.6,
-          "wind_speed": 3.4
+          "temp": 48.5,
+          "wind_speed": 2
         },
         "forecast": [
-          {
-            "date": "2026-01-12",
-            "description": "Clear sky",
-            "icon": "01n",
-            "temp": 55.1
-          },
           {
             "date": "2026-01-13",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 66.5
+            "temp": 58.6
           },
           {
             "date": "2026-01-14",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 67.6
+            "temp": 67.5
           },
           {
             "date": "2026-01-15",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 69.3
+            "temp": 70.2
           },
           {
             "date": "2026-01-16",
+            "description": "Scattered clouds",
+            "icon": "03n",
+            "temp": 69.9
+          },
+          {
+            "date": "2026-01-17",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 70.3
+            "temp": 68.6
           }
         ],
         "location": "San Jose",
-        "source": "OpenWeather API",
-        "timestamp": "2026-01-12T14:27:17.989095"
-      },
-      "timestamp": "2026-01-12T14:27:17.989095",
-      "source": "OpenWeather API"
+        "timestamp": "2026-01-13T14:27:11.573942",
+        "source": "OpenWeather API"
+      }
     },
     {
       "name": "sports",
       "data": {
-        "source": "The Sports DB API",
         "teams": [
           {
             "latest_game": "L 3-13 vs Seahawks (2026-01-04)",
             "league": "NFL",
             "name": "San Francisco 49ers",
-            "next_game": "No upcoming games scheduled",
+            "next_game": "@ Seahawks on 2026-01-17",
             "record": "Season in progress",
             "standings": "N/A"
           },
           {
-            "latest_game": "W 5-4 vs Stars (2026-01-10)",
+            "latest_game": "L 2-7 vs Knights (2026-01-12)",
             "league": "NHL",
             "name": "San Jose Sharks",
-            "next_game": "vs Knights on 2026-01-12",
+            "next_game": "@ Capitals on 2026-01-16",
             "record": "Season in progress",
             "standings": "N/A"
           },
           {
-            "latest_game": "W 137-103 vs Kings (2026-01-10)",
+            "latest_game": "L 111-124 vs Hawks (2026-01-12)",
             "league": "NBA",
             "name": "Golden State Warriors",
-            "next_game": "vs Hawks on 2026-01-12",
+            "next_game": "vs Blazers on 2026-01-14",
             "record": "Season in progress",
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-01-12T14:27:20.633881"
-      },
-      "timestamp": "2026-01-12T14:27:20.633881",
-      "source": "The Sports DB API"
+        "timestamp": "2026-01-13T14:27:14.040614",
+        "source": "The Sports DB API"
+      }
     },
     {
       "name": "tech",
@@ -93,86 +89,66 @@
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-01-12T14:00:44Z",
+            "published_at": "2026-01-13T13:30:00Z",
             "source": "TechCrunch",
-            "summary": "French defense tech company Harmattan AI is now valued at $1.4 billion after raising a $200 million Series B round led by Dassault Aviation, which is best known for making the Rafale fighter jet.",
-            "title": "Harmattan AI raises $200M Series B led by Dassault Aviation, becomes defense unicorn",
-            "url": "https://techcrunch.com/2026/01/12/harmattan-ai-raises-200m-series-b-led-by-dassault-aviation-becomes-defense-unicorn/"
+            "summary": "Deepgram is raising its Series C round at a $1.3 billion valuation.",
+            "title": "Deepgram raises $130M at $1.3B valuation and buys a YC AI startup",
+            "url": "https://techcrunch.com/2026/01/13/deepgram-raises-130m-at-1-3b-valuation-and-buys-a-yc-ai-startup/"
           },
           {
             "category": "technology",
-            "published_at": "2026-01-12T12:44:24Z",
+            "published_at": "2026-01-13T13:58:24Z",
             "source": "The Verge",
-            "summary": "Google turned up the heat in the AI shopping wars this weekend, announcing plans to turn Gemini into a merchant and launching an open-source standard built together with major retailers including Shop",
-            "title": "Google brings buy buttons to Gemini and AI search",
-            "url": "https://www.theverge.com/news/860446/google-ai-shopping-standard-buy-button-gemini"
+            "summary": "The most interesting story at this year's CES was just a little tiny bundle of technology. One way to look at Lego's new Smart Brick is as something like a Raspberry Pi, an endlessly remixable gizmo w",
+            "title": "How Lego\u2019s Smart Brick works",
+            "url": "https://www.theverge.com/podcast/861148/lego-smart-brick-claude-code-vergecast"
           },
           {
             "category": "technology",
-            "published_at": "2026-01-09T15:50:25Z",
+            "published_at": "2026-01-13T12:00:36Z",
             "source": "Ars Technica",
-            "summary": "SpaceX opened its 2026 launch campaign with a mission for the Italian government.",
-            "title": "Rocket Report: A new super-heavy launch site in California; 2025 year in review",
-            "url": "https://arstechnica.com/space/2026/01/rocket-report-spacex-and-china-led-the-way-in-2025-vandenberg-has-room-to-grow/"
+            "summary": "Introducing Confer, an end-to-end AI assistant that just works.",
+            "title": "Signal creator Moxie Marlinspike wants to do for AI what he did for messaging",
+            "url": "https://arstechnica.com/security/2026/01/signal-creator-moxie-marlinspike-wants-to-do-for-ai-what-he-did-for-messaging/"
           },
           {
             "category": "technology",
-            "published_at": "2026-01-11T12:30:00Z",
+            "published_at": "2026-01-13T11:30:00Z",
             "source": "Wired",
-            "summary": "I've spent almost a year testing dozens of heat protectants for hair. Whether you\u2019re blow-drying, curling, or straightening, these are the best formulas I've found.",
-            "title": "16 Best Heat Protectant Sprays for Wet and Dry Hair (2026)",
-            "url": "https://www.wired.com/gallery/the-best-heat-protectants-for-hair/"
+            "summary": "Can this discrete audio puck really drag any old speakers into the streaming age?",
+            "title": "Atonemo Streamplayer Review: Make Old Speakers New Again",
+            "url": "https://www.wired.com/review/atonemo-streamplayer/"
           },
           {
             "category": "technology",
-            "published_at": "2026-01-12T13:10:00Z",
+            "published_at": "2026-01-13T13:00:00Z",
             "source": "MIT Technology Review",
-            "summary": "This is today\u2019s edition of The Download, our weekday newsletter that provides a daily dose of what\u2019s going on in the world of technology. Introducing this year\u2019s 10 Breakthrough Technologies",
-            "title": "The Download: introducing this year\u2019s 10 Breakthrough Technologies",
-            "url": "https://www.technologyreview.com/2026/01/12/1131176/the-download-introducing-this-years-10-breakthrough-technologies/"
+            "summary": "This is today&#8217;s edition of&#160;The Download,&#160;our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Sodium-ion batteries are making their wa",
+            "title": "The Download: sodium-ion batteries and China\u2019s bright tech future",
+            "url": "https://www.technologyreview.com/2026/01/13/1131245/the-download-sodium-ion-batteries-and-chinas-bright-tech-future/"
           }
         ],
-        "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-01-12T14:27:21.310663"
-      },
-      "timestamp": "2026-01-12T14:27:21.310663",
-      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
+        "timestamp": "2026-01-13T14:27:14.893369",
+        "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
+      }
     },
     {
       "name": "market",
       "data": {
         "indexes": [
           {
-            "change": 45.6,
-            "change_percent": 0.66,
+            "change": 10.9,
+            "change_percent": 0.16,
             "is_positive": true,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 6940.7
-          },
-          {
-            "change": 45.6,
-            "change_percent": 0.66,
-            "is_positive": true,
-            "name": "NASDAQ",
-            "symbol": "^IXIC",
-            "value": 13000.5
-          },
-          {
-            "change": 45.6,
-            "change_percent": 0.66,
-            "is_positive": true,
-            "name": "DOW JONES",
-            "symbol": "^DJI",
-            "value": 36000.2
+            "value": 6951.6
           }
         ],
         "market_summary": "Markets rallied across all major indexes on positive sentiment.",
-        "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-01-12T14:27:22.418150"
-      },
-      "timestamp": "2026-01-12T14:27:22.418150",
-      "source": "Alpha Vantage API (via ETF proxies)"
+        "timestamp": "2026-01-13T14:27:15.361523",
+        "source": "Alpha Vantage API (via ETF proxies)"
+      }
     }
   ]
 }
