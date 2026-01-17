@@ -1,55 +1,55 @@
 {
-  "date": "2026-01-15",
-  "generated_at": "2026-01-15T14:27:09.123456",
+  "date": "2026-01-17",
+  "generated_at": "2026-01-17T14:20:17.345678",
   "sections": [
     {
       "name": "weather",
       "data": {
         "current": {
           "description": "Clear sky",
-          "feels_like": 47.9,
-          "humidity": 68,
+          "feels_like": 47.1,
+          "humidity": 70,
           "icon": "01n",
-          "temp": 47.9,
-          "wind_speed": 1
+          "temp": 47.1,
+          "wind_speed": 0
         },
         "forecast": [
-          {
-            "date": "2026-01-15",
-            "description": "Clear sky",
-            "icon": "01n",
-            "temp": 62.8
-          },
-          {
-            "date": "2026-01-16",
-            "description": "Clear sky",
-            "icon": "01n",
-            "temp": 69.8
-          },
           {
             "date": "2026-01-17",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 69
+            "temp": 61.7
           },
           {
             "date": "2026-01-18",
             "description": "Overcast clouds",
             "icon": "04n",
-            "temp": 67.4
+            "temp": 69.3
           },
           {
             "date": "2026-01-19",
+            "description": "Broken clouds",
+            "icon": "04n",
+            "temp": 68.5
+          },
+          {
+            "date": "2026-01-20",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 69.2
+          },
+          {
+            "date": "2026-01-21",
             "description": "Few clouds",
             "icon": "02n",
-            "temp": 67.6
+            "temp": 68.8
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-01-15T14:27:05.106692"
+        "timestamp": "2026-01-17T14:20:13.093540"
       },
-      "timestamp": "2026-01-15T14:27:05.106692",
+      "timestamp": "2026-01-17T14:20:13.093540",
       "source": "OpenWeather API"
     },
     {
@@ -69,22 +69,22 @@
             "latest_game": "L 2-7 vs Knights (2026-01-12)",
             "league": "NHL",
             "name": "San Jose Sharks",
-            "next_game": "@ Capitals on 2026-01-16",
+            "next_game": "@ Wings on 2026-01-17",
             "record": "Season in progress",
             "standings": "N/A"
           },
           {
-            "latest_game": "W 119-97 vs Blazers (2026-01-14)",
+            "latest_game": "W 126-113 vs Knicks (2026-01-16)",
             "league": "NBA",
             "name": "Golden State Warriors",
-            "next_game": "vs Knicks on 2026-01-16",
+            "next_game": "vs Hornets on 2026-01-18",
             "record": "Season in progress",
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-01-15T14:27:06.970291"
+        "timestamp": "2026-01-17T14:20:15.588956"
       },
-      "timestamp": "2026-01-15T14:27:06.970291",
+      "timestamp": "2026-01-17T14:20:15.588956",
       "source": "The Sports DB API"
     },
     {
@@ -93,49 +93,49 @@
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-01-15T14:24:46Z",
+            "published_at": "2026-01-17T08:26:08Z",
             "source": "TechCrunch",
-            "summary": "The massive round was led by existing investor General Catalyst, with participation from other returning backers.",
-            "title": "Parloa triples its valuation in 8 months to $3B with $350M raise",
-            "url": "https://techcrunch.com/2026/01/15/parloa-triples-its-valuation-in-8-months-to-3b-with-350m-raise/"
+            "summary": "Musk's legal team argues he should be compensated as an early startup investor who sees returns \"many orders of magnitude greater\" than his initial investment.",
+            "title": "Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune",
+            "url": "https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/"
           },
           {
             "category": "technology",
-            "published_at": "2026-01-15T14:10:27Z",
+            "published_at": "2026-01-17T14:00:00Z",
             "source": "The Verge",
-            "summary": "The best deal that I\u2019ve seen on The Matrix: 4 Film Deja V\u00fa Collection containing the four main films on 4K Blu-ray discs is $34.99. After missing out on that price around Cyber Monday, I\u2019ve been waiti",
-            "title": "Get all four Matrix movies on 4K Blu-ray for $45",
-            "url": "https://www.theverge.com/gadgets/862479/the-matrix-4k-bluray-collection-power-bank-disney-plus-deal-sale"
+            "summary": "As masked and armed men in combat armor swarmed throughout the Twin Cities, Gov. Tim Walz took to primetime television to ask Minnesotans to film ICE. The videos, he said, would \"create a database of ",
+            "title": "Minnesota wants to win a war of attrition",
+            "url": "https://www.theverge.com/policy/863632/minnesota-walz-trump-sousveillance-ice"
           },
           {
             "category": "technology",
-            "published_at": "2026-01-14T23:43:46Z",
+            "published_at": "2026-01-16T23:15:27Z",
             "source": "Ars Technica",
-            "summary": "AI weapons systems may annihilate their creators.",
-            "title": "Musk and Hegseth vow to \u201cmake Star Trek real\u201d but miss the show\u2019s lessons",
-            "url": "https://arstechnica.com/culture/2026/01/pentagons-arsenal-of-freedom-tour-borrows-name-from-star-trek-episode-about-killer-ai/"
+            "summary": "Reseller says Rackspace plans to charge it 706 percent more.",
+            "title": "Rackspace customers grapple with \u201cdevastating\u201d email hosting price hike",
+            "url": "https://arstechnica.com/information-technology/2026/01/rackspace-raises-email-hosting-prices-by-as-much-as-706-percent/"
           },
           {
             "category": "technology",
-            "published_at": "2026-01-15T12:00:00Z",
+            "published_at": "2026-01-17T11:30:00Z",
             "source": "Wired",
-            "summary": "Flaws in how 17 models of headphones and speakers use Google\u2019s one-tap Fast Pair Bluetooth protocol have left devices open to eavesdroppers and stalkers.",
-            "title": "Hundreds of Millions of Audio Devices Need a Patch to Prevent Wireless Hacking and Tracking",
-            "url": "https://www.wired.com/story/google-fast-pair-bluetooth-audio-accessories-vulnerability-patches/"
+            "summary": "Plus: AI reportedly caused ICE to send agents into the field without training, Palantir\u2019s app for targeting immigrants gets exposed, and more.",
+            "title": "US Hackers Reportedly Caused a Blackout in Venezuela",
+            "url": "https://www.wired.com/story/security-news-this-week-us-hackers-reportedly-caused-a-blackout-in-venezuela/"
           },
           {
             "category": "technology",
-            "published_at": "2026-01-15T13:10:39Z",
+            "published_at": "2026-01-16T12:59:42Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of&#160;The Download,&#160;our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet the man hunting the spies in your s",
-            "title": "The Download: spying on the spies, and promising climate tech",
-            "url": "https://www.technologyreview.com/2026/01/15/1131361/the-download-spying-on-the-spies-and-promising-climate-tech/"
+            "summary": "This is today&#8217;s edition of&#160;The Download,&#160;our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI coding is now everywhere. But not eve",
+            "title": "The Download: cut through AI coding hype, and biotech trends to watch",
+            "url": "https://www.technologyreview.com/2026/01/16/1131375/the-download-ai-coding-hype-and-biotech-trends-to-watch/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-01-15T14:27:07.869797"
+        "timestamp": "2026-01-17T14:20:16.391726"
       },
-      "timestamp": "2026-01-15T14:27:07.869797",
+      "timestamp": "2026-01-17T14:20:16.391726",
       "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
@@ -143,19 +143,19 @@
       "data": {
         "indexes": [
           {
-            "change": -34.1,
-            "change_percent": -0.49,
+            "change": -5.8,
+            "change_percent": -0.08,
             "is_positive": false,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 6903.6
+            "value": 6916.6
           }
         ],
         "market_summary": "Markets declined on concerns about economic outlook.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-01-15T14:27:08.315806"
+        "timestamp": "2026-01-17T14:20:16.842576"
       },
-      "timestamp": "2026-01-15T14:27:08.315806",
+      "timestamp": "2026-01-17T14:20:16.842576",
       "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
