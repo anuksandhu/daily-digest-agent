@@ -1,59 +1,58 @@
 {
-  "date": "2026-01-17",
-  "generated_at": "2026-01-17T14:20:17.345678",
+  "date": "2026-01-18",
+  "generated_at": "2026-01-18T14:19:33.500000",
   "sections": [
     {
-      "name": "weather",
       "data": {
         "current": {
-          "description": "Clear sky",
-          "feels_like": 47.1,
-          "humidity": 70,
-          "icon": "01n",
-          "temp": 47.1,
-          "wind_speed": 0
+          "description": "Overcast clouds",
+          "feels_like": 52.8,
+          "humidity": 65,
+          "icon": "04n",
+          "temp": 54.6,
+          "wind_speed": 1
         },
         "forecast": [
           {
-            "date": "2026-01-17",
-            "description": "Clear sky",
-            "icon": "01n",
-            "temp": 61.7
-          },
-          {
             "date": "2026-01-18",
-            "description": "Overcast clouds",
+            "description": "Broken clouds",
             "icon": "04n",
-            "temp": 69.3
+            "temp": 63.8
           },
           {
             "date": "2026-01-19",
-            "description": "Broken clouds",
-            "icon": "04n",
-            "temp": 68.5
+            "description": "Scattered clouds",
+            "icon": "03n",
+            "temp": 68.2
           },
           {
             "date": "2026-01-20",
-            "description": "Clear sky",
-            "icon": "01n",
-            "temp": 69.2
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 69.5
           },
           {
             "date": "2026-01-21",
-            "description": "Few clouds",
-            "icon": "02n",
-            "temp": 68.8
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 66.5
+          },
+          {
+            "date": "2026-01-22",
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 69
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-01-17T14:20:13.093540"
+        "timestamp": "2026-01-18T14:19:29.327011"
       },
-      "timestamp": "2026-01-17T14:20:13.093540",
-      "source": "OpenWeather API"
+      "name": "weather",
+      "source": "OpenWeather API",
+      "timestamp": "2026-01-18T14:19:29.327011"
     },
     {
-      "name": "sports",
       "data": {
         "source": "The Sports DB API",
         "teams": [
@@ -69,7 +68,7 @@
             "latest_game": "L 2-7 vs Knights (2026-01-12)",
             "league": "NHL",
             "name": "San Jose Sharks",
-            "next_game": "@ Wings on 2026-01-17",
+            "next_game": "@ Panthers on 2026-01-19",
             "record": "Season in progress",
             "standings": "N/A"
           },
@@ -82,30 +81,30 @@
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-01-17T14:20:15.588956"
+        "timestamp": "2026-01-18T14:19:31.188349"
       },
-      "timestamp": "2026-01-17T14:20:15.588956",
-      "source": "The Sports DB API"
+      "name": "sports",
+      "source": "The Sports DB API",
+      "timestamp": "2026-01-18T14:19:31.188349"
     },
     {
-      "name": "tech",
       "data": {
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-01-17T08:26:08Z",
+            "published_at": "2026-01-17T22:45:09Z",
             "source": "TechCrunch",
-            "summary": "Musk's legal team argues he should be compensated as an early startup investor who sees returns \"many orders of magnitude greater\" than his initial investment.",
-            "title": "Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune",
-            "url": "https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/"
+            "summary": "While it\\'s easy to romanticize space as an escape to a pristine frontier where people will float weightlessly among the stars, it\u2019s worth remembering there are no oceans or mountains or chirpy birds i",
+            "title": "Who gets to inherit the stars? A space ethicist on what we\u2019re not talking about",
+            "url": "https://techcrunch.com/2026/01/17/who-gets-to-inherit-the-stars-a-space-ethicist-on-what-were-not-talking-about/"
           },
           {
             "category": "technology",
-            "published_at": "2026-01-17T14:00:00Z",
+            "published_at": "2026-01-18T13:30:00Z",
             "source": "The Verge",
-            "summary": "As masked and armed men in combat armor swarmed throughout the Twin Cities, Gov. Tim Walz took to primetime television to ask Minnesotans to film ICE. The videos, he said, would \"create a database of ",
-            "title": "Minnesota wants to win a war of attrition",
-            "url": "https://www.theverge.com/policy/863632/minnesota-walz-trump-sousveillance-ice"
+            "summary": "The Kaoss Pad has seen many different iterations, but the mainline effect unit and sampler hasn't received an update since the launch of the KP3+ in 2013. Korg has finally given it the attention it de",
+            "title": "Kaoss Pad V is the first major upgrade to Korg\u2019s touch-based effects in 13 years",
+            "url": "https://www.theverge.com/news/864003/korg-kaoss-pad-v-namm"
           },
           {
             "category": "technology",
@@ -117,11 +116,11 @@
           },
           {
             "category": "technology",
-            "published_at": "2026-01-17T11:30:00Z",
+            "published_at": "2026-01-18T12:00:00Z",
             "source": "Wired",
-            "summary": "Plus: AI reportedly caused ICE to send agents into the field without training, Palantir\u2019s app for targeting immigrants gets exposed, and more.",
-            "title": "US Hackers Reportedly Caused a Blackout in Venezuela",
-            "url": "https://www.wired.com/story/security-news-this-week-us-hackers-reportedly-caused-a-blackout-in-venezuela/"
+            "summary": "We tested the best electric bikes in every category, from commuters and mountain bikes to foldables and cruisers.",
+            "title": "15 Best Electric Bikes (2026), Tested and Reviewed: Commuting, Mountain Biking",
+            "url": "https://www.wired.com/gallery/best-electric-bikes/"
           },
           {
             "category": "technology",
@@ -133,13 +132,13 @@
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-01-17T14:20:16.391726"
+        "timestamp": "2026-01-18T14:19:32.457591"
       },
-      "timestamp": "2026-01-17T14:20:16.391726",
-      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
+      "name": "tech",
+      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
+      "timestamp": "2026-01-18T14:19:32.457591"
     },
     {
-      "name": "market",
       "data": {
         "indexes": [
           {
@@ -153,10 +152,11 @@
         ],
         "market_summary": "Markets declined on concerns about economic outlook.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-01-17T14:20:16.842576"
+        "timestamp": "2026-01-18T14:19:33.006031"
       },
-      "timestamp": "2026-01-17T14:20:16.842576",
-      "source": "Alpha Vantage API (via ETF proxies)"
+      "name": "market",
+      "source": "Alpha Vantage API (via ETF proxies)",
+      "timestamp": "2026-01-18T14:19:33.006031"
     }
   ]
 }
