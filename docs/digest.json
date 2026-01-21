@@ -1,58 +1,59 @@
 {
-  "date": "2026-01-18",
-  "generated_at": "2026-01-18T14:19:33.500000",
+  "date": "2026-01-21",
+  "generated_at": "2026-01-21T14:32:34.123456",
   "sections": [
     {
+      "name": "weather",
       "data": {
         "current": {
-          "description": "Overcast clouds",
-          "feels_like": 52.8,
-          "humidity": 65,
-          "icon": "04n",
-          "temp": 54.6,
-          "wind_speed": 1
+          "description": "Clear sky",
+          "feels_like": 47.2,
+          "humidity": 81,
+          "icon": "01n",
+          "temp": 48.1,
+          "wind_speed": 3.4
         },
         "forecast": [
           {
-            "date": "2026-01-18",
-            "description": "Broken clouds",
-            "icon": "04n",
-            "temp": 63.8
-          },
-          {
-            "date": "2026-01-19",
-            "description": "Scattered clouds",
-            "icon": "03n",
-            "temp": 68.2
-          },
-          {
-            "date": "2026-01-20",
-            "description": "Overcast clouds",
-            "icon": "04n",
-            "temp": 69.5
-          },
-          {
             "date": "2026-01-21",
-            "description": "Overcast clouds",
-            "icon": "04n",
-            "temp": 66.5
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 58.5
           },
           {
             "date": "2026-01-22",
             "description": "Overcast clouds",
             "icon": "04n",
-            "temp": 69
+            "temp": 65
+          },
+          {
+            "date": "2026-01-23",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 63.3
+          },
+          {
+            "date": "2026-01-24",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 62.1
+          },
+          {
+            "date": "2026-01-25",
+            "description": "Few clouds",
+            "icon": "02n",
+            "temp": 64.5
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-01-18T14:19:29.327011"
+        "timestamp": "2026-01-21T14:32:30.212453"
       },
-      "name": "weather",
-      "source": "OpenWeather API",
-      "timestamp": "2026-01-18T14:19:29.327011"
+      "timestamp": "2026-01-21T14:32:30.212453",
+      "source": "OpenWeather API"
     },
     {
+      "name": "sports",
       "data": {
         "source": "The Sports DB API",
         "teams": [
@@ -60,7 +61,7 @@
             "latest_game": "L 3-13 vs Seahawks (2026-01-04)",
             "league": "NFL",
             "name": "San Francisco 49ers",
-            "next_game": "@ Seahawks on 2026-01-18",
+            "next_game": "No upcoming games scheduled",
             "record": "Season in progress",
             "standings": "N/A"
           },
@@ -68,95 +69,94 @@
             "latest_game": "L 2-7 vs Knights (2026-01-12)",
             "league": "NHL",
             "name": "San Jose Sharks",
-            "next_game": "@ Panthers on 2026-01-19",
+            "next_game": "@ Lightning on 2026-01-21",
             "record": "Season in progress",
             "standings": "N/A"
           },
           {
-            "latest_game": "W 126-113 vs Knicks (2026-01-16)",
+            "latest_game": "W 135-112 vs Heat (2026-01-20)",
             "league": "NBA",
             "name": "Golden State Warriors",
-            "next_game": "vs Hornets on 2026-01-18",
+            "next_game": "vs Raptors on 2026-01-21",
             "record": "Season in progress",
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-01-18T14:19:31.188349"
+        "timestamp": "2026-01-21T14:32:32.122409"
       },
-      "name": "sports",
-      "source": "The Sports DB API",
-      "timestamp": "2026-01-18T14:19:31.188349"
+      "timestamp": "2026-01-21T14:32:32.122409",
+      "source": "The Sports DB API"
     },
     {
+      "name": "tech",
       "data": {
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-01-17T22:45:09Z",
+            "published_at": "2026-01-21T14:16:53Z",
             "source": "TechCrunch",
-            "summary": "While it\\'s easy to romanticize space as an escape to a pristine frontier where people will float weightlessly among the stars, it\u2019s worth remembering there are no oceans or mountains or chirpy birds i",
-            "title": "Who gets to inherit the stars? A space ethicist on what we\u2019re not talking about",
-            "url": "https://techcrunch.com/2026/01/17/who-gets-to-inherit-the-stars-a-space-ethicist-on-what-were-not-talking-about/"
+            "summary": "Adobe is adding AI tools to Acrobat, including the ability to generate podcast summaries of files, create presentations, and a way for users to edit files using prompts.",
+            "title": "Adobe Acrobat now lets you edit files using prompts, generate podcast summaries",
+            "url": "https://techcrunch.com/2026/01/21/adobe-acrobat-now-lets-you-edit-files-using-prompts-generate-podcast-summaries/"
           },
           {
             "category": "technology",
-            "published_at": "2026-01-18T13:30:00Z",
+            "published_at": "2026-01-21T14:15:00Z",
             "source": "The Verge",
-            "summary": "The Kaoss Pad has seen many different iterations, but the mainline effect unit and sampler hasn't received an update since the launch of the KP3+ in 2013. Korg has finally given it the attention it de",
-            "title": "Kaoss Pad V is the first major upgrade to Korg\u2019s touch-based effects in 13 years",
-            "url": "https://www.theverge.com/news/864003/korg-kaoss-pad-v-namm"
+            "summary": "A couple of weeks ago, Adam Mosseri posted to his grid. In a series of messages, Instagram\\'s top exec laid out his concerns for the platform in the coming year, largely around AI. The post was equal p",
+            "title": "Instagram\u2019s top boss is missing the point about AI on the platform",
+            "url": "https://www.theverge.com/tech/864768/instagram-adam-mosseri-ai-content-algorithm"
           },
           {
             "category": "technology",
-            "published_at": "2026-01-16T23:15:27Z",
+            "published_at": "2026-01-21T12:15:23Z",
             "source": "Ars Technica",
-            "summary": "Reseller says Rackspace plans to charge it 706 percent more.",
-            "title": "Rackspace customers grapple with \u201cdevastating\u201d email hosting price hike",
-            "url": "https://arstechnica.com/information-technology/2026/01/rackspace-raises-email-hosting-prices-by-as-much-as-706-percent/"
+            "summary": "The web's best guide to spotting AI writing has become a manual for hiding it.",
+            "title": "Wikipedia volunteers spent years cataloging AI tells. Now there's a plugin to avoid them.",
+            "url": "https://arstechnica.com/ai/2026/01/new-ai-plugin-uses-wikipedias-ai-writing-detection-rules-to-help-it-sound-human/"
           },
           {
             "category": "technology",
-            "published_at": "2026-01-18T12:00:00Z",
+            "published_at": "2026-01-21T11:30:00Z",
             "source": "Wired",
-            "summary": "We tested the best electric bikes in every category, from commuters and mountain bikes to foldables and cruisers.",
-            "title": "15 Best Electric Bikes (2026), Tested and Reviewed: Commuting, Mountain Biking",
-            "url": "https://www.wired.com/gallery/best-electric-bikes/"
+            "summary": "Silicon Valley\u2019s battle against AI regulation is already shaping the next US election cycle.",
+            "title": "Pro-AI Super PACs Are Already All In on the Midterms",
+            "url": "https://www.wired.com/story/ai-super-pacs-trying-to-influence-midterms/"
           },
           {
             "category": "technology",
-            "published_at": "2026-01-16T12:59:42Z",
+            "published_at": "2026-01-21T14:00:00Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of&#160;The Download,&#160;our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI coding is now everywhere. But not eve",
-            "title": "The Download: cut through AI coding hype, and biotech trends to watch",
-            "url": "https://www.technologyreview.com/2026/01/16/1131375/the-download-ai-coding-hype-and-biotech-trends-to-watch/"
+            "summary": "Governments plan to pour $1.3 trillion into AI infrastructure by 2030 to invest in \u201csovereign AI,\u201d with the premise being that countries should be in control of their own AI capabilities. The funds in",
+            "title": "Everyone wants AI sovereignty. No one can truly have it.",
+            "url": "https://www.technologyreview.com/2026/01/21/1131513/everyone-wants-ai-sovereignty-no-one-can-truly-have-it/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-01-18T14:19:32.457591"
+        "timestamp": "2026-01-21T14:32:32.979976"
       },
-      "name": "tech",
-      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-      "timestamp": "2026-01-18T14:19:32.457591"
+      "timestamp": "2026-01-21T14:32:32.979976",
+      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
+      "name": "market",
       "data": {
         "indexes": [
           {
-            "change": -5.8,
-            "change_percent": -0.08,
+            "change": -140.8,
+            "change_percent": -2.04,
             "is_positive": false,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 6916.6
+            "value": 6775.8
           }
         ],
         "market_summary": "Markets declined on concerns about economic outlook.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-01-18T14:19:33.006031"
+        "timestamp": "2026-01-21T14:32:33.534209"
       },
-      "name": "market",
-      "source": "Alpha Vantage API (via ETF proxies)",
-      "timestamp": "2026-01-18T14:19:33.006031"
+      "timestamp": "2026-01-21T14:32:33.534209",
+      "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
 }
