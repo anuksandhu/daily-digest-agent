@@ -1,61 +1,60 @@
 {
-  "date": "2026-01-21",
-  "generated_at": "2026-01-21T14:32:34.123456",
+  "date": "2026-01-23",
+  "generated_at": "2026-01-23T14:27:05.123456",
   "sections": [
     {
       "name": "weather",
       "data": {
         "current": {
-          "description": "Clear sky",
-          "feels_like": 47.2,
-          "humidity": 81,
-          "icon": "01n",
-          "temp": 48.1,
+          "description": "Mist",
+          "feels_like": 47.7,
+          "humidity": 91,
+          "icon": "50n",
+          "temp": 48.6,
           "wind_speed": 3.4
         },
         "forecast": [
           {
-            "date": "2026-01-21",
-            "description": "Clear sky",
-            "icon": "01n",
-            "temp": 58.5
-          },
-          {
-            "date": "2026-01-22",
+            "date": "2026-01-23",
             "description": "Overcast clouds",
             "icon": "04n",
-            "temp": 65
-          },
-          {
-            "date": "2026-01-23",
-            "description": "Clear sky",
-            "icon": "01n",
-            "temp": 63.3
+            "temp": 59.2
           },
           {
             "date": "2026-01-24",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 62.1
+            "temp": 62.7
           },
           {
             "date": "2026-01-25",
-            "description": "Few clouds",
-            "icon": "02n",
-            "temp": 64.5
+            "description": "Broken clouds",
+            "icon": "04n",
+            "temp": 61.1
+          },
+          {
+            "date": "2026-01-26",
+            "description": "Broken clouds",
+            "icon": "04n",
+            "temp": 65.1
+          },
+          {
+            "date": "2026-01-27",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 65.2
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-01-21T14:32:30.212453"
+        "timestamp": "2026-01-23T14:27:01.868484"
       },
-      "timestamp": "2026-01-21T14:32:30.212453",
+      "timestamp": "2026-01-23T14:27:01.868484",
       "source": "OpenWeather API"
     },
     {
       "name": "sports",
       "data": {
-        "source": "The Sports DB API",
         "teams": [
           {
             "latest_game": "L 3-13 vs Seahawks (2026-01-04)",
@@ -69,22 +68,23 @@
             "latest_game": "L 2-7 vs Knights (2026-01-12)",
             "league": "NHL",
             "name": "San Jose Sharks",
-            "next_game": "@ Lightning on 2026-01-21",
+            "next_game": "vs Rangers on 2026-01-24",
             "record": "Season in progress",
             "standings": "N/A"
           },
           {
-            "latest_game": "W 135-112 vs Heat (2026-01-20)",
+            "latest_game": "L 127-145 vs Raptors (2026-01-21)",
             "league": "NBA",
             "name": "Golden State Warriors",
-            "next_game": "vs Raptors on 2026-01-21",
+            "next_game": "@ Mavericks on 2026-01-23",
             "record": "Season in progress",
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-01-21T14:32:32.122409"
+        "timestamp": "2026-01-23T14:27:03.802484",
+        "source": "The Sports DB API"
       },
-      "timestamp": "2026-01-21T14:32:32.122409",
+      "timestamp": "2026-01-23T14:27:03.802484",
       "source": "The Sports DB API"
     },
     {
@@ -93,49 +93,49 @@
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-01-21T14:16:53Z",
+            "published_at": "2026-01-23T02:29:24Z",
             "source": "TechCrunch",
-            "summary": "Adobe is adding AI tools to Acrobat, including the ability to generate podcast summaries of files, create presentations, and a way for users to edit files using prompts.",
-            "title": "Adobe Acrobat now lets you edit files using prompts, generate podcast summaries",
-            "url": "https://techcrunch.com/2026/01/21/adobe-acrobat-now-lets-you-edit-files-using-prompts-generate-podcast-summaries/"
+            "summary": "Blockit, an AI agent that communicates directly with other calendars, has raised $5 million in seed funding led by Sequoia.",
+            "title": "Former Sequoia partner\u2019s new startup uses AI to negotiate your calendar for you",
+            "url": "https://techcrunch.com/2026/01/22/former-sequoia-partners-new-startup-uses-ai-to-negotiate-your-calendar-for-you/"
           },
           {
             "category": "technology",
-            "published_at": "2026-01-21T14:15:00Z",
+            "published_at": "2026-01-23T12:00:00Z",
             "source": "The Verge",
-            "summary": "A couple of weeks ago, Adam Mosseri posted to his grid. In a series of messages, Instagram\\'s top exec laid out his concerns for the platform in the coming year, largely around AI. The post was equal p",
-            "title": "Instagram\u2019s top boss is missing the point about AI on the platform",
-            "url": "https://www.theverge.com/tech/864768/instagram-adam-mosseri-ai-content-algorithm"
+            "summary": "In early December, I brought you the news that Google has begun replacing Verge headlines, and those of our competitors, with AI clickbait nonsense in its content feed. Google appeared to be backing a",
+            "title": "Google won\u2019t stop replacing our news headlines with terrible AI",
+            "url": "https://www.theverge.com/tech/865168/google-says-ai-news-headlines-are-feature-not-experiment"
           },
           {
             "category": "technology",
-            "published_at": "2026-01-21T12:15:23Z",
+            "published_at": "2026-01-23T12:00:31Z",
             "source": "Ars Technica",
-            "summary": "The web's best guide to spotting AI writing has become a manual for hiding it.",
-            "title": "Wikipedia volunteers spent years cataloging AI tells. Now there's a plugin to avoid them.",
-            "url": "https://arstechnica.com/ai/2026/01/new-ai-plugin-uses-wikipedias-ai-writing-detection-rules-to-help-it-sound-human/"
+            "summary": "It's efficient, easy to live with, and smooth to drive.",
+            "title": "2026 Lucid Air Touring review: This feels like a complete car now",
+            "url": "https://arstechnica.com/features/2026/01/2026-lucid-air-touring-review-this-feels-like-a-complete-car-now/"
           },
           {
             "category": "technology",
-            "published_at": "2026-01-21T11:30:00Z",
+            "published_at": "2026-01-23T13:31:00Z",
             "source": "Wired",
-            "summary": "Silicon Valley\u2019s battle against AI regulation is already shaping the next US election cycle.",
-            "title": "Pro-AI Super PACs Are Already All In on the Midterms",
-            "url": "https://www.wired.com/story/ai-super-pacs-trying-to-influence-midterms/"
+            "summary": "I tested an array of alternative sleep aids, from gummies to wearable patches, to see if they would help my chronic insomnia.",
+            "title": "The Best Over-the-Counter Sleep Aids (2026), Tested and Reviewed",
+            "url": "https://www.wired.com/gallery/best-over-the-counter-sleep-aids/"
           },
           {
             "category": "technology",
-            "published_at": "2026-01-21T14:00:00Z",
+            "published_at": "2026-01-23T13:07:00Z",
             "source": "MIT Technology Review",
-            "summary": "Governments plan to pour $1.3 trillion into AI infrastructure by 2030 to invest in \u201csovereign AI,\u201d with the premise being that countries should be in control of their own AI capabilities. The funds in",
-            "title": "Everyone wants AI sovereignty. No one can truly have it.",
-            "url": "https://www.technologyreview.com/2026/01/21/1131513/everyone-wants-ai-sovereignty-no-one-can-truly-have-it/"
+            "summary": "This is today&#8217;s edition of&#160;The Download,&#160;our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. \u201cDr. Google\u201d had its issues. Can ChatGPT",
+            "title": "The Download: chatbots for health, and US fights over AI regulation",
+            "url": "https://www.technologyreview.com/2026/01/23/1131708/the-download-chatbots-for-health-and-us-fights-over-ai-regulation/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-01-21T14:32:32.979976"
+        "timestamp": "2026-01-23T14:27:04.444931"
       },
-      "timestamp": "2026-01-21T14:32:32.979976",
+      "timestamp": "2026-01-23T14:27:04.444931",
       "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
@@ -143,19 +143,35 @@
       "data": {
         "indexes": [
           {
-            "change": -140.8,
-            "change_percent": -2.04,
-            "is_positive": false,
+            "change": 35.8,
+            "change_percent": 0.52,
+            "is_positive": true,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 6775.8
+            "value": 6889.8
+          },
+          {
+            "change": 108.13,
+            "change_percent": 0.7,
+            "is_positive": true,
+            "name": "NASDAQ",
+            "symbol": "^IXIC",
+            "value": 15553.13
+          },
+          {
+            "change": 253.83,
+            "change_percent": 0.65,
+            "is_positive": true,
+            "name": "DOW JONES",
+            "symbol": "^DJI",
+            "value": 39300.83
           }
         ],
-        "market_summary": "Markets declined on concerns about economic outlook.",
-        "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-01-21T14:32:33.534209"
+        "market_summary": "Markets rallied across all major indexes on positive sentiment.",
+        "timestamp": "2026-01-23T14:27:04.671055",
+        "source": "Alpha Vantage API (via ETF proxies)"
       },
-      "timestamp": "2026-01-21T14:32:33.534209",
+      "timestamp": "2026-01-23T14:27:04.671055",
       "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
