@@ -1,60 +1,60 @@
 {
-  "date": "2026-01-23",
-  "generated_at": "2026-01-23T14:27:05.123456",
+  "date": "2026-01-24",
+  "generated_at": "2026-01-24T14:20:49.103943",
   "sections": [
     {
-      "name": "weather",
       "data": {
         "current": {
           "description": "Mist",
-          "feels_like": 47.7,
-          "humidity": 91,
+          "feels_like": 41.4,
+          "humidity": 89,
           "icon": "50n",
-          "temp": 48.6,
-          "wind_speed": 3.4
+          "temp": 44,
+          "wind_speed": 4.6
         },
         "forecast": [
           {
-            "date": "2026-01-23",
-            "description": "Overcast clouds",
-            "icon": "04n",
-            "temp": 59.2
-          },
-          {
             "date": "2026-01-24",
-            "description": "Clear sky",
-            "icon": "01n",
-            "temp": 62.7
+            "description": "Few clouds",
+            "icon": "02n",
+            "temp": 54.8
           },
           {
             "date": "2026-01-25",
-            "description": "Broken clouds",
-            "icon": "04n",
-            "temp": 61.1
+            "description": "Scattered clouds",
+            "icon": "03n",
+            "temp": 61.5
           },
           {
             "date": "2026-01-26",
             "description": "Broken clouds",
             "icon": "04n",
-            "temp": 65.1
+            "temp": 65.4
           },
           {
             "date": "2026-01-27",
-            "description": "Clear sky",
-            "icon": "01n",
-            "temp": 65.2
+            "description": "Scattered clouds",
+            "icon": "03n",
+            "temp": 64.7
+          },
+          {
+            "date": "2026-01-28",
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 63.4
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-01-23T14:27:01.868484"
+        "timestamp": "2026-01-24T14:20:46.285545"
       },
-      "timestamp": "2026-01-23T14:27:01.868484",
-      "source": "OpenWeather API"
+      "name": "weather",
+      "source": "OpenWeather API",
+      "timestamp": "2026-01-24T14:20:46.285545"
     },
     {
-      "name": "sports",
       "data": {
+        "source": "The Sports DB API",
         "teams": [
           {
             "latest_game": "L 3-13 vs Seahawks (2026-01-04)",
@@ -76,52 +76,51 @@
             "latest_game": "L 127-145 vs Raptors (2026-01-21)",
             "league": "NBA",
             "name": "Golden State Warriors",
-            "next_game": "@ Mavericks on 2026-01-23",
+            "next_game": "@ Timberwolves on 2026-01-24",
             "record": "Season in progress",
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-01-23T14:27:03.802484",
-        "source": "The Sports DB API"
+        "timestamp": "2026-01-24T14:20:47.586048"
       },
-      "timestamp": "2026-01-23T14:27:03.802484",
-      "source": "The Sports DB API"
+      "name": "sports",
+      "source": "The Sports DB API",
+      "timestamp": "2026-01-24T14:20:47.586048"
     },
     {
-      "name": "tech",
       "data": {
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-01-23T02:29:24Z",
+            "published_at": "2026-01-24T05:27:22Z",
             "source": "TechCrunch",
-            "summary": "Blockit, an AI agent that communicates directly with other calendars, has raised $5 million in seed funding led by Sequoia.",
-            "title": "Former Sequoia partner\u2019s new startup uses AI to negotiate your calendar for you",
-            "url": "https://techcrunch.com/2026/01/22/former-sequoia-partners-new-startup-uses-ai-to-negotiate-your-calendar-for-you/"
+            "summary": "Hexus founder and CEO Sakshi Pratap, who previously held engineering roles at Walmart, Oracle, and Google, tells TechCrunch that her San Francisco-based team has already joined Harvey, while the start",
+            "title": "Legal AI giant Harvey acquires Hexus as competition heats up in legal tech",
+            "url": "https://techcrunch.com/2026/01/23/legal-ai-giant-harvey-acquires-hexus-as-competition-heats-up-in-legal-tech/"
           },
           {
             "category": "technology",
-            "published_at": "2026-01-23T12:00:00Z",
+            "published_at": "2026-01-24T14:00:00Z",
             "source": "The Verge",
-            "summary": "In early December, I brought you the news that Google has begun replacing Verge headlines, and those of our competitors, with AI clickbait nonsense in its content feed. Google appeared to be backing a",
-            "title": "Google won\u2019t stop replacing our news headlines with terrible AI",
-            "url": "https://www.theverge.com/tech/865168/google-says-ai-news-headlines-are-feature-not-experiment"
+            "summary": "There\\'s a lot about Perfect Tides: Station to Station's Mara that I find relatable. Like me, she's recently moved to a place simply called \"the City\" from the middle of nowhere, and like me, she's an ",
+            "title": "This coming-of-age adventure game made me feel a little too seen",
+            "url": "https://www.theverge.com/entertainment/865082/perfect-tides-station-to-station-review-steam"
           },
           {
             "category": "technology",
-            "published_at": "2026-01-23T12:00:31Z",
+            "published_at": "2026-01-24T12:00:57Z",
             "source": "Ars Technica",
-            "summary": "It's efficient, easy to live with, and smooth to drive.",
-            "title": "2026 Lucid Air Touring review: This feels like a complete car now",
-            "url": "https://arstechnica.com/features/2026/01/2026-lucid-air-touring-review-this-feels-like-a-complete-car-now/"
+            "summary": "While the rash has a clear link to ketones, the underlying mechanism remains elusive.",
+            "title": "A weird, itchy rash is linked to the keto diet\u2014but no one knows why",
+            "url": "https://arstechnica.com/health/2026/01/a-weird-itchy-rash-is-linked-to-the-keto-diet-but-no-one-knows-why/"
           },
           {
             "category": "technology",
-            "published_at": "2026-01-23T13:31:00Z",
+            "published_at": "2026-01-24T11:00:00Z",
             "source": "Wired",
-            "summary": "I tested an array of alternative sleep aids, from gummies to wearable patches, to see if they would help my chronic insomnia.",
-            "title": "The Best Over-the-Counter Sleep Aids (2026), Tested and Reviewed",
-            "url": "https://www.wired.com/gallery/best-over-the-counter-sleep-aids/"
+            "summary": "Plus: Asus exits the smartphone market, and Sony partners with TCL on TVs.",
+            "title": "Gear News of the Week: Apple\u2019s AI Wearable and a Phone That Can Boot Android, Linux, and Windows",
+            "url": "https://www.wired.com/story/gear-news-of-the-week-apples-ai-wearable-and-a-phone-that-can-boot-android-linux-and-windows/"
           },
           {
             "category": "technology",
@@ -133,46 +132,31 @@
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-01-23T14:27:04.444931"
+        "timestamp": "2026-01-24T14:20:48.415659"
       },
-      "timestamp": "2026-01-23T14:27:04.444931",
-      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
+      "name": "tech",
+      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
+      "timestamp": "2026-01-24T14:20:48.415659"
     },
     {
-      "name": "market",
       "data": {
         "indexes": [
           {
-            "change": 35.8,
-            "change_percent": 0.52,
+            "change": 2.5,
+            "change_percent": 0.04,
             "is_positive": true,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 6889.8
-          },
-          {
-            "change": 108.13,
-            "change_percent": 0.7,
-            "is_positive": true,
-            "name": "NASDAQ",
-            "symbol": "^IXIC",
-            "value": 15553.13
-          },
-          {
-            "change": 253.83,
-            "change_percent": 0.65,
-            "is_positive": true,
-            "name": "DOW JONES",
-            "symbol": "^DJI",
-            "value": 39300.83
+            "value": 6892.3
           }
         ],
         "market_summary": "Markets rallied across all major indexes on positive sentiment.",
-        "timestamp": "2026-01-23T14:27:04.671055",
-        "source": "Alpha Vantage API (via ETF proxies)"
+        "source": "Alpha Vantage API (via ETF proxies)",
+        "timestamp": "2026-01-24T14:20:48.655153"
       },
-      "timestamp": "2026-01-23T14:27:04.671055",
-      "source": "Alpha Vantage API (via ETF proxies)"
+      "name": "market",
+      "source": "Alpha Vantage API (via ETF proxies)",
+      "timestamp": "2026-01-24T14:20:48.655153"
     }
   ]
 }
