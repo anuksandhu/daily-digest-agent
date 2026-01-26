@@ -1,56 +1,56 @@
 {
-  "date": "2026-01-24",
-  "generated_at": "2026-01-24T14:20:49.103943",
+  "date": "2026-01-26",
+  "generated_at": "2026-01-26T14:30:01.000000",
   "sections": [
     {
       "data": {
         "current": {
-          "description": "Mist",
-          "feels_like": 41.4,
-          "humidity": 89,
-          "icon": "50n",
-          "temp": 44,
-          "wind_speed": 4.6
+          "description": "Clear sky",
+          "feels_like": 44.2,
+          "humidity": 86,
+          "icon": "01n",
+          "temp": 44.2,
+          "wind_speed": 2
         },
         "forecast": [
           {
-            "date": "2026-01-24",
-            "description": "Few clouds",
-            "icon": "02n",
-            "temp": 54.8
-          },
-          {
-            "date": "2026-01-25",
-            "description": "Scattered clouds",
-            "icon": "03n",
-            "temp": 61.5
-          },
-          {
             "date": "2026-01-26",
-            "description": "Broken clouds",
-            "icon": "04n",
-            "temp": 65.4
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 58.2
           },
           {
             "date": "2026-01-27",
-            "description": "Scattered clouds",
-            "icon": "03n",
-            "temp": 64.7
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 65.5
           },
           {
             "date": "2026-01-28",
-            "description": "Overcast clouds",
+            "description": "Broken clouds",
             "icon": "04n",
-            "temp": 63.4
+            "temp": 63.7
+          },
+          {
+            "date": "2026-01-29",
+            "description": "Broken clouds",
+            "icon": "04n",
+            "temp": 66.1
+          },
+          {
+            "date": "2026-01-30",
+            "description": "Broken clouds",
+            "icon": "04n",
+            "temp": 69.7
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-01-24T14:20:46.285545"
+        "timestamp": "2026-01-26T14:29:57.499735"
       },
       "name": "weather",
       "source": "OpenWeather API",
-      "timestamp": "2026-01-24T14:20:46.285545"
+      "timestamp": "2026-01-26T14:29:57.499735"
     },
     {
       "data": {
@@ -65,10 +65,10 @@
             "standings": "N/A"
           },
           {
-            "latest_game": "L 2-7 vs Knights (2026-01-12)",
+            "latest_game": "W 3-1 vs Rangers (2026-01-24)",
             "league": "NHL",
             "name": "San Jose Sharks",
-            "next_game": "vs Rangers on 2026-01-24",
+            "next_game": "@ Canucks on 2026-01-28",
             "record": "Season in progress",
             "standings": "N/A"
           },
@@ -76,67 +76,67 @@
             "latest_game": "L 127-145 vs Raptors (2026-01-21)",
             "league": "NBA",
             "name": "Golden State Warriors",
-            "next_game": "@ Timberwolves on 2026-01-24",
+            "next_game": "@ Timberwolves on 2026-01-27",
             "record": "Season in progress",
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-01-24T14:20:47.586048"
+        "timestamp": "2026-01-26T14:29:59.278920"
       },
       "name": "sports",
       "source": "The Sports DB API",
-      "timestamp": "2026-01-24T14:20:47.586048"
+      "timestamp": "2026-01-26T14:29:59.278920"
     },
     {
       "data": {
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-01-24T05:27:22Z",
+            "published_at": "2026-01-26T14:00:00Z",
             "source": "TechCrunch",
-            "summary": "Hexus founder and CEO Sakshi Pratap, who previously held engineering roles at Walmart, Oracle, and Google, tells TechCrunch that her San Francisco-based team has already joined Harvey, while the start",
-            "title": "Legal AI giant Harvey acquires Hexus as competition heats up in legal tech",
-            "url": "https://techcrunch.com/2026/01/23/legal-ai-giant-harvey-acquires-hexus-as-competition-heats-up-in-legal-tech/"
+            "summary": "Nvidia announced three new AI weather tools today. Together, they promise to improve the accuracy of weather forecasts while also making them accessible to more users.",
+            "title": "Nvidia\u2019s new AI weather models probably saw this storm coming weeks ago",
+            "url": "https://techcrunch.com/2026/01/26/nvidias-new-ai-weather-models-probably-saw-this-storm-coming-weeks-ago/"
           },
           {
             "category": "technology",
-            "published_at": "2026-01-24T14:00:00Z",
+            "published_at": "2026-01-25T17:21:43Z",
             "source": "The Verge",
-            "summary": "There\\'s a lot about Perfect Tides: Station to Station's Mara that I find relatable. Like me, she's recently moved to a place simply called \"the City\" from the middle of nowhere, and like me, she's an ",
-            "title": "This coming-of-age adventure game made me feel a little too seen",
-            "url": "https://www.theverge.com/entertainment/865082/perfect-tides-station-to-station-review-steam"
+            "summary": "It's not surprising when the guy who's been yelling about the horrors of late-stage capitalism on Instagram for the last five years turns his ire toward ICE. But something different has been happening",
+            "title": "Creators and communities everywhere take a stand against ICE",
+            "url": "https://www.theverge.com/policy/867451/creators-and-communities-take-a-stand-against-ice"
           },
           {
             "category": "technology",
-            "published_at": "2026-01-24T12:00:57Z",
+            "published_at": "2026-01-24T19:08:06Z",
             "source": "Ars Technica",
-            "summary": "While the rash has a clear link to ketones, the underlying mechanism remains elusive.",
-            "title": "A weird, itchy rash is linked to the keto diet\u2014but no one knows why",
-            "url": "https://arstechnica.com/health/2026/01/a-weird-itchy-rash-is-linked-to-the-keto-diet-but-no-one-knows-why/"
+            "summary": "Destructive payload unleashed on 10-year anniversary of Russia's attack on Ukraine's grid.",
+            "title": "Poland's energy grid was targeted by never-before-seen wiper malware",
+            "url": "https://arstechnica.com/security/2026/01/wiper-malware-targeted-poland-energy-grid-but-failed-to-knock-out-electricity/"
           },
           {
             "category": "technology",
-            "published_at": "2026-01-24T11:00:00Z",
+            "published_at": "2026-01-26T08:00:00Z",
             "source": "Wired",
-            "summary": "Plus: Asus exits the smartphone market, and Sony partners with TCL on TVs.",
-            "title": "Gear News of the Week: Apple\u2019s AI Wearable and a Phone That Can Boot Android, Linux, and Windows",
-            "url": "https://www.wired.com/story/gear-news-of-the-week-apples-ai-wearable-and-a-phone-that-can-boot-android-linux-and-windows/"
+            "summary": "I\u2019ve tested two laptops powered by Panther Lake\u2014pitting them head-to-head against laptops with Apple Silicon\u2014and Intel has finally scored a much-needed win with the Core Ultra Series 3.",
+            "title": "Intel\u2019s Panther Lake Chips Aren\u2019t Just Good\u2014They Beat Apple's M5",
+            "url": "https://www.wired.com/story/intel-panther-lake-core-ultra-series-3-review/"
           },
           {
             "category": "technology",
-            "published_at": "2026-01-23T13:07:00Z",
+            "published_at": "2026-01-26T13:10:00Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of&#160;The Download,&#160;our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. \u201cDr. Google\u201d had its issues. Can ChatGPT",
-            "title": "The Download: chatbots for health, and US fights over AI regulation",
-            "url": "https://www.technologyreview.com/2026/01/23/1131708/the-download-chatbots-for-health-and-us-fights-over-ai-regulation/"
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet the new biologists treating LLMs like aliens&",
+            "title": "The Download: why LLMs are like aliens, and the future of head transplants",
+            "url": "https://www.technologyreview.com/2026/01/26/1131717/the-download-why-llms-are-like-aliens-and-the-future-of-head-transplants/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-01-24T14:20:48.415659"
+        "timestamp": "2026-01-26T14:30:00.176138"
       },
       "name": "tech",
       "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-      "timestamp": "2026-01-24T14:20:48.415659"
+      "timestamp": "2026-01-26T14:30:00.176138"
     },
     {
       "data": {
@@ -152,11 +152,11 @@
         ],
         "market_summary": "Markets rallied across all major indexes on positive sentiment.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-01-24T14:20:48.655153"
+        "timestamp": "2026-01-26T14:30:00.522353"
       },
       "name": "market",
       "source": "Alpha Vantage API (via ETF proxies)",
-      "timestamp": "2026-01-24T14:20:48.655153"
+      "timestamp": "2026-01-26T14:30:00.522353"
     }
   ]
 }
