@@ -1,58 +1,59 @@
 {
-  "date": "2026-01-26",
-  "generated_at": "2026-01-26T14:30:01.000000",
+  "date": "2026-01-29",
+  "generated_at": "2026-01-29T14:38:49.300000",
   "sections": [
     {
+      "name": "weather",
       "data": {
         "current": {
           "description": "Clear sky",
-          "feels_like": 44.2,
+          "feels_like": 48.8,
           "humidity": 86,
           "icon": "01n",
-          "temp": 44.2,
+          "temp": 48.8,
           "wind_speed": 2
         },
         "forecast": [
           {
-            "date": "2026-01-26",
+            "date": "2026-01-29",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 58.2
-          },
-          {
-            "date": "2026-01-27",
-            "description": "Overcast clouds",
-            "icon": "04n",
-            "temp": 65.5
-          },
-          {
-            "date": "2026-01-28",
-            "description": "Broken clouds",
-            "icon": "04n",
-            "temp": 63.7
-          },
-          {
-            "date": "2026-01-29",
-            "description": "Broken clouds",
-            "icon": "04n",
-            "temp": 66.1
+            "temp": 61.3
           },
           {
             "date": "2026-01-30",
             "description": "Broken clouds",
             "icon": "04n",
-            "temp": 69.7
+            "temp": 68.5
+          },
+          {
+            "date": "2026-01-31",
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 72.3
+          },
+          {
+            "date": "2026-02-01",
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 65.8
+          },
+          {
+            "date": "2026-02-02",
+            "description": "Few clouds",
+            "icon": "02n",
+            "temp": 66.3
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-01-26T14:29:57.499735"
+        "timestamp": "2026-01-29T14:38:46.713576"
       },
-      "name": "weather",
-      "source": "OpenWeather API",
-      "timestamp": "2026-01-26T14:29:57.499735"
+      "timestamp": "2026-01-29T14:38:46.713576",
+      "source": "OpenWeather API"
     },
     {
+      "name": "sports",
       "data": {
         "source": "The Sports DB API",
         "teams": [
@@ -68,7 +69,7 @@
             "latest_game": "W 3-1 vs Rangers (2026-01-24)",
             "league": "NHL",
             "name": "San Jose Sharks",
-            "next_game": "@ Canucks on 2026-01-28",
+            "next_game": "@ Oilers on 2026-01-30",
             "record": "Season in progress",
             "standings": "N/A"
           },
@@ -76,87 +77,102 @@
             "latest_game": "L 127-145 vs Raptors (2026-01-21)",
             "league": "NBA",
             "name": "Golden State Warriors",
-            "next_game": "@ Timberwolves on 2026-01-27",
+            "next_game": "@ Jazz on 2026-01-29",
             "record": "Season in progress",
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-01-26T14:29:59.278920"
+        "timestamp": "2026-01-29T14:38:48.176924"
       },
-      "name": "sports",
-      "source": "The Sports DB API",
-      "timestamp": "2026-01-26T14:29:59.278920"
+      "timestamp": "2026-01-29T14:38:48.176924",
+      "source": "The Sports DB API"
     },
     {
+      "name": "tech",
       "data": {
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-01-26T14:00:00Z",
+            "published_at": "2026-01-29T12:53:49Z",
             "source": "TechCrunch",
-            "summary": "Nvidia announced three new AI weather tools today. Together, they promise to improve the accuracy of weather forecasts while also making them accessible to more users.",
-            "title": "Nvidia\u2019s new AI weather models probably saw this storm coming weeks ago",
-            "url": "https://techcrunch.com/2026/01/26/nvidias-new-ai-weather-models-probably-saw-this-storm-coming-weeks-ago/"
+            "summary": "The child, whose age is not public, sustained minor injuries according to Waymo. The National Highway Traffic Safety Administration is investigating.",
+            "title": "Waymo robotaxi hits a child near an elementary school in Santa Monica",
+            "url": "https://techcrunch.com/2026/01/29/waymo-robotaxi-hits-a-child-near-an-elementary-school-in-santa-monica/"
           },
           {
             "category": "technology",
-            "published_at": "2026-01-25T17:21:43Z",
+            "published_at": "2026-01-29T14:24:45Z",
             "source": "The Verge",
-            "summary": "It's not surprising when the guy who's been yelling about the horrors of late-stage capitalism on Instagram for the last five years turns his ire toward ICE. But something different has been happening",
-            "title": "Creators and communities everywhere take a stand against ICE",
-            "url": "https://www.theverge.com/policy/867451/creators-and-communities-take-a-stand-against-ice"
+            "summary": "Android users could get a recovery payout of up to $100 each in a proposed settlement Google filed in San Jose, California on Tuesday night. As Reuters reports, the $135 million settlement is for a cl",
+            "title": "Google agrees to $135 million settlement for collecting Android users\u2019 data",
+            "url": "https://www.theverge.com/tech/870056/google-cellular-data-lawsuit-settlement"
           },
           {
             "category": "technology",
-            "published_at": "2026-01-24T19:08:06Z",
+            "published_at": "2026-01-28T21:37:37Z",
             "source": "Ars Technica",
-            "summary": "Destructive payload unleashed on 10-year anniversary of Russia's attack on Ukraine's grid.",
-            "title": "Poland's energy grid was targeted by never-before-seen wiper malware",
-            "url": "https://arstechnica.com/security/2026/01/wiper-malware-targeted-poland-energy-grid-but-failed-to-knock-out-electricity/"
+            "summary": "\u201cWe need to think about food and shelter. We need to help each other and be good camp mates.\u201d",
+            "title": "Stranded boys struggle to survive in Lord of the Flies trailer",
+            "url": "https://arstechnica.com/culture/2026/01/bbcs-lord-of-the-flies-miniseries-gets-a-trailer/"
           },
           {
             "category": "technology",
-            "published_at": "2026-01-26T08:00:00Z",
+            "published_at": "2026-01-29T11:30:00Z",
             "source": "Wired",
-            "summary": "I\u2019ve tested two laptops powered by Panther Lake\u2014pitting them head-to-head against laptops with Apple Silicon\u2014and Intel has finally scored a much-needed win with the Core Ultra Series 3.",
-            "title": "Intel\u2019s Panther Lake Chips Aren\u2019t Just Good\u2014They Beat Apple's M5",
-            "url": "https://www.wired.com/story/intel-panther-lake-core-ultra-series-3-review/"
+            "summary": "Gestala is the latest company to emerge from China\u2019s burgeoning brain-computer interface industry. It plans to access the brain with noninvasive ultrasound technology.",
+            "title": "This Chinese Startup Wants to Build a New Brain-Computer Interface\u2014No Implant Required",
+            "url": "https://www.wired.com/story/this-chinese-startup-wants-to-build-a-new-brain-computer-interface-no-implant-required-gestalta/"
           },
           {
             "category": "technology",
-            "published_at": "2026-01-26T13:10:00Z",
+            "published_at": "2026-01-29T13:10:00Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet the new biologists treating LLMs like aliens&",
-            "title": "The Download: why LLMs are like aliens, and the future of head transplants",
-            "url": "https://www.technologyreview.com/2026/01/26/1131717/the-download-why-llms-are-like-aliens-and-the-future-of-head-transplants/"
+            "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet the Vitalists: the hardcore longevity enthusi",
+            "title": "The Download: inside the Vitalism movement, and why AI\u2019s \u201cmemory\u201d is a privacy problem",
+            "url": "https://www.technologyreview.com/2026/01/29/1131925/the-download-inside-the-vitalism-movement-and-why-ais-memory-is-a-privacy-problem/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-01-26T14:30:00.176138"
+        "timestamp": "2026-01-29T14:38:48.851540"
       },
-      "name": "tech",
-      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-      "timestamp": "2026-01-26T14:30:00.176138"
+      "timestamp": "2026-01-29T14:38:48.851540",
+      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
+      "name": "market",
       "data": {
         "indexes": [
           {
-            "change": 2.5,
-            "change_percent": 0.04,
-            "is_positive": true,
+            "change": -0.7,
+            "change_percent": -0.01,
+            "is_positive": false,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 6892.3
+            "value": 6954.2
+          },
+          {
+            "change": -15.5,
+            "change_percent": -0.01,
+            "is_positive": false,
+            "name": "NASDAQ",
+            "symbol": "^IXIC",
+            "value": 15480.1
+          },
+          {
+            "change": -25.3,
+            "change_percent": -0.01,
+            "is_positive": false,
+            "name": "DOW JONES",
+            "symbol": "^DJI",
+            "value": 34950.7
           }
         ],
-        "market_summary": "Markets rallied across all major indexes on positive sentiment.",
+        "market_summary": "Markets declined on concerns about economic outlook.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-01-26T14:30:00.522353"
+        "timestamp": "2026-01-29T14:38:49.189304"
       },
-      "name": "market",
-      "source": "Alpha Vantage API (via ETF proxies)",
-      "timestamp": "2026-01-26T14:30:00.522353"
+      "timestamp": "2026-01-29T14:38:49.189304",
+      "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
 }
