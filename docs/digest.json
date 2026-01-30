@@ -1,55 +1,55 @@
 {
-  "date": "2026-01-29",
-  "generated_at": "2026-01-29T14:38:49.300000",
+  "date": "2026-01-30",
+  "generated_at": "2026-01-30T14:37:02.110123",
   "sections": [
     {
       "name": "weather",
       "data": {
         "current": {
           "description": "Clear sky",
-          "feels_like": 48.8,
-          "humidity": 86,
+          "feels_like": 47.7,
+          "humidity": 73,
           "icon": "01n",
-          "temp": 48.8,
-          "wind_speed": 2
+          "temp": 49,
+          "wind_speed": 4
         },
         "forecast": [
           {
-            "date": "2026-01-29",
+            "date": "2026-01-30",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 61.3
-          },
-          {
-            "date": "2026-01-30",
-            "description": "Broken clouds",
-            "icon": "04n",
-            "temp": 68.5
+            "temp": 61.2
           },
           {
             "date": "2026-01-31",
             "description": "Overcast clouds",
             "icon": "04n",
-            "temp": 72.3
+            "temp": 69.5
           },
           {
             "date": "2026-02-01",
             "description": "Overcast clouds",
             "icon": "04n",
-            "temp": 65.8
+            "temp": 68.3
           },
           {
             "date": "2026-02-02",
-            "description": "Few clouds",
-            "icon": "02n",
-            "temp": 66.3
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 66.5
+          },
+          {
+            "date": "2026-02-03",
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 70.1
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-01-29T14:38:46.713576"
+        "timestamp": "2026-01-30T14:36:57.928068"
       },
-      "timestamp": "2026-01-29T14:38:46.713576",
+      "timestamp": "2026-01-30T14:36:57.928068",
       "source": "OpenWeather API"
     },
     {
@@ -77,14 +77,14 @@
             "latest_game": "L 127-145 vs Raptors (2026-01-21)",
             "league": "NBA",
             "name": "Golden State Warriors",
-            "next_game": "@ Jazz on 2026-01-29",
+            "next_game": "vs Pistons on 2026-01-31",
             "record": "Season in progress",
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-01-29T14:38:48.176924"
+        "timestamp": "2026-01-30T14:37:00.223440"
       },
-      "timestamp": "2026-01-29T14:38:48.176924",
+      "timestamp": "2026-01-30T14:37:00.223440",
       "source": "The Sports DB API"
     },
     {
@@ -93,49 +93,41 @@
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-01-29T12:53:49Z",
+            "published_at": "2026-01-29T23:51:17Z",
             "source": "TechCrunch",
-            "summary": "The child, whose age is not public, sustained minor injuries according to Waymo. The National Highway Traffic Safety Administration is investigating.",
-            "title": "Waymo robotaxi hits a child near an elementary school in Santa Monica",
-            "url": "https://techcrunch.com/2026/01/29/waymo-robotaxi-hits-a-child-near-an-elementary-school-in-santa-monica/"
+            "summary": "One intrepid Morgan Stanley analyst dared to ask how Apple will make money on its AI investments. The answer will not shock you.",
+            "title": "Guys, I don\u2019t think Tim Cook knows how to monetize AI",
+            "url": "https://techcrunch.com/2026/01/29/guys-i-dont-think-tim-cook-knows-how-to-monetize-ai/"
           },
           {
             "category": "technology",
-            "published_at": "2026-01-29T14:24:45Z",
+            "published_at": "2026-01-30T14:00:00Z",
             "source": "The Verge",
-            "summary": "Android users could get a recovery payout of up to $100 each in a proposed settlement Google filed in San Jose, California on Tuesday night. As Reuters reports, the $135 million settlement is for a cl",
-            "title": "Google agrees to $135 million settlement for collecting Android users\u2019 data",
-            "url": "https://www.theverge.com/tech/870056/google-cellular-data-lawsuit-settlement"
+            "summary": "Hello, friends. It's time for another exclusive AMA for Verge subscribers, and this time, I'll be your host. I cover everything from wearables to dystopian cursed tech like at-home urine labs and bell",
+            "title": "I wear lots of technology for a living, ask me anything",
+            "url": "https://www.theverge.com/column/870394/i-wear-lots-of-technology-for-a-living-ask-me-anything"
           },
           {
             "category": "technology",
-            "published_at": "2026-01-28T21:37:37Z",
+            "published_at": "2026-01-30T12:00:41Z",
             "source": "Ars Technica",
-            "summary": "\u201cWe need to think about food and shelter. We need to help each other and be good camp mates.\u201d",
-            "title": "Stranded boys struggle to survive in Lord of the Flies trailer",
-            "url": "https://arstechnica.com/culture/2026/01/bbcs-lord-of-the-flies-miniseries-gets-a-trailer/"
+            "summary": "\"We\u2019re seeing remarkable growth year after year.\"",
+            "title": "Rocket Report: How a 5-ton satellite fell off a booster; will SpaceX and xAI merge?",
+            "url": "https://arstechnica.com/space/2026/01/rocket-report-how-a-5-ton-satellite-fell-off-a-booster-will-spacex-and-xai-merge/"
           },
           {
             "category": "technology",
-            "published_at": "2026-01-29T11:30:00Z",
-            "source": "Wired",
-            "summary": "Gestala is the latest company to emerge from China\u2019s burgeoning brain-computer interface industry. It plans to access the brain with noninvasive ultrasound technology.",
-            "title": "This Chinese Startup Wants to Build a New Brain-Computer Interface\u2014No Implant Required",
-            "url": "https://www.wired.com/story/this-chinese-startup-wants-to-build-a-new-brain-computer-interface-no-implant-required-gestalta/"
-          },
-          {
-            "category": "technology",
-            "published_at": "2026-01-29T13:10:00Z",
+            "published_at": "2026-01-30T13:10:00Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet the Vitalists: the hardcore longevity enthusi",
-            "title": "The Download: inside the Vitalism movement, and why AI\u2019s \u201cmemory\u201d is a privacy problem",
-            "url": "https://www.technologyreview.com/2026/01/29/1131925/the-download-inside-the-vitalism-movement-and-why-ais-memory-is-a-privacy-problem/"
+            "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. DHS is using Google and Adobe AI to make videos Th",
+            "title": "The Download: US immigration agencies\u2019 AI videos, and inside the Vitalism movement",
+            "url": "https://www.technologyreview.com/2026/01/30/1132022/the-download-us-immigration-agencies-ai-videos-and-inside-the-vitalism-movement/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-01-29T14:38:48.851540"
+        "timestamp": "2026-01-30T14:37:01.107297"
       },
-      "timestamp": "2026-01-29T14:38:48.851540",
+      "timestamp": "2026-01-30T14:37:01.107297",
       "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
@@ -143,35 +135,19 @@
       "data": {
         "indexes": [
           {
-            "change": -0.7,
-            "change_percent": -0.01,
+            "change": -13.8,
+            "change_percent": -0.2,
             "is_positive": false,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 6954.2
-          },
-          {
-            "change": -15.5,
-            "change_percent": -0.01,
-            "is_positive": false,
-            "name": "NASDAQ",
-            "symbol": "^IXIC",
-            "value": 15480.1
-          },
-          {
-            "change": -25.3,
-            "change_percent": -0.01,
-            "is_positive": false,
-            "name": "DOW JONES",
-            "symbol": "^DJI",
-            "value": 34950.7
+            "value": 6940.4
           }
         ],
         "market_summary": "Markets declined on concerns about economic outlook.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-01-29T14:38:49.189304"
+        "timestamp": "2026-01-30T14:37:01.516187"
       },
-      "timestamp": "2026-01-29T14:38:49.189304",
+      "timestamp": "2026-01-30T14:37:01.516187",
       "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
