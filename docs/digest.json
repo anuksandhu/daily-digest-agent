@@ -1,59 +1,58 @@
 {
-  "date": "2026-01-30",
-  "generated_at": "2026-01-30T14:37:02.110123",
+  "date": "2026-02-01",
+  "generated_at": "2026-02-01T14:27:40.000000",
   "sections": [
     {
-      "name": "weather",
       "data": {
         "current": {
-          "description": "Clear sky",
-          "feels_like": 47.7,
-          "humidity": 73,
-          "icon": "01n",
-          "temp": 49,
-          "wind_speed": 4
+          "description": "Mist",
+          "feels_like": 45.3,
+          "humidity": 90,
+          "icon": "50n",
+          "temp": 45.3,
+          "wind_speed": 0
         },
         "forecast": [
-          {
-            "date": "2026-01-30",
-            "description": "Clear sky",
-            "icon": "01n",
-            "temp": 61.2
-          },
-          {
-            "date": "2026-01-31",
-            "description": "Overcast clouds",
-            "icon": "04n",
-            "temp": 69.5
-          },
           {
             "date": "2026-02-01",
             "description": "Overcast clouds",
             "icon": "04n",
-            "temp": 68.3
+            "temp": 60.8
           },
           {
             "date": "2026-02-02",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 66.5
+            "temp": 67.8
           },
           {
             "date": "2026-02-03",
-            "description": "Overcast clouds",
+            "description": "Broken clouds",
             "icon": "04n",
-            "temp": 70.1
+            "temp": 70
+          },
+          {
+            "date": "2026-02-04",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 71.8
+          },
+          {
+            "date": "2026-02-05",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 73.7
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-01-30T14:36:57.928068"
+        "timestamp": "2026-02-01T14:27:28.457833"
       },
-      "timestamp": "2026-01-30T14:36:57.928068",
-      "source": "OpenWeather API"
+      "name": "weather",
+      "source": "OpenWeather API",
+      "timestamp": "2026-02-01T14:27:28.457833"
     },
     {
-      "name": "sports",
       "data": {
         "source": "The Sports DB API",
         "teams": [
@@ -69,86 +68,95 @@
             "latest_game": "W 3-1 vs Rangers (2026-01-24)",
             "league": "NHL",
             "name": "San Jose Sharks",
-            "next_game": "@ Oilers on 2026-01-30",
+            "next_game": "@ Blackhawks on 2026-02-03",
             "record": "Season in progress",
             "standings": "N/A"
           },
           {
-            "latest_game": "L 127-145 vs Raptors (2026-01-21)",
+            "latest_game": "L 124-131 vs Pistons (2026-01-31)",
             "league": "NBA",
             "name": "Golden State Warriors",
-            "next_game": "vs Pistons on 2026-01-31",
+            "next_game": "vs 76ers on 2026-02-04",
             "record": "Season in progress",
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-01-30T14:37:00.223440"
+        "timestamp": "2026-02-01T14:27:36.506664"
       },
-      "timestamp": "2026-01-30T14:37:00.223440",
-      "source": "The Sports DB API"
+      "name": "sports",
+      "source": "The Sports DB API",
+      "timestamp": "2026-02-01T14:27:36.506664"
     },
     {
-      "name": "tech",
       "data": {
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-01-29T23:51:17Z",
+            "published_at": "2026-02-01T07:00:00Z",
             "source": "TechCrunch",
-            "summary": "One intrepid Morgan Stanley analyst dared to ask how Apple will make money on its AI investments. The answer will not shock you.",
-            "title": "Guys, I don\u2019t think Tim Cook knows how to monetize AI",
-            "url": "https://techcrunch.com/2026/01/29/guys-i-dont-think-tim-cook-knows-how-to-monetize-ai/"
+            "summary": "From Belgium to Ukraine, five fresh European unicorns were minted this January.",
+            "title": "Meet the new European unicorns of 2026",
+            "url": "https://techcrunch.com/2026/01/31/meet-the-new-european-unicorns-of-2026/"
           },
           {
             "category": "technology",
-            "published_at": "2026-01-30T14:00:00Z",
+            "published_at": "2026-02-01T14:00:00Z",
             "source": "The Verge",
-            "summary": "Hello, friends. It's time for another exclusive AMA for Verge subscribers, and this time, I'll be your host. I cover everything from wearables to dystopian cursed tech like at-home urine labs and bell",
-            "title": "I wear lots of technology for a living, ask me anything",
-            "url": "https://www.theverge.com/column/870394/i-wear-lots-of-technology-for-a-living-ask-me-anything"
+            "summary": "Antigravity\u2019s ambitious A1 360-degree drone is 15 percent off through February 9th. The first-ever discount on this model is available across all bundles, with the most affordable option dropping from",
+            "title": "Antigravity\u2019s 360-degree A1 drone is 15 percent off",
+            "url": "https://www.theverge.com/gadgets/870772/antigravity-insta360-a1-drone-deal-sale"
           },
           {
             "category": "technology",
-            "published_at": "2026-01-30T12:00:41Z",
+            "published_at": "2026-01-30T22:12:26Z",
             "source": "Ars Technica",
-            "summary": "\"We\u2019re seeing remarkable growth year after year.\"",
-            "title": "Rocket Report: How a 5-ton satellite fell off a booster; will SpaceX and xAI merge?",
-            "url": "https://arstechnica.com/space/2026/01/rocket-report-how-a-5-ton-satellite-fell-off-a-booster-will-spacex-and-xai-merge/"
+            "summary": "Moltbook lets 32,000 AI bots trade jokes, tips, and complaints about humans.",
+            "title": "AI agents now have their own Reddit-style social network, and it\\'s getting weird fast",
+            "url": "https://arstechnica.com/information-technology/2026/01/ai-agents-now-have-their-own-reddit-style-social-network-and-its-getting-weird-fast/"
           },
           {
             "category": "technology",
-            "published_at": "2026-01-30T13:10:00Z",
+            "published_at": "2026-02-01T14:00:00Z",
+            "source": "Wired",
+            "summary": "Yes, it is possible to scale horological heights without breaking the bank. It\u2019s time to seek out the latest bargains.",
+            "title": "Building a Watch Collection on a Budget? Here\u2019s Where to Start (2026)",
+            "url": "https://www.wired.com/gallery/want-to-build-a-watch-collection-on-a-budget-heres-where-to-start/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-01-30T16:32:31Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. DHS is using Google and Adobe AI to make videos Th",
-            "title": "The Download: US immigration agencies\u2019 AI videos, and inside the Vitalism movement",
-            "url": "https://www.technologyreview.com/2026/01/30/1132022/the-download-us-immigration-agencies-ai-videos-and-inside-the-vitalism-movement/"
+            "summary": "Civitai\u2014an online marketplace for buying and selling AI-generated content, backed by the venture capital firm Andreessen Horowitz\u2014is letting users buy custom instruction files for generating celebrity",
+            "title": "Inside the marketplace powering bespoke AI deepfakes of real women",
+            "url": "https://www.technologyreview.com/2026/01/30/1131945/inside-the-marketplace-powering-bespoke-ai-deepfakes-of-real-women/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-01-30T14:37:01.107297"
+        "timestamp": "2026-02-01T14:27:37.645731"
       },
-      "timestamp": "2026-01-30T14:37:01.107297",
-      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
+      "name": "tech",
+      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
+      "timestamp": "2026-02-01T14:27:37.645731"
     },
     {
-      "name": "market",
       "data": {
         "indexes": [
           {
-            "change": -13.8,
-            "change_percent": -0.2,
+            "change": -20.7,
+            "change_percent": -0.3,
             "is_positive": false,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 6940.4
+            "value": 6919.7
           }
         ],
         "market_summary": "Markets declined on concerns about economic outlook.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-01-30T14:37:01.516187"
+        "timestamp": "2026-02-01T14:27:38.140359"
       },
-      "timestamp": "2026-01-30T14:37:01.516187",
-      "source": "Alpha Vantage API (via ETF proxies)"
+      "name": "market",
+      "source": "Alpha Vantage API (via ETF proxies)",
+      "timestamp": "2026-02-01T14:27:38.140359"
     }
   ]
 }
