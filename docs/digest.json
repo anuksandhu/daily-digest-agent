@@ -1,6 +1,154 @@
 {
-  "date": "2026-02-04",
-  "generated_at": "2026-02-04T14:40:41.077342",
-  "sections": [],
-  "raw_response": "```\n{\"date\": \"2026-02-04\", \"generated_at\": \"2026-02-04T14:40:35.380657\", \"sections\": [{\"name\": \"weather\", \"data\": {\"current\": {\"description\": \"Clear sky\", \"feels_like\": 54, \"humidity\": 54, \"icon\": \"01n\", \"temp\": 56.2, \"wind_speed\": 4}, \"forecast\": [{\"date\": \"2026-02-04\", \"description\": \"Clear sky\", \"icon\": \"01n\", \"temp\": 68}, {\"date\": \"2026-02-05\", \"description\": \"Clear sky\", \"icon\": \"01n\", \"temp\": 76.8}, {\"date\": \"2026-02-06\", \"description\": \"Overcast clouds\", \"icon\": \"04n\", \"temp\": 73.3}, {\"date\": \"2026-02-07\", \"description\": \"Overcast clouds\", \"icon\": \"04n\", \"temp\": 66.5}, {\"date\": \"2026-02-08\", \"description\": \"Scattered clouds\", \"icon\": \"03n\", \"temp\": 67.6}], \"location\": \"San Jose\", \"source\": \"OpenWeather API\", \"timestamp\": \"2026-02-04T14:40:32.587406\"}, \"timestamp\": \"2026-02-04T14:40:32.587406\", \"source\": \"OpenWeather API\"}, {\"name\": \"sports\", \"data\": {\"source\": \"The Sports DB API\", \"teams\": [{\"latest_game\": \"L 3-13 vs Seahawks (2026-01-04)\", \"league\": \"NFL\", \"name\": \"San Francisco 49ers\", \"next_game\": \"No upcoming games scheduled\", \"record\": \"Season in progress\", \"standings\": \"N/A\"}, {\"latest_game\": \"W 3-1 vs Rangers (2026-01-24)\", \"league\": \"NHL\", \"name\": \"San Jose Sharks\", \"next_game\": \"@ Avalanche on 2026-02-05\", \"record\": \"Season in progress\", \"standings\": \"N/A\"}, {\"latest_game\": \"L 124-131 vs Pistons (2026-01-31)\", \"league\": \"NBA\", \"name\": \"Golden State Warriors\", \"next_game\": \"vs 76ers on 2026-02-04\", \"record\": \"Season in progress\", \"standings\": \"N/A\"}], \"timestamp\": \"2026-02-04T14:40:34.354160\"}, \"timestamp\": \"2026-02-04T14:40:34.354160\", \"source\": \"The Sports DB API\"}, {\"name\": \"tech\", \"data\": {\"articles\": [{\"category\": \"technology\", \"published_at\": \"2026-02-04T14:00:00Z\", \"source\": \"TechCrunch\", \"summary\": \"SNAK Venture Partners announced Wednesday the close of its oversubsubscribed $50 million debut fund, anchored by Pritzker Group.\", \"title\": \"SNAK Venture Partners raises $50M fund to back vertical marketplaces\", \"url\": \"https://techcrunch.com/2026/02/04/snak-venture-partners-raises-50m-fund-to-back-digitizing-marketplaces/\"}, {\"category\": \"technology\", \"published_at\": \"2026-02-04T14:31:10Z\", \"source\": \"The Verge\", \"summary\": \"On Wednesday, Spotify announced a few new lyrics features aiming to make it easier to understand and access song lyrics, including translations, previews, and offline lyrics. Lyric translations were o\", \"title\": \"Spotify launches offline lyrics, translations, and lyric previews\", \"url\": \"https://www.theverge.com/entertainment/873779/spotify-lyrics-offline-translations-previews\"}, {\"category\": \"technology\", \"published_at\": \"2026-02-03T22:55:59Z\", \"source\": \"Ars Technica\", \"summary\": \"\\\"This Titan is like a god, and the sea creatures worship it.\\\"\", \"title\": \"Godlike Titan threatens humanity in Monarch: Legacy of Monsters S2 trailer\", \"url\": \"https://arstechnica.com/culture/2026/02/meet-the-new-tentacled-titan-x-in-monarch-legacy-of-monsters-s2-trailer/\"}, {\"category\": \"technology\", \"published_at\": \"2026-02-04T14:00:00Z\", \"source\": \"Wired\", \"summary\": \"With incredible colors, brightness, and contrast, RGB backlighting is the technology that will drive the next 10 years of innovation in televisions and displays.\", \"title\": \"What Is RGB LED TV? Everything You Need to Know About This Next-Gen TV Tech In 2026\", \"url\": \"https://www.wired.com/story/what-is-rgb-led-tv/\"}, {\"category\": \"technology\", \"published_at\": \"2026-02-04T14:00:00Z\", \"source\": \"MIT Technology Review\", \"summary\": \"The previous article in this series, \u201cRules fail at the prompt, succeed at the boundary,\u201d focused on the first AI-orchestrated espionage campaign and the failure of prompt-level control. This article \", \"title\": \"From guardrails to governance: A CEO\u2019s guide for securing agentic systems\", \"url\": \"https://www.technologyreview.com/2026/02/04/1131014/from-guardrails-to-governance-a-ceos-guide-for-securing-agentic-systems/\"}], \"source\": \"RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)\", \"timestamp\": \"2026-02-04T14:40:34.986326\"}, \"timestamp\": \"2026-02-04T14:40:34.986326\", \"source\": \"RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)\"}, {\"name\": \"market\", \"data\": {\"indexes\": [{\"change\": -58.8, \"change_percent\": -0.85, \"is_positive\": False, \"name\": \"S&P 500\", \"symbol\": \"^GSPC\", \"value\": 6895.3}], \"market_summary\": \"Markets declined on concerns about economic outlook.\", \"source\": \"Alpha Vantage API (via ETF proxies)\", \"timestamp\": \"2026-02-04T14:40:35.332580\"}, \"timestamp\": \"2026-02-04T14:40:35.332580\", \"source\": \"Alpha Vantage API (via ETF proxies)\"}]}"
+  "date": "2026-02-05",
+  "generated_at": "2026-02-05T14:43:45.303420",
+  "sections": [
+    {
+      "data": {
+        "current": {
+          "description": "Few clouds",
+          "feels_like": 48.2,
+          "humidity": 72,
+          "icon": "02n",
+          "temp": 50.1,
+          "wind_speed": 4.6
+        },
+        "forecast": [
+          {
+            "date": "2026-02-05",
+            "description": "Few clouds",
+            "icon": "02n",
+            "temp": 67.9
+          },
+          {
+            "date": "2026-02-06",
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 73.5
+          },
+          {
+            "date": "2026-02-07",
+            "description": "Scattered clouds",
+            "icon": "03n",
+            "temp": 72
+          },
+          {
+            "date": "2026-02-08",
+            "description": "Scattered clouds",
+            "icon": "03n",
+            "temp": 68
+          },
+          {
+            "date": "2026-02-09",
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 65.8
+          }
+        ],
+        "location": "San Jose",
+        "source": "OpenWeather API",
+        "timestamp": "2026-02-05T14:43:32.823683"
+      },
+      "name": "weather",
+      "source": "OpenWeather API",
+      "timestamp": "2026-02-05T14:43:32.823683"
+    },
+    {
+      "data": {
+        "source": "The Sports DB API",
+        "teams": [
+          {
+            "latest_game": "W 3-1 vs Rangers (2026-01-24)",
+            "league": "NHL",
+            "name": "San Jose Sharks",
+            "next_game": "@ Avalanche on 2026-02-05",
+            "record": "Season in progress",
+            "standings": "N/A"
+          },
+          {
+            "latest_game": "L 94-113 vs 76ers (2026-02-04)",
+            "league": "NBA",
+            "name": "Golden State Warriors",
+            "next_game": "@ Suns on 2026-02-06",
+            "record": "Season in progress",
+            "standings": "N/A"
+          }
+        ],
+        "timestamp": "2026-02-05T14:43:44.140244"
+      },
+      "name": "sports",
+      "source": "The Sports DB API",
+      "timestamp": "2026-02-05T14:43:44.140244"
+    },
+    {
+      "data": {
+        "articles": [
+          {
+            "category": "technology",
+            "published_at": "2026-02-05T14:41:12Z",
+            "source": "TechCrunch",
+            "summary": "ElevenLabs CEO argued at Web Summit Qatar that voice is the next interface for AI, as OpenAI, Google, and Apple push conversational systems into wearables, new hardware, and everyday interactions.",
+            "title": "ElevenLabs CEO: Voice is the next interface for AI",
+            "url": "https://techcrunch.com/2026/02/05/elevenlabs-ceo-voice-is-the-next-interface-for-ai/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-02-05T14:00:00Z",
+            "source": "The Verge",
+            "summary": "I knew as soon as I laid eyes on Vappeby that I had to have it. Sure, it would be right at home on my desk, given that everything in and around my workstation is from Ikea, from the Skadis on the wall",
+            "title": "Can I offer you a tiny Bluetooth speaker in these trying times?",
+            "url": "https://www.theverge.com/tech/874009/bluetooth-speaker-gadget-ikea-vappeby"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-02-04T21:15:07Z",
+            "source": "Ars Technica",
+            "summary": "ChatGPT competitor comes out swinging with Super Bowl ad mocking AI product pitches.",
+            "title": "Should AI chatbots have ads? Anthropic says no.",
+            "url": "https://arstechnica.com/ai/2026/02/should-ai-chatbots-have-ads-anthropic-says-no/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-02-05T12:00:00Z",
+            "source": "Wired",
+            "summary": "Thread is a mesh networking protocol that connects low-power smart home gadgets, and it\u2019s one of Matter\u2019s underlying technologies.",
+            "title": "What Is Thread? Matter\u2019s Smart Home Network Protocol, Explained",
+            "url": "https://www.wired.com/story/what-is-thread/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-02-05T13:10:00Z",
+            "source": "MIT Technology Review",
+            "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This is the most misunderstood graph in AI Every t",
+            "title": "The Download: attempting to track AI, and the next generation of nuclear power",
+            "url": "https://www.technologyreview.com/2026/02/05/1132270/the-download-attempting-to-track-ai-and-the-next-generation-of-nuclear-power/"
+          }
+        ],
+        "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
+        "timestamp": "2026-02-05T14:43:44.889608"
+      },
+      "name": "tech",
+      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
+      "timestamp": "2026-02-05T14:43:44.889608"
+    },
+    {
+      "data": {
+        "indexes": [
+          {
+            "change": -33.4,
+            "change_percent": -0.48,
+            "is_positive": false,
+            "name": "S&P 500",
+            "symbol": "^GSPC",
+            "value": 6861.9
+          }
+        ],
+        "market_summary": "Markets declined on concerns about economic outlook.",
+        "source": "Alpha Vantage API (via ETF proxies)",
+        "timestamp": "2026-02-05T14:43:45.192885"
+      },
+      "name": "market",
+      "source": "Alpha Vantage API (via ETF proxies)",
+      "timestamp": "2026-02-05T14:43:45.192885"
+    }
+  ]
 }
