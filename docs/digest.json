@@ -1,6 +1,162 @@
 {
-  "date": "2026-02-10",
-  "generated_at": "2026-02-10T15:00:24.459405",
-  "sections": [],
-  "raw_response": "```\n```"
+  "date": "2026-02-11",
+  "generated_at": "2026-02-11T14:54:42.834631",
+  "sections": [
+    {
+      "name": "weather",
+      "data": {
+        "current": {
+          "description": "Scattered clouds",
+          "feels_like": 51.7,
+          "humidity": 88,
+          "icon": "03n",
+          "temp": 52.6,
+          "wind_speed": 11.5
+        },
+        "forecast": [
+          {
+            "date": "2026-02-11",
+            "description": "Light rain",
+            "icon": "10n",
+            "temp": 53.6
+          },
+          {
+            "date": "2026-02-12",
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 61.9
+          },
+          {
+            "date": "2026-02-13",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 65.5
+          },
+          {
+            "date": "2026-02-14",
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 64.3
+          },
+          {
+            "date": "2026-02-15",
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 61.2
+          }
+        ],
+        "location": "San Jose",
+        "source": "OpenWeather API",
+        "timestamp": "2026-02-11T14:54:39.438829"
+      },
+      "timestamp": "2026-02-11T14:54:39.438829",
+      "source": "OpenWeather API"
+    },
+    {
+      "name": "sports",
+      "data": {
+        "source": "The Sports DB API",
+        "teams": [
+          {
+            "latest_game": "L 3-13 vs Seahawks (2026-01-04)",
+            "league": "NFL",
+            "name": "San Francisco 49ers",
+            "next_game": "No upcoming games scheduled",
+            "record": "Season in progress",
+            "standings": "N/A"
+          },
+          {
+            "latest_game": "W 3-1 vs Rangers (2026-01-24)",
+            "league": "NHL",
+            "name": "San Jose Sharks",
+            "next_game": "vs Flames on 2026-02-27",
+            "record": "Season in progress",
+            "standings": "N/A"
+          },
+          {
+            "latest_game": "W 114-113 vs Grizzlies (2026-02-10)",
+            "league": "NBA",
+            "name": "Golden State Warriors",
+            "next_game": "vs Spurs on 2026-02-12",
+            "record": "Season in progress",
+            "standings": "N/A"
+          }
+        ],
+        "timestamp": "2026-02-11T14:54:41.814461"
+      },
+      "timestamp": "2026-02-11T14:54:41.814461",
+      "source": "The Sports DB API"
+    },
+    {
+      "name": "tech",
+      "data": {
+        "articles": [
+          {
+            "category": "technology",
+            "published_at": "2026-02-11T14:21:28Z",
+            "source": "TechCrunch",
+            "summary": "The round was led by FPV Ventures co-founder and managing partner Wesley Chan.",
+            "title": "Integrate raises $17M to move defense project management into the 21st century",
+            "url": "https://techcrunch.com/2026/02/11/integrate-raises-17m-to-move-defense-project-management-into-the-21st-century/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-02-11T14:06:11Z",
+            "source": "The Verge",
+            "summary": "Donna Collins lives about 20 miles from where Meta's biggest data center is being built, in a house her family has lived in for five generations. Construction has thrown the small agricultural communi",
+            "title": "How an \u2018icepocalypse\u2019 raises more questions about Meta\u2019s biggest data center project",
+            "url": "https://www.theverge.com/science/876555/meta-data-center-winter-power-outages-storm-ice"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-02-10T18:54:39Z",
+            "source": "Ars Technica",
+            "summary": "Tony Wu leaves a company now entangled with social media, space-based IPOs.",
+            "title": "Yet another co-founder departs Elon Musk's xAI",
+            "url": "https://arstechnica.com/ai/2026/02/grok-maker-xai-loses-another-co-founder/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-02-11T10:55:24Z",
+            "source": "Wired",
+            "summary": "OpenAI, Anthropic, Google, and a host of other major tech companies have found common ground in F/ai, a new startup accelerator based out of Paris.",
+            "title": "AI Industry Rivals Are Teaming Up on a Startup Accelerator",
+            "url": "https://www.wired.com/story/ai-industry-rivals-are-teaming-up-on-a-startup-accelerator/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-02-11T13:10:00Z",
+            "source": "MIT Technology Review",
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A \u201cQuitGPT\u201d campaign is urging people to cancel th",
+            "title": "The Download: inside the QuitGPT movement, and EVs in Africa",
+            "url": "https://www.technologyreview.com/2026/02/11/1132724/the-download-inside-the-quitgpt-movement-and-evs-in-africa/"
+          }
+        ],
+        "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
+        "timestamp": "2026-02-11T14:54:42.492954"
+      },
+      "timestamp": "2026-02-11T14:54:42.492954",
+      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
+    },
+    {
+      "name": "market",
+      "data": {
+        "indexes": [
+          {
+            "change": -18.3,
+            "change_percent": -0.26,
+            "is_positive": false,
+            "name": "S&P 500",
+            "symbol": "^GSPC",
+            "value": 6921.2
+          }
+        ],
+        "market_summary": "Markets declined on concerns about economic outlook.",
+        "source": "Alpha Vantage API (via ETF proxies)",
+        "timestamp": "2026-02-11T14:54:42.799111"
+      },
+      "timestamp": "2026-02-11T14:54:42.799111",
+      "source": "Alpha Vantage API (via ETF proxies)"
+    }
+  ]
 }
