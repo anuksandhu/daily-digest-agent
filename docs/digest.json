@@ -1,6 +1,178 @@
 {
-  "date": "2026-02-18",
-  "generated_at": "2026-02-18T14:45:02.563066",
-  "sections": [],
-  "raw_response": "I'm sorry, I cannot fulfill this request. The available tools do not support generating a digest for a future date. I can only provide current, real-time information."
+  "date": "2026-02-20",
+  "generated_at": "2026-02-20T14:39:27.512954",
+  "sections": [
+    {
+      "name": "weather",
+      "data": {
+        "current": {
+          "description": "Clear sky",
+          "feels_like": 34.6,
+          "humidity": 88,
+          "icon": "01n",
+          "temp": 37.1,
+          "wind_speed": 3.4
+        },
+        "forecast": [
+          {
+            "date": "2026-02-20",
+            "description": "Clear sky",
+            "icon": "01d",
+            "temp": 48.4
+          },
+          {
+            "date": "2026-02-21",
+            "description": "Broken clouds",
+            "icon": "04n",
+            "temp": 58.2
+          },
+          {
+            "date": "2026-02-22",
+            "description": "Broken clouds",
+            "icon": "04n",
+            "temp": 66.1
+          },
+          {
+            "date": "2026-02-23",
+            "description": "Broken clouds",
+            "icon": "04n",
+            "temp": 68.7
+          },
+          {
+            "date": "2026-02-24",
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 65.5
+          }
+        ],
+        "location": "San Jose",
+        "source": "OpenWeather API",
+        "timestamp": "2026-02-20T14:39:23.983360"
+      },
+      "timestamp": "2026-02-20T14:39:23.983360",
+      "source": "OpenWeather API"
+    },
+    {
+      "name": "sports",
+      "data": {
+        "source": "The Sports DB API",
+        "teams": [
+          {
+            "latest_game": "L 3-13 vs Seahawks (2026-01-04)",
+            "league": "NFL",
+            "name": "San Francisco 49ers",
+            "next_game": "No upcoming games scheduled",
+            "record": "Season in progress",
+            "standings": "N/A"
+          },
+          {
+            "latest_game": "W 3-1 vs Rangers (2026-01-24)",
+            "league": "NHL",
+            "name": "San Jose Sharks",
+            "next_game": "vs Flames on 2026-02-27",
+            "record": "Season in progress",
+            "standings": "N/A"
+          },
+          {
+            "latest_game": "L 113-126 vs Spurs (2026-02-12)",
+            "league": "NBA",
+            "name": "Golden State Warriors",
+            "next_game": "vs Celtics on 2026-02-20",
+            "record": "Season in progress",
+            "standings": "N/A"
+          }
+        ],
+        "timestamp": "2026-02-20T14:39:26.084189"
+      },
+      "timestamp": "2026-02-20T14:39:26.084189",
+      "source": "The Sports DB API"
+    },
+    {
+      "name": "tech",
+      "data": {
+        "articles": [
+          {
+            "category": "technology",
+            "published_at": "2026-02-20T14:30:00Z",
+            "source": "TechCrunch",
+            "summary": "The technology promises to replace several parts of the grid with one device that\u2019s both controllable and updatable.",
+            "title": "Why investors are going gaga over solid-state transformers",
+            "url": "https://techcrunch.com/2026/02/20/why-investors-are-going-gaga-over-solid-state-transformers/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-02-20T13:00:00Z",
+            "source": "The Verge",
+            "summary": "Whenever I write about Meta\\'s Ray-Ban smart glasses, I already know the comments I\\'m going to get. Cool hardware, but hard pass on anything Meta makes; will wait for someone else to come along. It\\'s h",
+            "title": "Meta will ruin its smart glasses by being Meta",
+            "url": "https://www.theverge.com/column/881744/meta-smart-glasses-facial-recognition-rayban-privacy-wearables"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-02-20T12:11:28Z",
+            "source": "Ars Technica",
+            "summary": "The now-deleted Harry Potter dataset was \"mistakenly\" marked public domain.",
+            "title": "Microsoft deletes blog telling users to train AI on pirated Harry Potter books",
+            "url": "https://arstechnica.com/tech-policy/2026/02/microsoft-removes-guide-on-how-to-train-llms-on-pirated-harry-potter-books/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-02-20T12:00:00Z",
+            "source": "Wired",
+            "summary": "Massive data centers for generative AI are bad for the Earth. How about launching them into orbit?",
+            "title": "Could AI Data Centers Be Moved to Outer Space?",
+            "url": "https://www.wired.com/story/could-we-put-ai-data-centers-in-space/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-02-20T13:10:00Z",
+            "source": "MIT Technology Review",
+            "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Microsoft has a new plan to prove what\u2019s real and ",
+            "title": "The Download: Microsoft\u2019s online reality check, and the worrying rise in measles cases",
+            "url": "https://www.technologyreview.com/2026/02/20/1133396/the-download-microsofts-online-reality-check-and-the-worrying-rise-in-measles-cases/"
+          }
+        ],
+        "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
+        "timestamp": "2026-02-20T14:39:26.920419"
+      },
+      "timestamp": "2026-02-20T14:39:26.920419",
+      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
+    },
+    {
+      "name": "market",
+      "data": {
+        "indexes": [
+          {
+            "change": -18.1,
+            "change_percent": -0.26,
+            "is_positive": false,
+            "name": "S&P 500",
+            "symbol": "^GSPC",
+            "value": 6844.8
+          },
+          {
+            "change": -18.1,
+            "change_percent": -0.26,
+            "is_positive": false,
+            "name": "NASDAQ",
+            "symbol": "^IXIC",
+            "value": 6844.8
+          },
+          {
+            "change": -18.1,
+            "change_percent": -0.26,
+            "is_positive": false,
+            "name": "DOW JONES",
+            "symbol": "^DJI",
+            "value": 6844.8
+          }
+        ],
+        "market_summary": "Markets declined on concerns about economic outlook.",
+        "source": "Alpha Vantage API (via ETF proxies)",
+        "timestamp": "2026-02-20T14:39:27.405753"
+      },
+      "timestamp": "2026-02-20T14:39:27.405753",
+      "source": "Alpha Vantage API (via ETF proxies)"
+    }
+  ]
 }
