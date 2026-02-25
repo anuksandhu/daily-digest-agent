@@ -1,55 +1,55 @@
 {
-  "date": "2026-02-23",
-  "generated_at": "2026-02-23T14:48:51.412115",
+  "date": "2026-02-25",
+  "generated_at": "2026-02-25T14:51:13.549970",
   "sections": [
     {
       "name": "weather",
       "data": {
         "current": {
-          "description": "Clear sky",
-          "feels_like": 46.4,
-          "humidity": 90,
-          "icon": "01n",
-          "temp": 46.4,
-          "wind_speed": 0
+          "description": "Overcast clouds",
+          "feels_like": 59.3,
+          "humidity": 85,
+          "icon": "04d",
+          "temp": 59.7,
+          "wind_speed": 6.9
         },
         "forecast": [
           {
-            "date": "2026-02-23",
-            "description": "Clear sky",
-            "icon": "01d",
-            "temp": 62
-          },
-          {
-            "date": "2026-02-24",
-            "description": "Overcast clouds",
-            "icon": "04n",
-            "temp": 68.9
-          },
-          {
             "date": "2026-02-25",
-            "description": "Light rain",
-            "icon": "10n",
-            "temp": 69.2
+            "description": "Overcast clouds",
+            "icon": "04d",
+            "temp": 66.1
           },
           {
             "date": "2026-02-26",
-            "description": "Overcast clouds",
+            "description": "Broken clouds",
             "icon": "04n",
-            "temp": 71.8
+            "temp": 72.8
           },
           {
             "date": "2026-02-27",
             "description": "Overcast clouds",
             "icon": "04n",
-            "temp": 71.8
+            "temp": 73.4
+          },
+          {
+            "date": "2026-02-28",
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 72.6
+          },
+          {
+            "date": "2026-03-01",
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 68.6
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-02-23T14:48:47.262295"
+        "timestamp": "2026-02-25T14:51:09.949289"
       },
-      "timestamp": "2026-02-23T14:48:47.262295",
+      "timestamp": "2026-02-25T14:51:09.949289",
       "source": "OpenWeather API"
     },
     {
@@ -82,9 +82,9 @@
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-02-23T14:48:49.815356"
+        "timestamp": "2026-02-25T14:51:11.879752"
       },
-      "timestamp": "2026-02-23T14:48:49.815356",
+      "timestamp": "2026-02-25T14:51:11.879752",
       "source": "The Sports DB API"
     },
     {
@@ -93,49 +93,49 @@
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-02-23T14:44:03Z",
+            "published_at": "2026-02-25T14:00:00Z",
             "source": "TechCrunch",
-            "summary": "Citrini Research imagines a report from two years in the future, in which unemployment has doubled and the total value of the stock market has fallen by more than a third.",
-            "title": "How AI agents could destroy the economy",
-            "url": "https://techcrunch.com/2026/02/23/how-ai-agents-could-destroy-the-economy/"
+            "summary": "It's the Los Angeles trucking startup's first acquisition \u2014 the latest in a series of moves to spin up new revenue streams.",
+            "title": "Harbinger acquires autonomous driving company Phantom AI",
+            "url": "https://techcrunch.com/2026/02/25/harbinger-acquires-autonomous-driving-company-phantom-ai/"
           },
           {
             "category": "technology",
-            "published_at": "2026-02-23T13:01:33Z",
+            "published_at": "2026-02-25T14:39:44Z",
             "source": "The Verge",
-            "summary": "After teasing the upcoming launch of its midrange Phone 4A last week, Nothing has now revealed what the rear of the device looks like. An official render of the Phone 4A shared on X shows off the bran",
-            "title": "Nothing couldn\u2019t wait to show off the Phone 4A",
-            "url": "https://www.theverge.com/gadgets/882983/nothing-phone-4a-official-design-glyph-bar"
+            "summary": "It was originally teased to be announced at Mobile World Congress 2026 in Barcelona, Spain, this weekend, but Xiaomi has already shared all the details for its new super slim wireless power bank on it",
+            "title": "Xiaomi&#8217;s magnetic power bank is incredibly thin",
+            "url": "https://www.theverge.com/tech/884330/xiaomi-ultra-thin-magnetic-magsafe-power-bank-5000-qi2"
           },
           {
             "category": "technology",
-            "published_at": "2026-02-21T23:54:38Z",
+            "published_at": "2026-02-25T00:05:05Z",
             "source": "Ars Technica",
-            "summary": "\"Accessing and remediating any of these issues can only be performed in the VAB.\"",
-            "title": "NASA says it needs to haul the Artemis II rocket back to the hangar for repairs",
-            "url": "https://arstechnica.com/space/2026/02/nasa-says-it-needs-to-haul-the-artemis-ii-rocket-back-to-the-hangar-for-repairs/"
+            "summary": "Spare a thought for the intrepid graduate students who spent last summer in Africa collecting chimp urine.",
+            "title": "Boozy chimps fail urine test, confirm hotly debated theory",
+            "url": "https://arstechnica.com/science/2026/02/boozy-chimps-fail-urine-test-confirm-hotly-debated-theory/"
           },
           {
             "category": "technology",
-            "published_at": "2026-02-23T00:42:06Z",
+            "published_at": "2026-02-25T12:00:00Z",
             "source": "Wired",
-            "summary": "A failure in the helium flow of the SLS rocket has prompted NASA to delay the Artemis II moon mission. Rather than March 6, the launch is now targeted for April.",
-            "title": "NASA Delays Launch of Artemis II Lunar Mission Once Again",
-            "url": "https://www.wired.com/story/nasa-delays-artemis-ii-launch-again/"
+            "summary": "If you've ever wanted to bounce ideas off your favorite historical figure, Ailias gives you the chance.",
+            "title": "Talk to Your Own Personal Isaac Newton With Ailias\u2019s Hologram Avatars",
+            "url": "https://www.wired.com/story/ailias-hologram-avatars/"
           },
           {
             "category": "technology",
-            "published_at": "2026-02-23T13:10:00Z",
+            "published_at": "2026-02-25T13:10:00Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Inside Chicago\u2019s surveillance panopticon Chicago h",
-            "title": "The Download: Chicago\u2019s surveillance network, and building better bras",
-            "url": "https://www.technologyreview.com/2026/02/23/1133495/the-download-chicagos-surveillance-network-and-building-better-bras/"
+            "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Crime issue Technology has long m",
+            "title": "The Download: introducing the Crime issue",
+            "url": "https://www.technologyreview.com/2026/02/25/1133653/the-download-introducing-the-crime-issue/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-02-23T14:48:50.552326"
+        "timestamp": "2026-02-25T14:51:12.810563"
       },
-      "timestamp": "2026-02-23T14:48:50.552326",
+      "timestamp": "2026-02-25T14:51:12.810563",
       "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
@@ -143,19 +143,19 @@
       "data": {
         "indexes": [
           {
-            "change": 49.5,
-            "change_percent": 0.72,
+            "change": 49.6,
+            "change_percent": 0.73,
             "is_positive": true,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 6894.3
+            "value": 6873.5
           }
         ],
         "market_summary": "Markets rallied across all major indexes on positive sentiment.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-02-23T14:48:50.976409"
+        "timestamp": "2026-02-25T14:51:13.209975"
       },
-      "timestamp": "2026-02-23T14:48:50.976409",
+      "timestamp": "2026-02-25T14:51:13.209975",
       "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
