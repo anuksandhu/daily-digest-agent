@@ -1,55 +1,55 @@
 {
-  "date": "2026-02-25",
-  "generated_at": "2026-02-25T14:51:13.549970",
+  "date": "2026-02-28",
+  "generated_at": "2026-02-28T14:23:36.123456",
   "sections": [
     {
       "name": "weather",
       "data": {
         "current": {
-          "description": "Overcast clouds",
-          "feels_like": 59.3,
-          "humidity": 85,
-          "icon": "04d",
-          "temp": 59.7,
-          "wind_speed": 6.9
+          "description": "Scattered clouds",
+          "feels_like": 57.3,
+          "humidity": 81,
+          "icon": "03n",
+          "temp": 58,
+          "wind_speed": 2
         },
         "forecast": [
           {
-            "date": "2026-02-25",
-            "description": "Overcast clouds",
-            "icon": "04d",
-            "temp": 66.1
-          },
-          {
-            "date": "2026-02-26",
-            "description": "Broken clouds",
-            "icon": "04n",
-            "temp": 72.8
-          },
-          {
-            "date": "2026-02-27",
-            "description": "Overcast clouds",
-            "icon": "04n",
-            "temp": 73.4
-          },
-          {
             "date": "2026-02-28",
-            "description": "Overcast clouds",
-            "icon": "04n",
-            "temp": 72.6
+            "description": "Scattered clouds",
+            "icon": "03d",
+            "temp": 71.6
           },
           {
             "date": "2026-03-01",
             "description": "Overcast clouds",
             "icon": "04n",
-            "temp": 68.6
+            "temp": 74.5
+          },
+          {
+            "date": "2026-03-02",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 67.2
+          },
+          {
+            "date": "2026-03-03",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 68.3
+          },
+          {
+            "date": "2026-03-04",
+            "description": "Scattered clouds",
+            "icon": "03n",
+            "temp": 66.4
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-02-25T14:51:09.949289"
+        "timestamp": "2026-02-28T14:23:30.273174"
       },
-      "timestamp": "2026-02-25T14:51:09.949289",
+      "timestamp": "2026-02-28T14:23:30.273174",
       "source": "OpenWeather API"
     },
     {
@@ -66,10 +66,10 @@
             "standings": "N/A"
           },
           {
-            "latest_game": "W 3-1 vs Rangers (2026-01-24)",
+            "latest_game": "L 1-4 vs Flames (2026-02-27)",
             "league": "NHL",
             "name": "San Jose Sharks",
-            "next_game": "vs Flames on 2026-02-27",
+            "next_game": "vs Oilers on 2026-02-28",
             "record": "Season in progress",
             "standings": "N/A"
           },
@@ -77,14 +77,14 @@
             "latest_game": "W 128-117 vs Nuggets (2026-02-22)",
             "league": "NBA",
             "name": "Golden State Warriors",
-            "next_game": "@ Pelicans on 2026-02-25",
+            "next_game": "vs Lakers on 2026-03-01",
             "record": "Season in progress",
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-02-25T14:51:11.879752"
+        "timestamp": "2026-02-28T14:23:33.872839"
       },
-      "timestamp": "2026-02-25T14:51:11.879752",
+      "timestamp": "2026-02-28T14:23:33.872839",
       "source": "The Sports DB API"
     },
     {
@@ -93,49 +93,49 @@
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-02-25T14:00:00Z",
+            "published_at": "2026-02-27T23:00:54Z",
             "source": "TechCrunch",
-            "summary": "It's the Los Angeles trucking startup's first acquisition \u2014 the latest in a series of moves to spin up new revenue streams.",
-            "title": "Harbinger acquires autonomous driving company Phantom AI",
-            "url": "https://techcrunch.com/2026/02/25/harbinger-acquires-autonomous-driving-company-phantom-ai/"
+            "summary": "The company said such trades violates its internal company policies about using confidential information for personal gain.",
+            "title": "OpenAI fires employee for using confidential info on prediction markets",
+            "url": "https://techcrunch.com/2026/02/27/openai-fires-employee-for-using-confidential-info-on-prediction-markets/"
           },
           {
             "category": "technology",
-            "published_at": "2026-02-25T14:39:44Z",
+            "published_at": "2026-02-28T02:19:16Z",
             "source": "The Verge",
-            "summary": "It was originally teased to be announced at Mobile World Congress 2026 in Barcelona, Spain, this weekend, but Xiaomi has already shared all the details for its new super slim wireless power bank on it",
-            "title": "Xiaomi&#8217;s magnetic power bank is incredibly thin",
-            "url": "https://www.theverge.com/tech/884330/xiaomi-ultra-thin-magnetic-magsafe-power-bank-5000-qi2"
+            "summary": "Nearly two hours after President Donald Trump announced on Truth Social that he was banning Anthropic products from the federal government, Secretary of Defense Pete Hegseth took it one step further a",
+            "title": "Defense secretary Pete Hegseth designates Anthropic a supply chain risk",
+            "url": "https://www.theverge.com/policy/886632/pentagon-designates-anthropic-supply-chain-risk-ai-standoff"
           },
           {
             "category": "technology",
-            "published_at": "2026-02-25T00:05:05Z",
+            "published_at": "2026-02-28T00:32:24Z",
             "source": "Ars Technica",
-            "summary": "Spare a thought for the intrepid graduate students who spent last summer in Africa collecting chimp urine.",
-            "title": "Boozy chimps fail urine test, confirm hotly debated theory",
-            "url": "https://arstechnica.com/science/2026/02/boozy-chimps-fail-urine-test-confirm-hotly-debated-theory/"
+            "summary": "\"There were assumptions that were made in the strategy that obviously didn\u2019t come to fruition.\"",
+            "title": "The Air Force's new ICBM is nearly ready to fly, but there\u2019s nowhere to put it",
+            "url": "https://arstechnica.com/space/2026/02/the-air-forces-new-icbm-is-nearly-ready-to-fly-but-theres-nowhere-to-put-them/"
           },
           {
             "category": "technology",
-            "published_at": "2026-02-25T12:00:00Z",
+            "published_at": "2026-02-28T11:30:00Z",
             "source": "Wired",
-            "summary": "If you've ever wanted to bounce ideas off your favorite historical figure, Ailias gives you the chance.",
-            "title": "Talk to Your Own Personal Isaac Newton With Ailias\u2019s Hologram Avatars",
-            "url": "https://www.wired.com/story/ailias-hologram-avatars/"
+            "summary": "Plus: The top US cyber agency falls into shambles, AI models develop an upsetting penchant for nuclear weapons, and more.",
+            "title": "Area Man Accidentally Hacks 6,700 Camera-Enabled Robot Vacuums",
+            "url": "https://www.wired.com/story/security-news-this-week-area-man-accidentally-hacks-6700-camera-enabled-robot-vacuums/"
           },
           {
             "category": "technology",
-            "published_at": "2026-02-25T13:10:00Z",
+            "published_at": "2026-02-27T21:41:31Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of\u00a0The Download,\u00a0our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Crime issue Technology has long m",
-            "title": "The Download: introducing the Crime issue",
-            "url": "https://www.technologyreview.com/2026/02/25/1133653/the-download-introducing-the-crime-issue/"
+            "summary": "The American Society of Magazine Editors has named MIT Technology Review as a finalist for a 2026 National Magazine Award in the reporting category.\u00a0 The shortlisted story\u2014\u201cWe did the math on AI\u2019s ene",
+            "title": "MIT Technology Review is a 2026 ASME finalist in reporting",
+            "url": "https://www.technologyreview.com/2026/02/27/1133769/asme-finalist-reporting/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-02-25T14:51:12.810563"
+        "timestamp": "2026-02-28T14:23:34.913705"
       },
-      "timestamp": "2026-02-25T14:51:12.810563",
+      "timestamp": "2026-02-28T14:23:34.913705",
       "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
@@ -143,19 +143,35 @@
       "data": {
         "indexes": [
           {
-            "change": 49.6,
-            "change_percent": 0.73,
-            "is_positive": true,
+            "change": -33.1,
+            "change_percent": -0.48,
+            "is_positive": false,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 6873.5
+            "value": 6859.9
+          },
+          {
+            "change": -99.75,
+            "change_percent": -0.72,
+            "is_positive": false,
+            "name": "NASDAQ",
+            "symbol": "^IXIC",
+            "value": 13740.75
+          },
+          {
+            "change": -250.2,
+            "change_percent": -0.65,
+            "is_positive": false,
+            "name": "DOW JONES",
+            "symbol": "^DJI",
+            "value": 38250.5
           }
         ],
-        "market_summary": "Markets rallied across all major indexes on positive sentiment.",
+        "market_summary": "Markets declined on concerns about economic outlook.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-02-25T14:51:13.209975"
+        "timestamp": "2026-02-28T14:23:35.416793"
       },
-      "timestamp": "2026-02-25T14:51:13.209975",
+      "timestamp": "2026-02-28T14:23:35.416793",
       "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
