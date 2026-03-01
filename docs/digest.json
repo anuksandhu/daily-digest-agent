@@ -1,59 +1,58 @@
 {
-  "date": "2026-02-28",
-  "generated_at": "2026-02-28T14:23:36.123456",
+  "date": "2026-03-01",
+  "generated_at": "2026-03-01T14:25:34.000000",
   "sections": [
     {
-      "name": "weather",
       "data": {
         "current": {
-          "description": "Scattered clouds",
-          "feels_like": 57.3,
-          "humidity": 81,
-          "icon": "03n",
-          "temp": 58,
-          "wind_speed": 2
+          "description": "Broken clouds",
+          "feels_like": 52.6,
+          "humidity": 90,
+          "icon": "04n",
+          "temp": 53.4,
+          "wind_speed": 0
         },
         "forecast": [
           {
-            "date": "2026-02-28",
-            "description": "Scattered clouds",
-            "icon": "03d",
-            "temp": 71.6
-          },
-          {
             "date": "2026-03-01",
-            "description": "Overcast clouds",
-            "icon": "04n",
-            "temp": 74.5
+            "description": "Broken clouds",
+            "icon": "04d",
+            "temp": 65.6
           },
           {
             "date": "2026-03-02",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 67.2
+            "temp": 68.5
           },
           {
             "date": "2026-03-03",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 68.3
+            "temp": 68.2
           },
           {
             "date": "2026-03-04",
-            "description": "Scattered clouds",
-            "icon": "03n",
-            "temp": 66.4
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 67.1
+          },
+          {
+            "date": "2026-03-05",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 65.8
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-02-28T14:23:30.273174"
+        "timestamp": "2026-03-01T14:25:30.475064"
       },
-      "timestamp": "2026-02-28T14:23:30.273174",
-      "source": "OpenWeather API"
+      "name": "weather",
+      "source": "OpenWeather API",
+      "timestamp": "2026-03-01T14:25:30.475064"
     },
     {
-      "name": "sports",
       "data": {
         "source": "The Sports DB API",
         "teams": [
@@ -66,10 +65,10 @@
             "standings": "N/A"
           },
           {
-            "latest_game": "L 1-4 vs Flames (2026-02-27)",
+            "latest_game": "W 5-4 vs Oilers (2026-02-28)",
             "league": "NHL",
             "name": "San Jose Sharks",
-            "next_game": "vs Oilers on 2026-02-28",
+            "next_game": "vs Jets on 2026-03-01",
             "record": "Season in progress",
             "standings": "N/A"
           },
@@ -82,46 +81,46 @@
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-02-28T14:23:33.872839"
+        "timestamp": "2026-03-01T14:25:32.586526"
       },
-      "timestamp": "2026-02-28T14:23:33.872839",
-      "source": "The Sports DB API"
+      "name": "sports",
+      "source": "The Sports DB API",
+      "timestamp": "2026-03-01T14:25:32.586526"
     },
     {
-      "name": "tech",
       "data": {
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-02-27T23:00:54Z",
+            "published_at": "2026-03-01T00:08:58Z",
             "source": "TechCrunch",
-            "summary": "The company said such trades violates its internal company policies about using confidential information for personal gain.",
-            "title": "OpenAI fires employee for using confidential info on prediction markets",
-            "url": "https://techcrunch.com/2026/02/27/openai-fires-employee-for-using-confidential-info-on-prediction-markets/"
+            "summary": "Anthropic, OpenAI, Google DeepMind and others have long promised to govern themselves responsibly. Now, in the absence of rules, there's not a lot to protect them.",
+            "title": "The trap Anthropic built for itself",
+            "url": "https://techcrunch.com/2026/02/28/the-trap-anthropic-built-for-itself/"
           },
           {
             "category": "technology",
-            "published_at": "2026-02-28T02:19:16Z",
+            "published_at": "2026-03-01T14:22:27Z",
             "source": "The Verge",
-            "summary": "Nearly two hours after President Donald Trump announced on Truth Social that he was banning Anthropic products from the federal government, Secretary of Defense Pete Hegseth took it one step further a",
-            "title": "Defense secretary Pete Hegseth designates Anthropic a supply chain risk",
-            "url": "https://www.theverge.com/policy/886632/pentagon-designates-anthropic-supply-chain-risk-ai-standoff"
+            "summary": "Honor has revealed more details of its so-called Robot Phone at MWC 2026, and finally showed a working unit in action alongside a dancing humanoid robot. Specs are still thin on the ground, but the co",
+            "title": "Honor claims its Robot Phone will launch later this year",
+            "url": "https://www.theverge.com/gadgets/887140/honor-robot-phone-mwc-release-date-specs"
           },
           {
             "category": "technology",
-            "published_at": "2026-02-28T00:32:24Z",
+            "published_at": "2026-02-28T20:00:26Z",
             "source": "Ars Technica",
-            "summary": "\"There were assumptions that were made in the strategy that obviously didn\u2019t come to fruition.\"",
-            "title": "The Air Force's new ICBM is nearly ready to fly, but there\u2019s nowhere to put it",
-            "url": "https://arstechnica.com/space/2026/02/the-air-forces-new-icbm-is-nearly-ready-to-fly-but-theres-nowhere-to-put-them/"
+            "summary": "The Defense Department pressured Anthropic to drop restrictions on how its AI can be used by the military.",
+            "title": "Trump moves to ban Anthropic from the US government",
+            "url": "https://arstechnica.com/tech-policy/2026/02/trump-moves-to-ban-anthropic-from-the-us-government/"
           },
           {
             "category": "technology",
-            "published_at": "2026-02-28T11:30:00Z",
+            "published_at": "2026-03-01T10:00:00Z",
             "source": "Wired",
-            "summary": "Plus: The top US cyber agency falls into shambles, AI models develop an upsetting penchant for nuclear weapons, and more.",
-            "title": "Area Man Accidentally Hacks 6,700 Camera-Enabled Robot Vacuums",
-            "url": "https://www.wired.com/story/security-news-this-week-area-man-accidentally-hacks-6700-camera-enabled-robot-vacuums/"
+            "summary": "In parts of the Middle East and North Africa, a patchwork of sanctions, payment failures, and licensing gaps pushes people into piracy networks.",
+            "title": "The Piracy Problem Streaming Platforms Can\u2019t Solve",
+            "url": "https://www.wired.com/story/the-piracy-problem-streaming-platforms-cant-solve/"
           },
           {
             "category": "technology",
@@ -133,13 +132,13 @@
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-02-28T14:23:34.913705"
+        "timestamp": "2026-03-01T14:25:33.162419"
       },
-      "timestamp": "2026-02-28T14:23:34.913705",
-      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
+      "name": "tech",
+      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
+      "timestamp": "2026-03-01T14:25:33.162419"
     },
     {
-      "name": "market",
       "data": {
         "indexes": [
           {
@@ -149,30 +148,15 @@
             "name": "S&P 500",
             "symbol": "^GSPC",
             "value": 6859.9
-          },
-          {
-            "change": -99.75,
-            "change_percent": -0.72,
-            "is_positive": false,
-            "name": "NASDAQ",
-            "symbol": "^IXIC",
-            "value": 13740.75
-          },
-          {
-            "change": -250.2,
-            "change_percent": -0.65,
-            "is_positive": false,
-            "name": "DOW JONES",
-            "symbol": "^DJI",
-            "value": 38250.5
           }
         ],
         "market_summary": "Markets declined on concerns about economic outlook.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-02-28T14:23:35.416793"
+        "timestamp": "2026-03-01T14:25:33.487384"
       },
-      "timestamp": "2026-02-28T14:23:35.416793",
-      "source": "Alpha Vantage API (via ETF proxies)"
+      "name": "market",
+      "source": "Alpha Vantage API (via ETF proxies)",
+      "timestamp": "2026-03-01T14:25:33.487384"
     }
   ]
 }
