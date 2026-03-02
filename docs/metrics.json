@@ -1,11 +1,11 @@
 {
-  "generation_id": "digest-20260301-142529",
-  "start_time": "2026-03-01T14:25:29.215038",
-  "end_time": "2026-03-01T14:25:37.590095",
-  "total_duration_ms": 8375.057,
+  "generation_id": "digest-20260302-144206",
+  "start_time": "2026-03-02T14:42:06.732544",
+  "end_time": "2026-03-02T14:42:21.024220",
+  "total_duration_ms": 14291.676000000001,
   "success": true,
   "agent_durations": {
-    "coordinator": 8372.274000000001
+    "coordinator": 14288.835000000001
   },
   "tool_durations": {},
   "total_tokens": 0,
@@ -18,8 +18,8 @@
   "all_metrics": [
     {
       "name": "agent.coordinator.duration_ms",
-      "value": 8372.274000000001,
-      "timestamp": "2026-03-01T14:25:37.588348",
+      "value": 14288.835000000001,
+      "timestamp": "2026-03-02T14:42:21.022498",
       "tags": {
         "agent": "coordinator",
         "type": "agent"
@@ -28,25 +28,25 @@
     {
       "name": "quality.completeness.score",
       "value": 1.0,
-      "timestamp": "2026-03-01T14:25:37.589042",
+      "timestamp": "2026-03-02T14:42:21.023188",
       "tags": {}
     },
     {
       "name": "quality.validation.errors",
       "value": 0,
-      "timestamp": "2026-03-01T14:25:37.589046",
+      "timestamp": "2026-03-02T14:42:21.023192",
       "tags": {}
     },
     {
       "name": "generation.total.duration_ms",
-      "value": 8374.822999999999,
-      "timestamp": "2026-03-01T14:25:37.590076",
+      "value": 14291.374,
+      "timestamp": "2026-03-02T14:42:21.024201",
       "tags": {}
     },
     {
       "name": "generation.success",
       "value": 1.0,
-      "timestamp": "2026-03-01T14:25:37.590082",
+      "timestamp": "2026-03-02T14:42:21.024207",
       "tags": {}
     }
   ]
