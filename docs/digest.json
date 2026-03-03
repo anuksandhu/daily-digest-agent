@@ -1,59 +1,58 @@
 {
-  "date": "2026-03-02",
-  "generated_at": "2026-03-02T14:42:12.103861",
+  "date": "2026-03-03",
+  "generated_at": "2026-03-03T14:43:25.517097",
   "sections": [
     {
-      "name": "weather",
       "data": {
         "current": {
-          "description": "Overcast clouds",
-          "feels_like": 50.7,
-          "humidity": 86,
-          "icon": "04d",
-          "temp": 51.8,
-          "wind_speed": 4.6
+          "description": "Mist",
+          "feels_like": 53.8,
+          "humidity": 87,
+          "icon": "50d",
+          "temp": 54.6,
+          "wind_speed": 1
         },
         "forecast": [
           {
-            "date": "2026-03-02",
+            "date": "2026-03-03",
             "description": "Overcast clouds",
             "icon": "04d",
-            "temp": 61.9
-          },
-          {
-            "date": "2026-03-03",
-            "description": "Clear sky",
-            "icon": "01n",
-            "temp": 69.6
+            "temp": 64.5
           },
           {
             "date": "2026-03-04",
-            "description": "Scattered clouds",
-            "icon": "03n",
-            "temp": 67.9
+            "description": "Broken clouds",
+            "icon": "04n",
+            "temp": 68.2
           },
           {
             "date": "2026-03-05",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 61.8
+            "temp": 62.9
           },
           {
             "date": "2026-03-06",
+            "description": "Scattered clouds",
+            "icon": "03n",
+            "temp": 65.7
+          },
+          {
+            "date": "2026-03-07",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 65.9
+            "temp": 68
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-03-02T14:42:08.296895"
+        "timestamp": "2026-03-03T14:43:21.676111"
       },
-      "timestamp": "2026-03-02T14:42:08.296895",
-      "source": "OpenWeather API"
+      "name": "weather",
+      "source": "OpenWeather API",
+      "timestamp": "2026-03-03T14:43:21.676111"
     },
     {
-      "name": "sports",
       "data": {
         "source": "The Sports DB API",
         "teams": [
@@ -82,97 +81,82 @@
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-03-02T14:42:10.705279"
+        "timestamp": "2026-03-03T14:43:24.009931"
       },
-      "timestamp": "2026-03-02T14:42:10.705279",
-      "source": "The Sports DB API"
+      "name": "sports",
+      "source": "The Sports DB API",
+      "timestamp": "2026-03-03T14:43:24.009931"
     },
     {
-      "name": "tech",
       "data": {
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-03-02T14:16:53Z",
+            "published_at": "2026-03-03T01:15:00Z",
             "source": "TechCrunch",
-            "summary": "Users of a popular Iranian prayer app were flooded with phone notifications as U.S. air strikes hit Iran's biggest cities, killing the country's leader.",
-            "title": "Hackers and internet outages hit Iran amid U.S. air strikes",
-            "url": "https://techcrunch.com/2026/03/02/hackers-and-internet-outages-hit-iran-amid-u-s-air-strikes/"
+            "summary": "Pronto handles 18,000 daily bookings and plans rapid expansion as it races rivals to digitize India\\'s largely offline home services market.",
+            "title": "India\u2019s Pronto formalizes house help as its valuation jumps 8x in under a year",
+            "url": "https://techcrunch.com/2026/03/02/indias-pronto-formalizes-house-help-as-its-valuation-jumps-8x-in-under-a-year/"
           },
           {
             "category": "technology",
-            "published_at": "2026-03-02T14:22:18Z",
+            "published_at": "2026-03-03T14:34:29Z",
             "source": "The Verge",
-            "summary": "On Friday evening, amidst fallout from a standoff between the Department of Defense and Anthropic, OpenAI CEO Sam Altman announced that his own company had successfully negotiated new terms with the P",
-            "title": "How OpenAI caved to the Pentagon on AI surveillance",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/887309/openai-anthropic-dod-military-pentagon-contract-sam-altman-hegseth"
+            "summary": "When it launched the 17 and 17 Ultra in Europe on Saturday, Xiaomi bucked an industry trend: it didn't really talk about AI all that much. And it really didn't talk about AI when it showed off the two",
+            "title": "Xiaomi, unlike Google and Samsung, thinks camera hardware comes first",
+            "url": "https://www.theverge.com/tech/888082/xiaomi-unlike-google-and-samsung-thinks-camera-hardware-comes-first"
           },
           {
             "category": "technology",
-            "published_at": "2026-03-02T14:00:01Z",
+            "published_at": "2026-03-03T13:24:33Z",
             "source": "Ars Technica",
-            "summary": "Despite the Toyota platform, there's plenty of Subaru DNA in this one.",
-            "title": "It's almost a station wagon: The 2026 Subaru Trailseeker, driven",
-            "url": "https://arstechnica.com/cars/2026/03/2026-subaru-trailseeker-first-drive-the-most-quintessentially-subaru-ev-yet/"
+            "summary": "Kennedy's destruction \"might take generations to repair,\" The Lancet said.",
+            "title": "Medical journal The Lancet blasts RFK Jr.\u2019s health work as a failure",
+            "url": "https://arstechnica.com/health/2026/03/medical-journal-the-lancet-blasts-rfk-jr-s-health-work-as-a-failure/"
           },
           {
             "category": "technology",
-            "published_at": "2026-03-02T14:36:31Z",
+            "published_at": "2026-03-03T13:31:00Z",
             "source": "Wired",
-            "summary": "The iPad Air enjoys a relatively modest update with the M4 chip and 12 gigabytes of RAM.",
-            "title": "iPad Air (M4): Specs, Features, Price",
-            "url": "https://www.wired.com/story/apple-ipad-air-m4-2026/"
+            "summary": "The UV light built into Shark\u2019s newest robot vacuum is on a quest to embarrass me with how many stains it\\'s spotted.",
+            "title": "Shark UV Reveal Review (2026): UV Light Mode",
+            "url": "https://www.wired.com/review/shark-powerdetect-uv-reveal/"
           },
           {
             "category": "technology",
-            "published_at": "2026-03-02T13:20:00Z",
+            "published_at": "2026-03-03T13:30:00Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of&#160;The Download,&#160;our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. I checked out one of the biggest anti-AI",
-            "title": "The Download: protesting AI, and what\u2019s floating in space",
-            "url": "https://www.technologyreview.com/2026/03/02/1133811/the-download-protesting-ai-and-whats-floating-in-space/"
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This startup claims it can stop lightning and prev",
+            "title": "The Download: The startup that says it can stop lightning, and inside OpenAI\u2019s Pentagon deal",
+            "url": "https://www.technologyreview.com/2026/03/03/1133900/the-download-the-startup-that-says-it-can-stop-lightning-and-inside-openais-pentagon-deal/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-03-02T14:42:11.468218"
+        "timestamp": "2026-03-03T14:43:25.093452"
       },
-      "timestamp": "2026-03-02T14:42:11.468218",
-      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
+      "name": "tech",
+      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
+      "timestamp": "2026-03-03T14:43:25.093452"
     },
     {
-      "name": "market",
       "data": {
         "indexes": [
           {
-            "change": -33.1,
-            "change_percent": -0.48,
-            "is_positive": false,
+            "change": 3.9,
+            "change_percent": 0.06,
+            "is_positive": true,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 6859.9
-          },
-          {
-            "change": -150.5,
-            "change_percent": -0.92,
-            "is_positive": false,
-            "name": "NASDAQ",
-            "symbol": "^IXIC",
-            "value": 16200.1
-          },
-          {
-            "change": -200.2,
-            "change_percent": -0.56,
-            "is_positive": false,
-            "name": "DOW JONES",
-            "symbol": "^DJI",
-            "value": 35500.8
+            "value": 6863.8
           }
         ],
-        "market_summary": "Markets declined on concerns about economic outlook.",
+        "market_summary": "Markets rallied across all major indexes on positive sentiment.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-03-02T14:42:11.806525"
+        "timestamp": "2026-03-03T14:43:25.489039"
       },
-      "timestamp": "2026-03-02T14:42:11.806525",
-      "source": "Alpha Vantage API (via ETF proxies)"
+      "name": "market",
+      "source": "Alpha Vantage API (via ETF proxies)",
+      "timestamp": "2026-03-03T14:43:25.489039"
     }
   ]
 }
