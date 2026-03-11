@@ -1,56 +1,56 @@
 {
-  "date": "2026-03-03",
-  "generated_at": "2026-03-03T14:43:25.517097",
+  "date": "2026-03-11",
+  "generated_at": "2026-03-11T14:47:28.000000",
   "sections": [
     {
       "data": {
         "current": {
-          "description": "Mist",
-          "feels_like": 53.8,
-          "humidity": 87,
-          "icon": "50d",
-          "temp": 54.6,
-          "wind_speed": 1
+          "description": "Clear sky",
+          "feels_like": 49.3,
+          "humidity": 70,
+          "icon": "01d",
+          "temp": 51.2,
+          "wind_speed": 1.4
         },
         "forecast": [
           {
-            "date": "2026-03-03",
-            "description": "Overcast clouds",
-            "icon": "04d",
-            "temp": 64.5
+            "date": "2026-03-11",
+            "description": "Clear sky",
+            "icon": "01d",
+            "temp": 65.6
           },
           {
-            "date": "2026-03-04",
+            "date": "2026-03-12",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 75.5
+          },
+          {
+            "date": "2026-03-13",
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 74.3
+          },
+          {
+            "date": "2026-03-14",
             "description": "Broken clouds",
             "icon": "04n",
-            "temp": 68.2
+            "temp": 74.6
           },
           {
-            "date": "2026-03-05",
+            "date": "2026-03-15",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 62.9
-          },
-          {
-            "date": "2026-03-06",
-            "description": "Scattered clouds",
-            "icon": "03n",
-            "temp": 65.7
-          },
-          {
-            "date": "2026-03-07",
-            "description": "Clear sky",
-            "icon": "01n",
-            "temp": 68
+            "temp": 79.5
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-03-03T14:43:21.676111"
+        "timestamp": "2026-03-11T14:47:22.579725"
       },
       "name": "weather",
       "source": "OpenWeather API",
-      "timestamp": "2026-03-03T14:43:21.676111"
+      "timestamp": "2026-03-11T14:47:22.579725"
     },
     {
       "data": {
@@ -65,98 +65,98 @@
             "standings": "N/A"
           },
           {
-            "latest_game": "W 2-1 vs Jets (2026-03-01)",
+            "latest_game": "L 1-2 vs Islanders (2026-03-08)",
             "league": "NHL",
             "name": "San Jose Sharks",
-            "next_game": "vs Canadiens on 2026-03-04",
+            "next_game": "@ Bruins on 2026-03-12",
             "record": "Season in progress",
             "standings": "N/A"
           },
           {
-            "latest_game": "L 101-129 vs Lakers (2026-03-01)",
+            "latest_game": "L 101-114 vs Clippers (2026-03-03)",
             "league": "NBA",
             "name": "Golden State Warriors",
-            "next_game": "vs Clippers on 2026-03-03",
+            "next_game": "vs Bulls on 2026-03-11",
             "record": "Season in progress",
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-03-03T14:43:24.009931"
+        "timestamp": "2026-03-11T14:47:26.057365"
       },
       "name": "sports",
       "source": "The Sports DB API",
-      "timestamp": "2026-03-03T14:43:24.009931"
+      "timestamp": "2026-03-11T14:47:26.057365"
     },
     {
       "data": {
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-03-03T01:15:00Z",
+            "published_at": "2026-03-11T14:00:00Z",
             "source": "TechCrunch",
-            "summary": "Pronto handles 18,000 daily bookings and plans rapid expansion as it races rivals to digitize India\\'s largely offline home services market.",
-            "title": "India\u2019s Pronto formalizes house help as its valuation jumps 8x in under a year",
-            "url": "https://techcrunch.com/2026/03/02/indias-pronto-formalizes-house-help-as-its-valuation-jumps-8x-in-under-a-year/"
+            "summary": "Taya is trying to address privacy concerns around note-taking wearables with its device that can be worn as a pendant and records only the user's voice.",
+            "title": "Former Apple engineer raises $5M for a note-taking pendant that only records your voice",
+            "url": "https://techcrunch.com/2026/03/11/former-apple-engineer-raises-5m-for-a-note-taking-pendant-that-only-records-your-voice/"
           },
           {
             "category": "technology",
-            "published_at": "2026-03-03T14:34:29Z",
+            "published_at": "2026-03-11T14:31:27Z",
             "source": "The Verge",
-            "summary": "When it launched the 17 and 17 Ultra in Europe on Saturday, Xiaomi bucked an industry trend: it didn't really talk about AI all that much. And it really didn't talk about AI when it showed off the two",
-            "title": "Xiaomi, unlike Google and Samsung, thinks camera hardware comes first",
-            "url": "https://www.theverge.com/tech/888082/xiaomi-unlike-google-and-samsung-thinks-camera-hardware-comes-first"
+            "summary": "Recently, Ring ran a Super Bowl ad for its Search Party feature showing how it uses AI to scan footage from Ring cameras and video doorbells to help find lost dogs. It sounds neighborly \u2014 until you co",
+            "title": "How to Ding, Dong, Ditch Ring\u2019s surveillance network",
+            "url": "https://www.theverge.com/tech/890910/best-ring-alternatives-privacy-focused-video-doorbell-local-storage-reolink-aqara-tapo-ecobee"
           },
           {
             "category": "technology",
-            "published_at": "2026-03-03T13:24:33Z",
+            "published_at": "2026-03-11T13:27:03Z",
             "source": "Ars Technica",
-            "summary": "Kennedy's destruction \"might take generations to repair,\" The Lancet said.",
-            "title": "Medical journal The Lancet blasts RFK Jr.\u2019s health work as a failure",
-            "url": "https://arstechnica.com/health/2026/03/medical-journal-the-lancet-blasts-rfk-jr-s-health-work-as-a-failure/"
+            "summary": "75% of the criminal cases closed last fiscal year originated before Trump took office.",
+            "title": "What crackdown? Trump's EPA enforcement claims don't pass sniff test.",
+            "url": "https://arstechnica.com/tech-policy/2026/03/trumps-epa-says-its-cracking-down-but-the-data-tell-a-different-story/"
           },
           {
             "category": "technology",
-            "published_at": "2026-03-03T13:31:00Z",
+            "published_at": "2026-03-11T14:23:05Z",
             "source": "Wired",
-            "summary": "The UV light built into Shark\u2019s newest robot vacuum is on a quest to embarrass me with how many stains it\\'s spotted.",
-            "title": "Shark UV Reveal Review (2026): UV Light Mode",
-            "url": "https://www.wired.com/review/shark-powerdetect-uv-reveal/"
+            "summary": "The MTIA processors are the tech giant\u2019s latest attempt to build its own AI hardware, even as it continues spending billions on gear from industry leaders like Nvidia.",
+            "title": "Meta Developed 4 New Chips to Power Its AI and Recommendation Systems",
+            "url": "https://www.wired.com/story/meta-unveils-four-new-chips-to-power-its-ai-and-recommendation-systems/"
           },
           {
             "category": "technology",
-            "published_at": "2026-03-03T13:30:00Z",
+            "published_at": "2026-03-11T12:46:21Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This startup claims it can stop lightning and prev",
-            "title": "The Download: The startup that says it can stop lightning, and inside OpenAI\u2019s Pentagon deal",
-            "url": "https://www.technologyreview.com/2026/03/03/1133900/the-download-the-startup-that-says-it-can-stop-lightning-and-inside-openais-pentagon-deal/"
+            "summary": "Feng Qingyang had always hoped to launch his own company, but he never thought this would be how\u2014or that the day would come this fast.&#160; Feng, a 27-year-old software engineer based in Beijing, sta",
+            "title": "Hustlers are cashing in on China\u2019s OpenClaw AI craze",
+            "url": "https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-03-03T14:43:25.093452"
+        "timestamp": "2026-03-11T14:47:27.075309"
       },
       "name": "tech",
       "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-      "timestamp": "2026-03-03T14:43:25.093452"
+      "timestamp": "2026-03-11T14:47:27.075309"
     },
     {
       "data": {
         "indexes": [
           {
-            "change": 3.9,
-            "change_percent": 0.06,
-            "is_positive": true,
+            "change": -10.9,
+            "change_percent": -0.16,
+            "is_positive": false,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 6863.8
+            "value": 6771.8
           }
         ],
-        "market_summary": "Markets rallied across all major indexes on positive sentiment.",
+        "market_summary": "Markets declined on concerns about economic outlook.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-03-03T14:43:25.489039"
+        "timestamp": "2026-03-11T14:47:27.734338"
       },
       "name": "market",
       "source": "Alpha Vantage API (via ETF proxies)",
-      "timestamp": "2026-03-03T14:43:25.489039"
+      "timestamp": "2026-03-11T14:47:27.734338"
     }
   ]
 }
