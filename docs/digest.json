@@ -1,58 +1,59 @@
 {
-  "date": "2026-03-11",
-  "generated_at": "2026-03-11T14:47:28.000000",
+  "date": "2026-03-12",
+  "generated_at": "2026-03-12T14:50:47.362195",
   "sections": [
     {
+      "name": "weather",
       "data": {
         "current": {
           "description": "Clear sky",
-          "feels_like": 49.3,
-          "humidity": 70,
+          "feels_like": 49.2,
+          "humidity": 75,
           "icon": "01d",
-          "temp": 51.2,
-          "wind_speed": 1.4
+          "temp": 50.9,
+          "wind_speed": 3.4
         },
         "forecast": [
           {
-            "date": "2026-03-11",
-            "description": "Clear sky",
-            "icon": "01d",
-            "temp": 65.6
-          },
-          {
             "date": "2026-03-12",
             "description": "Clear sky",
-            "icon": "01n",
-            "temp": 75.5
+            "icon": "01d",
+            "temp": 69
           },
           {
             "date": "2026-03-13",
             "description": "Overcast clouds",
             "icon": "04n",
-            "temp": 74.3
-          },
-          {
-            "date": "2026-03-14",
-            "description": "Broken clouds",
-            "icon": "04n",
             "temp": 74.6
           },
           {
+            "date": "2026-03-14",
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 71.6
+          },
+          {
             "date": "2026-03-15",
-            "description": "Clear sky",
-            "icon": "01n",
-            "temp": 79.5
+            "description": "Broken clouds",
+            "icon": "04n",
+            "temp": 78
+          },
+          {
+            "date": "2026-03-16",
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 84
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-03-11T14:47:22.579725"
+        "timestamp": "2026-03-12T14:50:41.130129"
       },
-      "name": "weather",
-      "source": "OpenWeather API",
-      "timestamp": "2026-03-11T14:47:22.579725"
+      "timestamp": "2026-03-12T14:50:41.130129",
+      "source": "OpenWeather API"
     },
     {
+      "name": "sports",
       "data": {
         "source": "The Sports DB API",
         "teams": [
@@ -73,90 +74,89 @@
             "standings": "N/A"
           },
           {
-            "latest_game": "L 101-114 vs Clippers (2026-03-03)",
+            "latest_game": "L 124-130 vs Bulls (2026-03-11)",
             "league": "NBA",
             "name": "Golden State Warriors",
-            "next_game": "vs Bulls on 2026-03-11",
+            "next_game": "vs Timberwolves on 2026-03-14",
             "record": "Season in progress",
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-03-11T14:47:26.057365"
+        "timestamp": "2026-03-12T14:50:46.111109"
       },
-      "name": "sports",
-      "source": "The Sports DB API",
-      "timestamp": "2026-03-11T14:47:26.057365"
+      "timestamp": "2026-03-12T14:50:46.111109",
+      "source": "The Sports DB API"
     },
     {
+      "name": "tech",
       "data": {
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-03-11T14:00:00Z",
+            "published_at": "2026-03-12T14:06:38Z",
             "source": "TechCrunch",
-            "summary": "Taya is trying to address privacy concerns around note-taking wearables with its device that can be worn as a pendant and records only the user's voice.",
-            "title": "Former Apple engineer raises $5M for a note-taking pendant that only records your voice",
-            "url": "https://techcrunch.com/2026/03/11/former-apple-engineer-raises-5m-for-a-note-taking-pendant-that-only-records-your-voice/"
+            "summary": "Following the success of TikTok and Instagram Reels, Verts is designed to boost daily engagement and reach mobile-first viewers, all while increasing discovery across Disney+\\'s catalog.",
+            "title": "Disney+ is rolling out its TikTok-like \u2018Verts\u2019 short-form video feed",
+            "url": "https://techcrunch.com/2026/03/12/disney-is-rolling-out-its-tiktok-like-verts-short-form-video-feed/"
           },
           {
             "category": "technology",
-            "published_at": "2026-03-11T14:31:27Z",
+            "published_at": "2026-03-12T14:17:32Z",
             "source": "The Verge",
-            "summary": "Recently, Ring ran a Super Bowl ad for its Search Party feature showing how it uses AI to scan footage from Ring cameras and video doorbells to help find lost dogs. It sounds neighborly \u2014 until you co",
-            "title": "How to Ding, Dong, Ditch Ring\u2019s surveillance network",
-            "url": "https://www.theverge.com/tech/890910/best-ring-alternatives-privacy-focused-video-doorbell-local-storage-reolink-aqara-tapo-ecobee"
+            "summary": "It\u2019s pretty easy to get an affordable phone case that looks good, no matter the device you have. Yet, that doesn\u2019t stop some companies from selling theirs for about the same cost as a dinner for two. ",
+            "title": "Once-overpriced iPhone Air and Galaxy S25 cases are now 90 percent off",
+            "url": "https://www.theverge.com/gadgets/893597/iphone-air-17-pro-samsung-galaxy-pixel-fold-flip-phone-cases-sale-deal"
           },
           {
             "category": "technology",
-            "published_at": "2026-03-11T13:27:03Z",
+            "published_at": "2026-03-12T12:30:51Z",
             "source": "Ars Technica",
-            "summary": "75% of the criminal cases closed last fiscal year originated before Trump took office.",
-            "title": "What crackdown? Trump's EPA enforcement claims don't pass sniff test.",
-            "url": "https://arstechnica.com/tech-policy/2026/03/trumps-epa-says-its-cracking-down-but-the-data-tell-a-different-story/"
+            "summary": "Google Maps is about to get more chatty and immersive.",
+            "title": "Google Maps gets its biggest navigation redesign in a decade, plus more AI",
+            "url": "https://arstechnica.com/gadgets/2026/03/google-maps-gets-its-biggest-navigation-redesign-in-a-decade-plus-more-ai/"
           },
           {
             "category": "technology",
-            "published_at": "2026-03-11T14:23:05Z",
+            "published_at": "2026-03-12T11:30:00Z",
             "source": "Wired",
-            "summary": "The MTIA processors are the tech giant\u2019s latest attempt to build its own AI hardware, even as it continues spending billions on gear from industry leaders like Nvidia.",
-            "title": "Meta Developed 4 New Chips to Power Its AI and Recommendation Systems",
-            "url": "https://www.wired.com/story/meta-unveils-four-new-chips-to-power-its-ai-and-recommendation-systems/"
+            "summary": "Massage guns used to be simple percussive devices. Now, they use vibrations, hot and cold therapy, and even LED light to ease post-workout pain and promote muscle recovery.",
+            "title": "Best Massage Guns of 2026: Hyperice, Therabody, and More",
+            "url": "https://www.wired.com/story/best-massage-guns/"
           },
           {
             "category": "technology",
-            "published_at": "2026-03-11T12:46:21Z",
+            "published_at": "2026-03-12T13:02:48Z",
             "source": "MIT Technology Review",
-            "summary": "Feng Qingyang had always hoped to launch his own company, but he never thought this would be how\u2014or that the day would come this fast.&#160; Feng, a 27-year-old software engineer based in Beijing, sta",
-            "title": "Hustlers are cashing in on China\u2019s OpenClaw AI craze",
-            "url": "https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/"
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Hustlers are cashing in on China\u2019s&#160;OpenClaw&#",
+            "title": "The Download: Early adopters cash in on China\u2019s OpenClaw craze, and US batteries slump",
+            "url": "https://www.technologyreview.com/2026/03/12/1134207/the-download-china-openclaw-ai-craze-us-battery-industry-downturn/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-03-11T14:47:27.075309"
+        "timestamp": "2026-03-12T14:50:47.093866"
       },
-      "name": "tech",
-      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-      "timestamp": "2026-03-11T14:47:27.075309"
+      "timestamp": "2026-03-12T14:50:47.093866",
+      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
+      "name": "market",
       "data": {
         "indexes": [
           {
-            "change": -10.9,
-            "change_percent": -0.16,
+            "change": -8.5,
+            "change_percent": -0.13,
             "is_positive": false,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 6771.8
+            "value": 6763.3
           }
         ],
         "market_summary": "Markets declined on concerns about economic outlook.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-03-11T14:47:27.734338"
+        "timestamp": "2026-03-12T14:50:47.362097"
       },
-      "name": "market",
-      "source": "Alpha Vantage API (via ETF proxies)",
-      "timestamp": "2026-03-11T14:47:27.734338"
+      "timestamp": "2026-03-12T14:50:47.362097",
+      "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
 }
