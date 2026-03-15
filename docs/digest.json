@@ -1,6 +1,178 @@
 {
-  "date": "2026-03-13",
-  "generated_at": "2026-03-13T14:42:17.088283",
-  "sections": [],
-  "raw_response": "```\n{\"date\": \"2026-03-13\", \"generated_at\": \"2026-03-13T14:42:11.340750\", \"sections\": [{\"name\": \"weather\", \"data\": {\"current\": {\"description\": \"Scattered clouds\", \"feels_like\": 49.8, \"humidity\": 77, \"icon\": \"03d\", \"temp\": 49.8, \"wind_speed\": 0}, \"forecast\": [{\"date\": \"2026-03-13\", \"description\": \"Scattered clouds\", \"icon\": \"03d\", \"temp\": 66.2}, {\"date\": \"2026-03-14\", \"description\": \"Broken clouds\", \"icon\": \"04n\", \"temp\": 72.1}, {\"date\": \"2026-03-15\", \"description\": \"Broken clouds\", \"icon\": \"04n\", \"temp\": 78.5}, {\"date\": \"2026-03-16\", \"description\": \"Scattered clouds\", \"icon\": \"03n\", \"temp\": 82.5}, {\"date\": \"2026-03-17\", \"description\": \"Clear sky\", \"icon\": \"01n\", \"temp\": 87.6}], \"location\": \"San Jose\", \"source\": \"OpenWeather API\", \"timestamp\": \"2026-03-13T14:42:07.553903\"}, \"timestamp\": \"2026-03-13T14:42:07.553903\", \"source\": \"OpenWeather API\"}, {\"name\": \"sports\", \"data\": {\"teams\": [{\"latest_game\": \"L 3-13 vs Seahawks (2026-01-04)\", \"league\": \"NFL\", \"name\": \"San Francisco 49ers\", \"next_game\": \"No upcoming games scheduled\", \"record\": \"Season in progress\", \"standings\": \"N/A\"}, {\"latest_game\": \"L 1-2 vs Islanders (2026-03-08)\", \"league\": \"NHL\", \"name\": \"San Jose Sharks\", \"next_game\": \"@ Canadiens on 2026-03-14\", \"record\": \"Season in progress\", \"standings\": \"N/A\"}, {\"latest_game\": \"L 124-130 vs Bulls (2026-03-11)\", \"league\": \"NBA\", \"name\": \"Golden State Warriors\", \"next_game\": \"vs Timberwolves on 2026-03-14\", \"record\": \"Season in progress\", \"standings\": \"N/A\"}], \"timestamp\": \"2026-03-13T14:42:09.357865\", \"source\": \"The Sports DB API\"}, \"timestamp\": \"2026-03-13T14:42:09.357865\", \"source\": \"The Sports DB API\"}, {\"name\": \"tech\", \"data\": {\"articles\": [{\"category\": \"technology\", \"published_at\": \"2026-03-13T14:00:00Z\", \"source\": \"TechCrunch\", \"summary\": \"Peacock is betting on new AI-powered video experiences, vertical clips, and mobile games to help its growth.\", \"title\": \"Peacock expands into AI-driven video, mobile-first live sports, and gaming\", \"url\": \"https://techcrunch.com/2026/03/13/peacock-expands-into-ai-driven-video-mobile-first-live-sports-and-gaming/\"}, {\"category\": \"technology\", \"published_at\": \"2026-03-13T14:24:54Z\", \"source\": \"The Verge\", \"summary\": \"Epic Games announced this week that Fortnite\\'s in-game V-bucks currency would be getting more expensive with a somewhat glib statement: \\\"The cost of running Fortnite has gone up a lot and we\\'re raisin\", \"title\": \"Epic says its Fortnite V-bucks price hike is a &#8216;direct correlation&#8217; to operating costs\", \"url\": \"https://www.theverge.com/games/894379/epic-games-fortnite-v-bucks-price-hike-operating-costs\"}, {\"category\": \"technology\", \"published_at\": \"2026-03-12T17:44:18Z\", \"source\": \"Ars Technica\", \"summary\": \"Perplexity says AI access to your files is in \\\"secure environment with clear safeguards.\\\"\", \"title\": \"Perplexity\\'s \\\"Personal Computer\\\" brings its AI agents to the, uh, Personal Computer\", \"url\": \"https://arstechnica.com/ai/2026/03/perplexitys-personal-computer-brings-its-ai-agents-to-the-uh-personal-computer/\"}, {\"category\": \"technology\", \"published_at\": \"2026-03-13T14:31:32Z\", \"source\": \"Wired\", \"summary\": \"REI's Member Days sale has deals on our favorite tents, backpacks, rain jackets and more gear to outfit you for summer.\", \"title\": \"The Best Outdoor Deals from The REI Member Days Sale (2026)\", \"url\": \"https://www.wired.com/story/rei-member-days-sale-2026/\"}, {\"category\": \"technology\", \"published_at\": \"2026-03-13T12:16:56Z\", \"source\": \"MIT Technology Review\", \"summary\": \"This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Defense&#160;official reveals how AI chatbots coul\", \"title\": \"The Download: how AI is used for military targeting, and the Pentagon\u2019s war on Claude\", \"url\": \"https://www.technologyreview.com/2026/03/13/1134278/the-download-defense-official-ai-chatbots-targeting-pentagon-claude-pollute-military-supply-chain/\"}], \"timestamp\": \"2026-03-13T14:42:10.342075\", \"source\": \"RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)\"}, \"timestamp\": \"2026-03-13T14:42:10.342075\", \"source\": \"RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)\"}, {\"name\": \"market\", \"data\": {\"indexes\": [{\"change\": -102.7, \"change_percent\": -1.52, \"is_positive\": False, \"name\": \"S&P 500\", \"symbol\": \"^GSPC\", \"value\": 6660.6}, {\"change\": -150.5, \"change_percent\": -1.0, \"is_positive\": False, \"name\": \"NASDAQ\", \"symbol\": \"^IXIC\", \"value\": 14900.5}, {\"change\": -200.1, \"change_percent\": -0.55, \"is_positive\": False, \"name\": \"DOW JONES\", \"symbol\": \"^DJI\", \"value\": 36170.8}], \"market_summary\": \"Markets declined on concerns about economic outlook.\", \"timestamp\": \"2026-03-13T14:42:10.710392\", \"source\": \"Alpha Vantage API (via ETF proxies)\"}, \"timestamp\": \"2026-03-13T14:42:10.710392\", \"source\": \"Alpha Vantage API (via ETF proxies)\"}]}"
+  "date": "2026-03-15",
+  "generated_at": "2026-03-15T14:31:26.370581",
+  "sections": [
+    {
+      "name": "weather",
+      "data": {
+        "current": {
+          "description": "Few clouds",
+          "feels_like": 51.1,
+          "humidity": 88,
+          "icon": "02d",
+          "temp": 52.1,
+          "wind_speed": 1
+        },
+        "forecast": [
+          {
+            "date": "2026-03-15",
+            "description": "Few clouds",
+            "icon": "02d",
+            "temp": 70.2
+          },
+          {
+            "date": "2026-03-16",
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 82.7
+          },
+          {
+            "date": "2026-03-17",
+            "description": "Scattered clouds",
+            "icon": "03n",
+            "temp": 88.1
+          },
+          {
+            "date": "2026-03-18",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 89
+          },
+          {
+            "date": "2026-03-19",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 89
+          }
+        ],
+        "location": "San Jose",
+        "source": "OpenWeather API",
+        "timestamp": "2026-03-15T14:31:22.984496"
+      },
+      "timestamp": "2026-03-15T14:31:22.984496",
+      "source": "OpenWeather API"
+    },
+    {
+      "name": "sports",
+      "data": {
+        "source": "The Sports DB API",
+        "teams": [
+          {
+            "latest_game": "L 3-13 vs Seahawks (2026-01-04)",
+            "league": "NFL",
+            "name": "San Francisco 49ers",
+            "next_game": "No upcoming games scheduled",
+            "record": "Season in progress",
+            "standings": "N/A"
+          },
+          {
+            "latest_game": "L 1-2 vs Islanders (2026-03-08)",
+            "league": "NHL",
+            "name": "San Jose Sharks",
+            "next_game": "@ Senators on 2026-03-15",
+            "record": "Season in progress",
+            "standings": "N/A"
+          },
+          {
+            "latest_game": "L 117-127 vs Timberwolves (2026-03-14)",
+            "league": "NBA",
+            "name": "Golden State Warriors",
+            "next_game": "@ Knicks on 2026-03-16",
+            "record": "Season in progress",
+            "standings": "N/A"
+          }
+        ],
+        "timestamp": "2026-03-15T14:31:24.421505"
+      },
+      "timestamp": "2026-03-15T14:31:24.421505",
+      "source": "The Sports DB API"
+    },
+    {
+      "name": "tech",
+      "data": {
+        "articles": [
+          {
+            "category": "technology",
+            "published_at": "2026-03-14T21:24:10Z",
+            "source": "TechCrunch",
+            "summary": "Apple\u2019s new MacBook Neo isn\u2019t just the most affordable MacBook \u2014 it\u2019s also the company\\'s most repairable laptop in \u201cabout fourteen years.\"",
+            "title": "The MacBook Neo is \u2018the most repairable MacBook\u2019 in years, according to iFixit",
+            "url": "https://techcrunch.com/2026/03/14/the-macbook-neo-is-the-most-repairable-macbook-in-years-according-to-ifixit/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-03-15T14:13:25Z",
+            "source": "The Verge",
+            "summary": "David Sacks, the White House\\'s AI and crypto czar, has warned that a continued war in Iran could be catastrophic. On the All In podcast, Sacks said that \"we should try to find the off-ramp.\" He expres",
+            "title": "AI Czar David Sacks wants Trump to \u2018get out\u2019 of Iran",
+            "url": "https://www.theverge.com/policy/895059/trump-ai-czar-out-of-iran"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-03-15T11:15:48Z",
+            "source": "Ars Technica",
+            "summary": "Technology like four-wheel steering and variable valve timing debuted in the Prelude.",
+            "title": "An engineering thesis disguised as a coupe: A history of the Honda Prelude",
+            "url": "https://arstechnica.com/cars/2026/03/an-engineering-thesis-disguised-as-a-coupe-a-history-of-the-honda-prelude/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-03-15T11:00:00Z",
+            "source": "Wired",
+            "summary": "Our favorite red light therapy device for hair growth just dropped in price. Grab it while it lasts.",
+            "title": "This At-Home Hair Growth System Just Dropped in Price",
+            "url": "https://www.wired.com/story/irestore-deals-amazon-spring-sale-2026/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-03-13T15:16:55Z",
+            "source": "MIT Technology Review",
+            "summary": "For decades, manufacturers have pursued automation to drive efficiency, reduce costs, and stabilize operations. That approach delivered meaningful gains, but it is no longer enough. Today\u2019s manufactur",
+            "title": "Why physical AI is becoming manufacturing\u2019s next advantage",
+            "url": "https://www.technologyreview.com/2026/03/13/1134184/why-physical-ai-is-becoming-manufacturings-next-advantage/"
+          }
+        ],
+        "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
+        "timestamp": "2026-03-15T14:31:25.206976"
+      },
+      "timestamp": "2026-03-15T14:31:25.206976",
+      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
+    },
+    {
+      "name": "market",
+      "data": {
+        "indexes": [
+          {
+            "change": -37.7,
+            "change_percent": -0.57,
+            "is_positive": false,
+            "name": "S&P 500",
+            "symbol": "^GSPC",
+            "value": 6622.9
+          },
+          {
+            "change": -145.7,
+            "change_percent": -0.97,
+            "is_positive": false,
+            "name": "NASDAQ",
+            "symbol": "^IXIC",
+            "value": 14890.3
+          },
+          {
+            "change": -250.1,
+            "change_percent": -0.62,
+            "is_positive": false,
+            "name": "DOW JONES",
+            "symbol": "^DJI",
+            "value": 40050.25
+          }
+        ],
+        "market_summary": "Markets declined on concerns about economic outlook.",
+        "source": "Alpha Vantage API (via ETF proxies)",
+        "timestamp": "2026-03-15T14:31:25.462607"
+      },
+      "timestamp": "2026-03-15T14:31:25.462607",
+      "source": "Alpha Vantage API (via ETF proxies)"
+    }
+  ]
 }
