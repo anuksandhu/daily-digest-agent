@@ -1,6 +1,178 @@
 {
-  "date": "2026-03-17",
-  "generated_at": "2026-03-17T14:57:44.343731",
-  "sections": [],
-  "raw_response": "```\n{\"date\": \"2026-03-17\", \"generated_at\": \"2026-03-17T14:57:38.097562\", \"sections\": [{\"data\": {\"current\": {\"description\": \"Clear sky\", \"feels_like\": 55.1, \"humidity\": 69, \"icon\": \"01d\", \"temp\": 56.5, \"wind_speed\": 3.4}, \"forecast\": [{\"date\": \"2026-03-17\", \"description\": \"Clear sky\", \"icon\": \"01d\", \"temp\": 77.3}, {\"date\": \"2026-03-18\", \"description\": \"Clear sky\", \"icon\": \"01n\", \"temp\": 89.5}, {\"date\": \"2026-03-19\", \"description\": \"Clear sky\", \"icon\": \"01n\", \"temp\": 88.1}, {\"date\": \"2026-03-20\", \"description\": \"Clear sky\", \"icon\": \"01n\", \"temp\": 89.9}, {\"date\": \"2026-03-21\", \"description\": \"Overcast clouds\", \"icon\": \"04n\", \"temp\": 86.7}], \"location\": \"San Jose\", \"source\": \"OpenWeather API\", \"timestamp\": \"2026-03-17T14:57:35.602291\"}, \"name\": \"weather\", \"source\": \"OpenWeather API\", \"timestamp\": \"2026-03-17T14:57:35.602291\"}, {\"data\": {\"source\": \"The Sports DB API\", \"teams\": [{\"latest_game\": \"L 3-13 vs Seahawks (2026-01-04)\", \"league\": \"NFL\", \"name\": \"San Francisco 49ers\", \"next_game\": \"No upcoming games scheduled\", \"record\": \"Season in progress\", \"standings\": \"N/A\"}, {\"latest_game\": \"L 1-2 vs Islanders (2026-03-08)\", \"league\": \"NHL\", \"name\": \"San Jose Sharks\", \"next_game\": \"@ Oilers on 2026-03-18\", \"record\": \"Season in progress\", \"standings\": \"N/A\"}, {\"latest_game\": \"L 117-127 vs Timberwolves (2026-03-14)\", \"league\": \"NBA\", \"name\": \"Golden State Warriors\", \"next_game\": \"@ Celtics on 2026-03-18\", \"record\": \"Season in progress\", \"standings\": \"N/A\"}], \"timestamp\": \"2026-03-17T14:57:37.059833\"}, \"name\": \"sports\", \"source\": \"The Sports DB API\", \"timestamp\": \"2026-03-17T14:57:37.059833\"}, {\"data\": {\"articles\": [{\"category\": \"technology\", \"published_at\": \"2026-03-17T13:15:22Z\", \"source\": \"TechCrunch\", \"summary\": \"From a new iPhone to a budget-friendly MacBook, Apple announced a series of new products this week.\", \"title\": \"MacBook Neo, AirPods Max 2, iPhone 17e, and everything else Apple announced this month\", \"url\": \"https://techcrunch.com/2026/03/17/everything-apple-announced-macbook-neo-iphone-17e-ipad-air/\"}, {\"category\": \"technology\", \"published_at\": \"2026-03-17T14:17:56Z\", \"source\": \"The Verge\", \"summary\": \"Amazon announced on Tuesday that it\\'s making it easier for users to find products eligible for its 1-hour and 3-hour delivery options with a new \\\"getitfast\\\" page for same-day delivery products availab\", \"title\": \"Amazon&#8217;s new &#8216;getitfast&#8217; delivery page lists items you can have in 1 hour\", \"url\": \"https://www.theverge.com/tech/895940/amazon-1-hour-3-hour-delivery\"}, {\"category\": \"technology\", \"published_at\": \"2026-03-16T21:51:16Z\", \"source\": \"Ars Technica\", \"summary\": \"Discord user led cops to Grok-generated CSAM of real girls, lawsuit says.\", \"title\": \"Elon Musk\\'s xAI sued for turning three girls\\' real photos into AI CSAM\", \"url\": \"https://arstechnica.com/tech-policy/2026/03/elon-musks-xai-sued-for-turning-three-girls-real-photos-into-ai-csam/\"}, {\"category\": \"technology\", \"published_at\": \"2026-03-17T11:00:00Z\", \"source\": \"Wired\", \"summary\": \"This new-ish hybrid between trail runners and road runners is designed for less technical terrain and the occasional road run.\", \"title\": \"What Are Gravel Running Shoes? (2026)\", \"url\": \"https://www.wired.com/story/what-are-gravel-running-shoes/\"}, {\"category\": \"technology\", \"published_at\": \"2026-03-17T12:26:48Z\", \"source\": \"MIT Technology Review\", \"summary\": \"This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Where OpenAI\u2019s technology could show up in Iran&#1\", \"title\": \"The Download: OpenAI\u2019s US military deal, and Grok\u2019s CSAM lawsuit\", \"url\": \"https://www.technologyreview.com/2026/03/17/1134322/the-download-openi-us-military-deal-grok-xai-csam-lawsuit/\"}], \"source\": \"RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)\", \"timestamp\": \"2026-03-17T14:57:37.862377\"}, \"name\": \"tech\", \"source\": \"RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)\", \"timestamp\": \"2026-03-17T14:57:37.862377\"}, {\"data\": {\"indexes\": [{\"change\": 67.4, \"change_percent\": 1.02, \"is_positive\": True, \"name\": \"S&P 500\", \"symbol\": \"^GSPC\", \"value\": 6690.3}], \"market_summary\": \"Markets rallied across all major indexes on positive sentiment.\", \"source\": \"Alpha Vantage API (via ETF proxies)\", \"timestamp\": \"2026-03-17T14:57:38.097562\"}, \"name\": \"market\", \"source\": \"Alpha Vantage API (via ETF proxies)\", \"timestamp\": \"2026-03-17T14:57:38.097562\"}]}"
+  "date": "2026-03-19",
+  "generated_at": "2026-03-19T14:50:18.024175",
+  "sections": [
+    {
+      "name": "weather",
+      "data": {
+        "current": {
+          "description": "Clear sky",
+          "feels_like": 55.5,
+          "humidity": 77,
+          "icon": "01d",
+          "temp": 56.5,
+          "wind_speed": 1.3
+        },
+        "forecast": [
+          {
+            "date": "2026-03-19",
+            "description": "Clear sky",
+            "icon": "01d",
+            "temp": 77.9
+          },
+          {
+            "date": "2026-03-20",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 91.5
+          },
+          {
+            "date": "2026-03-21",
+            "description": "Broken clouds",
+            "icon": "04n",
+            "temp": 89.5
+          },
+          {
+            "date": "2026-03-22",
+            "description": "Broken clouds",
+            "icon": "04n",
+            "temp": 79.2
+          },
+          {
+            "date": "2026-03-23",
+            "description": "Scattered clouds",
+            "icon": "03n",
+            "temp": 81.4
+          }
+        ],
+        "location": "San Jose",
+        "source": "OpenWeather API",
+        "timestamp": "2026-03-19T14:50:14.451306"
+      },
+      "timestamp": "2026-03-19T14:50:14.451306",
+      "source": "OpenWeather API"
+    },
+    {
+      "name": "sports",
+      "data": {
+        "teams": [
+          {
+            "latest_game": "L 3-13 vs Seahawks (2026-01-04)",
+            "league": "NFL",
+            "name": "San Francisco 49ers",
+            "next_game": "No upcoming games scheduled",
+            "record": "Season in progress",
+            "standings": "N/A"
+          },
+          {
+            "latest_game": "L 1-2 vs Islanders (2026-03-08)",
+            "league": "NHL",
+            "name": "San Jose Sharks",
+            "next_game": "vs Sabres on 2026-03-20",
+            "record": "Season in progress",
+            "standings": "N/A"
+          },
+          {
+            "latest_game": "L 117-127 vs Timberwolves (2026-03-14)",
+            "league": "NBA",
+            "name": "Golden State Warriors",
+            "next_game": "@ Pistons on 2026-03-20",
+            "record": "Season in progress",
+            "standings": "N/A"
+          }
+        ],
+        "timestamp": "2026-03-19T14:50:16.440952",
+        "source": "The Sports DB API"
+      },
+      "timestamp": "2026-03-19T14:50:16.440952",
+      "source": "The Sports DB API"
+    },
+    {
+      "name": "tech",
+      "data": {
+        "articles": [
+          {
+            "category": "technology",
+            "published_at": "2026-03-19T14:39:12Z",
+            "source": "TechCrunch",
+            "summary": "Rivian admitted in a regulatory filing that it is delaying its goal of reaching \"positive EBITDA\" next year because of how much it is spending on developing self-driving technology.",
+            "title": "Rivian sacrifices 2027 profit goal to push deeper into autonomy",
+            "url": "https://techcrunch.com/2026/03/19/rivian-sacrifices-2027-profit-goal-to-push-deeper-into-autonomy/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-03-19T14:11:35Z",
+            "source": "The Verge",
+            "summary": "Can a basic calculator with an old-school segmented LCD screen be beautiful? Casio's response to that question is its new S100X featuring a traditional Japanese hand-painted finish using sap from the ",
+            "title": "Casio\u2019s new $600 calculator is a work of art",
+            "url": "https://www.theverge.com/tech/897278/casio-s100x-calculator-japanese-lacquer-finish-limited-edition"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-03-18T22:06:32Z",
+            "source": "Ars Technica",
+            "summary": "Remember when it was fun to play around with LLMs?",
+            "title": "Kagi Translate's AI answers the question \"What would horny Margaret Thatcher say?\"",
+            "url": "https://arstechnica.com/ai/2026/03/kagi-translates-ai-answers-the-question-what-would-horny-margaret-thatcher-say/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-03-19T14:09:51Z",
+            "source": "Wired",
+            "summary": "Moxie Marlinspike says the technology powering his encrypted AI chatbot, Confer, will be integrated into Meta AI. The move could help protect the AI conversations of millions of people.",
+            "title": "Signal\u2019s Creator Is Helping Encrypt Meta AI",
+            "url": "https://www.wired.com/story/signals-creator-is-helping-encrypt-meta-ai/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-03-19T12:17:02Z",
+            "source": "MIT Technology Review",
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A $5 million prize awaits proof that quantum compu",
+            "title": "The Download: Quantum computing for health, and why the world doesn\u2019t recycle more nuclear waste",
+            "url": "https://www.technologyreview.com/2026/03/19/1134413/the-download-quantum-computing-health-recycling-nuclear-waste/"
+          }
+        ],
+        "timestamp": "2026-03-19T14:50:17.552041",
+        "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
+      },
+      "timestamp": "2026-03-19T14:50:17.552041",
+      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
+    },
+    {
+      "name": "market",
+      "data": {
+        "indexes": [
+          {
+            "change": -93.6,
+            "change_percent": -1.4,
+            "is_positive": false,
+            "name": "S&P 500",
+            "symbol": "^GSPC",
+            "value": 6614.3
+          },
+          {
+            "change": -171.4,
+            "change_percent": -1.5,
+            "is_positive": false,
+            "name": "NASDAQ",
+            "symbol": "^IXIC",
+            "value": 11300.2
+          },
+          {
+            "change": -235.8,
+            "change_percent": -1.8,
+            "is_positive": false,
+            "name": "DOW JONES",
+            "symbol": "^DJI",
+            "value": 12800.5
+          }
+        ],
+        "market_summary": "Markets declined on concerns about economic outlook.",
+        "timestamp": "2026-03-19T14:50:18.016755",
+        "source": "Alpha Vantage API (via ETF proxies)"
+      },
+      "timestamp": "2026-03-19T14:50:18.016755",
+      "source": "Alpha Vantage API (via ETF proxies)"
+    }
+  ]
 }
