@@ -1,55 +1,55 @@
 {
-  "date": "2026-03-20",
-  "generated_at": "2026-03-20T14:42:41.918889",
+  "date": "2026-03-21",
+  "generated_at": "2026-03-21T14:28:24.238781",
   "sections": [
     {
       "name": "weather",
       "data": {
         "current": {
-          "description": "Haze",
-          "feels_like": 61.6,
-          "humidity": 68,
-          "icon": "50d",
-          "temp": 62.5,
-          "wind_speed": 1
+          "description": "Overcast clouds",
+          "feels_like": 48.6,
+          "humidity": 60,
+          "icon": "04d",
+          "temp": 51,
+          "wind_speed": 0.8
         },
         "forecast": [
           {
-            "date": "2026-03-20",
-            "description": "Few clouds",
-            "icon": "02d",
-            "temp": 81.5
-          },
-          {
             "date": "2026-03-21",
             "description": "Overcast clouds",
-            "icon": "04n",
-            "temp": 89.4
+            "icon": "04d",
+            "temp": 71.7
           },
           {
             "date": "2026-03-22",
-            "description": "Broken clouds",
-            "icon": "04n",
-            "temp": 78.2
+            "description": "Scattered clouds",
+            "icon": "03n",
+            "temp": 79.3
           },
           {
             "date": "2026-03-23",
             "description": "Scattered clouds",
             "icon": "03n",
-            "temp": 79.6
+            "temp": 78.7
           },
           {
             "date": "2026-03-24",
-            "description": "Overcast clouds",
-            "icon": "04n",
-            "temp": 79.4
+            "description": "Few clouds",
+            "icon": "02n",
+            "temp": 76.5
+          },
+          {
+            "date": "2026-03-25",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 75.1
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-03-20T14:42:38.716524"
+        "timestamp": "2026-03-21T14:28:20.310034"
       },
-      "timestamp": "2026-03-20T14:42:38.716524",
+      "timestamp": "2026-03-21T14:28:20.310034",
       "source": "OpenWeather API"
     },
     {
@@ -66,10 +66,10 @@
             "standings": "N/A"
           },
           {
-            "latest_game": "L 1-2 vs Islanders (2026-03-08)",
+            "latest_game": "L 0-5 vs Sabres (2026-03-20)",
             "league": "NHL",
             "name": "San Jose Sharks",
-            "next_game": "vs Sabres on 2026-03-20",
+            "next_game": "vs Flyers on 2026-03-21",
             "record": "Season in progress",
             "standings": "N/A"
           },
@@ -77,14 +77,14 @@
             "latest_game": "L 117-127 vs Timberwolves (2026-03-14)",
             "league": "NBA",
             "name": "Golden State Warriors",
-            "next_game": "@ Pistons on 2026-03-20",
+            "next_game": "@ Hawks on 2026-03-22",
             "record": "Season in progress",
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-03-20T14:42:40.674863"
+        "timestamp": "2026-03-21T14:28:22.933118"
       },
-      "timestamp": "2026-03-20T14:42:40.674863",
+      "timestamp": "2026-03-21T14:28:22.933118",
       "source": "The Sports DB API"
     },
     {
@@ -93,49 +93,49 @@
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-03-20T12:00:00Z",
+            "published_at": "2026-03-21T14:00:00Z",
             "source": "TechCrunch",
-            "summary": "Power has become one of the biggest bottlenecks in rolling out new AI data centers. That's creating an opening for investors.",
-            "title": "The best AI investment might be in energy tech",
-            "url": "https://techcrunch.com/2026/03/20/the-best-ai-investment-might-be-in-energy-tech/"
+            "summary": "Fusion power promises to generate large amounts of clean electricity from nearly limitless fuel. This article explains the main approaches and the companies that use them.",
+            "title": "How fusion power works and the startups pursuing it",
+            "url": "https://techcrunch.com/2026/03/21/how-fusion-power-works-and-the-startups-pursuing-it/"
           },
           {
             "category": "technology",
-            "published_at": "2026-03-20T14:30:00Z",
+            "published_at": "2026-03-21T14:00:00Z",
             "source": "The Verge",
-            "summary": "Since roughly the turn of the millennium, Google Search has been the bedrock of the web. People loved Google's trustworthy \"10 blue links\" search experience and its unspoken promise: The website you c",
-            "title": "Google Search is now using AI to replace headlines",
-            "url": "https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment"
+            "summary": "Like many people, director Valerie Veatch was intrigued when OpenAI first released its Sora text-to-video generative AI model to the public in 2024. Though she didn't fully understand the technology, ",
+            "title": "The gen AI Kool-Aid tastes like eugenics",
+            "url": "https://www.theverge.com/entertainment/897923/ghost-in-the-machine-valerie-veatch-interview"
           },
           {
             "category": "technology",
-            "published_at": "2026-03-20T11:00:06Z",
+            "published_at": "2026-03-20T22:11:24Z",
             "source": "Ars Technica",
-            "summary": "Ars speaks with a linguist about the ease with which Grace and Rocky communicate.",
-            "title": "Project Hail Mary is in theaters\u2014but do the linguistics work?",
-            "url": "https://arstechnica.com/culture/2026/03/project-hail-mary-is-in-theaters-but-do-the-linguistics-work/"
+            "summary": "Fatal brain infection was thought to be from profound immune suppression. Not anymore.",
+            "title": "You're likely already infected with a brain-eating virus you've never heard of",
+            "url": "https://arstechnica.com/health/2026/03/youre-likely-already-infected-with-a-brain-eating-virus-youve-never-heard-of/"
           },
           {
             "category": "technology",
-            "published_at": "2026-03-20T11:44:12Z",
+            "published_at": "2026-03-21T11:02:00Z",
             "source": "Wired",
-            "summary": "While the United States and Europe are moving cautiously forward with clinical trials, China is racing toward the commercialization of brain implants.",
-            "title": "China Approves the First Brain Chips for Sale\u2014and Has a Plan to Dominate the Industry",
-            "url": "https://www.wired.com/story/china-approves-first-brain-chips-for-sale-plan-to-dominate-industry/"
+            "summary": "Now outfitted with AI computer vision, this new pool cleaner can actively search for debris.",
+            "title": "Aiper Scuba V3 Pool Robot Review: Eye on the Prize",
+            "url": "https://www.wired.com/review/aiper-scuba-v3-pool-robot/"
           },
           {
             "category": "technology",
             "published_at": "2026-03-20T13:15:45Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily download of what&#8217;s going on in the world of technology. OpenAI is throwing everything into building a full",
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. OpenAI is throwing everything into building a full",
             "title": "The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot",
             "url": "https://www.technologyreview.com/2026/03/20/1134448/the-download-openai-building-fully-automated-researcher-psychedelic-drug-trial/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-03-20T14:42:41.628656"
+        "timestamp": "2026-03-21T14:28:23.608334"
       },
-      "timestamp": "2026-03-20T14:42:41.628656",
+      "timestamp": "2026-03-21T14:28:23.608334",
       "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
@@ -143,19 +143,35 @@
       "data": {
         "indexes": [
           {
-            "change": -16.3,
-            "change_percent": -0.25,
+            "change": -94.07,
+            "change_percent": -1.43,
             "is_positive": false,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 6598
+            "value": 6485.7
+          },
+          {
+            "change": -280.58,
+            "change_percent": -1.76,
+            "is_positive": false,
+            "name": "NASDAQ",
+            "symbol": "^IXIC",
+            "value": 15650.21
+          },
+          {
+            "change": -520.12,
+            "change_percent": -1.44,
+            "is_positive": false,
+            "name": "DOW JONES",
+            "symbol": "^DJI",
+            "value": 35680.45
           }
         ],
         "market_summary": "Markets declined on concerns about economic outlook.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-03-20T14:42:41.846892"
+        "timestamp": "2026-03-21T14:28:23.938781"
       },
-      "timestamp": "2026-03-20T14:42:41.846892",
+      "timestamp": "2026-03-21T14:28:23.938781",
       "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
