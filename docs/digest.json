@@ -1,57 +1,59 @@
 {
-  "date": "2026-03-22",
-  "generated_at": "2026-03-22T14:28:58.123456",
+  "date": "2026-03-23",
+  "generated_at": "2026-03-23T14:56:23.531652",
   "sections": [
     {
+      "name": "weather",
       "data": {
         "current": {
-          "description": "Mist",
-          "feels_like": 49.5,
-          "humidity": 85,
+          "description": "Smoke",
+          "feels_like": 50.7,
+          "humidity": 82,
           "icon": "50d",
-          "temp": 49.5,
+          "temp": 51.9,
           "wind_speed": 0
         },
         "forecast": [
           {
-            "date": "2026-03-22",
+            "date": "2026-03-23",
             "description": "Few clouds",
             "icon": "02d",
-            "temp": 70.3
-          },
-          {
-            "date": "2026-03-23",
-            "description": "Broken clouds",
-            "icon": "04n",
-            "temp": 82
+            "temp": 72
           },
           {
             "date": "2026-03-24",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 79.2
+            "temp": 80.8
           },
           {
             "date": "2026-03-25",
-            "description": "Clear sky",
-            "icon": "01n",
-            "temp": 76.3
+            "description": "Few clouds",
+            "icon": "02n",
+            "temp": 76
           },
           {
             "date": "2026-03-26",
-            "description": "Clear sky",
-            "icon": "01n",
-            "temp": 75.5
+            "description": "Broken clouds",
+            "icon": "04n",
+            "temp": 74.1
+          },
+          {
+            "date": "2026-03-27",
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 81.5
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-03-22T14:28:55.353313"
+        "timestamp": "2026-03-23T14:56:20.778082"
       },
-      "name": "weather",
+      "timestamp": "2026-03-23T14:56:20.778082",
       "source": "OpenWeather API"
     },
     {
+      "name": "sports",
       "data": {
         "source": "The Sports DB API",
         "teams": [
@@ -75,67 +77,69 @@
             "latest_game": "L 117-127 vs Timberwolves (2026-03-14)",
             "league": "NBA",
             "name": "Golden State Warriors",
-            "next_game": "@ Hawks on 2026-03-22",
+            "next_game": "@ Mavericks on 2026-03-24",
             "record": "Season in progress",
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-03-22T14:28:56.761837"
+        "timestamp": "2026-03-23T14:56:22.314770"
       },
-      "name": "sports",
+      "timestamp": "2026-03-23T14:56:22.314770",
       "source": "The Sports DB API"
     },
     {
+      "name": "tech",
       "data": {
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-03-22T12:00:00Z",
+            "published_at": "2026-03-23T14:23:33Z",
             "source": "TechCrunch",
-            "summary": "Shortly after Amazon  announced its $50 billion investment in OpenAI, AWS invited me on a private tour of the chip lab at the heart of the deal.",
-            "title": "An exclusive tour of Amazon\u2019s Trainium lab, the chip that\u2019s won over Anthropic, OpenAI, even Apple",
-            "url": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/"
+            "summary": "The Trump administration has deployed ICE agents to over a dozen U.S. airports amid an ongoing federal shutdown that\\'s causing long wait times. Eyewitnesses have already recorded at least one arrest i",
+            "title": "Federal immigration agents filmed making airport arrests as Trump calls in ICE to ease security line delays",
+            "url": "https://techcrunch.com/2026/03/23/federal-immigration-agents-filmed-making-airport-arrests-as-trump-calls-in-ice-to-ease-security-line-delays/"
           },
           {
             "category": "technology",
-            "published_at": "2026-03-22T13:45:45Z",
+            "published_at": "2026-03-23T13:30:00Z",
             "source": "The Verge",
-            "summary": "The vocoder was never supposed to be a revolution in music. It wasn\\'t supposed to be anything in music, really. Its development began a century ago, when an engineer at Bell Labs was looking for a sim",
-            "title": "The secret story of the vocoder, the military tech that changed music forever",
-            "url": "https://www.theverge.com/podcast/898697/vocoder-music-instrument-version-history"
+            "summary": "Today, I\u2019m talking with Shishir Mehrotra, who is CEO of Superhuman \u2014 that\u2019s the company formerly known as Grammarly, which is still its flagship product.&#160; Shishir also used to be the chief produc",
+            "title": "Confronting the CEO of the AI company that impersonated me",
+            "url": "https://www.theverge.com/podcast/898715/superhuman-grammarly-expert-review-shishir-mehrotra-interview-ai-impersonation"
           },
           {
             "category": "technology",
-            "published_at": "2026-03-20T22:11:24Z",
+            "published_at": "2026-03-23T13:45:13Z",
             "source": "Ars Technica",
-            "summary": "Fatal brain infection was thought to be from profound immune suppression. Not anymore.",
-            "title": "You\\'re likely already infected with a brain-eating virus you\\'ve never heard of",
-            "url": "https://arstechnica.com/health/2026/03/youre-likely-already-infected-with-a-brain-eating-virus-youve-never-heard-of/"
+            "summary": "Attorneys are finding uses for AI apart from generating fake case quotations.",
+            "title": "AI is beginning to change the business of law",
+            "url": "https://arstechnica.com/ai/2026/03/ai-is-beginning-to-change-the-business-of-law/"
           },
           {
             "category": "technology",
-            "published_at": "2026-03-22T12:00:00Z",
+            "published_at": "2026-03-23T10:30:00Z",
             "source": "Wired",
-            "summary": "Merino is one of the best fabrics you can wear. We explain the different blends, what \u201cgsm\u201d means, and how to care for your clothes.",
-            "title": "Best Merino Wool Clothing (2026): Base Layers, Hoodies, Jackets & More",
-            "url": "https://www.wired.com/story/best-merino-wool-clothes/"
+            "summary": "Wondering what you\u2019re missing out on? Here are our favorite smartphones that aren\u2019t officially sold stateside but are available in markets like the UK and Europe.",
+            "title": "7 Best Phones You Can\u2019t Buy in the US (2026)",
+            "url": "https://www.wired.com/gallery/best-phones-you-cant-buy-in-the-united-states/"
           },
           {
             "category": "technology",
-            "published_at": "2026-03-20T13:15:45Z",
+            "published_at": "2026-03-23T12:17:33Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. OpenAI is throwing everything into building a full",
-            "title": "The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot",
-            "url": "https://www.technologyreview.com/2026/03/20/1134448/the-download-openai-building-fully-automated-researcher-psychedelic-drug-trial/"
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Bay Area\u2019s animal welfare movement wants to re",
+            "title": "The Download: animal welfare gets AGI-pilled, and the White House unveils its AI policy",
+            "url": "https://www.technologyreview.com/2026/03/23/1134509/the-download-animal-welfare-agi-pilled-white-house-unveils-ai-policy/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-03-22T14:28:57.674557"
+        "timestamp": "2026-03-23T14:56:23.311559"
       },
-      "name": "tech",
+      "timestamp": "2026-03-23T14:56:23.311559",
       "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
+      "name": "market",
       "data": {
         "indexes": [
           {
@@ -149,9 +153,9 @@
         ],
         "market_summary": "Markets declined on concerns about economic outlook.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-03-22T14:28:57.898463"
+        "timestamp": "2026-03-23T14:56:23.518098"
       },
-      "name": "market",
+      "timestamp": "2026-03-23T14:56:23.518098",
       "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
