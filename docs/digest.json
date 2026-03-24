@@ -1,55 +1,55 @@
 {
-  "date": "2026-03-23",
-  "generated_at": "2026-03-23T14:56:23.531652",
+  "date": "2026-03-24",
+  "generated_at": "2026-03-24T14:59:16.000000",
   "sections": [
     {
       "name": "weather",
       "data": {
         "current": {
-          "description": "Smoke",
-          "feels_like": 50.7,
-          "humidity": 82,
-          "icon": "50d",
-          "temp": 51.9,
-          "wind_speed": 0
+          "description": "Few clouds",
+          "feels_like": 53.8,
+          "humidity": 62,
+          "icon": "02d",
+          "temp": 55.6,
+          "wind_speed": 3
         },
         "forecast": [
           {
-            "date": "2026-03-23",
+            "date": "2026-03-24",
             "description": "Few clouds",
             "icon": "02d",
-            "temp": 72
-          },
-          {
-            "date": "2026-03-24",
-            "description": "Clear sky",
-            "icon": "01n",
-            "temp": 80.8
+            "temp": 73
           },
           {
             "date": "2026-03-25",
-            "description": "Few clouds",
-            "icon": "02n",
-            "temp": 76
+            "description": "Broken clouds",
+            "icon": "04n",
+            "temp": 77.4
           },
           {
             "date": "2026-03-26",
             "description": "Broken clouds",
             "icon": "04n",
-            "temp": 74.1
+            "temp": 75.2
           },
           {
             "date": "2026-03-27",
             "description": "Overcast clouds",
             "icon": "04n",
-            "temp": 81.5
+            "temp": 78.6
+          },
+          {
+            "date": "2026-03-28",
+            "description": "Scattered clouds",
+            "icon": "03n",
+            "temp": 81.6
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-03-23T14:56:20.778082"
+        "timestamp": "2026-03-24T14:59:11.784716"
       },
-      "timestamp": "2026-03-23T14:56:20.778082",
+      "timestamp": "2026-03-24T14:59:11.784716",
       "source": "OpenWeather API"
     },
     {
@@ -66,7 +66,7 @@
             "standings": "N/A"
           },
           {
-            "latest_game": "L 1-4 vs Flyers (2026-03-21)",
+            "latest_game": "No recent games",
             "league": "NHL",
             "name": "San Jose Sharks",
             "next_game": "@ Predators on 2026-03-25",
@@ -82,9 +82,9 @@
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-03-23T14:56:22.314770"
+        "timestamp": "2026-03-24T14:59:14.455642"
       },
-      "timestamp": "2026-03-23T14:56:22.314770",
+      "timestamp": "2026-03-24T14:59:14.455642",
       "source": "The Sports DB API"
     },
     {
@@ -93,49 +93,49 @@
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-03-23T14:23:33Z",
+            "published_at": "2026-03-24T14:39:26Z",
             "source": "TechCrunch",
-            "summary": "The Trump administration has deployed ICE agents to over a dozen U.S. airports amid an ongoing federal shutdown that\\'s causing long wait times. Eyewitnesses have already recorded at least one arrest i",
-            "title": "Federal immigration agents filmed making airport arrests as Trump calls in ICE to ease security line delays",
-            "url": "https://techcrunch.com/2026/03/23/federal-immigration-agents-filmed-making-airport-arrests-as-trump-calls-in-ice-to-ease-security-line-delays/"
+            "summary": "Launched in August 2025, Howdy features a library of nearly 10,000 hours of content from its partners, including Lionsgate, Sony Pictures, Disney Entertainment, Warner Bros. Discovery, and FilmRise, a",
+            "title": "Roku\u2019s $3 Howdy subscription service launches on Prime Video",
+            "url": "https://techcrunch.com/2026/03/24/rokus-3-howdy-subscription-service-launches-on-prime-video/"
           },
           {
             "category": "technology",
-            "published_at": "2026-03-23T13:30:00Z",
+            "published_at": "2026-03-24T14:56:31Z",
             "source": "The Verge",
-            "summary": "Today, I\u2019m talking with Shishir Mehrotra, who is CEO of Superhuman \u2014 that\u2019s the company formerly known as Grammarly, which is still its flagship product.&#160; Shishir also used to be the chief produc",
-            "title": "Confronting the CEO of the AI company that impersonated me",
-            "url": "https://www.theverge.com/podcast/898715/superhuman-grammarly-expert-review-shishir-mehrotra-interview-ai-impersonation"
+            "summary": "Two juries are currently deliberating a series of cases that could either usher in a legal reckoning for Meta, or maintain the status quo in an uphill battle to impose changes or penalties on tech pla",
+            "title": "Meta\u2019s reckoning over kids safety is in the hands of two juries",
+            "url": "https://www.theverge.com/policy/899494/meta-new-mexico-los-angeles-kids-safety-jury-trial"
           },
           {
             "category": "technology",
-            "published_at": "2026-03-23T13:45:13Z",
+            "published_at": "2026-03-23T21:19:51Z",
             "source": "Ars Technica",
-            "summary": "Attorneys are finding uses for AI apart from generating fake case quotations.",
-            "title": "AI is beginning to change the business of law",
-            "url": "https://arstechnica.com/ai/2026/03/ai-is-beginning-to-change-the-business-of-law/"
+            "summary": "If game makers don\u2019t like it, \u201cthey could decide not to use it, you know?\"",
+            "title": "Nvidia CEO tries to explain why DLSS 5 isn\u2019t just \u201cAI slop\u201d",
+            "url": "https://arstechnica.com/gaming/2026/03/nvidia-ceo-tries-to-explain-why-dlss-5-isnt-just-ai-slop/"
           },
           {
             "category": "technology",
-            "published_at": "2026-03-23T10:30:00Z",
+            "published_at": "2026-03-24T11:00:00Z",
             "source": "Wired",
-            "summary": "Wondering what you\u2019re missing out on? Here are our favorite smartphones that aren\u2019t officially sold stateside but are available in markets like the UK and Europe.",
-            "title": "7 Best Phones You Can\u2019t Buy in the US (2026)",
-            "url": "https://www.wired.com/gallery/best-phones-you-cant-buy-in-the-united-states/"
+            "summary": "If you have a recent Apple device, you can translate live conversations. It\u2019s impressive, and the new AirPods Pro Max just joined the party.",
+            "title": "How to Use Apple\u2019s Live Translation on Your AirPods",
+            "url": "https://www.wired.com/story/apple-live-translation-airpods/"
           },
           {
             "category": "technology",
-            "published_at": "2026-03-23T12:17:33Z",
+            "published_at": "2026-03-24T12:28:27Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Bay Area\u2019s animal welfare movement wants to re",
-            "title": "The Download: animal welfare gets AGI-pilled, and the White House unveils its AI policy",
-            "url": "https://www.technologyreview.com/2026/03/23/1134509/the-download-animal-welfare-agi-pilled-white-house-unveils-ai-policy/"
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The hardest question to answer about AI-fueled&#16",
+            "title": "The Download: tracing AI-fueled delusions, and OpenAI admits Microsoft risks",
+            "url": "https://www.technologyreview.com/2026/03/24/1134540/the-download-tracing-ai-fueled-delusions-openai-warns-microsoft-risks/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-03-23T14:56:23.311559"
+        "timestamp": "2026-03-24T14:59:15.409725"
       },
-      "timestamp": "2026-03-23T14:56:23.311559",
+      "timestamp": "2026-03-24T14:59:15.409725",
       "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
@@ -143,19 +143,35 @@
       "data": {
         "indexes": [
           {
-            "change": -94.07,
-            "change_percent": -1.43,
-            "is_positive": false,
+            "change": 68.1,
+            "change_percent": 1.05,
+            "is_positive": true,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 6485.7
+            "value": 6553.8
+          },
+          {
+            "change": 120.5,
+            "change_percent": 1.3,
+            "is_positive": true,
+            "name": "NASDAQ",
+            "symbol": "^IXIC",
+            "value": 9378.5
+          },
+          {
+            "change": 250.2,
+            "change_percent": 0.75,
+            "is_positive": true,
+            "name": "DOW JONES",
+            "symbol": "^DJI",
+            "value": 33580.6
           }
         ],
-        "market_summary": "Markets declined on concerns about economic outlook.",
+        "market_summary": "Markets rallied across all major indexes on positive sentiment.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-03-23T14:56:23.518098"
+        "timestamp": "2026-03-24T14:59:15.675634"
       },
-      "timestamp": "2026-03-23T14:56:23.518098",
+      "timestamp": "2026-03-24T14:59:15.675634",
       "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
