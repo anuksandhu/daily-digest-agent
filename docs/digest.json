@@ -1,55 +1,55 @@
 {
-  "date": "2026-03-25",
-  "generated_at": "2026-03-25T15:00:24.385547",
+  "date": "2026-03-27",
+  "generated_at": "2026-03-27T14:51:16.000000",
   "sections": [
     {
       "name": "weather",
       "data": {
         "current": {
-          "description": "Overcast clouds",
-          "feels_like": 56.8,
-          "humidity": 45,
-          "icon": "04d",
-          "temp": 59,
-          "wind_speed": 1.3
+          "description": "Haze",
+          "feels_like": 52.5,
+          "humidity": 61,
+          "icon": "50d",
+          "temp": 54.5,
+          "wind_speed": 3.4
         },
         "forecast": [
           {
-            "date": "2026-03-25",
-            "description": "Overcast clouds",
-            "icon": "04d",
-            "temp": 71.6
-          },
-          {
-            "date": "2026-03-26",
-            "description": "Scattered clouds",
-            "icon": "03n",
-            "temp": 74.9
-          },
-          {
             "date": "2026-03-27",
-            "description": "Overcast clouds",
-            "icon": "04n",
-            "temp": 82.2
+            "description": "Broken clouds",
+            "icon": "04d",
+            "temp": 70.9
           },
           {
             "date": "2026-03-28",
-            "description": "Few clouds",
-            "icon": "02n",
-            "temp": 82.7
+            "description": "Broken clouds",
+            "icon": "04n",
+            "temp": 83.3
           },
           {
             "date": "2026-03-29",
-            "description": "Clear sky",
-            "icon": "01n",
+            "description": "Few clouds",
+            "icon": "02n",
             "temp": 81.8
+          },
+          {
+            "date": "2026-03-30",
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 79.2
+          },
+          {
+            "date": "2026-03-31",
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 71.8
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-03-25T15:00:19.886188"
+        "timestamp": "2026-03-27T14:51:12.803993"
       },
-      "timestamp": "2026-03-25T15:00:19.886188",
+      "timestamp": "2026-03-27T14:51:12.803993",
       "source": "OpenWeather API"
     },
     {
@@ -69,22 +69,22 @@
             "latest_game": "L 1-4 vs Flyers (2026-03-21)",
             "league": "NHL",
             "name": "San Jose Sharks",
-            "next_game": "@ Predators on 2026-03-25",
+            "next_game": "@ Blues on 2026-03-27",
             "record": "Season in progress",
             "standings": "N/A"
           },
           {
-            "latest_game": "L 117-127 vs Timberwolves (2026-03-14)",
+            "latest_game": "W 109-106 vs Nets (2026-03-26)",
             "league": "NBA",
             "name": "Golden State Warriors",
-            "next_game": "vs Nets on 2026-03-26",
+            "next_game": "vs Wizards on 2026-03-28",
             "record": "Season in progress",
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-03-25T15:00:22.654492"
+        "timestamp": "2026-03-27T14:51:14.921450"
       },
-      "timestamp": "2026-03-25T15:00:22.654492",
+      "timestamp": "2026-03-27T14:51:14.921450",
       "source": "The Sports DB API"
     },
     {
@@ -93,49 +93,49 @@
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-03-25T14:48:40Z",
+            "published_at": "2026-03-27T14:27:32Z",
             "source": "TechCrunch",
-            "summary": "Granola's valuation jumped from $250 million to $1.5 billion with this round, and it has added more support for AI agents after users previously complained.",
-            "title": "Granola raises $125M, hits $1.5B valuation as it expands from meeting notetaker to enterprise AI app",
-            "url": "https://techcrunch.com/2026/03/25/granola-raises-125m-hits-1-5b-valuation-as-it-expands-from-meeting-notetaker-to-enterprise-ai-app/"
+            "summary": "The tech giant's claim that it has not seen any successful spyware attacks targeting Apple devices with Lockdown Mode enabled comes amid a leak of hacking tools targeting users running devices with ol",
+            "title": "Apple says no one using Lockdown Mode has been hacked with spyware",
+            "url": "https://techcrunch.com/2026/03/27/apple-says-no-one-using-lockdown-mode-has-been-hacked-with-spyware/"
           },
           {
             "category": "technology",
-            "published_at": "2026-03-25T14:41:21Z",
+            "published_at": "2026-03-27T14:36:56Z",
             "source": "The Verge",
-            "summary": "Meta CEO Mark Zuckerberg, Oracle CEO Larry Ellison, Nvidia CEO Jensen Huang, and Google cofounder Sergey Brin will be the first four members of the President's Council of Advisors on Science and Techn",
-            "title": "Mark Zuckerberg and Jensen Huang are part of Trump\u2019s new \u2018tech panel\u2019",
-            "url": "https://www.theverge.com/policy/900340/trump-tech-panel-mark-zuckerberg-jensen-huang"
+            "summary": "While most flagship phones have been steadily getting slimmer over recent years, the upcoming 2026 version of the Motorola Razr Ultra could end up being a bit chunkier than its predecessor. Leaked mea",
+            "title": "Motorola\u2019s Razr Ultra 2026 might be a hair thicker than last year\u2019s version",
+            "url": "https://www.theverge.com/gadgets/902300/motorola-razr-ultra-2026-dimensions-leaked"
           },
           {
             "category": "technology",
-            "published_at": "2026-03-25T13:56:56Z",
+            "published_at": "2026-03-26T20:30:48Z",
             "source": "Ars Technica",
-            "summary": "Press reports suggest Disney was blindsided and that no money changed hands.",
-            "title": "Disney cancels $1 billion OpenAI partnership amid Sora shutdown plans",
-            "url": "https://arstechnica.com/ai/2026/03/the-end-of-sora-also-means-the-end-of-disneys-1-billion-openai-investment/"
+            "summary": "Netflix last raised prices in January 2025.",
+            "title": "Netflix raises prices for every subscription tier by up to 12.5 percent",
+            "url": "https://arstechnica.com/gadgets/2026/03/netflix-increases-prices-for-all-plans-by-up-to-2-per-month/"
           },
           {
             "category": "technology",
-            "published_at": "2026-03-25T14:57:45Z",
+            "published_at": "2026-03-27T13:22:49Z",
             "source": "Wired",
-            "summary": "As the ChatGPT-maker eyes an IPO, it's ditching Sora in favor of a unified AI assistant and enterprise coding tools.",
-            "title": "OpenAI Enters Its Focus Era by Killing Sora",
-            "url": "https://www.wired.com/story/openai-shuts-down-sora-ipo-ai-superapp/"
+            "summary": "These apps and websites find bus, train, and ferry tickets when you want more options than flying to your destination.",
+            "title": "Skip the TSA Line: Where to Find Travel by Bus, Train, and Boat",
+            "url": "https://www.wired.com/story/skip-the-tsa-line-where-to-find-travel-by-bus-train-and-boat/"
           },
           {
             "category": "technology",
-            "published_at": "2026-03-25T13:59:17Z",
+            "published_at": "2026-03-27T12:32:54Z",
             "source": "MIT Technology Review",
-            "summary": "Axiom Math, a startup based in Palo Alto, California, has released a free new AI tool for mathematicians, designed to discover mathematical patterns that could unlock solutions to long-standing proble",
-            "title": "This startup wants to change how mathematicians do math",
-            "url": "https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/"
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How a couple of ski bums built the internet\u2019s best",
+            "title": "The Download: the internet\u2019s best weather app, and why people freeze their brains",
+            "url": "https://www.technologyreview.com/2026/03/27/1134755/the-download-best-weather-forecasting-app-why-people-freeze-brains/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-03-25T15:00:23.608965"
+        "timestamp": "2026-03-27T14:51:15.704687"
       },
-      "timestamp": "2026-03-25T15:00:23.608965",
+      "timestamp": "2026-03-27T14:51:15.704687",
       "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
@@ -143,19 +143,35 @@
       "data": {
         "indexes": [
           {
-            "change": -80,
-            "change_percent": -0.17,
+            "change": -117.3,
+            "change_percent": -1.79,
+            "is_positive": false,
+            "name": "S&P 500",
+            "symbol": "^GSPC",
+            "value": 6450.9
+          },
+          {
+            "change": -234.56,
+            "change_percent": -1.65,
+            "is_positive": false,
+            "name": "NASDAQ",
+            "symbol": "^IXIC",
+            "value": 14000.25
+          },
+          {
+            "change": -320.1,
+            "change_percent": -0.85,
             "is_positive": false,
             "name": "DOW JONES",
             "symbol": "^DJI",
-            "value": 46117
+            "value": 37450.75
           }
         ],
         "market_summary": "Markets declined on concerns about economic outlook.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-03-25T15:00:23.982498"
+        "timestamp": "2026-03-27T14:51:15.937003"
       },
-      "timestamp": "2026-03-25T15:00:23.982498",
+      "timestamp": "2026-03-27T14:51:15.937003",
       "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
