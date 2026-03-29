@@ -1,61 +1,60 @@
 {
-  "date": "2026-03-27",
-  "generated_at": "2026-03-27T14:51:16.000000",
+  "date": "2026-03-29",
+  "generated_at": "2026-03-29T14:35:21.000000",
   "sections": [
     {
       "name": "weather",
       "data": {
         "current": {
-          "description": "Haze",
-          "feels_like": 52.5,
-          "humidity": 61,
-          "icon": "50d",
-          "temp": 54.5,
-          "wind_speed": 3.4
+          "description": "Few clouds",
+          "feels_like": 62.5,
+          "humidity": 53,
+          "icon": "02d",
+          "temp": 63.9,
+          "wind_speed": 0.6
         },
         "forecast": [
           {
-            "date": "2026-03-27",
-            "description": "Broken clouds",
-            "icon": "04d",
-            "temp": 70.9
-          },
-          {
-            "date": "2026-03-28",
-            "description": "Broken clouds",
-            "icon": "04n",
-            "temp": 83.3
-          },
-          {
             "date": "2026-03-29",
             "description": "Few clouds",
-            "icon": "02n",
-            "temp": 81.8
+            "icon": "02d",
+            "temp": 79
           },
           {
             "date": "2026-03-30",
             "description": "Overcast clouds",
             "icon": "04n",
-            "temp": 79.2
+            "temp": 83.1
           },
           {
             "date": "2026-03-31",
             "description": "Overcast clouds",
             "icon": "04n",
-            "temp": 71.8
+            "temp": 70.2
+          },
+          {
+            "date": "2026-04-01",
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 73.6
+          },
+          {
+            "date": "2026-04-02",
+            "description": "Broken clouds",
+            "icon": "04n",
+            "temp": 69.2
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-03-27T14:51:12.803993"
+        "timestamp": "2026-03-29T14:35:18.035630"
       },
-      "timestamp": "2026-03-27T14:51:12.803993",
+      "timestamp": "2026-03-29T14:35:18.035630",
       "source": "OpenWeather API"
     },
     {
       "name": "sports",
       "data": {
-        "source": "The Sports DB API",
         "teams": [
           {
             "latest_game": "L 3-13 vs Seahawks (2026-01-04)",
@@ -66,25 +65,26 @@
             "standings": "N/A"
           },
           {
-            "latest_game": "L 1-4 vs Flyers (2026-03-21)",
+            "latest_game": "No recent games",
             "league": "NHL",
             "name": "San Jose Sharks",
-            "next_game": "@ Blues on 2026-03-27",
+            "next_game": "vs Blues on 2026-03-31",
             "record": "Season in progress",
             "standings": "N/A"
           },
           {
-            "latest_game": "W 109-106 vs Nets (2026-03-26)",
+            "latest_game": "W 131-126 vs Wizards (2026-03-28)",
             "league": "NBA",
             "name": "Golden State Warriors",
-            "next_game": "vs Wizards on 2026-03-28",
+            "next_game": "@ Nuggets on 2026-03-30",
             "record": "Season in progress",
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-03-27T14:51:14.921450"
+        "source": "The Sports DB API",
+        "timestamp": "2026-03-29T14:35:19.758162"
       },
-      "timestamp": "2026-03-27T14:51:14.921450",
+      "timestamp": "2026-03-29T14:35:19.758162",
       "source": "The Sports DB API"
     },
     {
@@ -93,49 +93,49 @@
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-03-27T14:27:32Z",
+            "published_at": "2026-03-28T23:00:00Z",
             "source": "TechCrunch",
-            "summary": "The tech giant's claim that it has not seen any successful spyware attacks targeting Apple devices with Lockdown Mode enabled comes amid a leak of hacking tools targeting users running devices with ol",
-            "title": "Apple says no one using Lockdown Mode has been hacked with spyware",
-            "url": "https://techcrunch.com/2026/03/27/apple-says-no-one-using-lockdown-mode-has-been-hacked-with-spyware/"
+            "summary": "Bluesky\u2019s new app Attie uses AI to help people build custom feeds the open social networking protocol atproto.",
+            "title": "Bluesky leans into AI with Attie, an app for building custom feeds",
+            "url": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/"
           },
           {
             "category": "technology",
-            "published_at": "2026-03-27T14:36:56Z",
+            "published_at": "2026-03-29T13:00:00Z",
             "source": "The Verge",
-            "summary": "While most flagship phones have been steadily getting slimmer over recent years, the upcoming 2026 version of the Motorola Razr Ultra could end up being a bit chunkier than its predecessor. Leaked mea",
-            "title": "Motorola\u2019s Razr Ultra 2026 might be a hair thicker than last year\u2019s version",
-            "url": "https://www.theverge.com/gadgets/902300/motorola-razr-ultra-2026-dimensions-leaked"
+            "summary": "Bird feeders have come a long way since their inception in the early 1900s. These days, it\u2019s not all that surprising to see feeders kitted out with cameras and solar roofs, two marquee features you\u2019ll",
+            "title": "Amazon\u2019s Big Spring Sale is a great time to get a fancy, AI-powered bird feeder",
+            "url": "https://www.theverge.com/gadgets/902829/birdbuddy-netvue-smart-bird-feeders-amazon-big-spring-sale-2026-deals"
           },
           {
             "category": "technology",
-            "published_at": "2026-03-26T20:30:48Z",
+            "published_at": "2026-03-28T12:30:43Z",
             "source": "Ars Technica",
-            "summary": "Netflix last raised prices in January 2025.",
-            "title": "Netflix raises prices for every subscription tier by up to 12.5 percent",
-            "url": "https://arstechnica.com/gadgets/2026/03/netflix-increases-prices-for-all-plans-by-up-to-2-per-month/"
+            "summary": "Breathing capacity could have compensated for lower atmospheric oxygen.",
+            "title": "Explanation for why we don\\'t see two-foot-long dragonflies anymore fails",
+            "url": "https://arstechnica.com/science/2026/03/leading-explanation-for-ancient-giant-flying-insects-gets-squashed/"
           },
           {
             "category": "technology",
-            "published_at": "2026-03-27T13:22:49Z",
+            "published_at": "2026-03-29T11:00:00Z",
             "source": "Wired",
-            "summary": "These apps and websites find bus, train, and ferry tickets when you want more options than flying to your destination.",
-            "title": "Skip the TSA Line: Where to Find Travel by Bus, Train, and Boat",
-            "url": "https://www.wired.com/story/skip-the-tsa-line-where-to-find-travel-by-bus-train-and-boat/"
+            "summary": "The incidents in Austin raise questions about how self-driving cars \u201clearn\u201d and adapt to their surroundings.",
+            "title": "A School District Tried to Help Train Waymos to Stop for School Buses. It Didn\u2019t Work",
+            "url": "https://www.wired.com/story/a-school-district-tried-to-help-train-waymos-to-stop-for-school-buses-it-didnt-work/"
           },
           {
             "category": "technology",
-            "published_at": "2026-03-27T12:32:54Z",
+            "published_at": "2026-03-28T09:00:00Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How a couple of ski bums built the internet\u2019s best",
-            "title": "The Download: the internet\u2019s best weather app, and why people freeze their brains",
-            "url": "https://www.technologyreview.com/2026/03/27/1134755/the-download-best-weather-forecasting-app-why-people-freeze-brains/"
+            "summary": "\u201cThink of this as a human body,\u201d says Javier Gonz\u00e1lez. In front of me is essentially a metal box on wheels. Standing at around a meter in height, it reminds me of a stainless-steel counter in a restau",
+            "title": "A woman\u2019s uterus has been kept alive outside the body for the first time",
+            "url": "https://www.technologyreview.com/2026/03/28/1134766/womans-uterus-kept-alive-outside-the-body-first/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-03-27T14:51:15.704687"
+        "timestamp": "2026-03-29T14:35:20.445093"
       },
-      "timestamp": "2026-03-27T14:51:15.704687",
+      "timestamp": "2026-03-29T14:35:20.445093",
       "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
@@ -143,35 +143,19 @@
       "data": {
         "indexes": [
           {
-            "change": -117.3,
-            "change_percent": -1.79,
+            "change": -110,
+            "change_percent": -1.71,
             "is_positive": false,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 6450.9
-          },
-          {
-            "change": -234.56,
-            "change_percent": -1.65,
-            "is_positive": false,
-            "name": "NASDAQ",
-            "symbol": "^IXIC",
-            "value": 14000.25
-          },
-          {
-            "change": -320.1,
-            "change_percent": -0.85,
-            "is_positive": false,
-            "name": "DOW JONES",
-            "symbol": "^DJI",
-            "value": 37450.75
+            "value": 6340.9
           }
         ],
         "market_summary": "Markets declined on concerns about economic outlook.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-03-27T14:51:15.937003"
+        "timestamp": "2026-03-29T14:35:20.899068"
       },
-      "timestamp": "2026-03-27T14:51:15.937003",
+      "timestamp": "2026-03-29T14:35:20.899068",
       "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
