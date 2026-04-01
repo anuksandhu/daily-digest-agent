@@ -1,59 +1,58 @@
 {
-  "date": "2026-03-31",
-  "generated_at": "2026-03-31T15:03:04.201124",
+  "date": "2026-04-01",
+  "generated_at": "2026-04-01T15:05:26.105000",
   "sections": [
     {
-      "name": "weather",
       "data": {
         "current": {
-          "description": "Light rain",
-          "feels_like": 58.4,
-          "humidity": 80,
-          "icon": "10d",
-          "temp": 59,
-          "wind_speed": 9.7
+          "description": "Overcast clouds",
+          "feels_like": 57.9,
+          "humidity": 82,
+          "icon": "04d",
+          "temp": 58.5,
+          "wind_speed": 6
         },
         "forecast": [
           {
-            "date": "2026-03-31",
+            "date": "2026-04-01",
             "description": "Overcast clouds",
             "icon": "04d",
-            "temp": 61.3
-          },
-          {
-            "date": "2026-04-01",
-            "description": "Broken clouds",
-            "icon": "04n",
-            "temp": 66.3
+            "temp": 62.6
           },
           {
             "date": "2026-04-02",
             "description": "Light rain",
             "icon": "10n",
-            "temp": 63.6
+            "temp": 62.6
           },
           {
             "date": "2026-04-03",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 72.1
+            "temp": 72.9
           },
           {
             "date": "2026-04-04",
             "description": "Overcast clouds",
             "icon": "04n",
-            "temp": 81.5
+            "temp": 80.2
+          },
+          {
+            "date": "2026-04-05",
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 83.1
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-03-31T15:03:00.021798"
+        "timestamp": "2026-04-01T15:05:23.309138"
       },
-      "timestamp": "2026-03-31T15:03:00.021798",
-      "source": "OpenWeather API"
+      "name": "weather",
+      "source": "OpenWeather API",
+      "timestamp": "2026-04-01T15:05:23.309138"
     },
     {
-      "name": "sports",
       "data": {
         "source": "The Sports DB API",
         "teams": [
@@ -66,10 +65,10 @@
             "standings": "N/A"
           },
           {
-            "latest_game": "L 1-4 vs Flyers (2026-03-21)",
+            "latest_game": "W 5-4 vs Blues (2026-03-31)",
             "league": "NHL",
             "name": "San Jose Sharks",
-            "next_game": "vs Blues on 2026-03-31",
+            "next_game": "vs Ducks on 2026-04-02",
             "record": "Season in progress",
             "standings": "N/A"
           },
@@ -82,81 +81,82 @@
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-03-31T15:03:02.325256"
+        "timestamp": "2026-04-01T15:05:24.863074"
       },
-      "timestamp": "2026-03-31T15:03:02.325256",
-      "source": "The Sports DB API"
+      "name": "sports",
+      "source": "The Sports DB API",
+      "timestamp": "2026-04-01T15:05:24.863074"
     },
     {
-      "name": "tech",
       "data": {
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-03-31T15:00:00Z",
+            "published_at": "2026-04-01T12:33:24Z",
             "source": "TechCrunch",
-            "summary": "The company turns turns footage from robots into structured, searchable datasets with a deep learning model.",
-            "title": "Nomadic raises $8.4 million to wrangle the data pouring off autonomous vehicles",
-            "url": "https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/"
+            "summary": "The glasses will reportedly feature cameras, microphones and speakers, and will connect to a smartphone and the cloud to process AI queries.",
+            "title": "Nothing\u2019s AI devices plan reportedly contains smart glasses and earbuds",
+            "url": "https://techcrunch.com/2026/04/01/nothings-ai-devices-plan-reportedly-contains-smart-glasses-and-earbuds/"
           },
           {
             "category": "technology",
-            "published_at": "2026-03-31T15:00:00Z",
+            "published_at": "2026-04-01T14:44:38Z",
             "source": "The Verge",
-            "summary": "Razer has announced its first keyboard with a split and curved ergonomic layout. The new Pro Type Ergo is available starting today, which at $189.99 is slightly more expensive than the more traditiona",
-            "title": "Razer\u2019s first split ergonomic keyboard puts extra keys in reach of your thumbs",
-            "url": "https://www.theverge.com/tech/903558/razer-pro-type-ergo-split-wireless-bluetooth-keyboard-productivity-availability-price"
+            "summary": "If you were looking for the best time to get a deal this spring, it might have just passed you by, as Amazon&#8217;s Big Spring Sale is over. That being said, several deals are still happening (some c",
+            "title": "Amazon&#8217;s Big Spring Sale 2026: all of the latest deals",
+            "url": "https://www.theverge.com/gadgets/897580/amazon-big-spring-sale-2026-deals-news"
           },
           {
             "category": "technology",
-            "published_at": "2026-03-31T13:37:48Z",
+            "published_at": "2026-03-31T21:28:15Z",
             "source": "Ars Technica",
-            "summary": "Tehran hopes to stoke fear and extract intel in a series of cyber attacks.",
-            "title": "Iran\\'s hackers are on the offensive against the US and Israel",
-            "url": "https://arstechnica.com/security/2026/03/irans-hackers-are-on-the-offensive-against-the-us-and-israel/"
+            "summary": "Satellite failure cause is unexplained after second \"fragment creation event.\"",
+            "title": "Starlink satellite breaks apart into \"tens of objects\"; SpaceX confirms \"anomaly\"",
+            "url": "https://arstechnica.com/tech-policy/2026/03/starlink-satellite-breaks-apart-into-tens-of-objects-spacex-confirms-anomaly/"
           },
           {
             "category": "technology",
-            "published_at": "2026-03-31T13:38:52Z",
+            "published_at": "2026-04-01T14:03:27Z",
             "source": "Wired",
-            "summary": "Vessels are increasingly being abandoned during the war on Iran, revealing a hidden failure in the global systems that keep goods\u2014and people\u2014moving.",
-            "title": "The Broken System That Keeps Shipping Crews Stranded in the Strait of Hormuz",
-            "url": "https://www.wired.com/story/legal-loopholes-leave-shipping-crews-stranded-in-the-strait-of-hormuz/"
+            "summary": "With the MacBook Neo in the mix, there have never been more options to choose from in Apple\\'s MacBook lineup.",
+            "title": "Best MacBooks (2026): Neo, Air, or Pro?",
+            "url": "https://www.wired.com/story/which-macbook-should-you-buy/"
           },
           {
             "category": "technology",
-            "published_at": "2026-03-31T14:12:50Z",
+            "published_at": "2026-04-01T12:10:00Z",
             "source": "MIT Technology Review",
-            "summary": "In the early days of large language models (LLMs), we grew accustomed to massive 10x jumps in reasoning and coding capability with every new model iteration. Today, those jumps have flattened into inc",
-            "title": "Shifting to AI model customization is an architectural imperative",
-            "url": "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/"
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The gig workers who are training humanoid robots a",
+            "title": "The Download: gig workers training humanoids, and better AI benchmarks",
+            "url": "https://www.technologyreview.com/2026/04/01/1134993/the-download-gig-workers-training-humanoids-better-ai-benchmarks/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-03-31T15:03:03.388856"
+        "timestamp": "2026-04-01T15:05:25.659364"
       },
-      "timestamp": "2026-03-31T15:03:03.388856",
-      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
+      "name": "tech",
+      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
+      "timestamp": "2026-04-01T15:05:25.659364"
     },
     {
-      "name": "market",
       "data": {
         "indexes": [
           {
-            "change": -21.2,
-            "change_percent": -0.33,
-            "is_positive": false,
+            "change": 183.7,
+            "change_percent": 2.91,
+            "is_positive": true,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 6319.7
+            "value": 6503.4
           }
         ],
-        "market_summary": "Markets declined on concerns about economic outlook.",
+        "market_summary": "Markets rallied across all major indexes on positive sentiment.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-03-31T15:03:04.148822"
+        "timestamp": "2026-04-01T15:05:25.863014"
       },
-      "timestamp": "2026-03-31T15:03:04.148822",
-      "source": "Alpha Vantage API (via ETF proxies)"
+      "name": "market",
+      "source": "Alpha Vantage API (via ETF proxies)",
+      "timestamp": "2026-04-01T15:05:25.863014"
     }
   ]
 }
