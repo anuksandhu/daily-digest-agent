@@ -1,56 +1,56 @@
 {
-  "date": "2026-04-01",
-  "generated_at": "2026-04-01T15:05:26.105000",
+  "date": "2026-04-02",
+  "generated_at": "2026-04-02T14:56:52.119759",
   "sections": [
     {
       "data": {
         "current": {
-          "description": "Overcast clouds",
-          "feels_like": 57.9,
-          "humidity": 82,
+          "description": "Broken clouds",
+          "feels_like": 45.6,
+          "humidity": 85,
           "icon": "04d",
-          "temp": 58.5,
-          "wind_speed": 6
+          "temp": 49.4,
+          "wind_speed": 9
         },
         "forecast": [
           {
-            "date": "2026-04-01",
-            "description": "Overcast clouds",
-            "icon": "04d",
-            "temp": 62.6
-          },
-          {
             "date": "2026-04-02",
-            "description": "Light rain",
-            "icon": "10n",
-            "temp": 62.6
+            "description": "Broken clouds",
+            "icon": "04d",
+            "temp": 54.5
           },
           {
             "date": "2026-04-03",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 72.9
+            "temp": 74.4
           },
           {
             "date": "2026-04-04",
-            "description": "Overcast clouds",
-            "icon": "04n",
-            "temp": 80.2
+            "description": "Scattered clouds",
+            "icon": "03n",
+            "temp": 82.6
           },
           {
             "date": "2026-04-05",
             "description": "Overcast clouds",
             "icon": "04n",
-            "temp": 83.1
+            "temp": 87.2
+          },
+          {
+            "date": "2026-04-06",
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 83.8
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-04-01T15:05:23.309138"
+        "timestamp": "2026-04-02T14:56:48.343407"
       },
       "name": "weather",
       "source": "OpenWeather API",
-      "timestamp": "2026-04-01T15:05:23.309138"
+      "timestamp": "2026-04-02T14:56:48.343407"
     },
     {
       "data": {
@@ -81,82 +81,82 @@
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-04-01T15:05:24.863074"
+        "timestamp": "2026-04-02T14:56:51.048586"
       },
       "name": "sports",
       "source": "The Sports DB API",
-      "timestamp": "2026-04-01T15:05:24.863074"
+      "timestamp": "2026-04-02T14:56:51.048586"
     },
     {
       "data": {
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-04-01T12:33:24Z",
+            "published_at": "2026-04-02T14:44:21Z",
             "source": "TechCrunch",
-            "summary": "The glasses will reportedly feature cameras, microphones and speakers, and will connect to a smartphone and the cloud to process AI queries.",
-            "title": "Nothing\u2019s AI devices plan reportedly contains smart glasses and earbuds",
-            "url": "https://techcrunch.com/2026/04/01/nothings-ai-devices-plan-reportedly-contains-smart-glasses-and-earbuds/"
+            "summary": "The TSA wait times feature is one of many new additions to the United app, including automatic rebooking assistance and real-time time weather radar maps.",
+            "title": "United\u2019s mobile app now shows TSA wait times at select airports",
+            "url": "https://techcrunch.com/2026/04/02/uniteds-mobile-app-now-shows-tsa-wait-times-at-select-airports/"
           },
           {
             "category": "technology",
-            "published_at": "2026-04-01T14:44:38Z",
+            "published_at": "2026-04-02T14:00:00Z",
             "source": "The Verge",
-            "summary": "If you were looking for the best time to get a deal this spring, it might have just passed you by, as Amazon&#8217;s Big Spring Sale is over. That being said, several deals are still happening (some c",
-            "title": "Amazon&#8217;s Big Spring Sale 2026: all of the latest deals",
-            "url": "https://www.theverge.com/gadgets/897580/amazon-big-spring-sale-2026-deals-news"
+            "summary": "Today on Decoder, we\u2019re talking about the landmark social media addiction trials that just resulted in two major verdicts against Big Tech. There\u2019s one case in New Mexico against Meta, and another in ",
+            "title": "A jury says Meta and Google hurt a kid. What now?",
+            "url": "https://www.theverge.com/podcast/905198/meta-lawsuits-facebook-instagram-youtube-social-media-addiction-section-230"
           },
           {
             "category": "technology",
-            "published_at": "2026-03-31T21:28:15Z",
+            "published_at": "2026-04-01T20:46:48Z",
             "source": "Ars Technica",
-            "summary": "Satellite failure cause is unexplained after second \"fragment creation event.\"",
-            "title": "Starlink satellite breaks apart into \"tens of objects\"; SpaceX confirms \"anomaly\"",
-            "url": "https://arstechnica.com/tech-policy/2026/03/starlink-satellite-breaks-apart-into-tens-of-objects-spacex-confirms-anomaly/"
+            "summary": "Microsoft, Intel are also working on their own solutions for the issue.",
+            "title": "Nvidia rolls out its fix for PC gaming's \"compiling shaders\" wait times",
+            "url": "https://arstechnica.com/gaming/2026/04/nvidias-new-app-lets-you-precompile-gaming-shaders-during-machine-idle-time/"
           },
           {
             "category": "technology",
-            "published_at": "2026-04-01T14:03:27Z",
+            "published_at": "2026-04-02T11:30:00Z",
             "source": "Wired",
-            "summary": "With the MacBook Neo in the mix, there have never been more options to choose from in Apple\\'s MacBook lineup.",
-            "title": "Best MacBooks (2026): Neo, Air, or Pro?",
-            "url": "https://www.wired.com/story/which-macbook-should-you-buy/"
+            "summary": "Epia Neuro\u2019s brain-computer interface will include a motorized glove to help stroke patients recover movement in their hand.",
+            "title": "A New Implant Aims to Rewire Stroke Patients\u2019 Brains",
+            "url": "https://www.wired.com/story/a-new-implant-aims-to-rewire-the-brain-to-help-stroke-patients/"
           },
           {
             "category": "technology",
-            "published_at": "2026-04-01T12:10:00Z",
+            "published_at": "2026-04-02T12:10:00Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The gig workers who are training humanoid robots a",
-            "title": "The Download: gig workers training humanoids, and better AI benchmarks",
-            "url": "https://www.technologyreview.com/2026/04/01/1134993/the-download-gig-workers-training-humanoids-better-ai-benchmarks/"
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Fuel prices are soaring. Plastic could be next.&#1",
+            "title": "The Download: plastic\u2019s problem with fuel prices, and SpaceX\u2019s blockbuster IPO",
+            "url": "https://www.technologyreview.com/2026/04/02/1135049/the-download-plastic-problem-fuel-prices-spacex-ipo/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-04-01T15:05:25.659364"
+        "timestamp": "2026-04-02T14:56:51.870305"
       },
       "name": "tech",
       "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-      "timestamp": "2026-04-01T15:05:25.659364"
+      "timestamp": "2026-04-02T14:56:51.870305"
     },
     {
       "data": {
         "indexes": [
           {
-            "change": 183.7,
-            "change_percent": 2.91,
+            "change": 49,
+            "change_percent": 0.75,
             "is_positive": true,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 6503.4
+            "value": 6552.4
           }
         ],
         "market_summary": "Markets rallied across all major indexes on positive sentiment.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-04-01T15:05:25.863014"
+        "timestamp": "2026-04-02T14:56:52.071036"
       },
       "name": "market",
       "source": "Alpha Vantage API (via ETF proxies)",
-      "timestamp": "2026-04-01T15:05:25.863014"
+      "timestamp": "2026-04-02T14:56:52.071036"
     }
   ]
 }
