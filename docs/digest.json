@@ -1,56 +1,56 @@
 {
-  "date": "2026-04-02",
-  "generated_at": "2026-04-02T14:56:52.119759",
+  "date": "2026-04-06",
+  "generated_at": "2026-04-06T14:49:16.035326",
   "sections": [
     {
       "data": {
         "current": {
           "description": "Broken clouds",
-          "feels_like": 45.6,
-          "humidity": 85,
+          "feels_like": 53.2,
+          "humidity": 84,
           "icon": "04d",
-          "temp": 49.4,
-          "wind_speed": 9
+          "temp": 54.2,
+          "wind_speed": 5.8
         },
         "forecast": [
           {
-            "date": "2026-04-02",
+            "date": "2026-04-06",
             "description": "Broken clouds",
             "icon": "04d",
-            "temp": 54.5
+            "temp": 71.2
           },
           {
-            "date": "2026-04-03",
+            "date": "2026-04-07",
+            "description": "Few clouds",
+            "icon": "02n",
+            "temp": 77.1
+          },
+          {
+            "date": "2026-04-08",
+            "description": "Broken clouds",
+            "icon": "04n",
+            "temp": 77.8
+          },
+          {
+            "date": "2026-04-09",
+            "description": "Broken clouds",
+            "icon": "04n",
+            "temp": 75.3
+          },
+          {
+            "date": "2026-04-10",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 74.4
-          },
-          {
-            "date": "2026-04-04",
-            "description": "Scattered clouds",
-            "icon": "03n",
-            "temp": 82.6
-          },
-          {
-            "date": "2026-04-05",
-            "description": "Overcast clouds",
-            "icon": "04n",
-            "temp": 87.2
-          },
-          {
-            "date": "2026-04-06",
-            "description": "Overcast clouds",
-            "icon": "04n",
-            "temp": 83.8
+            "temp": 69.4
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-04-02T14:56:48.343407"
+        "timestamp": "2026-04-06T14:49:13.358678"
       },
       "name": "weather",
       "source": "OpenWeather API",
-      "timestamp": "2026-04-02T14:56:48.343407"
+      "timestamp": "2026-04-06T14:49:13.358678"
     },
     {
       "data": {
@@ -65,98 +65,98 @@
             "standings": "N/A"
           },
           {
-            "latest_game": "W 5-4 vs Blues (2026-03-31)",
+            "latest_game": "L 3-6 vs Predators (2026-04-05)",
             "league": "NHL",
             "name": "San Jose Sharks",
-            "next_game": "vs Ducks on 2026-04-02",
+            "next_game": "vs Blackhawks on 2026-04-07",
             "record": "Season in progress",
             "standings": "N/A"
           },
           {
-            "latest_game": "W 131-126 vs Wizards (2026-03-28)",
+            "latest_game": "L 111-118 vs Cavaliers (2026-04-03)",
             "league": "NBA",
             "name": "Golden State Warriors",
-            "next_game": "vs Spurs on 2026-04-02",
+            "next_game": "vs Rockets on 2026-04-06",
             "record": "Season in progress",
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-04-02T14:56:51.048586"
+        "timestamp": "2026-04-06T14:49:15.057245"
       },
       "name": "sports",
       "source": "The Sports DB API",
-      "timestamp": "2026-04-02T14:56:51.048586"
+      "timestamp": "2026-04-06T14:49:15.057245"
     },
     {
       "data": {
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-04-02T14:44:21Z",
+            "published_at": "2026-04-06T13:03:04Z",
             "source": "TechCrunch",
-            "summary": "The TSA wait times feature is one of many new additions to the United app, including automatic rebooking assistance and real-time time weather radar maps.",
-            "title": "United\u2019s mobile app now shows TSA wait times at select airports",
-            "url": "https://techcrunch.com/2026/04/02/uniteds-mobile-app-now-shows-tsa-wait-times-at-select-airports/"
+            "summary": "The pcTattletale founder escapes a custodial sentence following the first successful prosecution of a spyware maker in the U.S. for over a decade.",
+            "title": "Convicted spyware maker Bryan Fleming avoids jail at sentencing",
+            "url": "https://techcrunch.com/2026/04/06/convicted-spyware-maker-bryan-fleming-avoids-jail-at-sentencing/"
           },
           {
             "category": "technology",
-            "published_at": "2026-04-02T14:00:00Z",
+            "published_at": "2026-04-06T11:00:00Z",
             "source": "The Verge",
-            "summary": "Today on Decoder, we\u2019re talking about the landmark social media addiction trials that just resulted in two major verdicts against Big Tech. There\u2019s one case in New Mexico against Meta, and another in ",
-            "title": "A jury says Meta and Google hurt a kid. What now?",
-            "url": "https://www.theverge.com/podcast/905198/meta-lawsuits-facebook-instagram-youtube-social-media-addiction-section-230"
+            "summary": "Let's pretend you work in IT and you're looking for a new digital service desk platform to help your employees reset passwords or onboard new hires. You use Google's AI Mode to search for suggestions,",
+            "title": "Can AI responses be influenced? The SEO industry is trying",
+            "url": "https://www.theverge.com/tech/900302/ai-seo-industry-google-search-chatgpt-gemini-marketing"
           },
           {
             "category": "technology",
-            "published_at": "2026-04-01T20:46:48Z",
+            "published_at": "2026-04-04T20:36:49Z",
             "source": "Ars Technica",
-            "summary": "Microsoft, Intel are also working on their own solutions for the issue.",
-            "title": "Nvidia rolls out its fix for PC gaming's \"compiling shaders\" wait times",
-            "url": "https://arstechnica.com/gaming/2026/04/nvidias-new-app-lets-you-precompile-gaming-shaders-during-machine-idle-time/"
+            "summary": "A state bill is a glimpse of how corporations are limiting people's ability to make their own fixes and upgrades.",
+            "title": "Tech companies are trying to neuter Colorado\u2019s landmark right-to-repair law",
+            "url": "https://arstechnica.com/tech-policy/2026/04/tech-companies-are-trying-to-neuter-colorados-landmark-right-to-repair-law/"
           },
           {
             "category": "technology",
-            "published_at": "2026-04-02T11:30:00Z",
+            "published_at": "2026-04-06T14:21:04Z",
             "source": "Wired",
-            "summary": "Epia Neuro\u2019s brain-computer interface will include a motorized glove to help stroke patients recover movement in their hand.",
-            "title": "A New Implant Aims to Rewire Stroke Patients\u2019 Brains",
-            "url": "https://www.wired.com/story/a-new-implant-aims-to-rewire-the-brain-to-help-stroke-patients/"
+            "summary": "Artemis II remains on course for its lunar flyby as the crew shares historic photos of Earth, tests key systems for future lunar missions, and attempts to fix the toilet.",
+            "title": "Artemis II: Everything We Know as Its Crew Approaches the Far Side of the Moon",
+            "url": "https://www.wired.com/story/artemis-ii-everything-we-know-as-orion-approaches-the-far-side-of-the-moon/"
           },
           {
             "category": "technology",
-            "published_at": "2026-04-02T12:10:00Z",
+            "published_at": "2026-04-06T11:00:00Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Fuel prices are soaring. Plastic could be next.&#1",
-            "title": "The Download: plastic\u2019s problem with fuel prices, and SpaceX\u2019s blockbuster IPO",
-            "url": "https://www.technologyreview.com/2026/04/02/1135049/the-download-plastic-problem-fuel-prices-spacex-ipo/"
+            "summary": "For years Mike McClary sold the Guardian LTE Flashlight, a heavy-duty black model, online through his small outdoor brand. The product, designed for brightness and durability, became one of his most p",
+            "title": "AI is changing how small online sellers decide what to make",
+            "url": "https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-04-02T14:56:51.870305"
+        "timestamp": "2026-04-06T14:49:15.690654"
       },
       "name": "tech",
       "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-      "timestamp": "2026-04-02T14:56:51.870305"
+      "timestamp": "2026-04-06T14:49:15.690654"
     },
     {
       "data": {
         "indexes": [
           {
-            "change": 49,
-            "change_percent": 0.75,
+            "change": 5.9,
+            "change_percent": 0.09,
             "is_positive": true,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 6552.4
+            "value": 6558.3
           }
         ],
         "market_summary": "Markets rallied across all major indexes on positive sentiment.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-04-02T14:56:52.071036"
+        "timestamp": "2026-04-06T14:49:16.030356"
       },
       "name": "market",
       "source": "Alpha Vantage API (via ETF proxies)",
-      "timestamp": "2026-04-02T14:56:52.071036"
+      "timestamp": "2026-04-06T14:49:16.030356"
     }
   ]
 }
