@@ -1,58 +1,59 @@
 {
-  "date": "2026-04-06",
-  "generated_at": "2026-04-06T14:49:16.035326",
+  "date": "2026-04-09",
+  "generated_at": "2026-04-09T15:22:49.300000",
   "sections": [
     {
+      "name": "weather",
       "data": {
         "current": {
           "description": "Broken clouds",
-          "feels_like": 53.2,
-          "humidity": 84,
+          "feels_like": 58,
+          "humidity": 88,
           "icon": "04d",
-          "temp": 54.2,
-          "wind_speed": 5.8
+          "temp": 58.3,
+          "wind_speed": 3.4
         },
         "forecast": [
           {
-            "date": "2026-04-06",
-            "description": "Broken clouds",
-            "icon": "04d",
-            "temp": 71.2
-          },
-          {
-            "date": "2026-04-07",
-            "description": "Few clouds",
-            "icon": "02n",
-            "temp": 77.1
-          },
-          {
-            "date": "2026-04-08",
-            "description": "Broken clouds",
-            "icon": "04n",
-            "temp": 77.8
-          },
-          {
             "date": "2026-04-09",
             "description": "Broken clouds",
-            "icon": "04n",
-            "temp": 75.3
+            "icon": "04d",
+            "temp": 70.8
           },
           {
             "date": "2026-04-10",
-            "description": "Clear sky",
-            "icon": "01n",
-            "temp": 69.4
+            "description": "Light rain",
+            "icon": "10n",
+            "temp": 74.8
+          },
+          {
+            "date": "2026-04-11",
+            "description": "Light rain",
+            "icon": "10n",
+            "temp": 65.1
+          },
+          {
+            "date": "2026-04-12",
+            "description": "Light rain",
+            "icon": "10n",
+            "temp": 58.2
+          },
+          {
+            "date": "2026-04-13",
+            "description": "Scattered clouds",
+            "icon": "03n",
+            "temp": 65.5
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-04-06T14:49:13.358678"
+        "timestamp": "2026-04-09T15:22:45.461766"
       },
-      "name": "weather",
-      "source": "OpenWeather API",
-      "timestamp": "2026-04-06T14:49:13.358678"
+      "timestamp": "2026-04-09T15:22:45.461766",
+      "source": "OpenWeather API"
     },
     {
+      "name": "sports",
       "data": {
         "source": "The Sports DB API",
         "teams": [
@@ -65,98 +66,113 @@
             "standings": "N/A"
           },
           {
-            "latest_game": "L 3-6 vs Predators (2026-04-05)",
+            "latest_game": "W 3-2 vs Blackhawks (2026-04-07)",
             "league": "NHL",
             "name": "San Jose Sharks",
-            "next_game": "vs Blackhawks on 2026-04-07",
+            "next_game": "vs Oilers on 2026-04-09",
             "record": "Season in progress",
             "standings": "N/A"
           },
           {
-            "latest_game": "L 111-118 vs Cavaliers (2026-04-03)",
+            "latest_game": "W 110-105 vs Kings (2026-04-08)",
             "league": "NBA",
             "name": "Golden State Warriors",
-            "next_game": "vs Rockets on 2026-04-06",
+            "next_game": "vs Lakers on 2026-04-10",
             "record": "Season in progress",
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-04-06T14:49:15.057245"
+        "timestamp": "2026-04-09T15:22:48.130673"
       },
-      "name": "sports",
-      "source": "The Sports DB API",
-      "timestamp": "2026-04-06T14:49:15.057245"
+      "timestamp": "2026-04-09T15:22:48.130673",
+      "source": "The Sports DB API"
     },
     {
+      "name": "tech",
       "data": {
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-04-06T13:03:04Z",
+            "published_at": "2026-04-09T14:27:57Z",
             "source": "TechCrunch",
-            "summary": "The pcTattletale founder escapes a custodial sentence following the first successful prosecution of a spyware maker in the U.S. for over a decade.",
-            "title": "Convicted spyware maker Bryan Fleming avoids jail at sentencing",
-            "url": "https://techcrunch.com/2026/04/06/convicted-spyware-maker-bryan-fleming-avoids-jail-at-sentencing/"
+            "summary": "Andy Jassy\\'s annual shareholder letter reads something like a diss track to a wide range of competitors as he defends spending $200 billion in capex.",
+            "title": "Amazon CEO takes aim at Nvidia, Intel, Starlink, more in annual shareholder letter",
+            "url": "https://techcrunch.com/2026/04/09/amazon-ceo-takes-aim-at-nvidia-intel-starlink-more-in-annual-shareholder-letter/"
           },
           {
             "category": "technology",
-            "published_at": "2026-04-06T11:00:00Z",
+            "published_at": "2026-04-09T14:01:43Z",
             "source": "The Verge",
-            "summary": "Let's pretend you work in IT and you're looking for a new digital service desk platform to help your employees reset passwords or onboard new hires. You use Google's AI Mode to search for suggestions,",
-            "title": "Can AI responses be influenced? The SEO industry is trying",
-            "url": "https://www.theverge.com/tech/900302/ai-seo-industry-google-search-chatgpt-gemini-marketing"
+            "summary": "Consumer complaints about Ticketmaster are so voluminous at state attorneys general offices that Pennsylvania\\'s comes with an explicit plea for residents lodging a grievance about the company to be pa",
+            "title": "A jury is about to decide the fate of Ticketmaster",
+            "url": "https://www.theverge.com/policy/909192/live-nation-ticketmaster-antitrust-closing-arguments"
           },
           {
             "category": "technology",
-            "published_at": "2026-04-04T20:36:49Z",
+            "published_at": "2026-04-09T14:10:40Z",
             "source": "Ars Technica",
-            "summary": "A state bill is a glimpse of how corporations are limiting people's ability to make their own fixes and upgrades.",
-            "title": "Tech companies are trying to neuter Colorado\u2019s landmark right-to-repair law",
-            "url": "https://arstechnica.com/tech-policy/2026/04/tech-companies-are-trying-to-neuter-colorados-landmark-right-to-repair-law/"
+            "summary": "After the pivot to humanoid robots and AI, does Tesla want to be a car company again?",
+            "title": "First, Tesla canceled the Model 2\u2014now it\\'s working on a new small EV",
+            "url": "https://arstechnica.com/cars/2026/04/first-tesla-canceled-the-model-2-now-its-working-on-a-new-small-ev/"
           },
           {
             "category": "technology",
-            "published_at": "2026-04-06T14:21:04Z",
+            "published_at": "2026-04-09T13:44:01Z",
             "source": "Wired",
-            "summary": "Artemis II remains on course for its lunar flyby as the crew shares historic photos of Earth, tests key systems for future lunar missions, and attempts to fix the toilet.",
-            "title": "Artemis II: Everything We Know as Its Crew Approaches the Far Side of the Moon",
-            "url": "https://www.wired.com/story/artemis-ii-everything-we-know-as-orion-approaches-the-far-side-of-the-moon/"
+            "summary": "Messages sent to the FBI by an investigator with the Minnesota Bureau of Criminal Apprehension went ignored for at least two days, per records obtained by WIRED.",
+            "title": "The FBI Didn\\'t Answer Texts From Minnesota Investigators for Days After Renee Good\u2019s Killing",
+            "url": "https://www.wired.com/story/the-fbi-didnt-answer-texts-from-minnesota-investigators-for-days-after-renee-goods-killing/"
           },
           {
             "category": "technology",
-            "published_at": "2026-04-06T11:00:00Z",
+            "published_at": "2026-04-09T12:25:10Z",
             "source": "MIT Technology Review",
-            "summary": "For years Mike McClary sold the Guardian LTE Flashlight, a heavy-duty black model, online through his small outdoor brand. The product, designed for brightness and durability, became one of his most p",
-            "title": "AI is changing how small online sellers decide what to make",
-            "url": "https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/"
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Is&#160;fake&#160;grass&#160;a&#160;bad&#160;idea?",
+            "title": "The Download: AstroTurf wars and exponential AI growth",
+            "url": "https://www.technologyreview.com/2026/04/09/1135514/the-download-astroturf-wars-exponential-ai-growth-desalination-numbers/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-04-06T14:49:15.690654"
+        "timestamp": "2026-04-09T15:22:48.921132"
       },
-      "name": "tech",
-      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-      "timestamp": "2026-04-06T14:49:15.690654"
+      "timestamp": "2026-04-09T15:22:48.921132",
+      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
+      "name": "market",
       "data": {
         "indexes": [
           {
-            "change": 5.9,
-            "change_percent": 0.09,
+            "change": 167.9,
+            "change_percent": 2.55,
             "is_positive": true,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 6558.3
+            "value": 6760.1
+          },
+          {
+            "change": 167.9,
+            "change_percent": 2.55,
+            "is_positive": true,
+            "name": "NASDAQ",
+            "symbol": "^IXIC",
+            "value": 11134.5
+          },
+          {
+            "change": 167.9,
+            "change_percent": 2.55,
+            "is_positive": true,
+            "name": "DOW JONES",
+            "symbol": "^DJI",
+            "value": 39050.3
           }
         ],
         "market_summary": "Markets rallied across all major indexes on positive sentiment.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-04-06T14:49:16.030356"
+        "timestamp": "2026-04-09T15:22:49.275094"
       },
-      "name": "market",
-      "source": "Alpha Vantage API (via ETF proxies)",
-      "timestamp": "2026-04-06T14:49:16.030356"
+      "timestamp": "2026-04-09T15:22:49.275094",
+      "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
 }
