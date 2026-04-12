@@ -1,55 +1,55 @@
 {
-  "date": "2026-04-11",
-  "generated_at": "2026-04-11T14:36:52.736845",
+  "date": "2026-04-12",
+  "generated_at": "2026-04-12T14:40:12.400000",
   "sections": [
     {
       "name": "weather",
       "data": {
         "current": {
           "description": "Overcast clouds",
-          "feels_like": 53.5,
-          "humidity": 91,
+          "feels_like": 49.8,
+          "humidity": 90,
           "icon": "04d",
-          "temp": 54.1,
-          "wind_speed": 8.6
+          "temp": 50.7,
+          "wind_speed": 5.9
         },
         "forecast": [
           {
-            "date": "2026-04-11",
-            "description": "Light rain",
-            "icon": "10d",
-            "temp": 57.1
-          },
-          {
             "date": "2026-04-12",
             "description": "Light rain",
-            "icon": "10n",
-            "temp": 57.4
+            "icon": "10d",
+            "temp": 52.1
           },
           {
             "date": "2026-04-13",
             "description": "Overcast clouds",
             "icon": "04n",
-            "temp": 65.6
+            "temp": 64.7
           },
           {
             "date": "2026-04-14",
-            "description": "Clear sky",
-            "icon": "01n",
-            "temp": 68.5
+            "description": "Few clouds",
+            "icon": "02n",
+            "temp": 67.8
           },
           {
             "date": "2026-04-15",
-            "description": "Few clouds",
-            "icon": "02n",
-            "temp": 67.1
+            "description": "Broken clouds",
+            "icon": "04n",
+            "temp": 65
+          },
+          {
+            "date": "2026-04-16",
+            "description": "Light rain",
+            "icon": "10n",
+            "temp": 65.5
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-04-11T14:36:50.257910"
+        "timestamp": "2026-04-12T14:40:09.570701"
       },
-      "timestamp": "2026-04-11T14:36:50.257910",
+      "timestamp": "2026-04-12T14:40:09.570701",
       "source": "OpenWeather API"
     },
     {
@@ -77,14 +77,14 @@
             "latest_game": "L 103-119 vs Lakers (2026-04-10)",
             "league": "NBA",
             "name": "Golden State Warriors",
-            "next_game": "@ Kings on 2026-04-11",
+            "next_game": "@ Clippers on 2026-04-13",
             "record": "Season in progress",
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-04-11T14:36:51.645678"
+        "timestamp": "2026-04-12T14:40:11.284050"
       },
-      "timestamp": "2026-04-11T14:36:51.645678",
+      "timestamp": "2026-04-12T14:40:11.284050",
       "source": "The Sports DB API"
     },
     {
@@ -93,35 +93,35 @@
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-04-11T14:03:00Z",
+            "published_at": "2026-04-12T14:00:00Z",
             "source": "TechCrunch",
-            "summary": "The deal is interesting for a number of reasons, including that SiFive's chip designs are based on RISC-V, not x86 or ARM.",
-            "title": "Nvidia-backed SiFive hits $3.65 billion valuation for open AI chips",
-            "url": "https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-3-65-billion-valuation-for-open-ai-chips/"
+            "summary": "Slate auto burst onto the scene in April 2025. Here is a timeline that covers its origins, backers, product, and other new details.",
+            "title": "Slate Auto: Everything you need to know about the Bezos-backed EV startup",
+            "url": "https://techcrunch.com/2026/04/12/slate-auto-everything-you-need-to-know-about-the-bezos-backed-ev-startup/"
           },
           {
             "category": "technology",
-            "published_at": "2026-04-11T13:00:00Z",
+            "published_at": "2026-04-12T13:30:00Z",
             "source": "The Verge",
-            "summary": "In the early days of the war on Iran, while the White House was busy posting Call of Duty memes and AI slop of dancing bowling pins, the Iranian regime's state media was flooding the zone with video a",
-            "title": "How Iran out-shitposted the White House",
-            "url": "https://www.theverge.com/policy/910401/iran-war-propaganda-blackout-lego-ai-slop"
+            "summary": "RGB LED TVs have been the talk of the TV world this year, with models coming from all the manufacturers, and the first one of 2026 is here - the Hisense UR9. It's the first look at the viability of th",
+            "title": "The Hisense UR9 is a great first shot against OLED\u2019s bow",
+            "url": "https://www.theverge.com/tech/910537/hisense-ur9-rgb-led-tv-review"
           },
           {
             "category": "technology",
-            "published_at": "2026-04-11T11:15:17Z",
+            "published_at": "2026-04-12T11:17:26Z",
             "source": "Ars Technica",
-            "summary": "Systems from Google, OpenAI, Anthropic, and xAI struggle with the Premier League.",
-            "title": "AI models are terrible at betting on soccer\u2014especially xAI Grok",
-            "url": "https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at-betting-on-soccer-especially-xai-grok/"
+            "summary": "Record domestic oil and gas production hasn't saved US drivers from price spikes.",
+            "title": "Shock from Iran war has Trump's vision for US energy dominance flailing",
+            "url": "https://arstechnica.com/science/2026/04/shock-from-iran-war-has-trumps-vision-for-us-energy-dominance-flailing/"
           },
           {
             "category": "technology",
-            "published_at": "2026-04-11T12:11:00Z",
+            "published_at": "2026-04-12T12:00:00Z",
             "source": "Wired",
-            "summary": "This hair dye printer promises hundreds of shades. It couldn't even manage two.",
-            "title": "Zuvi ColorBox Review: A Hair Dye Printer That Struggles",
-            "url": "https://www.wired.com/review/zuvi-colorbox/"
+            "summary": "AMC\u2019s new black comedy about a manchild tech titan spinning out of control is a skewering Silicon Valley\u2019s billionaire class deserves.",
+            "title": "\u2018The Audacity\u2019 Is the Broligarchy Takedown You Were Waiting For",
+            "url": "https://www.wired.com/story/the-audacity-is-the-broligarchy-takedown-you-were-waiting-for/"
           },
           {
             "category": "technology",
@@ -133,9 +133,9 @@
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-04-11T14:36:52.481703"
+        "timestamp": "2026-04-12T14:40:12.189092"
       },
-      "timestamp": "2026-04-11T14:36:52.481703",
+      "timestamp": "2026-04-12T14:40:12.189092",
       "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
@@ -149,13 +149,29 @@
             "name": "S&P 500",
             "symbol": "^GSPC",
             "value": 6794.6
+          },
+          {
+            "change": -25.0,
+            "change_percent": -0.16,
+            "is_positive": false,
+            "name": "NASDAQ",
+            "symbol": "^IXIC",
+            "value": 15600.0
+          },
+          {
+            "change": -15.5,
+            "change_percent": -0.04,
+            "is_positive": false,
+            "name": "DOW JONES",
+            "symbol": "^DJI",
+            "value": 38900.5
           }
         ],
         "market_summary": "Markets declined on concerns about economic outlook.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-04-11T14:36:52.733521"
+        "timestamp": "2026-04-12T14:40:12.391701"
       },
-      "timestamp": "2026-04-11T14:36:52.733521",
+      "timestamp": "2026-04-12T14:40:12.391701",
       "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
