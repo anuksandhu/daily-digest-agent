@@ -1,60 +1,60 @@
 {
-  "date": "2026-04-14",
-  "generated_at": "2026-04-14T15:14:30.123456",
+  "date": "2026-04-18",
+  "generated_at": "2026-04-18T14:40:48.000000",
   "sections": [
     {
-      "name": "weather",
       "data": {
         "current": {
           "description": "Overcast clouds",
-          "feels_like": 49,
-          "humidity": 87,
+          "feels_like": 54.5,
+          "humidity": 69,
           "icon": "04d",
-          "temp": 50.2,
-          "wind_speed": 4.6
+          "temp": 55.9,
+          "wind_speed": 1.3
         },
         "forecast": [
           {
-            "date": "2026-04-14",
-            "description": "Overcast clouds",
-            "icon": "04d",
-            "temp": 60.5
-          },
-          {
-            "date": "2026-04-15",
-            "description": "Few clouds",
-            "icon": "02n",
-            "temp": 67.3
-          },
-          {
-            "date": "2026-04-16",
-            "description": "Broken clouds",
-            "icon": "04n",
-            "temp": 65.5
-          },
-          {
-            "date": "2026-04-17",
-            "description": "Clear sky",
-            "icon": "01n",
-            "temp": 71.2
-          },
-          {
             "date": "2026-04-18",
             "description": "Overcast clouds",
+            "icon": "04d",
+            "temp": 71.7
+          },
+          {
+            "date": "2026-04-19",
+            "description": "Overcast clouds",
             "icon": "04n",
-            "temp": 77.2
+            "temp": 77.7
+          },
+          {
+            "date": "2026-04-20",
+            "description": "Few clouds",
+            "icon": "02n",
+            "temp": 74.4
+          },
+          {
+            "date": "2026-04-21",
+            "description": "Moderate rain",
+            "icon": "10n",
+            "temp": 64.3
+          },
+          {
+            "date": "2026-04-22",
+            "description": "Light rain",
+            "icon": "10n",
+            "temp": 63.5
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-04-14T15:14:25.898133"
+        "timestamp": "2026-04-18T14:40:43.862152"
       },
-      "timestamp": "2026-04-14T15:14:25.898133",
-      "source": "OpenWeather API"
+      "name": "weather",
+      "source": "OpenWeather API",
+      "timestamp": "2026-04-18T14:40:43.862152"
     },
     {
-      "name": "sports",
       "data": {
+        "source": "The Sports DB API",
         "teams": [
           {
             "latest_game": "L 3-13 vs Seahawks (2026-01-04)",
@@ -68,7 +68,7 @@
             "latest_game": "L 3-4 vs Canucks (2026-04-12)",
             "league": "NHL",
             "name": "San Jose Sharks",
-            "next_game": "@ Predators on 2026-04-14",
+            "next_game": "No upcoming games scheduled",
             "record": "Season in progress",
             "standings": "N/A"
           },
@@ -76,103 +76,87 @@
             "latest_game": "L 103-119 vs Lakers (2026-04-10)",
             "league": "NBA",
             "name": "Golden State Warriors",
-            "next_game": "@ Clippers on 2026-04-16",
+            "next_game": "@ Suns on 2026-04-18",
             "record": "Season in progress",
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-04-14T15:14:28.036484",
-        "source": "The Sports DB API"
+        "timestamp": "2026-04-18T14:40:46.394093"
       },
-      "timestamp": "2026-04-14T15:14:28.036484",
-      "source": "The Sports DB API"
+      "name": "sports",
+      "source": "The Sports DB API",
+      "timestamp": "2026-04-18T14:40:46.394093"
     },
     {
-      "name": "tech",
       "data": {
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-04-14T14:48:34Z",
+            "published_at": "2026-04-18T13:00:00Z",
             "source": "TechCrunch",
-            "summary": "The feature lets users connect Google accounts like Gmail and Photos to get personalized answers",
-            "title": "Google brings its Gemini Personal Intelligence feature to India",
-            "url": "https://techcrunch.com/2026/04/14/google-brings-its-gemini-personal-intelligence-feature-to-india/"
+            "summary": "New data from Appfigures shows a swell of new app launches in 2026, suggesting AI tools could be fueling a mobile software boom.",
+            "title": "The App Store is booming again, and AI may be why",
+            "url": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/"
           },
           {
             "category": "technology",
-            "published_at": "2026-04-14T15:04:49Z",
+            "published_at": "2026-04-18T12:00:00Z",
             "source": "The Verge",
-            "summary": "When it comes to the best noise-canceling earbuds, the competition has gotten fierce. Apple, Sony, Samsung, and Google all offer excellent options, though, unsurprisingly, Bose still retains the noise",
-            "title": "Bose\u2019s noise-crushing QC Ultra Earbuds are nearly 20 percent off right now",
-            "url": "https://www.theverge.com/gadgets/911188/bose-quietcomfort-ultra-earbuds-2nd-gen-turtle-beach-stealth-pivot-deal-sale"
+            "summary": "Hi, friends! Welcome to Installer No. 124, your guide to the best and Verge-iest stuff in the world. (If you\\'re new here, welcome, send me your Coachella fits, and also you can read all the old editio",
+            "title": "The AI apps are coming for your PC",
+            "url": "https://www.theverge.com/tech/914429/the-ai-apps-are-coming-for-your-pc"
           },
           {
             "category": "technology",
-            "published_at": "2026-04-13T14:35:29Z",
+            "published_at": "2026-04-17T21:28:35Z",
             "source": "Ars Technica",
-            "summary": "The Slate Truck will start in the \"mid-$20,000s\" when it goes on sale in late 2026.",
-            "title": "Slate Auto raises $650 million as production gets closer and closer",
-            "url": "https://arstechnica.com/cars/2026/04/slate-auto-raises-650-million-as-production-gets-closer-and-closer/"
+            "summary": "Grinex says needed hacking resources \"available exclusively to ... unfriendly states.\"",
+            "title": "US-sanctioned currency exchange says $15 million heist done by \"unfriendly states\"",
+            "url": "https://arstechnica.com/security/2026/04/russia-friendly-exchange-says-western-special-service-behind-15-million-cyberattack/"
           },
           {
             "category": "technology",
-            "published_at": "2026-04-14T11:30:00Z",
+            "published_at": "2026-04-18T10:30:00Z",
             "source": "Wired",
-            "summary": "Protect your expensive iPhone 17, iPhone Air, iPhone Pro, or iPhone 17e with our favorite cases and screen protectors.",
-            "title": "The 23 Best iPhone 17 Cases and Accessories Out of More Than 100 (2026)",
-            "url": "https://www.wired.com/gallery/best-iphone-17-cases-and-accessories/"
+            "summary": "Schematik is a program that aims to help people vibe code for physical devices. Hopefully, it won\u2019t blow anything up.",
+            "title": "Schematik Is \u2018Cursor for Hardware.\u2019 Anthropic Wants In",
+            "url": "https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/"
           },
           {
             "category": "technology",
-            "published_at": "2026-04-14T12:10:00Z",
+            "published_at": "2026-04-17T12:10:00Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Want to understand the current state of AI? Check ",
-            "title": "The Download: the state of AI, and protecting bears with drones",
-            "url": "https://www.technologyreview.com/2026/04/14/1135847/the-download-state-of-ai-drones-protecting-bears/"
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The problem with thinking you\u2019re part Neanderthal ",
+            "title": "The Download: bad news for inner Neanderthals, and AI warfare\u2019s human illusion",
+            "url": "https://www.technologyreview.com/2026/04/17/1136112/the-download-inner-neanderthal-ai-war-human-in-the-loop/"
           }
         ],
-        "timestamp": "2026-04-14T15:14:29.009554",
-        "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
+        "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
+        "timestamp": "2026-04-18T14:40:47.388125"
       },
-      "timestamp": "2026-04-14T15:14:29.009554",
-      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
+      "name": "tech",
+      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
+      "timestamp": "2026-04-18T14:40:47.388125"
     },
     {
-      "name": "market",
       "data": {
         "indexes": [
           {
-            "change": 66.4,
-            "change_percent": 0.98,
+            "change": 84.8,
+            "change_percent": 1.21,
             "is_positive": true,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 6861
-          },
-          {
-            "change": 230.5,
-            "change_percent": 1.52,
-            "is_positive": true,
-            "name": "NASDAQ",
-            "symbol": "^IXIC",
-            "value": 15380
-          },
-          {
-            "change": 320.1,
-            "change_percent": 0.89,
-            "is_positive": true,
-            "name": "DOW JONES",
-            "symbol": "^DJI",
-            "value": 36310
+            "value": 7101.4
           }
         ],
         "market_summary": "Markets rallied across all major indexes on positive sentiment.",
-        "timestamp": "2026-04-14T15:14:29.467661",
-        "source": "Alpha Vantage API (via ETF proxies)"
+        "source": "Alpha Vantage API (via ETF proxies)",
+        "timestamp": "2026-04-18T14:40:47.739387"
       },
-      "timestamp": "2026-04-14T15:14:29.467661",
-      "source": "Alpha Vantage API (via ETF proxies)"
+      "name": "market",
+      "source": "Alpha Vantage API (via ETF proxies)",
+      "timestamp": "2026-04-18T14:40:47.739387"
     }
   ]
 }
