@@ -1,61 +1,58 @@
 {
-  "date": "2026-04-21",
-  "generated_at": "2026-04-21T15:14:04.288519",
+  "date": "2026-04-22",
+  "generated_at": "2026-04-22T15:14:18.000000",
   "sections": [
     {
       "name": "weather",
       "data": {
         "current": {
-          "description": "Overcast clouds",
-          "feels_like": 54.8,
-          "humidity": 92,
+          "description": "Broken clouds",
+          "feels_like": 50.4,
+          "humidity": 90,
           "icon": "04d",
-          "temp": 55.3,
-          "wind_speed": 9.2
+          "temp": 51.3,
+          "wind_speed": 6.6
         },
         "forecast": [
           {
-            "date": "2026-04-21",
-            "description": "Light rain",
-            "icon": "10d",
-            "temp": 56.2
-          },
-          {
             "date": "2026-04-22",
             "description": "Broken clouds",
-            "icon": "04n",
-            "temp": 64.3
+            "icon": "04d",
+            "temp": 58
           },
           {
             "date": "2026-04-23",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 70.6
+            "temp": 71.3
           },
           {
             "date": "2026-04-24",
             "description": "Overcast clouds",
             "icon": "04n",
-            "temp": 72.4
+            "temp": 72.3
           },
           {
             "date": "2026-04-25",
             "description": "Overcast clouds",
             "icon": "04n",
-            "temp": 68.2
+            "temp": 69.3
+          },
+          {
+            "date": "2026-04-26",
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 63.1
           }
         ],
         "location": "San Jose",
-        "source": "OpenWeather API",
-        "timestamp": "2026-04-21T15:13:57.358977"
-      },
-      "timestamp": "2026-04-21T15:13:57.358977",
-      "source": "OpenWeather API"
+        "timestamp": "2026-04-22T15:14:14.128888",
+        "source": "OpenWeather API"
+      }
     },
     {
       "name": "sports",
       "data": {
-        "source": "The Sports DB API",
         "teams": [
           {
             "latest_game": "L 3-13 vs Seahawks (2026-01-04)",
@@ -82,10 +79,9 @@
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-04-21T15:14:02.985742"
-      },
-      "timestamp": "2026-04-21T15:14:02.985742",
-      "source": "The Sports DB API"
+        "timestamp": "2026-04-22T15:14:16.478980",
+        "source": "The Sports DB API"
+      }
     },
     {
       "name": "tech",
@@ -93,86 +89,82 @@
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-04-21T15:02:06Z",
+            "published_at": "2026-04-22T15:00:00Z",
             "source": "TechCrunch",
-            "summary": "YouTube is expanding its AI likeness detection tool to celebrities, giving talent and their reps a way to find and remove deepfakes.",
-            "title": "YouTube expands its AI likeness detection technology to celebrities",
-            "url": "https://techcrunch.com/2026/04/21/youtube-expands-its-ai-likeness-detection-technology-to-celebrities/"
+            "summary": "Lucra offers corporate loyalty programs reimagined as interactive eSports. But winning ARK as a lead wasn't easy.",
+            "title": "Cathie Woods\u2019 ARK makes its first lead investment in startup Lucra \u2014 and it isn\u2019t AI",
+            "url": "https://techcrunch.com/2026/04/22/cathie-woods-ark-makes-its-first-lead-investment-in-startup-lucra-and-it-isnt-ai/"
           },
           {
             "category": "technology",
-            "published_at": "2026-04-21T13:37:55Z",
+            "published_at": "2026-04-22T14:22:35Z",
             "source": "The Verge",
-            "summary": "Less than a year ago, Apple made headlines for a lack of AI announcements at its annual WWDC event. Ten months later, the company has announced that hardware executive John Ternus will succeed longtim",
-            "title": "John Ternus\u2019 first big problem is AI",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/915662/john-ternus-apple-ceo-tim-cook-ai-problem-siri"
+            "summary": "Meta employees' activity at work is now being used to train the company's AI agents. As reported by Reuters, Meta is installing a tool it calls Model Capability Initiative (MCI) on US-based employees'",
+            "title": "Now Meta will track what employees do on their computers to train its AI agents",
+            "url": "https://www.theverge.com/tech/916681/meta-ai-agents-employee-tracking"
           },
           {
             "category": "technology",
-            "published_at": "2026-04-21T14:23:24Z",
+            "published_at": "2026-04-22T14:13:01Z",
             "source": "Ars Technica",
-            "summary": "A longitudinal study finds links to lapses in immediate and delayed recall.",
-            "title": "Loneliness in older adults can often lead to memory impairment",
-            "url": "https://arstechnica.com/health/2026/04/loneliness-in-older-adults-can-often-lead-to-memory-impairment/"
+            "summary": "\"Emily Hart\" is a young, AI-created conservative woman who likes to take off her clothes.",
+            "title": "Indian med student rakes in thousands with AI-generated MAGA hottie",
+            "url": "https://arstechnica.com/tech-policy/2026/04/indian-med-student-rakes-in-thousands-with-ai-generated-maga-hottie/"
           },
           {
             "category": "technology",
-            "published_at": "2026-04-21T11:00:00Z",
+            "published_at": "2026-04-22T15:00:00Z",
             "source": "Wired",
-            "summary": "A med student says he\u2019s made thousands of dollars selling photos and videos of a young conservative woman he created using generative tools. He\u2019s not alone.",
-            "title": "This Scammer Used an AI-Generated MAGA Girl to Grift \u2018Super Dumb\u2019 Men",
-            "url": "https://www.wired.com/story/ai-generated-maga-girl/"
+            "summary": "Political appointees wanted a quiet drawdown, the whistleblower says. DOGE wanted an execution.",
+            "title": "USAID Whistleblower Says It Was Even Worse Than People Knew",
+            "url": "https://www.wired.com/story/usaid-whistleblower-says-it-was-even-worse-than-people-knew/"
           },
           {
             "category": "technology",
-            "published_at": "2026-04-21T12:10:00Z",
+            "published_at": "2026-04-22T12:10:00Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The noise we make is hurting animals. Can we learn",
-            "title": "The Download: turning down human noise, and LA\u2019s stunning subway upgrade",
-            "url": "https://www.technologyreview.com/2026/04/21/1136246/the-download-human-noise-la-subway-upgrade/"
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily download of what&#8217;s going on in the world of technology. Introducing: 10 Things That Matter in AI Right Now",
+            "title": "The Download: introducing the 10 Things That Matter in AI Right Now",
+            "url": "https://www.technologyreview.com/2026/04/22/1136310/the-download-10-things-that-matter-in-ai-right-now/"
           }
         ],
-        "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-04-21T15:14:03.761758"
-      },
-      "timestamp": "2026-04-21T15:14:03.761758",
-      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
+        "timestamp": "2026-04-22T15:14:17.168639",
+        "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
+      }
     },
     {
       "name": "market",
       "data": {
         "indexes": [
           {
-            "change": -14.2,
-            "change_percent": -0.2,
+            "change": -46.4,
+            "change_percent": -0.65,
             "is_positive": false,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 7087.2
+            "value": 7040.8
           },
           {
-            "change": -60.0,
-            "change_percent": -0.4,
+            "change": -138.6,
+            "change_percent": -0.77,
             "is_positive": false,
             "name": "NASDAQ",
             "symbol": "^IXIC",
-            "value": 14940.0
+            "value": 17800.2
           },
           {
-            "change": -120.0,
-            "change_percent": -0.3,
+            "change": -250.0,
+            "change_percent": -0.58,
             "is_positive": false,
             "name": "DOW JONES",
             "symbol": "^DJI",
-            "value": 40000.0
+            "value": 43000.5
           }
         ],
         "market_summary": "Markets declined on concerns about economic outlook.",
-        "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-04-21T15:14:04.255282"
-      },
-      "timestamp": "2026-04-21T15:14:04.255282",
-      "source": "Alpha Vantage API (via ETF proxies)"
+        "timestamp": "2026-04-22T15:14:17.782755",
+        "source": "Alpha Vantage API (via ETF proxies)"
+      }
     }
   ]
 }
