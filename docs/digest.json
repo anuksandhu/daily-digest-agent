@@ -1,58 +1,61 @@
 {
-  "date": "2026-04-22",
-  "generated_at": "2026-04-22T15:14:18.000000",
+  "date": "2026-04-23",
+  "generated_at": "2026-04-23T15:54:15.532204",
   "sections": [
     {
       "name": "weather",
       "data": {
         "current": {
-          "description": "Broken clouds",
-          "feels_like": 50.4,
-          "humidity": 90,
-          "icon": "04d",
-          "temp": 51.3,
-          "wind_speed": 6.6
+          "description": "Clear sky",
+          "feels_like": 56.4,
+          "humidity": 83,
+          "icon": "01d",
+          "temp": 57.1,
+          "wind_speed": 3.4
         },
         "forecast": [
           {
-            "date": "2026-04-22",
-            "description": "Broken clouds",
-            "icon": "04d",
-            "temp": 58
-          },
-          {
             "date": "2026-04-23",
             "description": "Clear sky",
-            "icon": "01n",
-            "temp": 71.3
+            "icon": "01d",
+            "temp": 65.9
           },
           {
             "date": "2026-04-24",
             "description": "Overcast clouds",
             "icon": "04n",
-            "temp": 72.3
+            "temp": 73
           },
           {
             "date": "2026-04-25",
             "description": "Overcast clouds",
             "icon": "04n",
-            "temp": 69.3
+            "temp": 70
           },
           {
             "date": "2026-04-26",
             "description": "Overcast clouds",
             "icon": "04n",
-            "temp": 63.1
+            "temp": 65
+          },
+          {
+            "date": "2026-04-27",
+            "description": "Broken clouds",
+            "icon": "04n",
+            "temp": 71.3
           }
         ],
         "location": "San Jose",
-        "timestamp": "2026-04-22T15:14:14.128888",
-        "source": "OpenWeather API"
-      }
+        "source": "OpenWeather API",
+        "timestamp": "2026-04-23T15:54:11.975139"
+      },
+      "timestamp": "2026-04-23T15:54:11.975139",
+      "source": "OpenWeather API"
     },
     {
       "name": "sports",
       "data": {
+        "source": "The Sports DB API",
         "teams": [
           {
             "latest_game": "L 3-13 vs Seahawks (2026-01-04)",
@@ -79,9 +82,10 @@
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-04-22T15:14:16.478980",
-        "source": "The Sports DB API"
-      }
+        "timestamp": "2026-04-23T15:54:14.019165"
+      },
+      "timestamp": "2026-04-23T15:54:14.019165",
+      "source": "The Sports DB API"
     },
     {
       "name": "tech",
@@ -89,82 +93,86 @@
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-04-22T15:00:00Z",
+            "published_at": "2026-04-23T15:32:10Z",
             "source": "TechCrunch",
-            "summary": "Lucra offers corporate loyalty programs reimagined as interactive eSports. But winning ARK as a lead wasn't easy.",
-            "title": "Cathie Woods\u2019 ARK makes its first lead investment in startup Lucra \u2014 and it isn\u2019t AI",
-            "url": "https://techcrunch.com/2026/04/22/cathie-woods-ark-makes-its-first-lead-investment-in-startup-lucra-and-it-isnt-ai/"
+            "summary": "X Communities are no more. Only a fraction of X users were using Communities, and much of that use was spam, the company said.",
+            "title": "X is shutting down Communities because of low usage and lots of spam",
+            "url": "https://techcrunch.com/2026/04/23/x-is-shutting-down-communities-because-of-low-usage-and-lots-of-spam/"
           },
           {
             "category": "technology",
-            "published_at": "2026-04-22T14:22:35Z",
+            "published_at": "2026-04-23T15:30:00Z",
             "source": "The Verge",
-            "summary": "Meta employees' activity at work is now being used to train the company's AI agents. As reported by Reuters, Meta is installing a tool it calls Model Capability Initiative (MCI) on US-based employees'",
-            "title": "Now Meta will track what employees do on their computers to train its AI agents",
-            "url": "https://www.theverge.com/tech/916681/meta-ai-agents-employee-tracking"
+            "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. This year marks the 25th anniversar",
+            "title": "25 years later, is it time for a new iPod?",
+            "url": "https://www.theverge.com/column/917369/sleevenote-new-ipod-streaming-bandcamp-music"
           },
           {
             "category": "technology",
-            "published_at": "2026-04-22T14:13:01Z",
+            "published_at": "2026-04-23T15:01:11Z",
             "source": "Ars Technica",
-            "summary": "\"Emily Hart\" is a young, AI-created conservative woman who likes to take off her clothes.",
-            "title": "Indian med student rakes in thousands with AI-generated MAGA hottie",
-            "url": "https://arstechnica.com/tech-policy/2026/04/indian-med-student-rakes-in-thousands-with-ai-generated-maga-hottie/"
+            "summary": "The 2027 7 Series is available as an EV, with an inline-six, or an inline-six PHEV.",
+            "title": "BMW bumps the 7 Series for 2027, adds all-new battery",
+            "url": "https://arstechnica.com/cars/2026/04/bmw-bumps-the-7-series-for-2027-adds-all-new-battery/"
           },
           {
             "category": "technology",
-            "published_at": "2026-04-22T15:00:00Z",
+            "published_at": "2026-04-23T12:00:00Z",
             "source": "Wired",
-            "summary": "Political appointees wanted a quiet drawdown, the whistleblower says. DOGE wanted an execution.",
-            "title": "USAID Whistleblower Says It Was Even Worse Than People Knew",
-            "url": "https://www.wired.com/story/usaid-whistleblower-says-it-was-even-worse-than-people-knew/"
+            "summary": "The Kickstarter-funded glasses from L\\'Atitude 52\u00b0N have AI features bundled for 1 year, but the company doesn't know yet how much it will charge for access after that.",
+            "title": "These New Smart Glasses From Ex-OnePlus Engineers Have a Hidden Cost",
+            "url": "https://www.wired.com/story/latitude-52-n-smart-glasses-from-ex-oneplus-engineers-have-a-hidden-cost/"
           },
           {
             "category": "technology",
-            "published_at": "2026-04-22T12:10:00Z",
+            "published_at": "2026-04-23T12:10:00Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily download of what&#8217;s going on in the world of technology. Introducing: 10 Things That Matter in AI Right Now",
-            "title": "The Download: introducing the 10 Things That Matter in AI Right Now",
-            "url": "https://www.technologyreview.com/2026/04/22/1136310/the-download-10-things-that-matter-in-ai-right-now/"
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Nature issue When we talk about \u201c",
+            "title": "The Download: introducing the Nature issue",
+            "url": "https://www.technologyreview.com/2026/04/23/1136346/the-download-introducing-nature-issue/"
           }
         ],
-        "timestamp": "2026-04-22T15:14:17.168639",
-        "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
-      }
+        "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
+        "timestamp": "2026-04-23T15:54:15.090757"
+      },
+      "timestamp": "2026-04-23T15:54:15.090757",
+      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
       "name": "market",
       "data": {
         "indexes": [
           {
-            "change": -46.4,
-            "change_percent": -0.65,
-            "is_positive": false,
+            "change": 71.3,
+            "change_percent": 1.01,
+            "is_positive": true,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 7040.8
+            "value": 7112.1
           },
           {
-            "change": -138.6,
-            "change_percent": -0.77,
-            "is_positive": false,
+            "change": 170.0,
+            "change_percent": 1.12,
+            "is_positive": true,
             "name": "NASDAQ",
             "symbol": "^IXIC",
-            "value": 17800.2
+            "value": 15350.5
           },
           {
-            "change": -250.0,
-            "change_percent": -0.58,
-            "is_positive": false,
+            "change": 280.5,
+            "change_percent": 0.76,
+            "is_positive": true,
             "name": "DOW JONES",
             "symbol": "^DJI",
-            "value": 43000.5
+            "value": 37100.2
           }
         ],
-        "market_summary": "Markets declined on concerns about economic outlook.",
-        "timestamp": "2026-04-22T15:14:17.782755",
-        "source": "Alpha Vantage API (via ETF proxies)"
-      }
+        "market_summary": "Markets rallied across all major indexes on positive sentiment.",
+        "source": "Alpha Vantage API (via ETF proxies)",
+        "timestamp": "2026-04-23T15:54:15.532204"
+      },
+      "timestamp": "2026-04-23T15:54:15.532204",
+      "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
 }
