@@ -1,60 +1,62 @@
 {
-  "date": "2026-04-24",
-  "generated_at": "2026-04-24T15:09:18.400000",
+  "date": "2026-04-25",
+  "generated_at": "2026-04-25T14:42:40.160000",
   "sections": [
     {
       "name": "weather",
       "data": {
         "current": {
           "description": "Haze",
-          "feels_like": 51.5,
-          "humidity": 82,
+          "feels_like": 53.5,
+          "humidity": 68,
           "icon": "50d",
-          "temp": 52.7,
-          "wind_speed": 5
+          "temp": 55.1,
+          "wind_speed": 3.4
         },
+        "error": null,
         "forecast": [
-          {
-            "date": "2026-04-24",
-            "description": "Overcast clouds",
-            "icon": "04d",
-            "temp": 64
-          },
           {
             "date": "2026-04-25",
             "description": "Overcast clouds",
-            "icon": "04n",
-            "temp": 66.6
+            "icon": "04d",
+            "temp": 56.5
           },
           {
             "date": "2026-04-26",
             "description": "Overcast clouds",
             "icon": "04n",
-            "temp": 59.4
+            "temp": 61.3
           },
           {
             "date": "2026-04-27",
-            "description": "Scattered clouds",
-            "icon": "03n",
-            "temp": 68.8
+            "description": "Few clouds",
+            "icon": "02n",
+            "temp": 66.5
           },
           {
             "date": "2026-04-28",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 76.5
+            "temp": 75.3
+          },
+          {
+            "date": "2026-04-29",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 77.6
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-04-24T15:09:15.408723"
+        "timestamp": "2026-04-25T14:42:27.827108"
       },
-      "timestamp": "2026-04-24T15:09:15.408723",
-      "source": "OpenWeather API"
+      "source": "OpenWeather API",
+      "timestamp": "2026-04-25T14:42:27.827108"
     },
     {
       "name": "sports",
       "data": {
+        "error": null,
         "source": "The Sports DB API",
         "teams": [
           {
@@ -82,10 +84,10 @@
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-04-24T15:09:17.104521"
+        "timestamp": "2026-04-25T14:42:39.339124"
       },
-      "timestamp": "2026-04-24T15:09:17.104521",
-      "source": "The Sports DB API"
+      "source": "The Sports DB API",
+      "timestamp": "2026-04-25T14:42:39.339124"
     },
     {
       "name": "tech",
@@ -93,70 +95,88 @@
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-04-24T15:06:00Z",
+            "published_at": "2026-04-24T21:35:30Z",
             "source": "TechCrunch",
-            "summary": "Amazon-backed X-energy was able to raise around 20% more money in its IPO as demand for nuclear power surges.",
-            "title": "Nuclear startup X-energy raises $1B in data center-driven IPO",
-            "url": "https://techcrunch.com/2026/04/24/nuclear-startup-x-energy-raises-1b-in-data-center-driven-ipo/"
+            "summary": "Cohere, the Canada-based AI company that makes AI tools for businesses in regulated industries, announced Friday it would merge with Aleph Alpha, a German company that also builds AI systems for busin",
+            "title": "Cohere acquires, merges with Germany-based startup to create a \u2018transatlantic AI powerhouse\u2019",
+            "url": "https://techcrunch.com/2026/04/24/cohere-acquires-merges-with-german-based-startup-to-create-a-transatlantic-ai-powerhouse/"
           },
           {
             "category": "technology",
-            "published_at": "2026-04-24T14:43:07Z",
+            "published_at": "2026-04-25T13:30:00Z",
             "source": "The Verge",
-            "summary": "We knew at some point Tim Cook would step down from his position as Apple's CEO. Over the last year, it has become increasingly obvious that John Ternus was his likely successor. The news this week wa",
-            "title": "AirPods, Touch Bars, and the rest of Tim Cook&#8217;s legacy",
-            "url": "https://www.theverge.com/podcast/917965/apple-ceo-cook-ternus-transition"
+            "summary": "I knew things were not quite right when I had to throw a towel over a broken Ikea lamp to block out its light. How did I get here? I cover fancy and capable tech for a living, and yet, it took me two ",
+            "title": "The Govee smart lamp brightened up my room, and then my life",
+            "url": "https://www.theverge.com/gadgets/913854/govee-uplighter-floor-lamps-caregiving-parkinsons-disease"
           },
           {
             "category": "technology",
-            "published_at": "2026-04-24T11:00:36Z",
+            "published_at": "2026-04-25T11:40:58Z",
             "source": "Ars Technica",
-            "summary": "\"If it doesn\u2019t rely on a solid, there\u2019s no reason why we can\u2019t launch.\"",
-            "title": "Rocket Report: Artemis III rocket getting ready; SpaceX is now an AI company",
-            "url": "https://arstechnica.com/space/2026/04/rocket-report-some-canadians-dont-want-a-spaceport-falcon-hits-600-landings/"
+            "summary": "\"It wasn\\'t a big deal. It just coincided with the fact that Moon was farther away from the Earth.\"",
+            "title": "Artemis II broke Fred Haise\\'s distance record, but he is happy to pass it on",
+            "url": "https://arstechnica.com/science/2026/04/artemis-ii-broke-fred-haises-distance-record-but-he-is-happy-to-pass-it-on/"
           },
           {
             "category": "technology",
-            "published_at": "2026-04-24T15:00:00Z",
+            "published_at": "2026-04-25T10:30:00Z",
             "source": "Wired",
-            "summary": "Tim Cook was a great CEO, but he didn\u2019t crack AI. It\u2019s job number 1 for John Ternus.",
-            "title": "Apple's Next CEO Needs to Launch a Killer AI Product",
-            "url": "https://www.wired.com/story/apples-next-ceo-needs-to-launch-a-killer-ai-product/"
+            "summary": "Plus: Spy firms tap into a global telecom weakness to track targets, 500,000 UK health records go up for sale on Alibaba, Apple patches a revealing notification bug, and more.",
+            "title": "Discord Sleuths Gained Unauthorized Access to Anthropic\u2019s Mythos",
+            "url": "https://www.wired.com/story/security-news-this-week-discord-sleuths-gained-unauthorized-access-to-anthropics-mythos/"
           },
           {
             "category": "technology",
-            "published_at": "2026-04-24T12:10:00Z",
+            "published_at": "2026-04-24T21:40:58Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We\u2019re in a new era of AI-driven scams When ChatGPT",
-            "title": "The Download: supercharged scams and studying AI healthcare",
-            "url": "https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/"
+            "summary": "On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts than its last generation, thanks to a new design t",
+            "title": "Three reasons why DeepSeek\u2019s new model matters",
+            "url": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/"
           }
         ],
+        "error": null,
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-04-24T15:09:18.159802"
+        "timestamp": "2026-04-25T14:42:39.986268"
       },
-      "timestamp": "2026-04-24T15:09:18.159802",
-      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
+      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
+      "timestamp": "2026-04-25T14:42:39.986268"
     },
     {
       "name": "market",
       "data": {
+        "error": null,
         "indexes": [
           {
-            "change": -27.6,
-            "change_percent": -0.39,
-            "is_positive": false,
+            "change": 54.9,
+            "change_percent": 0.77,
+            "is_positive": true,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 7084.5
+            "value": 7139.4
+          },
+          {
+            "change": 250.4,
+            "change_percent": 1.5,
+            "is_positive": true,
+            "name": "NASDAQ",
+            "symbol": "^IXIC",
+            "value": 16950.3
+          },
+          {
+            "change": 120.2,
+            "change_percent": 0.95,
+            "is_positive": true,
+            "name": "DOW JONES",
+            "symbol": "^DJI",
+            "value": 12780.5
           }
         ],
-        "market_summary": "Markets declined on concerns about economic outlook.",
+        "market_summary": "Markets rallied across all major indexes on positive sentiment.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-04-24T15:09:18.388962"
+        "timestamp": "2026-04-25T14:42:40.159439"
       },
-      "timestamp": "2026-04-24T15:09:18.388962",
-      "source": "Alpha Vantage API (via ETF proxies)"
+      "source": "Alpha Vantage API (via ETF proxies)",
+      "timestamp": "2026-04-25T14:42:40.159439"
     }
   ]
 }
