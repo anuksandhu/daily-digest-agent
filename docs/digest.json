@@ -1,62 +1,60 @@
 {
-  "date": "2026-04-25",
-  "generated_at": "2026-04-25T14:42:40.160000",
+  "date": "2026-04-28",
+  "generated_at": "2026-04-28T16:07:42.221000",
   "sections": [
     {
       "name": "weather",
       "data": {
         "current": {
           "description": "Haze",
-          "feels_like": 53.5,
-          "humidity": 68,
+          "feels_like": 54.7,
+          "humidity": 75,
           "icon": "50d",
-          "temp": 55.1,
-          "wind_speed": 3.4
+          "temp": 55.9,
+          "wind_speed": 4.6
         },
-        "error": null,
         "forecast": [
           {
-            "date": "2026-04-25",
-            "description": "Overcast clouds",
-            "icon": "04d",
-            "temp": 56.5
-          },
-          {
-            "date": "2026-04-26",
-            "description": "Overcast clouds",
-            "icon": "04n",
-            "temp": 61.3
-          },
-          {
-            "date": "2026-04-27",
-            "description": "Few clouds",
-            "icon": "02n",
-            "temp": 66.5
-          },
-          {
             "date": "2026-04-28",
-            "description": "Clear sky",
-            "icon": "01n",
-            "temp": 75.3
+            "description": "Few clouds",
+            "icon": "02d",
+            "temp": 64.5
           },
           {
             "date": "2026-04-29",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 77.6
+            "temp": 77.3
+          },
+          {
+            "date": "2026-04-30",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 79.7
+          },
+          {
+            "date": "2026-05-01",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 84.3
+          },
+          {
+            "date": "2026-05-02",
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 81.9
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-04-25T14:42:27.827108"
+        "timestamp": "2026-04-28T16:07:38.391085"
       },
-      "source": "OpenWeather API",
-      "timestamp": "2026-04-25T14:42:27.827108"
+      "timestamp": "2026-04-28T16:07:38.391085",
+      "source": "OpenWeather API"
     },
     {
       "name": "sports",
       "data": {
-        "error": null,
         "source": "The Sports DB API",
         "teams": [
           {
@@ -84,10 +82,10 @@
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-04-25T14:42:39.339124"
+        "timestamp": "2026-04-28T16:07:40.863266"
       },
-      "source": "The Sports DB API",
-      "timestamp": "2026-04-25T14:42:39.339124"
+      "timestamp": "2026-04-28T16:07:40.863266",
+      "source": "The Sports DB API"
     },
     {
       "name": "tech",
@@ -95,88 +93,70 @@
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-04-24T21:35:30Z",
+            "published_at": "2026-04-28T13:57:19Z",
             "source": "TechCrunch",
-            "summary": "Cohere, the Canada-based AI company that makes AI tools for businesses in regulated industries, announced Friday it would merge with Aleph Alpha, a German company that also builds AI systems for busin",
-            "title": "Cohere acquires, merges with Germany-based startup to create a \u2018transatlantic AI powerhouse\u2019",
-            "url": "https://techcrunch.com/2026/04/24/cohere-acquires-merges-with-german-based-startup-to-create-a-transatlantic-ai-powerhouse/"
+            "summary": "Users will be able to chat with a brand\\'s AI agent to do things like ask questions and get recommendations.",
+            "title": "Snapchat brings AI-powered conversational advertising to its app",
+            "url": "https://techcrunch.com/2026/04/28/snapchat-brings-ai-powered-conversational-advertising-to-its-app/"
           },
           {
             "category": "technology",
-            "published_at": "2026-04-25T13:30:00Z",
+            "published_at": "2026-04-28T16:00:00Z",
             "source": "The Verge",
-            "summary": "I knew things were not quite right when I had to throw a towel over a broken Ikea lamp to block out its light. How did I get here? I cover fancy and capable tech for a living, and yet, it took me two ",
-            "title": "The Govee smart lamp brightened up my room, and then my life",
-            "url": "https://www.theverge.com/gadgets/913854/govee-uplighter-floor-lamps-caregiving-parkinsons-disease"
+            "summary": "Google has launched a new AI-powered feature for Translate that can help you correct and practice your enunciation when learning a new language. The \"pronunciation practice\" tool analyzes your speech ",
+            "title": "Google Translate can now help you with pronunciation",
+            "url": "https://www.theverge.com/tech/919510/google-translate-pronunciation-practice-availability"
           },
           {
             "category": "technology",
-            "published_at": "2026-04-25T11:40:58Z",
+            "published_at": "2026-04-28T14:15:11Z",
             "source": "Ars Technica",
-            "summary": "\"It wasn\\'t a big deal. It just coincided with the fact that Moon was farther away from the Earth.\"",
-            "title": "Artemis II broke Fred Haise\\'s distance record, but he is happy to pass it on",
-            "url": "https://arstechnica.com/science/2026/04/artemis-ii-broke-fred-haises-distance-record-but-he-is-happy-to-pass-it-on/"
+            "summary": "Many rural communities are viscerally opposed to AI infrastructure.",
+            "title": "The great American data center divide",
+            "url": "https://arstechnica.com/ai/2026/04/rural-america-is-resisting-the-surge-in-data-center-construction/"
           },
           {
             "category": "technology",
-            "published_at": "2026-04-25T10:30:00Z",
+            "published_at": "2026-04-28T15:00:35Z",
             "source": "Wired",
-            "summary": "Plus: Spy firms tap into a global telecom weakness to track targets, 500,000 UK health records go up for sale on Alibaba, Apple patches a revealing notification bug, and more.",
-            "title": "Discord Sleuths Gained Unauthorized Access to Anthropic\u2019s Mythos",
-            "url": "https://www.wired.com/story/security-news-this-week-discord-sleuths-gained-unauthorized-access-to-anthropics-mythos/"
+            "summary": "On May 1, the United Arab Emirates will end its a 59-year membership in the oil consortium, allowing it to raise output during one of the most volatile energy markets in years.",
+            "title": "UAE to Exit OPEC After Nearly 60 Years",
+            "url": "https://www.wired.com/story/the-uae-will-exit-opec-after-nearly-60-years/"
           },
           {
             "category": "technology",
-            "published_at": "2026-04-24T21:40:58Z",
+            "published_at": "2026-04-28T12:10:00Z",
             "source": "MIT Technology Review",
-            "summary": "On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts than its last generation, thanks to a new design t",
-            "title": "Three reasons why DeepSeek\u2019s new model matters",
-            "url": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/"
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Elon Musk and Sam Altman are going to court over O",
+            "title": "The Download: Musk and Altman\u2019s legal showdown, and AI\u2019s profit problem",
+            "url": "https://www.technologyreview.com/2026/04/28/1136479/the-download-musk-altman-openai-trial-ai-profit-problem/"
           }
         ],
-        "error": null,
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-04-25T14:42:39.986268"
+        "timestamp": "2026-04-28T16:07:41.731451"
       },
-      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-      "timestamp": "2026-04-25T14:42:39.986268"
+      "timestamp": "2026-04-28T16:07:41.731451",
+      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
       "name": "market",
       "data": {
-        "error": null,
         "indexes": [
           {
-            "change": 54.9,
-            "change_percent": 0.77,
+            "change": 12.3,
+            "change_percent": 0.17,
             "is_positive": true,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 7139.4
-          },
-          {
-            "change": 250.4,
-            "change_percent": 1.5,
-            "is_positive": true,
-            "name": "NASDAQ",
-            "symbol": "^IXIC",
-            "value": 16950.3
-          },
-          {
-            "change": 120.2,
-            "change_percent": 0.95,
-            "is_positive": true,
-            "name": "DOW JONES",
-            "symbol": "^DJI",
-            "value": 12780.5
+            "value": 7151.7
           }
         ],
         "market_summary": "Markets rallied across all major indexes on positive sentiment.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-04-25T14:42:40.159439"
+        "timestamp": "2026-04-28T16:07:42.220865"
       },
-      "source": "Alpha Vantage API (via ETF proxies)",
-      "timestamp": "2026-04-25T14:42:40.159439"
+      "timestamp": "2026-04-28T16:07:42.220865",
+      "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
 }
