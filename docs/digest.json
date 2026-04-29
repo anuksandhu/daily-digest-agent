@@ -1,59 +1,58 @@
 {
-  "date": "2026-04-28",
-  "generated_at": "2026-04-28T16:07:42.221000",
+  "date": "2026-04-29",
+  "generated_at": "2026-04-29T15:56:48.000000",
   "sections": [
     {
-      "name": "weather",
       "data": {
         "current": {
           "description": "Haze",
-          "feels_like": 54.7,
-          "humidity": 75,
+          "feels_like": 59.3,
+          "humidity": 74,
           "icon": "50d",
-          "temp": 55.9,
-          "wind_speed": 4.6
+          "temp": 60.1,
+          "wind_speed": 3.4
         },
         "forecast": [
           {
-            "date": "2026-04-28",
-            "description": "Few clouds",
-            "icon": "02d",
-            "temp": 64.5
-          },
-          {
             "date": "2026-04-29",
             "description": "Clear sky",
-            "icon": "01n",
-            "temp": 77.3
+            "icon": "01d",
+            "temp": 71.5
           },
           {
             "date": "2026-04-30",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 79.7
+            "temp": 79.3
           },
           {
             "date": "2026-05-01",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 84.3
+            "temp": 84.1
           },
           {
             "date": "2026-05-02",
             "description": "Overcast clouds",
             "icon": "04n",
-            "temp": 81.9
+            "temp": 79.9
+          },
+          {
+            "date": "2026-05-03",
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 70.5
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-04-28T16:07:38.391085"
+        "timestamp": "2026-04-29T15:56:44.267781"
       },
-      "timestamp": "2026-04-28T16:07:38.391085",
-      "source": "OpenWeather API"
+      "name": "weather",
+      "source": "OpenWeather API",
+      "timestamp": "2026-04-29T15:56:44.267781"
     },
     {
-      "name": "sports",
       "data": {
         "source": "The Sports DB API",
         "teams": [
@@ -82,81 +81,82 @@
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-04-28T16:07:40.863266"
+        "timestamp": "2026-04-29T15:56:46.200879"
       },
-      "timestamp": "2026-04-28T16:07:40.863266",
-      "source": "The Sports DB API"
+      "name": "sports",
+      "source": "The Sports DB API",
+      "timestamp": "2026-04-29T15:56:46.200879"
     },
     {
-      "name": "tech",
       "data": {
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-04-28T13:57:19Z",
+            "published_at": "2026-04-29T15:12:14Z",
             "source": "TechCrunch",
-            "summary": "Users will be able to chat with a brand\\'s AI agent to do things like ask questions and get recommendations.",
-            "title": "Snapchat brings AI-powered conversational advertising to its app",
-            "url": "https://techcrunch.com/2026/04/28/snapchat-brings-ai-powered-conversational-advertising-to-its-app/"
+            "summary": "Uber announced several new features on Wednesday during its annual event, which push far beyond the company\\'s original ride-hailing purpose and deeper into its users\\' lives.",
+            "title": "Uber is in the hotel business now, thanks in part to AI",
+            "url": "https://techcrunch.com/2026/04/29/uber-is-in-the-hotel-business-now-thanks-in-part-to-ai/"
           },
           {
             "category": "technology",
-            "published_at": "2026-04-28T16:00:00Z",
+            "published_at": "2026-04-29T15:43:24Z",
             "source": "The Verge",
-            "summary": "Google has launched a new AI-powered feature for Translate that can help you correct and practice your enunciation when learning a new language. The \"pronunciation practice\" tool analyzes your speech ",
-            "title": "Google Translate can now help you with pronunciation",
-            "url": "https://www.theverge.com/tech/919510/google-translate-pronunciation-practice-availability"
+            "summary": "Xbox CEO Asha Sharma wants everyone to know: \"We are Xbox.\" Just last week, she scrapped Microsoft Gaming as the name of Microsoft\\'s gaming division in favor of simply Xbox. Now, to reinforce that mes",
+            "title": "Microsoft is giving its Xbox employees an Xbox email address",
+            "url": "https://www.theverge.com/report/920525/microsoft-xbox-email-address-change"
           },
           {
             "category": "technology",
-            "published_at": "2026-04-28T14:15:11Z",
+            "published_at": "2026-04-29T14:00:19Z",
             "source": "Ars Technica",
-            "summary": "Many rural communities are viscerally opposed to AI infrastructure.",
-            "title": "The great American data center divide",
-            "url": "https://arstechnica.com/ai/2026/04/rural-america-is-resisting-the-surge-in-data-center-construction/"
+            "summary": "Manufacturers backed effort to repeal the law but ultimately failed.",
+            "title": "Attempt to repeal Colorado\\'s right-to-repair law fails",
+            "url": "https://arstechnica.com/tech-policy/2026/04/attempt-to-repeal-colorados-right-to-repair-law-fails/"
           },
           {
             "category": "technology",
-            "published_at": "2026-04-28T15:00:35Z",
+            "published_at": "2026-04-29T15:00:00Z",
             "source": "Wired",
-            "summary": "On May 1, the United Arab Emirates will end its a 59-year membership in the oil consortium, allowing it to raise output during one of the most volatile energy markets in years.",
-            "title": "UAE to Exit OPEC After Nearly 60 Years",
-            "url": "https://www.wired.com/story/the-uae-will-exit-opec-after-nearly-60-years/"
+            "summary": "The Trump administration has effectively forced out more than two dozen experienced lawyers from the DOJ\\'s Voting Section, the part of the agency responsible for upholding the Voting Rights Act.",
+            "title": "How Trump Weaponized the DOJ Division That Kept Elections Fair",
+            "url": "https://www.wired.com/story/this-essential-section-of-a-government-agency-has-been-decimated/"
           },
           {
             "category": "technology",
-            "published_at": "2026-04-28T12:10:00Z",
+            "published_at": "2026-04-29T12:10:00Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Elon Musk and Sam Altman are going to court over O",
-            "title": "The Download: Musk and Altman\u2019s legal showdown, and AI\u2019s profit problem",
-            "url": "https://www.technologyreview.com/2026/04/28/1136479/the-download-musk-altman-openai-trial-ai-profit-problem/"
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. It\u2019s time to make a plan for nuclear waste Today, ",
+            "title": "The Download: storing nuclear waste and orchestrating agents",
+            "url": "https://www.technologyreview.com/2026/04/29/1136666/the-download-nuclear-waste-orchestrated-ai-agents/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-04-28T16:07:41.731451"
+        "timestamp": "2026-04-29T15:56:47.425852"
       },
-      "timestamp": "2026-04-28T16:07:41.731451",
-      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
+      "name": "tech",
+      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
+      "timestamp": "2026-04-29T15:56:47.425852"
     },
     {
-      "name": "market",
       "data": {
         "indexes": [
           {
-            "change": 12.3,
-            "change_percent": 0.17,
-            "is_positive": true,
+            "change": -34.8,
+            "change_percent": -0.49,
+            "is_positive": false,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 7151.7
+            "value": 7116.9
           }
         ],
-        "market_summary": "Markets rallied across all major indexes on positive sentiment.",
+        "market_summary": "Markets declined on concerns about economic outlook.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-04-28T16:07:42.220865"
+        "timestamp": "2026-04-29T15:56:47.842015"
       },
-      "timestamp": "2026-04-28T16:07:42.220865",
-      "source": "Alpha Vantage API (via ETF proxies)"
+      "name": "market",
+      "source": "Alpha Vantage API (via ETF proxies)",
+      "timestamp": "2026-04-29T15:56:47.842015"
     }
   ]
 }
