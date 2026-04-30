@@ -1,58 +1,59 @@
 {
-  "date": "2026-04-29",
-  "generated_at": "2026-04-29T15:56:48.000000",
+  "date": "2026-04-30",
+  "generated_at": "2026-04-30T15:48:06.798350",
   "sections": [
     {
+      "name": "weather",
       "data": {
         "current": {
           "description": "Haze",
-          "feels_like": 59.3,
-          "humidity": 74,
+          "feels_like": 56,
+          "humidity": 78,
           "icon": "50d",
-          "temp": 60.1,
-          "wind_speed": 3.4
+          "temp": 56.9,
+          "wind_speed": 0
         },
         "forecast": [
           {
-            "date": "2026-04-29",
-            "description": "Clear sky",
-            "icon": "01d",
-            "temp": 71.5
-          },
-          {
             "date": "2026-04-30",
-            "description": "Clear sky",
-            "icon": "01n",
-            "temp": 79.3
+            "description": "Scattered clouds",
+            "icon": "03d",
+            "temp": 66.9
           },
           {
             "date": "2026-05-01",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 84.1
+            "temp": 83.8
           },
           {
             "date": "2026-05-02",
             "description": "Overcast clouds",
             "icon": "04n",
-            "temp": 79.9
+            "temp": 80.5
           },
           {
             "date": "2026-05-03",
             "description": "Overcast clouds",
             "icon": "04n",
-            "temp": 70.5
+            "temp": 72.8
+          },
+          {
+            "date": "2026-05-04",
+            "description": "Scattered clouds",
+            "icon": "03n",
+            "temp": 69.7
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-04-29T15:56:44.267781"
+        "timestamp": "2026-04-30T15:48:02.918704"
       },
-      "name": "weather",
-      "source": "OpenWeather API",
-      "timestamp": "2026-04-29T15:56:44.267781"
+      "timestamp": "2026-04-30T15:48:02.918704",
+      "source": "OpenWeather API"
     },
     {
+      "name": "sports",
       "data": {
         "source": "The Sports DB API",
         "teams": [
@@ -81,82 +82,81 @@
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-04-29T15:56:46.200879"
+        "timestamp": "2026-04-30T15:48:04.702361"
       },
-      "name": "sports",
-      "source": "The Sports DB API",
-      "timestamp": "2026-04-29T15:56:46.200879"
+      "timestamp": "2026-04-30T15:48:04.702361",
+      "source": "The Sports DB API"
     },
     {
+      "name": "tech",
       "data": {
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-04-29T15:12:14Z",
+            "published_at": "2026-04-30T15:29:49Z",
             "source": "TechCrunch",
-            "summary": "Uber announced several new features on Wednesday during its annual event, which push far beyond the company\\'s original ride-hailing purpose and deeper into its users\\' lives.",
-            "title": "Uber is in the hotel business now, thanks in part to AI",
-            "url": "https://techcrunch.com/2026/04/29/uber-is-in-the-hotel-business-now-thanks-in-part-to-ai/"
+            "summary": "VC firm 137 Ventures has raised over $700 million to back growth-stage startups. Its portfolio includes SpaceX, Anduril, Hadrian.",
+            "title": "SpaceX backer 137 Ventures raises $700M for two growth-stage funds",
+            "url": "https://techcrunch.com/2026/04/30/spacex-backer-137-ventures-raises-700m-for-two-growth-stage-funds/"
           },
           {
             "category": "technology",
-            "published_at": "2026-04-29T15:43:24Z",
+            "published_at": "2026-04-30T15:37:53Z",
             "source": "The Verge",
-            "summary": "Xbox CEO Asha Sharma wants everyone to know: \"We are Xbox.\" Just last week, she scrapped Microsoft Gaming as the name of Microsoft\\'s gaming division in favor of simply Xbox. Now, to reinforce that mes",
-            "title": "Microsoft is giving its Xbox employees an Xbox email address",
-            "url": "https://www.theverge.com/report/920525/microsoft-xbox-email-address-change"
+            "summary": "Autonomous vehicles roving California's roads will no longer be immune to traffic tickets starting on July 1st. New regulations announced by the California DMV this week allow law enforcement to give ",
+            "title": "Now California&#8217;s cops can give tickets to driverless cars",
+            "url": "https://www.theverge.com/transportation/921290/california-driverless-vehicles-traffic-tickets"
           },
           {
             "category": "technology",
-            "published_at": "2026-04-29T14:00:19Z",
+            "published_at": "2026-04-30T11:00:31Z",
             "source": "Ars Technica",
-            "summary": "Manufacturers backed effort to repeal the law but ultimately failed.",
-            "title": "Attempt to repeal Colorado\\'s right-to-repair law fails",
-            "url": "https://arstechnica.com/tech-policy/2026/04/attempt-to-repeal-colorados-right-to-repair-law-fails/"
+            "summary": "Google says it respects user privacy in AI, but the reality is not so black and white.",
+            "title": "The hidden cost of Google's AI defaults and the illusion of choice",
+            "url": "https://arstechnica.com/ai/2026/04/googles-privacy-maze-how-gemini-traps-you-and-your-data/"
           },
           {
             "category": "technology",
-            "published_at": "2026-04-29T15:00:00Z",
+            "published_at": "2026-04-30T11:00:00Z",
             "source": "Wired",
-            "summary": "The Trump administration has effectively forced out more than two dozen experienced lawyers from the DOJ\\'s Voting Section, the part of the agency responsible for upholding the Voting Rights Act.",
-            "title": "How Trump Weaponized the DOJ Division That Kept Elections Fair",
-            "url": "https://www.wired.com/story/this-essential-section-of-a-government-agency-has-been-decimated/"
+            "summary": "Find and remove newsletter subscriptions more easily using Gmail\u2019s built-in tools for organizing bulk emails.",
+            "title": "Use Gmail\u2019s \u2018Manage Subscriptions\u2019 Tool to Cut Down on Inbox Clutter",
+            "url": "https://www.wired.com/story/gmail-manage-subscriptions-cut-down-on-inbox-clutter/"
           },
           {
             "category": "technology",
-            "published_at": "2026-04-29T12:10:00Z",
+            "published_at": "2026-04-30T12:10:00Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. It\u2019s time to make a plan for nuclear waste Today, ",
-            "title": "The Download: storing nuclear waste and orchestrating agents",
-            "url": "https://www.technologyreview.com/2026/04/29/1136666/the-download-nuclear-waste-orchestrated-ai-agents/"
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. Digging for clues about the North Pole\u2019s past In t",
+            "title": "The Download: the North Pole\u2019s future and humanoid data",
+            "url": "https://www.technologyreview.com/2026/04/30/1136713/the-download-north-pole-future-humanoid-data/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-04-29T15:56:47.425852"
+        "timestamp": "2026-04-30T15:48:05.282019"
       },
-      "name": "tech",
-      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-      "timestamp": "2026-04-29T15:56:47.425852"
+      "timestamp": "2026-04-30T15:48:05.282019",
+      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
+      "name": "market",
       "data": {
         "indexes": [
           {
-            "change": -34.8,
-            "change_percent": -0.49,
+            "change": -1.1,
+            "change_percent": -0.02,
             "is_positive": false,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 7116.9
+            "value": 7115.8
           }
         ],
         "market_summary": "Markets declined on concerns about economic outlook.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-04-29T15:56:47.842015"
+        "timestamp": "2026-04-30T15:48:05.612709"
       },
-      "name": "market",
-      "source": "Alpha Vantage API (via ETF proxies)",
-      "timestamp": "2026-04-29T15:56:47.842015"
+      "timestamp": "2026-04-30T15:48:05.612709",
+      "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
 }
