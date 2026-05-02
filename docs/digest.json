@@ -1,162 +1,162 @@
 {
-  "date": "2026-04-30",
-  "generated_at": "2026-04-30T15:48:06.798350",
+  "date": "2026-05-02",
+  "generated_at": "2026-05-02T14:49:22.426097",
   "sections": [
     {
-      "name": "weather",
       "data": {
         "current": {
           "description": "Haze",
-          "feels_like": 56,
-          "humidity": 78,
+          "feels_like": 55.3,
+          "humidity": 86,
           "icon": "50d",
-          "temp": 56.9,
-          "wind_speed": 0
+          "temp": 56,
+          "wind_speed": 6.9
         },
         "forecast": [
           {
-            "date": "2026-04-30",
-            "description": "Scattered clouds",
-            "icon": "03d",
-            "temp": 66.9
-          },
-          {
-            "date": "2026-05-01",
-            "description": "Clear sky",
-            "icon": "01n",
-            "temp": 83.8
-          },
-          {
             "date": "2026-05-02",
             "description": "Overcast clouds",
-            "icon": "04n",
-            "temp": 80.5
+            "icon": "04d",
+            "temp": 61.7
           },
           {
             "date": "2026-05-03",
             "description": "Overcast clouds",
             "icon": "04n",
-            "temp": 72.8
+            "temp": 74
           },
           {
             "date": "2026-05-04",
-            "description": "Scattered clouds",
-            "icon": "03n",
-            "temp": 69.7
+            "description": "Broken clouds",
+            "icon": "04n",
+            "temp": 70.1
+          },
+          {
+            "date": "2026-05-05",
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 69.8
+          },
+          {
+            "date": "2026-05-06",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 78.8
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-04-30T15:48:02.918704"
+        "timestamp": "2026-05-02T14:49:17.245263"
       },
-      "timestamp": "2026-04-30T15:48:02.918704",
-      "source": "OpenWeather API"
+      "name": "weather",
+      "source": "OpenWeather API",
+      "timestamp": "2026-05-02T14:49:17.245263"
     },
     {
-      "name": "sports",
       "data": {
         "source": "The Sports DB API",
         "teams": [
           {
-            "latest_game": "L 3-13 vs Seahawks (2026-01-04)",
-            "league": "NFL",
+            "latest_game": "L 0-1 vs Arsenal (2026-04-25)",
+            "league": "English Premier League",
             "name": "San Francisco 49ers",
-            "next_game": "No upcoming games scheduled",
+            "next_game": "@ Arsenal on 2026-05-02",
             "record": "Season in progress",
             "standings": "N/A"
           },
           {
-            "latest_game": "L 3-4 vs Canucks (2026-04-12)",
-            "league": "NHL",
+            "latest_game": "L 0-1 vs Arsenal (2026-04-25)",
+            "league": "English Premier League",
             "name": "San Jose Sharks",
-            "next_game": "No upcoming games scheduled",
+            "next_game": "@ Arsenal on 2026-05-02",
             "record": "Season in progress",
             "standings": "N/A"
           },
           {
-            "latest_game": "L 103-119 vs Lakers (2026-04-10)",
-            "league": "NBA",
+            "latest_game": "L 0-1 vs Arsenal (2026-04-25)",
+            "league": "English Premier League",
             "name": "Golden State Warriors",
-            "next_game": "No upcoming games scheduled",
+            "next_game": "@ Arsenal on 2026-05-02",
             "record": "Season in progress",
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-04-30T15:48:04.702361"
+        "timestamp": "2026-05-02T14:49:20.567140"
       },
-      "timestamp": "2026-04-30T15:48:04.702361",
-      "source": "The Sports DB API"
+      "name": "sports",
+      "source": "The Sports DB API",
+      "timestamp": "2026-05-02T14:49:20.567140"
     },
     {
-      "name": "tech",
       "data": {
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-04-30T15:29:49Z",
+            "published_at": "2026-05-02T14:00:00Z",
             "source": "TechCrunch",
-            "summary": "VC firm 137 Ventures has raised over $700 million to back growth-stage startups. Its portfolio includes SpaceX, Anduril, Hadrian.",
-            "title": "SpaceX backer 137 Ventures raises $700M for two growth-stage funds",
-            "url": "https://techcrunch.com/2026/04/30/spacex-backer-137-ventures-raises-700m-for-two-growth-stage-funds/"
+            "summary": "It is not that European startups never get attention \u2014 Lovable and Mistral AI are proof of that. But there are many more that insiders are tracking.",
+            "title": "Beyond Lovable and Mistral: 21 European startups to watch",
+            "url": "https://techcrunch.com/2026/05/02/beyond-lovable-and-mistral-21-european-startups-to-watch/"
           },
           {
             "category": "technology",
-            "published_at": "2026-04-30T15:37:53Z",
+            "published_at": "2026-05-01T22:31:00Z",
             "source": "The Verge",
-            "summary": "Autonomous vehicles roving California's roads will no longer be immune to traffic tickets starting on July 1st. New regulations announced by the California DMV this week allow law enforcement to give ",
-            "title": "Now California&#8217;s cops can give tickets to driverless cars",
-            "url": "https://www.theverge.com/transportation/921290/california-driverless-vehicles-traffic-tickets"
+            "summary": "Nintendo recently announced a new pricing policy, which knocks $10 off the cost of digital versions of future first-party titles exclusive to the Nintendo Switch 2. Splatoon Raiders, for instance, is ",
+            "title": "Splatoon Raiders preorders for the Switch 2 are nearly 20 percent off",
+            "url": "https://www.theverge.com/gadgets/920848/splatoon-raiders-physical-edition-preorder-switch-2-walmart-deal-sale"
           },
           {
             "category": "technology",
-            "published_at": "2026-04-30T11:00:31Z",
+            "published_at": "2026-05-01T22:23:36Z",
             "source": "Ars Technica",
-            "summary": "Google says it respects user privacy in AI, but the reality is not so black and white.",
-            "title": "The hidden cost of Google's AI defaults and the illusion of choice",
-            "url": "https://arstechnica.com/ai/2026/04/googles-privacy-maze-how-gemini-traps-you-and-your-data/"
+            "summary": "Overtuning can cause models to \"prioritize user satisfaction over truthfulness.\u201d",
+            "title": "Study: AI models that consider user\\'s feeling are more likely to make errors",
+            "url": "https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/"
           },
           {
             "category": "technology",
-            "published_at": "2026-04-30T11:00:00Z",
+            "published_at": "2026-05-02T10:14:00Z",
             "source": "Wired",
-            "summary": "Find and remove newsletter subscriptions more easily using Gmail\u2019s built-in tools for organizing bulk emails.",
-            "title": "Use Gmail\u2019s \u2018Manage Subscriptions\u2019 Tool to Cut Down on Inbox Clutter",
-            "url": "https://www.wired.com/story/gmail-manage-subscriptions-cut-down-on-inbox-clutter/"
+            "summary": "If you\\'re an iPhone user, the Apple AirPods Max 2 are still the best over-ear headphones you can buy.",
+            "title": "Apple AirPods Max 2 Review: The Best Over-Ears for iOS",
+            "url": "https://www.wired.com/review/apple-airpods-max-2/"
           },
           {
             "category": "technology",
-            "published_at": "2026-04-30T12:10:00Z",
+            "published_at": "2026-05-01T22:08:19Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what's going on in the world of technology. Digging for clues about the North Pole\u2019s past In t",
-            "title": "The Download: the North Pole\u2019s future and humanoid data",
-            "url": "https://www.technologyreview.com/2026/04/30/1136713/the-download-north-pole-future-humanoid-data/"
+            "summary": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived h",
+            "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI\u2019s models",
+            "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-04-30T15:48:05.282019"
+        "timestamp": "2026-05-02T14:49:21.708674"
       },
-      "timestamp": "2026-04-30T15:48:05.282019",
-      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
+      "name": "tech",
+      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
+      "timestamp": "2026-05-02T14:49:21.708674"
     },
     {
-      "name": "market",
       "data": {
         "indexes": [
           {
-            "change": -1.1,
-            "change_percent": -0.02,
-            "is_positive": false,
+            "change": 19.9,
+            "change_percent": 0.28,
+            "is_positive": true,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 7115.8
+            "value": 7206.5
           }
         ],
-        "market_summary": "Markets declined on concerns about economic outlook.",
+        "market_summary": "Markets rallied across all major indexes on positive sentiment.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-04-30T15:48:05.612709"
+        "timestamp": "2026-05-02T14:49:22.129661"
       },
-      "timestamp": "2026-04-30T15:48:05.612709",
-      "source": "Alpha Vantage API (via ETF proxies)"
+      "name": "market",
+      "source": "Alpha Vantage API (via ETF proxies)",
+      "timestamp": "2026-05-02T14:49:22.129661"
     }
   ]
 }
