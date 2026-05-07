@@ -1,60 +1,60 @@
 {
-  "date": "2026-05-06",
-  "generated_at": "2026-05-06T16:02:57.716599",
+  "date": "2026-05-07",
+  "generated_at": "2026-05-07T16:06:48.123456Z",
   "sections": [
     {
-      "name": "weather",
       "data": {
         "current": {
           "description": "Overcast clouds",
-          "feels_like": 59.2,
-          "humidity": 77,
+          "feels_like": 56.1,
+          "humidity": 89,
           "icon": "04d",
-          "temp": 59.9,
-          "wind_speed": 3.4
+          "temp": 56.5,
+          "wind_speed": 5.8
         },
         "forecast": [
           {
-            "date": "2026-05-06",
+            "date": "2026-05-07",
             "description": "Broken clouds",
             "icon": "04d",
-            "temp": 67.1
-          },
-          {
-            "date": "2026-05-07",
-            "description": "Clear sky",
-            "icon": "01n",
-            "temp": 79.8
+            "temp": 69.6
           },
           {
             "date": "2026-05-08",
             "description": "Few clouds",
             "icon": "02n",
-            "temp": 79.4
+            "temp": 78.9
           },
           {
             "date": "2026-05-09",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 84.2
+            "temp": 84.9
           },
           {
             "date": "2026-05-10",
-            "description": "Few clouds",
-            "icon": "02n",
-            "temp": 90.1
+            "description": "Scattered clouds",
+            "icon": "03n",
+            "temp": 91.3
+          },
+          {
+            "date": "2026-05-11",
+            "description": "Broken clouds",
+            "icon": "04n",
+            "temp": 97.2
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-05-06T16:02:54.323174"
+        "timestamp": "2026-05-07T16:06:45.417634"
       },
-      "timestamp": "2026-05-06T16:02:54.323174",
-      "source": "OpenWeather API"
+      "name": "weather",
+      "source": "OpenWeather API",
+      "timestamp": "2026-05-07T16:06:45.417634"
     },
     {
-      "name": "sports",
       "data": {
+        "source": "The Sports DB API",
         "teams": [
           {
             "latest_game": "L 0-1 vs Arsenal (2026-05-05)",
@@ -81,82 +81,82 @@
             "standings": "N/A"
           }
         ],
-        "source": "The Sports DB API",
-        "timestamp": "2026-05-06T16:02:55.931704"
+        "timestamp": "2026-05-07T16:06:46.802484"
       },
-      "timestamp": "2026-05-06T16:02:55.931704",
-      "source": "The Sports DB API"
+      "name": "sports",
+      "source": "The Sports DB API",
+      "timestamp": "2026-05-07T16:06:46.802484"
     },
     {
-      "name": "tech",
       "data": {
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-05-06T15:49:39Z",
+            "published_at": "2026-05-07T15:35:38Z",
             "source": "TechCrunch",
-            "summary": "While citing web forums and discussion boards can help users find answers to more niche queries, this design choice could also prove chaotic.",
-            "title": "Google updates AI search to include \u2018expert advice\u2019 from Reddit and other web forums",
-            "url": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/"
+            "summary": "The Gemini-powered health coach will act as a combination fitness coach, sleep expert, and health and wellness advisor.",
+            "title": "Google\u2019s $9.99-per-month AI health coach launches May 19",
+            "url": "https://techcrunch.com/2026/05/07/googles-9-99-per-month-ai-health-coach-launches-may-19/"
           },
           {
             "category": "technology",
-            "published_at": "2026-05-06T15:37:32Z",
+            "published_at": "2026-05-07T16:00:00Z",
             "source": "The Verge",
-            "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni",
-            "title": "Live updates from Elon Musk and Sam Altman\u2019s court battle over the future of OpenAI",
-            "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit"
+            "summary": "I'm lying in the dirt. It's coming for me. Then, with a lurch, it's climbing up my chest. If Andreas Makris doesn't stop the 200-pound robot lawn mower in time, it could drag its blades across my body",
+            "title": "A hacker ran me over with a robot lawn mower",
+            "url": "https://www.theverge.com/tech/925696/yarbo-robot-lawn-mower-hack-remote-control-camera-access-mqtt"
           },
           {
             "category": "technology",
-            "published_at": "2026-05-05T22:28:12Z",
+            "published_at": "2026-05-07T13:51:50Z",
             "source": "Ars Technica",
-            "summary": "Elon Musk argued the journals show the moment when OpenAI abandoned its mission.",
-            "title": "OpenAI president forced to read his personal diary entries to jury",
-            "url": "https://arstechnica.com/tech-policy/2026/05/openai-president-explains-to-jury-why-his-diary-entries-sound-greedy/"
+            "summary": "As social media splinters, how can we keep the new online spaces from devolving into toxic pits of despair?",
+            "title": "RIP social media. What comes next is messy.",
+            "url": "https://arstechnica.com/science/2026/05/rip-social-media-what-comes-next-is-messy/"
           },
           {
             "category": "technology",
-            "published_at": "2026-05-06T15:49:12Z",
+            "published_at": "2026-05-07T14:00:00Z",
             "source": "Wired",
-            "summary": "It's not just you. Hackers and other cybercriminals are complaining about \u201cAI shit\u201d flooding platforms where they discuss cyberattacks and other illegal activity.",
-            "title": "Cybercriminals Are Complaining About AI Slop Flooding Their Forums",
-            "url": "https://www.wired.com/story/cybercriminals-are-complaining-about-ai-slop-flooding-their-forums/"
+            "summary": "Google is sunsetting Google Fit by year\u2019s end. While Fitbit remains very much alive, the rebranded Google Health app is your one-stop shop for all things health and fitness.",
+            "title": "Google Is Rebranding the Fitbit App to \u2018Google Health\u2019",
+            "url": "https://www.wired.com/story/google-is-rebranding-the-fitbit-app-to-google-health/"
           },
           {
             "category": "technology",
-            "published_at": "2026-05-06T12:10:00Z",
+            "published_at": "2026-05-07T12:10:00Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Inexpensive seafloor-hopping submersibles could st",
-            "title": "The Download: seafloor science and military chatbots",
-            "url": "https://www.technologyreview.com/2026/05/06/1136917/the-download-seafloor-science-military-ai-chatbots/"
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What\u2019s next for IVF IVF has brought millions of ba",
+            "title": "The Download: the tech reshaping IVF and the rise of balcony solar",
+            "url": "https://www.technologyreview.com/2026/05/07/1136956/the-download-ivf-tech-balcony-solar/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-05-06T16:02:56.664698"
+        "timestamp": "2026-05-07T16:06:47.730956"
       },
-      "timestamp": "2026-05-06T16:02:56.664698",
-      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
+      "name": "tech",
+      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
+      "timestamp": "2026-05-07T16:06:47.730956"
     },
     {
-      "name": "market",
       "data": {
         "indexes": [
           {
-            "change": 57.6,
-            "change_percent": 0.8,
+            "change": 100.6,
+            "change_percent": 1.39,
             "is_positive": true,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 7237.7
+            "value": 7338.3
           }
         ],
         "market_summary": "Markets rallied across all major indexes on positive sentiment.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-05-06T16:02:56.936476"
+        "timestamp": "2026-05-07T16:06:47.910574"
       },
-      "timestamp": "2026-05-06T16:02:56.936476",
-      "source": "Alpha Vantage API (via ETF proxies)"
+      "name": "market",
+      "source": "Alpha Vantage API (via ETF proxies)",
+      "timestamp": "2026-05-07T16:06:47.910574"
     }
   ]
 }
