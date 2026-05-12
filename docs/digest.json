@@ -1,6 +1,162 @@
 {
-  "date": "2026-05-11",
-  "generated_at": "2026-05-11T16:32:59.865670",
-  "sections": [],
-  "raw_response": "I am sorry, but I cannot fulfill this request as it requires specific date information (\"2026-05-11\") which is not current. I can only fetch and provide information from the last 24 hours."
+  "date": "2026-05-12",
+  "generated_at": "2026-05-12T16:18:47.000000",
+  "sections": [
+    {
+      "data": {
+        "current": {
+          "description": "Overcast clouds",
+          "feels_like": 59.6,
+          "humidity": 82,
+          "icon": "04d",
+          "temp": 60.1,
+          "wind_speed": 5.8
+        },
+        "forecast": [
+          {
+            "date": "2026-05-12",
+            "description": "Overcast clouds",
+            "icon": "04d",
+            "temp": 63.8
+          },
+          {
+            "date": "2026-05-13",
+            "description": "Few clouds",
+            "icon": "02n",
+            "temp": 74.7
+          },
+          {
+            "date": "2026-05-14",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 84.9
+          },
+          {
+            "date": "2026-05-15",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 83.6
+          },
+          {
+            "date": "2026-05-16",
+            "description": "Scattered clouds",
+            "icon": "03n",
+            "temp": 77
+          }
+        ],
+        "location": "San Jose",
+        "source": "OpenWeather API",
+        "timestamp": "2026-05-12T16:18:42.839644"
+      },
+      "name": "weather",
+      "source": "OpenWeather API",
+      "timestamp": "2026-05-12T16:18:42.839644"
+    },
+    {
+      "data": {
+        "source": "The Sports DB API",
+        "teams": [
+          {
+            "latest_game": "L 0-1 vs Arsenal (2026-05-05)",
+            "league": "English Premier League",
+            "name": "San Francisco 49ers",
+            "next_game": "@ Arsenal on 2026-05-18",
+            "record": "Season in progress",
+            "standings": "N/A"
+          },
+          {
+            "latest_game": "L 0-1 vs Arsenal (2026-05-05)",
+            "league": "English Premier League",
+            "name": "San Jose Sharks",
+            "next_game": "@ Arsenal on 2026-05-18",
+            "record": "Season in progress",
+            "standings": "N/A"
+          },
+          {
+            "latest_game": "L 0-1 vs Arsenal (2026-05-05)",
+            "league": "English Premier League",
+            "name": "Golden State Warriors",
+            "next_game": "@ Arsenal on 2026-05-18",
+            "record": "Season in progress",
+            "standings": "N/A"
+          }
+        ],
+        "timestamp": "2026-05-12T16:18:44.670747"
+      },
+      "name": "sports",
+      "source": "The Sports DB API",
+      "timestamp": "2026-05-12T16:18:44.670747"
+    },
+    {
+      "data": {
+        "articles": [
+          {
+            "category": "technology",
+            "published_at": "2026-05-12T15:07:37Z",
+            "source": "TechCrunch",
+            "summary": "The round valued the three-year-old startup at $725 million.",
+            "title": "Exaforce raises $125M Series B to build AI for catching and stopping cyberattacks as they happen",
+            "url": "https://techcrunch.com/2026/05/12/exaforce-raises-125m-series-b-to-build-ai-for-catching-and-stopping-cyberattacks-as-they-happen/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-05-12T16:05:20Z",
+            "source": "The Verge",
+            "summary": "OpenAI CEO Sam Altman has begun his testimony against Elon Musk in a high-profile jury trial in a California federal courtroom. Altman, alongside OpenAI president Greg Brockman, is a primary defendant",
+            "title": "Sam Altman takes the stand in trial against Elon Musk",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/916975/altman-takes-stand-elon-musk-openai-trial"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-05-12T13:33:05Z",
+            "source": "Ars Technica",
+            "summary": "Workers are using an internal AI tool to automate non-essential tasks.",
+            "title": "Amazon employees are \"tokenmaxxing\" due to pressure to use AI tools",
+            "url": "https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-05-12T14:53:56Z",
+            "source": "Wired",
+            "summary": "From claims of an Israeli false flag to efforts to sell ivermectin, influencers and grifters are using lessons learned from Covid-19 to push their baseless conspiracy theories.",
+            "title": "Hantavirus Conspiracy Theories Are Already Spreading Online",
+            "url": "https://www.wired.com/story/hantavirus-conspiracy-theories-are-already-spreading-online/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-05-12T12:10:00Z",
+            "source": "MIT Technology Review",
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Three things in AI to watch, according to a Nobel-",
+            "title": "The Download: a Nobel winner on AI, and the case for fixing everything",
+            "url": "https://www.technologyreview.com/2026/05/12/1137103/the-download-nobel-winner-ai-maintenance-of-everything/"
+          }
+        ],
+        "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
+        "timestamp": "2026-05-12T16:18:45.654569"
+      },
+      "name": "tech",
+      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
+      "timestamp": "2026-05-12T16:18:45.654569"
+    },
+    {
+      "data": {
+        "indexes": [
+          {
+            "change": 16.8,
+            "change_percent": 0.23,
+            "is_positive": true,
+            "name": "S&P 500",
+            "symbol": "^GSPC",
+            "value": 7393
+          }
+        ],
+        "market_summary": "Markets rallied across all major indexes on positive sentiment.",
+        "source": "Alpha Vantage API (via ETF proxies)",
+        "timestamp": "2026-05-12T16:18:46.052409"
+      },
+      "name": "market",
+      "source": "Alpha Vantage API (via ETF proxies)",
+      "timestamp": "2026-05-12T16:18:46.052409"
+    }
+  ]
 }
