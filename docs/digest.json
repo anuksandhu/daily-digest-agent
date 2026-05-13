@@ -1,56 +1,56 @@
 {
-  "date": "2026-05-12",
-  "generated_at": "2026-05-12T16:18:47.000000",
+  "date": "2026-05-13",
+  "generated_at": "2026-05-13T16:19:37.406837",
   "sections": [
     {
       "data": {
         "current": {
-          "description": "Overcast clouds",
-          "feels_like": 59.6,
-          "humidity": 82,
+          "description": "Broken clouds",
+          "feels_like": 61.2,
+          "humidity": 71,
           "icon": "04d",
-          "temp": 60.1,
-          "wind_speed": 5.8
+          "temp": 61.9,
+          "wind_speed": 9.2
         },
         "forecast": [
           {
-            "date": "2026-05-12",
-            "description": "Overcast clouds",
-            "icon": "04d",
-            "temp": 63.8
-          },
-          {
             "date": "2026-05-13",
-            "description": "Few clouds",
-            "icon": "02n",
-            "temp": 74.7
+            "description": "Broken clouds",
+            "icon": "04d",
+            "temp": 62.1
           },
           {
             "date": "2026-05-14",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 84.9
+            "temp": 85.7
           },
           {
             "date": "2026-05-15",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 83.6
+            "temp": 84.3
           },
           {
             "date": "2026-05-16",
-            "description": "Scattered clouds",
-            "icon": "03n",
-            "temp": 77
+            "description": "Few clouds",
+            "icon": "02n",
+            "temp": 79.1
+          },
+          {
+            "date": "2026-05-17",
+            "description": "Broken clouds",
+            "icon": "04n",
+            "temp": 76.6
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-05-12T16:18:42.839644"
+        "timestamp": "2026-05-13T16:19:33.846331"
       },
       "name": "weather",
       "source": "OpenWeather API",
-      "timestamp": "2026-05-12T16:18:42.839644"
+      "timestamp": "2026-05-13T16:19:33.846331"
     },
     {
       "data": {
@@ -81,82 +81,82 @@
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-05-12T16:18:44.670747"
+        "timestamp": "2026-05-13T16:19:35.162806"
       },
       "name": "sports",
       "source": "The Sports DB API",
-      "timestamp": "2026-05-12T16:18:44.670747"
+      "timestamp": "2026-05-13T16:19:35.162806"
     },
     {
       "data": {
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-05-12T15:07:37Z",
+            "published_at": "2026-05-13T15:39:37Z",
             "source": "TechCrunch",
-            "summary": "The round valued the three-year-old startup at $725 million.",
-            "title": "Exaforce raises $125M Series B to build AI for catching and stopping cyberattacks as they happen",
-            "url": "https://techcrunch.com/2026/05/12/exaforce-raises-125m-series-b-to-build-ai-for-catching-and-stopping-cyberattacks-as-they-happen/"
+            "summary": "A ransomware group has claimed responsibility for hacking the electronics manufacturing giant Foxconn, and is attempting to extort the company.",
+            "title": "Ransomware hackers claim breach at Foxconn, a major electronics manufacturer for Apple, Google, and Nvidia",
+            "url": "https://techcrunch.com/2026/05/13/ransomware-hackers-claim-breach-at-foxconn-a-major-electronics-manufacturer-for-apple-google-and-nvidia/"
           },
           {
             "category": "technology",
-            "published_at": "2026-05-12T16:05:20Z",
+            "published_at": "2026-05-13T15:28:21Z",
             "source": "The Verge",
-            "summary": "OpenAI CEO Sam Altman has begun his testimony against Elon Musk in a high-profile jury trial in a California federal courtroom. Altman, alongside OpenAI president Greg Brockman, is a primary defendant",
-            "title": "Sam Altman takes the stand in trial against Elon Musk",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/916975/altman-takes-stand-elon-musk-openai-trial"
+            "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni",
+            "title": "Live updates from Elon Musk and Sam Altman\u2019s court battle over the future of OpenAI",
+            "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit"
           },
           {
             "category": "technology",
-            "published_at": "2026-05-12T13:33:05Z",
+            "published_at": "2026-05-13T13:15:19Z",
             "source": "Ars Technica",
-            "summary": "Workers are using an internal AI tool to automate non-essential tasks.",
-            "title": "Amazon employees are \"tokenmaxxing\" due to pressure to use AI tools",
-            "url": "https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/"
+            "summary": "Cinematographer Hillary Fyfe Spera on how she kept things visually fresh for Born Again\u2019s second season.",
+            "title": "Daredevil: Born Again S2 gives us a darker, grittier canvas",
+            "url": "https://arstechnica.com/culture/2026/05/daredevil-born-again-s2-gives-us-a-darker-grittier-canvas/"
           },
           {
             "category": "technology",
-            "published_at": "2026-05-12T14:53:56Z",
+            "published_at": "2026-05-13T14:00:00Z",
             "source": "Wired",
-            "summary": "From claims of an Israeli false flag to efforts to sell ivermectin, influencers and grifters are using lessons learned from Covid-19 to push their baseless conspiracy theories.",
-            "title": "Hantavirus Conspiracy Theories Are Already Spreading Online",
-            "url": "https://www.wired.com/story/hantavirus-conspiracy-theories-are-already-spreading-online/"
+            "summary": "The company says its new Incognito Chat allows you to use its AI chatbot without anyone else\u2014including Meta\u2014being able to access your conversations.",
+            "title": "WhatsApp Adds Meta AI Chats That Are Built to Be Fully Private",
+            "url": "https://www.wired.com/story/whatsapp-incognito-chat-meta-ai/"
           },
           {
             "category": "technology",
-            "published_at": "2026-05-12T12:10:00Z",
+            "published_at": "2026-05-13T12:10:00Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Three things in AI to watch, according to a Nobel-",
-            "title": "The Download: a Nobel winner on AI, and the case for fixing everything",
-            "url": "https://www.technologyreview.com/2026/05/12/1137103/the-download-nobel-winner-ai-maintenance-of-everything/"
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A plan to make drugs in orbit is going commercial ",
+            "title": "The Download: making drugs in orbit and NASA\u2019s nuclear-powered spacecraft",
+            "url": "https://www.technologyreview.com/2026/05/13/1137176/the-download-drugs-in-orbit-nasa-nuclear-spacecraft/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-05-12T16:18:45.654569"
+        "timestamp": "2026-05-13T16:19:36.135645"
       },
       "name": "tech",
       "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-      "timestamp": "2026-05-12T16:18:45.654569"
+      "timestamp": "2026-05-13T16:19:36.135645"
     },
     {
       "data": {
         "indexes": [
           {
-            "change": 16.8,
-            "change_percent": 0.23,
-            "is_positive": true,
+            "change": -11.2,
+            "change_percent": -0.15,
+            "is_positive": false,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 7393
+            "value": 7381.8
           }
         ],
-        "market_summary": "Markets rallied across all major indexes on positive sentiment.",
+        "market_summary": "Markets declined on concerns about economic outlook.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-05-12T16:18:46.052409"
+        "timestamp": "2026-05-13T16:19:36.474775"
       },
       "name": "market",
       "source": "Alpha Vantage API (via ETF proxies)",
-      "timestamp": "2026-05-12T16:18:46.052409"
+      "timestamp": "2026-05-13T16:19:36.474775"
     }
   ]
 }
