@@ -1,6 +1,178 @@
 {
-  "date": "2026-05-14",
-  "generated_at": "2026-05-14T16:10:07.796469",
-  "sections": [],
-  "raw_response": "{\"date\": \"2026-05-14\", \"generated_at\": \"2026-05-14T16:09:56.214611\", \"sections\": [{\"data\": {\"current\": {\"description\": \"Clear sky\", \"feels_like\": 62.3, \"humidity\": 61, \"icon\": \"01d\", \"temp\": 63.4, \"wind_speed\": 2}, \"forecast\": [{\"date\": \"2026-05-14\", \"description\": \"Clear sky\", \"icon\": \"01d\", \"temp\": 72}, {\"date\": \"2026-05-15\", \"description\": \"Clear sky\", \"icon\": \"01n\", \"temp\": 81.9}, {\"date\": \"2026-05-16\", \"description\": \"Clear sky\", \"icon\": \"01n\", \"temp\": 79.3}, {\"date\": \"2026-05-17\", \"description\": \"Scattered clouds\", \"icon\": \"03n\", \"temp\": 79}, {\"date\": \"2026-05-18\", \"description\": \"Clear sky\", \"icon\": \"01n\", \"temp\": 86.7}], \"location\": \"San Jose\", \"source\": \"OpenWeather API\", \"timestamp\": \"2026-05-14T16:09:53.076431\"}, \"name\": \"weather\", \"source\": \"OpenWeather API\", \"timestamp\": \"2026-05-14T16:09:53.076431\"}, {\"data\": {\"source\": \"The Sports DB API\", \"teams\": [{\"latest_game\": \"L 0-1 vs Arsenal (2026-05-05)\", \"league\": \"English Premier League\", \"name\": \"San Francisco 49ers\", \"next_game\": \"@ Arsenal on 2026-05-18\", \"record\": \"Season in progress\", \"standings\": \"N/A\"}, {\"latest_game\": \"L 0-1 vs Arsenal (2026-05-05)\", \"league\": \"English Premier League\", \"name\": \"San Jose Sharks\", \"next_game\": \"@ Arsenal on 2026-05-18\", \"record\": \"Season in progress\", \"standings\": \"N/A\"}, {\"latest_game\": \"L 0-1 vs Arsenal (2026-05-05)\", \"league\": \"English Premier League\", \"name\": \"Golden State Warriors\", \"next_game\": \"@ Arsenal on 2026-05-18\", \"record\": \"Season in progress\", \"standings\": \"N/A\"}], \"timestamp\": \"2026-05-14T16:09:54.391916\"}, \"name\": \"sports\", \"source\": \"The Sports DB API\", \"timestamp\": \"2026-05-14T16:09:54.391916\"}, {\"data\": {\"articles\": [{\"category\": \"technology\", \"published_at\": \"2026-05-14T15:42:18Z\", \"source\": \"TechCrunch\", \"summary\": \"Spotify will let creators distribute and monetize video podcasts on Apple Podcasts using Apple\u2019s HLS streaming technology, without changing their existing workflows.\", \"title\": \"Spotify to adopt Apple\u2019s new video podcast tech, offering creators easier cross-platform distribution\", \"url\": \"https://techcrunch.com/2026/05/14/spotify-to-adopt-apples-new-video-podcast-tech-offering-creators-easier-cross-platform-distribution/\"}, {\"category\": \"technology\", \"published_at\": \"2026-05-14T15:46:04Z\", \"source\": \"The Verge\", \"summary\": \"Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni\", \"title\": \"Live updates from Elon Musk and Sam Altman\u2019s court battle over the future of OpenAI\", \"url\": \"https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit\"}, {\"category\": \"technology\", \"published_at\": \"2026-05-14T11:00:58Z\", \"source\": \"Ars Technica\", \"summary\": \"Xi meeting may force Trump to pivot on chip restrictions and Taiwan.\", \"title\": \"Desperate Trump taps \\\"Tim Apple,\\\" Jensen Huang, Elon Musk to attend Xi summit\", \"url\": \"https://arstechnica.com/tech-policy/2026/05/desperate-trump-taps-tim-apple-jensen-huang-elon-musk-to-attend-xi-summit/\"}, {\"category\": \"technology\", \"published_at\": \"2026-05-14T12:52:28Z\", \"source\": \"Wired\", \"summary\": \"Watch fans spent a week falling in love with colorful Royal Oak wristwatches that didn\u2019t exist\u2014then the real thing arrived. Now, fantasy is becoming a manufacturing opportunity.\", \"title\": \"AI Promised the Audemars Piguet x Swatch Wristwatch. China Will Deliver It\", \"url\": \"https://www.wired.com/story/ai-ruined-the-audemars-piguet-x-swatch-collaboration-china-could-save-it/\"}, {\"category\": \"technology\", \"published_at\": \"2026-05-14T13:00:00Z\", \"source\": \"MIT Technology Review\", \"summary\": \"Financial services companies have unique needs when it comes to business AI. They operate in one of the most highly regulated sectors while responding to external events that are updated by the second\", \"title\": \"Data readiness for agentic AI in financial services\", \"url\": \"https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/\"}], \"source\": \"RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)\", \"timestamp\": \"2026-05-14T16:09:55.312021\"}, \"name\": \"tech\", \"source\": \"RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)\", \"timestamp\": \"2026-05-14T16:09:55.312021\"}, {\"data\": {\"indexes\": [{\"change\": 41.3, \"change_percent\": 0.56, \"is_positive\": True, \"name\": \"S&P 500\", \"symbol\": \"^GSPC\", \"value\": 7423.1}], \"market_summary\": \"Markets rallied across all major indexes on positive sentiment.\", \"source\": \"Alpha Vantage API (via ETF proxies)\", \"timestamp\": \"2026-05-14T16:09:55.561144\"}, \"name\": \"market\", \"source\": \"Alpha Vantage API (via ETF proxies)\", \"timestamp\": \"2026-05-14T16:09:55.561144\"}]}\n{\"date\": \"2026-05-14\", \"generated_at\": \"2026-05-14T16:09:56.214611\", \"sections\": [{\"data\": {\"current\": {\"description\": \"Clear sky\", \"feels_like\": 62.3, \"humidity\": 61, \"icon\": \"01d\", \"temp\": 63.4, \"wind_speed\": 2}, \"forecast\": [{\"date\": \"2026-05-14\", \"description\": \"Clear sky\", \"icon\": \"01d\", \"temp\": 72}, {\"date\": \"2026-05-15\", \"description\": \"Clear sky\", \"icon\": \"01n\", \"temp\": 81.9}, {\"date\": \"2026-05-16\", \"description\": \"Clear sky\", \"icon\": \"01n\", \"temp\": 79.3}, {\"date\": \"2026-05-17\", \"description\": \"Scattered clouds\", \"icon\": \"03n\", \"temp\": 79}, {\"date\": \"2026-05-18\", \"description\": \"Clear sky\", \"icon\": \"01n\", \"temp\": 86.7}], \"location\": \"San Jose\", \"source\": \"OpenWeather API\", \"timestamp\": \"2026-05-14T16:09:53.076431\"}, \"name\": \"weather\", \"source\": \"OpenWeather API\", \"timestamp\": \"2026-05-14T16:09:53.076431\"}, {\"data\": {\"source\": \"The Sports DB API\", \"teams\": [{\"latest_game\": \"L 0-1 vs Arsenal (2026-05-05)\", \"league\": \"English Premier League\", \"name\": \"San Francisco 49ers\", \"next_game\": \"@ Arsenal on 2026-05-18\", \"record\": \"Season in progress\", \"standings\": \"N/A\"}, {\"latest_game\": \"L 0-1 vs Arsenal (2026-05-05)\", \"league\": \"English Premier League\", \"name\": \"San Jose Sharks\", \"next_game\": \"@ Arsenal on 2026-05-18\", \"record\": \"Season in progress\", \"standings\": \"N/A\"}, {\"latest_game\": \"L 0-1 vs Arsenal (2026-05-05)\", \"league\": \"English Premier League\", \"name\": \"Golden State Warriors\", \"next_game\": \"@ Arsenal on 2026-05-18\", \"record\": \"Season in progress\", \"standings\": \"N/A\"}], \"timestamp\": \"2026-05-14T16:09:54.391916\"}, \"name\": \"sports\", \"source\": \"The Sports DB API\", \"timestamp\": \"2026-05-14T16:09:54.391916\"}, {\"data\": {\"articles\": [{\"category\": \"technology\", \"published_at\": \"2026-05-14T15:42:18Z\", \"source\": \"TechCrunch\", \"summary\": \"Spotify will let creators distribute and monetize video podcasts on Apple Podcasts using Apple\u2019s HLS streaming technology, without changing their existing workflows.\", \"title\": \"Spotify to adopt Apple\u2019s new video podcast tech, offering creators easier cross-platform distribution\", \"url\": \"https://techcrunch.com/2026/05/14/spotify-to-adopt-apples-new-video-podcast-tech-offering-creators-easier-cross-platform-distribution/\"}, {\"category\": \"technology\", \"published_at\": \"2026-05-14T15:46:04Z\", \"source\": \"The Verge\", \"summary\": \"Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni\", \"title\": \"Live updates from Elon Musk and Sam Altman\u2019s court battle over the future of OpenAI\", \"url\": \"https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit\"}, {\"category\": \"technology\", \"published_at\": \"2026-05-14T11:00:58Z\", \"source\": \"Ars Technica\", \"summary\": \"Xi meeting may force Trump to pivot on chip restrictions and Taiwan.\", \"title\": \"Desperate Trump taps \\\"Tim Apple,\\\" Jensen Huang, Elon Musk to attend Xi summit\", \"url\": \"https://arstechnica.com/tech-policy/2026/05/desperate-trump-taps-tim-apple-jensen-huang-elon-musk-to-attend-xi-summit/\"}, {\"category\": \"technology\", \"published_at\": \"2026-05-14T12:52:28Z\", \"source\": \"Wired\", \"summary\": \"Watch fans spent a week falling in love with colorful Royal Oak wristwatches that didn\u2019t exist\u2014then the real thing arrived. Now, fantasy is becoming a manufacturing opportunity.\", \"title\": \"AI Promised the Audemars Piguet x Swatch Wristwatch. China Will Deliver It\", \"url\": \"https://www.wired.com/story/ai-ruined-the-audemars-piguet-x-swatch-collaboration-china-could-save-it/\"}, {\"category\": \"technology\", \"published_at\": \"2026-05-14T13:00:00Z\", \"source\": \"MIT Technology Review\", \"summary\": \"Financial services companies have unique needs when it comes to business AI. They operate in one of the most highly regulated sectors while responding to external events that are updated by the second\", \"title\": \"Data readiness for agentic AI in financial services\", \"url\": \"https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/\"}], \"source\": \"RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)\", \"timestamp\": \"2026-05-14T16:09:55.312021\"}, \"name\": \"tech\", \"source\": \"RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)\", \"timestamp\": \"2026-05-14T16:09:55.312021\"}, {\"data\": {\"indexes\": [{\"change\": 41.3, \"change_percent\": 0.56, \"is_positive\": True, \"name\": \"S&P 500\", \"symbol\": \"^GSPC\", \"value\": 7423.1}], \"market_summary\": \"Markets rallied across all major indexes on positive sentiment.\", \"source\": \"Alpha Vantage API (via ETF proxies)\", \"timestamp\": \"2026-05-14T16:09:55.561144\"}, \"name\": \"market\", \"source\": \"Alpha Vantage API (via ETF proxies)\", \"timestamp\": \"2026-05-14T16:09:55.561144\"}]}"
+  "date": "2026-05-15",
+  "generated_at": "2026-05-15T16:03:55.217116",
+  "sections": [
+    {
+      "name": "weather",
+      "data": {
+        "current": {
+          "description": "Haze",
+          "feels_like": 60.6,
+          "humidity": 72,
+          "icon": "50d",
+          "temp": 61.4,
+          "wind_speed": 3.4
+        },
+        "forecast": [
+          {
+            "date": "2026-05-15",
+            "description": "Few clouds",
+            "icon": "02d",
+            "temp": 69.3
+          },
+          {
+            "date": "2026-05-16",
+            "description": "Scattered clouds",
+            "icon": "03n",
+            "temp": 73.1
+          },
+          {
+            "date": "2026-05-17",
+            "description": "Broken clouds",
+            "icon": "04n",
+            "temp": 79
+          },
+          {
+            "date": "2026-05-18",
+            "description": "Few clouds",
+            "icon": "02n",
+            "temp": 83.7
+          },
+          {
+            "date": "2026-05-19",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 90
+          }
+        ],
+        "location": "San Jose",
+        "source": "OpenWeather API",
+        "timestamp": "2026-05-15T16:03:52.805750"
+      },
+      "timestamp": "2026-05-15T16:03:52.805750",
+      "source": "OpenWeather API"
+    },
+    {
+      "name": "sports",
+      "data": {
+        "source": "The Sports DB API",
+        "teams": [
+          {
+            "latest_game": "L 0-1 vs Arsenal (2026-05-05)",
+            "league": "English Premier League",
+            "name": "San Francisco 49ers",
+            "next_game": "@ Arsenal on 2026-05-18",
+            "record": "Season in progress",
+            "standings": "N/A"
+          },
+          {
+            "latest_game": "L 0-1 vs Arsenal (2026-05-05)",
+            "league": "English Premier League",
+            "name": "San Jose Sharks",
+            "next_game": "@ Arsenal on 2026-05-18",
+            "record": "Season in progress",
+            "standings": "N/A"
+          },
+          {
+            "latest_game": "L 0-1 vs Arsenal (2026-05-05)",
+            "league": "English Premier League",
+            "name": "Golden State Warriors",
+            "next_game": "@ Arsenal on 2026-05-18",
+            "record": "Season in progress",
+            "standings": "N/A"
+          }
+        ],
+        "timestamp": "2026-05-15T16:03:54.075398"
+      },
+      "timestamp": "2026-05-15T16:03:54.075398",
+      "source": "The Sports DB API"
+    },
+    {
+      "name": "tech",
+      "data": {
+        "articles": [
+          {
+            "category": "technology",
+            "published_at": "2026-05-15T16:00:00Z",
+            "source": "TechCrunch",
+            "summary": "OpenAI is launching personal finance tools for ChatGPT Pro subscribers in U.S. first",
+            "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
+            "url": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-05-15T16:00:00Z",
+            "source": "The Verge",
+            "summary": "Your trust in AI is about to be put to the test: OpenAI will soon let you give the chatbot direct access to your bank accounts. The new feature announced in preview today will allow users to \"securely",
+            "title": "OpenAI now wants ChatGPT to access your bank accounts",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/931122/openai-chatgpt-financial-accounts-plaid-connection"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-05-15T14:24:31Z",
+            "source": "Ars Technica",
+            "summary": "SpaceX's upgraded Starship is set to launch on its first test flight as soon as Tuesday, May 19.",
+            "title": "Rocket Report: Russia claims success with new ICBM; spaceplane d\u00e9j\u00e0 vu in Europe",
+            "url": "https://arstechnica.com/space/2026/05/rocket-report-russia-claims-success-with-new-icbm-spaceplane-deja-vu-in-europe/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-05-15T10:30:00Z",
+            "source": "Wired",
+            "summary": "Reducing the fee will only have a marginal impact on prices while depriving the government of revenue to maintain roads.",
+            "title": "Trump's Federal Gas Tax Holiday Isn't Likely to Bring Down Prices",
+            "url": "https://www.wired.com/story/why-gas-tax-holiday-is-risky-idea/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-05-15T12:10:00Z",
+            "source": "MIT Technology Review",
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How Chinese short dramas became AI content machine",
+            "title": "The Download: China\u2019s AI drama factory and the WHO\u2019s missing health targets",
+            "url": "https://www.technologyreview.com/2026/05/15/1137341/the-download-china-short-drama-ai-who-health-targets/"
+          }
+        ],
+        "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
+        "timestamp": "2026-05-15T16:03:55.060449"
+      },
+      "timestamp": "2026-05-15T16:03:55.060449",
+      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
+    },
+    {
+      "name": "market",
+      "data": {
+        "indexes": [
+          {
+            "change": 58.6,
+            "change_percent": 0.79,
+            "is_positive": true,
+            "name": "S&P 500",
+            "symbol": "^GSPC",
+            "value": 7481.7
+          },
+          {
+            "change": 150.5,
+            "change_percent": 1.25,
+            "is_positive": true,
+            "name": "NASDAQ",
+            "symbol": "^IXIC",
+            "value": 12190.0
+          },
+          {
+            "change": 320.2,
+            "change_percent": 0.85,
+            "is_positive": true,
+            "name": "DOW JONES",
+            "symbol": "^DJI",
+            "value": 37950.8
+          }
+        ],
+        "market_summary": "Markets rallied across all major indexes on positive sentiment.",
+        "source": "Alpha Vantage API (via ETF proxies)",
+        "timestamp": "2026-05-15T16:03:55.216268"
+      },
+      "timestamp": "2026-05-15T16:03:55.216268",
+      "source": "Alpha Vantage API (via ETF proxies)"
+    }
+  ]
 }
