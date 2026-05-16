@@ -1,55 +1,55 @@
 {
-  "date": "2026-05-15",
-  "generated_at": "2026-05-15T16:03:55.217116",
+  "date": "2026-05-16",
+  "generated_at": "2026-05-16T14:57:02.345678",
   "sections": [
     {
       "name": "weather",
       "data": {
         "current": {
-          "description": "Haze",
-          "feels_like": 60.6,
-          "humidity": 72,
-          "icon": "50d",
-          "temp": 61.4,
-          "wind_speed": 3.4
+          "description": "Clear sky",
+          "feels_like": 54.7,
+          "humidity": 74,
+          "icon": "01d",
+          "temp": 56,
+          "wind_speed": 8
         },
         "forecast": [
           {
-            "date": "2026-05-15",
-            "description": "Few clouds",
-            "icon": "02d",
-            "temp": 69.3
-          },
-          {
             "date": "2026-05-16",
-            "description": "Scattered clouds",
-            "icon": "03n",
-            "temp": 73.1
+            "description": "Clear sky",
+            "icon": "01d",
+            "temp": 68.5
           },
           {
             "date": "2026-05-17",
             "description": "Broken clouds",
             "icon": "04n",
-            "temp": 79
+            "temp": 74.5
           },
           {
             "date": "2026-05-18",
-            "description": "Few clouds",
-            "icon": "02n",
-            "temp": 83.7
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 81
           },
           {
             "date": "2026-05-19",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 90
+            "temp": 90.2
+          },
+          {
+            "date": "2026-05-20",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 94.1
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-05-15T16:03:52.805750"
+        "timestamp": "2026-05-16T14:56:58.888872"
       },
-      "timestamp": "2026-05-15T16:03:52.805750",
+      "timestamp": "2026-05-16T14:56:58.888872",
       "source": "OpenWeather API"
     },
     {
@@ -82,9 +82,9 @@
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-05-15T16:03:54.075398"
+        "timestamp": "2026-05-16T14:57:00.557568"
       },
-      "timestamp": "2026-05-15T16:03:54.075398",
+      "timestamp": "2026-05-16T14:57:00.557568",
       "source": "The Sports DB API"
     },
     {
@@ -93,49 +93,49 @@
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-05-15T16:00:00Z",
+            "published_at": "2026-05-16T14:00:00Z",
             "source": "TechCrunch",
-            "summary": "OpenAI is launching personal finance tools for ChatGPT Pro subscribers in U.S. first",
-            "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
-            "url": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/"
+            "summary": "It may be possible to jailbreak an older, end-of-support Kindle and continue adding books to it. But doing so carries risks.",
+            "title": "Users turn to jailbreaking their older Kindles as Amazon ends support",
+            "url": "https://techcrunch.com/2026/05/16/users-turn-to-jailbreaking-their-older-kindles-as-amazon-ends-support/"
           },
           {
             "category": "technology",
-            "published_at": "2026-05-15T16:00:00Z",
+            "published_at": "2026-05-16T13:00:00Z",
             "source": "The Verge",
-            "summary": "Your trust in AI is about to be put to the test: OpenAI will soon let you give the chatbot direct access to your bank accounts. The new feature announced in preview today will allow users to \"securely",
-            "title": "OpenAI now wants ChatGPT to access your bank accounts",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/931122/openai-chatgpt-financial-accounts-plaid-connection"
+            "summary": "REI\u2019s annual Anniversary Sale \u2014 the retailer\u2019s biggest of the year \u2014 has arrived, bringing with it discounts on all kinds of outdoor essentials. If you\u2019ve got a camping trip coming up, now is a good t",
+            "title": "Here are 40 of our favorite deals from REI\u2019s massive Anniversary Sale",
+            "url": "https://www.theverge.com/gadgets/931274/rei-anniversary-sale-2026"
           },
           {
             "category": "technology",
-            "published_at": "2026-05-15T14:24:31Z",
+            "published_at": "2026-05-16T11:00:01Z",
             "source": "Ars Technica",
-            "summary": "SpaceX's upgraded Starship is set to launch on its first test flight as soon as Tuesday, May 19.",
-            "title": "Rocket Report: Russia claims success with new ICBM; spaceplane d\u00e9j\u00e0 vu in Europe",
-            "url": "https://arstechnica.com/space/2026/05/rocket-report-russia-claims-success-with-new-icbm-spaceplane-deja-vu-in-europe/"
+            "summary": "The Commodity Futures Trading Commission wants us to know it's taking this very seriously.",
+            "title": "The US is betting on AI to catch insider trading in prediction markets",
+            "url": "https://arstechnica.com/tech-policy/2026/05/the-us-is-betting-on-ai-to-catch-insider-trading-in-prediction-markets/"
           },
           {
             "category": "technology",
-            "published_at": "2026-05-15T10:30:00Z",
+            "published_at": "2026-05-16T10:30:00Z",
             "source": "Wired",
-            "summary": "Reducing the fee will only have a marginal impact on prices while depriving the government of revenue to maintain roads.",
-            "title": "Trump's Federal Gas Tax Holiday Isn't Likely to Bring Down Prices",
-            "url": "https://www.wired.com/story/why-gas-tax-holiday-is-risky-idea/"
+            "summary": "Plus: Instructure\u2019s Canvas ransomware debacle comes to a close, an alleged dark net market kingpin gets arrested, OpenAI workers fall victim to a supply chain attack, and more.",
+            "title": "Cybercriminal Twins Caught After They Forgot to Turn Off Microsoft Teams Recording",
+            "url": "https://www.wired.com/story/security-news-this-week-cybercriminal-twins-caught-after-they-forgot-to-turn-off-microsoft-teams-recording/"
           },
           {
             "category": "technology",
-            "published_at": "2026-05-15T12:10:00Z",
+            "published_at": "2026-05-15T23:39:35Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How Chinese short dramas became AI content machine",
-            "title": "The Download: China\u2019s AI drama factory and the WHO\u2019s missing health targets",
-            "url": "https://www.technologyreview.com/2026/05/15/1137341/the-download-china-short-drama-ai-who-health-targets/"
+            "summary": "In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk\u2019s and OpenAI CEO Sam Altman\u2019s credibility. Altman was grilled on his alleged history of lying and self-dealing involv",
+            "title": "Musk v. Altman week 3: Musk and Altman traded blows over each other\u2019s credibility. Now the jury will pick a side.",
+            "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-05-15T16:03:55.060449"
+        "timestamp": "2026-05-16T14:57:01.281607"
       },
-      "timestamp": "2026-05-15T16:03:55.060449",
+      "timestamp": "2026-05-16T14:57:01.281607",
       "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
@@ -143,35 +143,19 @@
       "data": {
         "indexes": [
           {
-            "change": 58.6,
-            "change_percent": 0.79,
-            "is_positive": true,
+            "change": -90,
+            "change_percent": -1.2,
+            "is_positive": false,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 7481.7
-          },
-          {
-            "change": 150.5,
-            "change_percent": 1.25,
-            "is_positive": true,
-            "name": "NASDAQ",
-            "symbol": "^IXIC",
-            "value": 12190.0
-          },
-          {
-            "change": 320.2,
-            "change_percent": 0.85,
-            "is_positive": true,
-            "name": "DOW JONES",
-            "symbol": "^DJI",
-            "value": 37950.8
+            "value": 7391.7
           }
         ],
-        "market_summary": "Markets rallied across all major indexes on positive sentiment.",
+        "market_summary": "Markets declined on concerns about economic outlook.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-05-15T16:03:55.216268"
+        "timestamp": "2026-05-16T14:57:01.606562"
       },
-      "timestamp": "2026-05-15T16:03:55.216268",
+      "timestamp": "2026-05-16T14:57:01.606562",
       "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
