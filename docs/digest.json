@@ -1,162 +1,149 @@
 {
-  "date": "2026-05-18",
-  "generated_at": "2026-05-18T16:49:03.154978",
+  "date": "2026-05-20",
+  "generated_at": "2026-05-20T16:51:36.000000",
   "sections": [
     {
       "data": {
         "current": {
-          "description": "Clear sky",
-          "feels_like": 69.5,
-          "humidity": 25,
-          "icon": "01d",
-          "temp": 71.5,
-          "wind_speed": 24.2
+          "description": "Broken clouds",
+          "feels_like": 72.6,
+          "humidity": 35,
+          "icon": "04d",
+          "temp": 73.9,
+          "wind_speed": 0
         },
         "forecast": [
           {
-            "date": "2026-05-18",
-            "description": "Clear sky",
-            "icon": "01d",
-            "temp": 72.6
-          },
-          {
-            "date": "2026-05-19",
-            "description": "Clear sky",
-            "icon": "01n",
-            "temp": 87.6
-          },
-          {
             "date": "2026-05-20",
-            "description": "Scattered clouds",
-            "icon": "03n",
-            "temp": 91.5
+            "description": "Broken clouds",
+            "icon": "04d",
+            "temp": 74.1
           },
           {
             "date": "2026-05-21",
-            "description": "Broken clouds",
-            "icon": "04n",
-            "temp": 91.9
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 93.1
           },
           {
             "date": "2026-05-22",
-            "description": "Clear sky",
-            "icon": "01n",
-            "temp": 91
+            "description": "Few clouds",
+            "icon": "02n",
+            "temp": 91.8
+          },
+          {
+            "date": "2026-05-23",
+            "description": "Few clouds",
+            "icon": "02n",
+            "temp": 89
+          },
+          {
+            "date": "2026-05-24",
+            "description": "Broken clouds",
+            "icon": "04n",
+            "temp": 85.4
           }
         ],
         "location": "San Jose",
-        "source": "OpenWeather API",
-        "timestamp": "2026-05-18T16:48:59.271629"
+        "timestamp": "2026-05-20T16:51:33.180358"
       },
       "name": "weather",
-      "source": "OpenWeather API",
-      "timestamp": "2026-05-18T16:48:59.271629"
+      "source": "OpenWeather API"
     },
     {
       "data": {
-        "source": "The Sports DB API",
         "teams": [
           {
-            "latest_game": "L 0-1 vs Arsenal (2026-05-05)",
+            "latest_game": "L 0-1 vs Arsenal (2026-05-18)",
             "league": "English Premier League",
             "name": "San Francisco 49ers",
-            "next_game": "@ Arsenal on 2026-05-18",
+            "next_game": "@ Palace on 2026-05-24",
             "record": "Season in progress",
             "standings": "N/A"
           },
           {
-            "latest_game": "L 0-1 vs Arsenal (2026-05-05)",
+            "latest_game": "L 0-1 vs Arsenal (2026-05-18)",
             "league": "English Premier League",
             "name": "San Jose Sharks",
-            "next_game": "@ Arsenal on 2026-05-18",
+            "next_game": "@ Palace on 2026-05-24",
             "record": "Season in progress",
             "standings": "N/A"
           },
           {
-            "latest_game": "L 0-1 vs Arsenal (2026-05-05)",
+            "latest_game": "L 0-1 vs Arsenal (2026-05-18)",
             "league": "English Premier League",
             "name": "Golden State Warriors",
-            "next_game": "@ Arsenal on 2026-05-18",
+            "next_game": "@ Palace on 2026-05-24",
             "record": "Season in progress",
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-05-18T16:49:00.908325"
+        "timestamp": "2026-05-20T16:51:34.426418"
       },
       "name": "sports",
-      "source": "The Sports DB API",
-      "timestamp": "2026-05-18T16:49:00.908325"
+      "source": "The Sports DB API"
     },
     {
       "data": {
         "articles": [
           {
-            "category": "technology",
-            "published_at": "2026-05-18T16:32:33Z",
+            "published_at": "2026-05-20T15:28:55Z",
             "source": "TechCrunch",
-            "summary": "The New York public healthcare system said hackers stole personal and medical data, and scans of biometrics \u2014 including fingerprints \u2014 in one of the largest recorded breaches of 2026.",
-            "title": "NYC Health and Hospitals says hackers stole medical data and fingerprints during breach affecting at least 1.8 million people",
-            "url": "https://techcrunch.com/2026/05/18/nyc-health-and-hospitals-says-hackers-stole-medical-data-and-fingerprints-during-breach-affecting-at-least-1-8-million-people/"
+            "summary": "Trump Mobile is leaking customers\u2019 email and home addresses, but has not responded to people alerting the company of the data exposure, according to two YouTubers who said they verified that their lea",
+            "title": "Customers say Trump Mobile is leaking their personal information",
+            "url": "https://techcrunch.com/2026/05/20/customers-say-trump-mobile-is-leaking-their-personal-information/"
           },
           {
-            "category": "technology",
-            "published_at": "2026-05-18T16:24:40Z",
+            "published_at": "2026-05-20T16:41:40Z",
             "source": "The Verge",
-            "summary": "Sony is hiking the starting price of one-month and three-month PlayStation Plus subscriptions in \"select regions,\" blaming \"ongoing market conditions.\" Beginning May 20th, 1-month subscriptions will s",
-            "title": "Sony is raising short-subscription prices for PlayStation Plus",
-            "url": "https://www.theverge.com/games/932430/sony-playstation-plus-subscription-price-raise"
+            "summary": "Google announced a new YouTube Shorts Remix feature that lets users restyle clips or even insert themselves into other people\\'s videos using Gemini Omni. Now, at the bottom of a YouTube Short, when yo",
+            "title": "You can now remix other people\u2019s YouTube Shorts with AI",
+            "url": "https://www.theverge.com/tech/934704/google-gemini-omni-youtub-shorts-remix-ai"
           },
           {
-            "category": "technology",
-            "published_at": "2026-05-18T13:23:34Z",
+            "published_at": "2026-05-20T14:50:40Z",
             "source": "Ars Technica",
-            "summary": "\"Never-ending\" AI slop strains corporate hacking reward schemes.",
-            "title": "Bug bounty businesses bombarded with AI slop",
-            "url": "https://arstechnica.com/ai/2026/05/bug-bounty-businesses-bombarded-with-ai-slop/"
+            "summary": "Sheriff loses fight with man he jailed for 37 days for posting a Trump meme on Facebook.",
+            "title": "Man jailed for posting Trump meme wins $835,000 settlement",
+            "url": "https://arstechnica.com/tech-policy/2026/05/man-wins-835k-after-sheriff-jailed-him-for-a-month-over-charlie-kirk-post/"
           },
           {
-            "category": "technology",
-            "published_at": "2026-05-18T10:30:00Z",
+            "published_at": "2026-05-20T16:24:52Z",
             "source": "Wired",
-            "summary": "CAR-T cell therapy is already a potent treatment for certain cancers. Now, a small study is showing early promise for managing HIV.",
-            "title": "Supercharging Immune Cells May Help Control HIV Long-Term",
-            "url": "https://www.wired.com/story/car-t-therapy-may-help-control-hiv-long-term/"
+            "summary": "Attorney John Scola is representing a police officer who is suing over injuries allegedly sustained while working security at an MSG property in 2025.",
+            "title": "Madison Square Garden Bans Lawyer Representing New York Cop Injured at a Boxing Match",
+            "url": "https://www.wired.com/story/msg-bans-lawyer-representing-new-york-cop-injured-at-a-boxing-match/"
           },
           {
-            "category": "technology",
-            "published_at": "2026-05-18T16:01:39Z",
+            "published_at": "2026-05-20T13:00:00Z",
             "source": "MIT Technology Review",
-            "summary": "The defense-tech company Anduril has shared new details about the augmented-reality headset for the military it\u2019s prototyping with Meta, including a vision for ordering drone strikes via eye-tracking ",
-            "title": "Inside Anduril and Meta\u2019s quest to make smart glasses for warfare",
-            "url": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/"
+            "summary": "The startup Boston Metal has raised a $75 million funding round to produce critical metals, MIT Technology Review can exclusively report.&#160;&#160; The company has been known largely for its efforts",
+            "title": "Green steel startup Boston Metal is doubling down on critical metals",
+            "url": "https://www.technologyreview.com/2026/05/20/1137523/boston-metal-funding-critical-metals/"
           }
         ],
-        "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-05-18T16:49:01.958142"
+        "timestamp": "2026-05-20T16:51:35.066403"
       },
       "name": "tech",
-      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-      "timestamp": "2026-05-18T16:49:01.958142"
+      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
       "data": {
         "indexes": [
           {
-            "change": -90,
-            "change_percent": -1.2,
+            "change": -49.2,
+            "change_percent": -0.67,
             "is_positive": false,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 7391.7
+            "value": 7337.3
           }
         ],
         "market_summary": "Markets declined on concerns about economic outlook.",
-        "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-05-18T16:49:02.306665"
+        "timestamp": "2026-05-20T16:51:35.206202"
       },
       "name": "market",
-      "source": "Alpha Vantage API (via ETF proxies)",
-      "timestamp": "2026-05-18T16:49:02.306665"
+      "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
 }
