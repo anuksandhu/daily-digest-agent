@@ -1,56 +1,56 @@
 {
-  "date": "2026-05-21",
-  "generated_at": "2026-05-21T16:38:59.291109",
+  "date": "2026-05-24",
+  "generated_at": "2026-05-24T15:04:39.012345",
   "sections": [
     {
       "data": {
         "current": {
-          "description": "Haze",
-          "feels_like": 68.9,
-          "humidity": 54,
-          "icon": "50d",
-          "temp": 69.7,
-          "wind_speed": 6.9
+          "description": "Scattered clouds",
+          "feels_like": 57.7,
+          "humidity": 76,
+          "icon": "03d",
+          "temp": 58.6,
+          "wind_speed": 9.2
         },
         "forecast": [
           {
-            "date": "2026-05-21",
-            "description": "Clear sky",
-            "icon": "01d",
-            "temp": 73
-          },
-          {
-            "date": "2026-05-22",
-            "description": "Clear sky",
-            "icon": "01n",
-            "temp": 91.2
-          },
-          {
-            "date": "2026-05-23",
-            "description": "Clear sky",
-            "icon": "01n",
-            "temp": 87
-          },
-          {
             "date": "2026-05-24",
-            "description": "Clear sky",
-            "icon": "01n",
-            "temp": 85.2
+            "description": "Scattered clouds",
+            "icon": "03d",
+            "temp": 65.9
           },
           {
             "date": "2026-05-25",
-            "description": "Clear sky",
-            "icon": "01n",
-            "temp": 82
+            "description": "Broken clouds",
+            "icon": "04n",
+            "temp": 81.6
+          },
+          {
+            "date": "2026-05-26",
+            "description": "Broken clouds",
+            "icon": "04n",
+            "temp": 76.7
+          },
+          {
+            "date": "2026-05-27",
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 75.6
+          },
+          {
+            "date": "2026-05-28",
+            "description": "Broken clouds",
+            "icon": "04n",
+            "temp": 77.9
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-05-21T16:38:55.076725"
+        "timestamp": "2026-05-24T15:04:36.627392"
       },
       "name": "weather",
       "source": "OpenWeather API",
-      "timestamp": "2026-05-21T16:38:55.076725"
+      "timestamp": "2026-05-24T15:04:36.627392"
     },
     {
       "data": {
@@ -81,93 +81,82 @@
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-05-21T16:38:57.024431"
+        "timestamp": "2026-05-24T15:04:37.904585"
       },
       "name": "sports",
       "source": "The Sports DB API",
-      "timestamp": "2026-05-21T16:38:57.024431"
+      "timestamp": "2026-05-24T15:04:37.904585"
     },
     {
       "data": {
         "articles": [
           {
-            "published_at": "2026-05-21T16:00:00Z",
+            "category": "technology",
+            "published_at": "2026-05-24T15:00:00Z",
             "source": "TechCrunch",
-            "summary": "Fragrance tech company Patina announced Thursday a $2 million raise from investors, including Betaworks and True Ventures.",
-            "title": "This young startup is taking on a fragrance industry that hasn\u2019t changed in a almost half century",
-            "url": "https://techcrunch.com/2026/05/21/a-new-fragrance-company-raises-2-million-to-find-new-scent-molecules/"
+            "summary": "Like other AI wearables, Amazon\\'s Bee offers an odd combination of convenience and privacy anxiety.",
+            "title": "I tried Amazon\u2019s Bee wearable and am both intrigued and slightly creeped out",
+            "url": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/"
           },
           {
-            "published_at": "2026-05-21T16:15:00Z",
+            "category": "technology",
+            "published_at": "2026-05-24T15:00:00Z",
             "source": "The Verge",
-            "summary": "Selling the smart home has been hard. Even Amazon has lost money in the space, despite putting hundreds of millions of Echo devices in people\\'s homes. Google has also reportedly struggled to turn a pr",
-            "title": "The cost of the smart home is going up",
-            "url": "https://www.theverge.com/tech/935298/smart-home-cost-increase-ai-subscription-fatigue"
+            "summary": "If you\u2019re looking for a laptop that\u2019ll still perform well several years from now, Apple\u2019s latest MacBook Air is hard to beat. Now, in particular, is a good time to pick one up, as you can currently bu",
+            "title": "Apple\u2019s latest MacBook Air is $200 off in both sizes for Memorial Day",
+            "url": "https://www.theverge.com/gadgets/936610/apple-macbook-air-m5-memorial-day-2026-deal-sale"
           },
           {
-            "published_at": "2026-05-20T20:29:39Z",
+            "category": "technology",
+            "published_at": "2026-05-22T21:42:59Z",
             "source": "Ars Technica",
-            "summary": "\"You are he who will restore peace to Eternia.\"",
-            "title": "Masters of the Universe final trailer brings the \\'80s nostalgia",
-            "url": "https://arstechnica.com/culture/2026/05/masters-of-the-universe-final-trailer-brings-the-80s-nostalgia/"
+            "summary": "Google tells Ars it fixed the first-gen Chromecast bug.",
+            "title": "First-generation Chromecast users stressed by devices suddenly failing",
+            "url": "https://arstechnica.com/gadgets/2026/05/original-chromecast-lives-devices-back-on-after-mysteriously-breaking-this-week/"
           },
           {
-            "published_at": "2026-05-21T15:48:24Z",
+            "category": "technology",
+            "published_at": "2026-05-24T11:01:00Z",
             "source": "Wired",
-            "summary": "I used the Gemini app to generate lifelike videos featuring a digital clone of myself. Google sees this as the future of creation. I\u2019m still creeped out.",
-            "title": "I Cloned Myself With Gemini\u2019s AI Avatar Tool. The Result Was Unnervingly Me",
-            "url": "https://www.wired.com/story/i-cloned-myself-with-geminis-ai-avatar-tool-the-result-was-unnervingly-me/"
+            "summary": "Unsurprisingly, the Denver gorpcore brand that makes many of the best bags in the world has delivered a perfect backpack.",
+            "title": "Topo Designs Rover Trail Pack Is the Best Backpack I\u2019ve Ever Used",
+            "url": "https://www.wired.com/story/topo-designs-rover-trail-pack/"
           },
           {
-            "published_at": "2026-05-21T12:10:00Z",
+            "category": "technology",
+            "published_at": "2026-05-22T12:10:00Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Tech researchers are suing the Trump administratio",
-            "title": "The Download: online safety\u2019s future and climate tech\u2019s big pivot",
-            "url": "https://www.technologyreview.com/2026/05/21/1137733/the-download-online-safety-climate-tech-pivot/"
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Anthropic\u2019s Code with Claude showed off coding\u2019s f",
+            "title": "The Download: coding\u2019s future, the \u2018Steroid Olympics,\u2019 and AI-driven science",
+            "url": "https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-05-21T16:38:58.134783"
+        "timestamp": "2026-05-24T15:04:38.703274"
       },
       "name": "tech",
       "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-      "timestamp": "2026-05-21T16:38:58.134783"
+      "timestamp": "2026-05-24T15:04:38.703274"
     },
     {
       "data": {
         "indexes": [
           {
-            "change": 75.2,
-            "change_percent": 1.02,
+            "change": 29.2,
+            "change_percent": 0.39,
             "is_positive": true,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 7412.5
-          },
-          {
-            "change": 75.2,
-            "change_percent": 1.02,
-            "is_positive": true,
-            "name": "NASDAQ",
-            "symbol": "^IXIC",
-            "value": 7412.5
-          },
-          {
-            "change": 75.2,
-            "change_percent": 1.02,
-            "is_positive": true,
-            "name": "DOW JONES",
-            "symbol": "^DJI",
-            "value": 7412.5
+            "value": 7456.4
           }
         ],
         "market_summary": "Markets rallied across all major indexes on positive sentiment.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-05-21T16:38:58.581206"
+        "timestamp": "2026-05-24T15:04:38.946990"
       },
       "name": "market",
       "source": "Alpha Vantage API (via ETF proxies)",
-      "timestamp": "2026-05-21T16:38:58.581206"
+      "timestamp": "2026-05-24T15:04:38.946990"
     }
   ]
 }
