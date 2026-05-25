@@ -1,58 +1,59 @@
 {
-  "date": "2026-05-24",
-  "generated_at": "2026-05-24T15:04:39.012345",
+  "date": "2026-05-25",
+  "generated_at": "2026-05-25T16:22:55.028911",
   "sections": [
     {
+      "name": "weather",
       "data": {
         "current": {
-          "description": "Scattered clouds",
-          "feels_like": 57.7,
-          "humidity": 76,
-          "icon": "03d",
-          "temp": 58.6,
-          "wind_speed": 9.2
+          "description": "Overcast clouds",
+          "feels_like": 58.4,
+          "humidity": 74,
+          "icon": "04d",
+          "temp": 59.3,
+          "wind_speed": 6.9
         },
         "forecast": [
           {
-            "date": "2026-05-24",
-            "description": "Scattered clouds",
-            "icon": "03d",
-            "temp": 65.9
-          },
-          {
             "date": "2026-05-25",
             "description": "Broken clouds",
-            "icon": "04n",
-            "temp": 81.6
+            "icon": "04d",
+            "temp": 66.3
           },
           {
             "date": "2026-05-26",
-            "description": "Broken clouds",
+            "description": "Overcast clouds",
             "icon": "04n",
-            "temp": 76.7
+            "temp": 67.7
           },
           {
             "date": "2026-05-27",
             "description": "Overcast clouds",
             "icon": "04n",
-            "temp": 75.6
+            "temp": 71
           },
           {
             "date": "2026-05-28",
-            "description": "Broken clouds",
+            "description": "Overcast clouds",
             "icon": "04n",
-            "temp": 77.9
+            "temp": 76.7
+          },
+          {
+            "date": "2026-05-29",
+            "description": "Few clouds",
+            "icon": "02n",
+            "temp": 79.7
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-05-24T15:04:36.627392"
+        "timestamp": "2026-05-25T16:22:51.346924"
       },
-      "name": "weather",
-      "source": "OpenWeather API",
-      "timestamp": "2026-05-24T15:04:36.627392"
+      "timestamp": "2026-05-25T16:22:51.346924",
+      "source": "OpenWeather API"
     },
     {
+      "name": "sports",
       "data": {
         "source": "The Sports DB API",
         "teams": [
@@ -60,7 +61,7 @@
             "latest_game": "L 0-1 vs Arsenal (2026-05-18)",
             "league": "English Premier League",
             "name": "San Francisco 49ers",
-            "next_game": "@ Palace on 2026-05-24",
+            "next_game": "@ SG on 2026-05-30",
             "record": "Season in progress",
             "standings": "N/A"
           },
@@ -68,7 +69,7 @@
             "latest_game": "L 0-1 vs Arsenal (2026-05-18)",
             "league": "English Premier League",
             "name": "San Jose Sharks",
-            "next_game": "@ Palace on 2026-05-24",
+            "next_game": "@ SG on 2026-05-30",
             "record": "Season in progress",
             "standings": "N/A"
           },
@@ -76,35 +77,35 @@
             "latest_game": "L 0-1 vs Arsenal (2026-05-18)",
             "league": "English Premier League",
             "name": "Golden State Warriors",
-            "next_game": "@ Palace on 2026-05-24",
+            "next_game": "@ SG on 2026-05-30",
             "record": "Season in progress",
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-05-24T15:04:37.904585"
+        "timestamp": "2026-05-25T16:22:53.293458"
       },
-      "name": "sports",
-      "source": "The Sports DB API",
-      "timestamp": "2026-05-24T15:04:37.904585"
+      "timestamp": "2026-05-25T16:22:53.293458",
+      "source": "The Sports DB API"
     },
     {
+      "name": "tech",
       "data": {
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-05-24T15:00:00Z",
+            "published_at": "2026-05-25T16:00:00Z",
             "source": "TechCrunch",
-            "summary": "Like other AI wearables, Amazon\\'s Bee offers an odd combination of convenience and privacy anxiety.",
-            "title": "I tried Amazon\u2019s Bee wearable and am both intrigued and slightly creeped out",
-            "url": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/"
+            "summary": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents.",
+            "title": "What ClickUp\u2019s mass layoff tells us about the future of work",
+            "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/"
           },
           {
             "category": "technology",
-            "published_at": "2026-05-24T15:00:00Z",
+            "published_at": "2026-05-25T15:05:07Z",
             "source": "The Verge",
-            "summary": "If you\u2019re looking for a laptop that\u2019ll still perform well several years from now, Apple\u2019s latest MacBook Air is hard to beat. Now, in particular, is a good time to pick one up, as you can currently bu",
-            "title": "Apple\u2019s latest MacBook Air is $200 off in both sizes for Memorial Day",
-            "url": "https://www.theverge.com/gadgets/936610/apple-macbook-air-m5-memorial-day-2026-deal-sale"
+            "summary": "Pope Leo XIV warned of the risks of AI and unconstrained technological power in his first major papal document released on Monday. Magnifica Humanitas is the pope\\'s manifesto on \"safeguarding the huma",
+            "title": "Pope Leo calls for being \u2018profoundly human\u2019 in the age of AI",
+            "url": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare"
           },
           {
             "category": "technology",
@@ -116,29 +117,29 @@
           },
           {
             "category": "technology",
-            "published_at": "2026-05-24T11:01:00Z",
+            "published_at": "2026-05-25T11:30:00Z",
             "source": "Wired",
-            "summary": "Unsurprisingly, the Denver gorpcore brand that makes many of the best bags in the world has delivered a perfect backpack.",
-            "title": "Topo Designs Rover Trail Pack Is the Best Backpack I\u2019ve Ever Used",
-            "url": "https://www.wired.com/story/topo-designs-rover-trail-pack/"
+            "summary": "As public backlash against Big Dating mounts, a batch of new gay hookup apps offer community-powered alternatives.",
+            "title": "These Privacy-Conscious Gay Dating Apps Want to Dethrone Grindr",
+            "url": "https://www.wired.com/story/these-privacy-conscious-gay-dating-apps-want-to-dethrone-grindr/"
           },
           {
             "category": "technology",
-            "published_at": "2026-05-22T12:10:00Z",
-            "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Anthropic\u2019s Code with Claude showed off coding\u2019s f",
-            "title": "The Download: coding\u2019s future, the \u2018Steroid Olympics,\u2019 and AI-driven science",
-            "url": "https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/"
+            "published_at": "2026-05-24T17:00:17Z",
+            "source": "VentureBeat",
+            "summary": "There is a category of production incident that engineering teams are not tracking yet \u2014 because it doesn&#x27;t fit any existing postmortem template. The agent initiated an action. The action was tec",
+            "title": "AI agents are quietly generating chaos engineering failures enterprises don\u2019t track yet",
+            "url": "https://venturebeat.com/orchestration/ai-agents-are-quietly-generating-chaos-engineering-failures-enterprises-dont-track-yet"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-05-24T15:04:38.703274"
+        "timestamp": "2026-05-25T16:22:54.461399"
       },
-      "name": "tech",
-      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-      "timestamp": "2026-05-24T15:04:38.703274"
+      "timestamp": "2026-05-25T16:22:54.461399",
+      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
+      "name": "market",
       "data": {
         "indexes": [
           {
@@ -148,15 +149,30 @@
             "name": "S&P 500",
             "symbol": "^GSPC",
             "value": 7456.4
+          },
+          {
+            "change": 10.2,
+            "change_percent": 0.3,
+            "is_positive": true,
+            "name": "NASDAQ",
+            "symbol": "^IXIC",
+            "value": 3400.5
+          },
+          {
+            "change": 45.2,
+            "change_percent": 0.45,
+            "is_positive": true,
+            "name": "DOW JONES",
+            "symbol": "^DJI",
+            "value": 10000.9
           }
         ],
         "market_summary": "Markets rallied across all major indexes on positive sentiment.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-05-24T15:04:38.946990"
+        "timestamp": "2026-05-25T16:22:54.902272"
       },
-      "name": "market",
-      "source": "Alpha Vantage API (via ETF proxies)",
-      "timestamp": "2026-05-24T15:04:38.946990"
+      "timestamp": "2026-05-25T16:22:54.902272",
+      "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
 }
