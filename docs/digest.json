@@ -1,59 +1,58 @@
 {
-  "date": "2026-05-25",
-  "generated_at": "2026-05-25T16:22:55.028911",
+  "date": "2026-05-27",
+  "generated_at": "2026-05-27T17:19:38.220455",
   "sections": [
     {
-      "name": "weather",
       "data": {
         "current": {
-          "description": "Overcast clouds",
-          "feels_like": 58.4,
-          "humidity": 74,
-          "icon": "04d",
-          "temp": 59.3,
-          "wind_speed": 6.9
+          "description": "Few clouds",
+          "feels_like": 62.2,
+          "humidity": 60,
+          "icon": "02d",
+          "temp": 63.3,
+          "wind_speed": 11.5
         },
         "forecast": [
           {
-            "date": "2026-05-25",
-            "description": "Broken clouds",
-            "icon": "04d",
-            "temp": 66.3
-          },
-          {
-            "date": "2026-05-26",
-            "description": "Overcast clouds",
-            "icon": "04n",
-            "temp": 67.7
-          },
-          {
             "date": "2026-05-27",
-            "description": "Overcast clouds",
-            "icon": "04n",
-            "temp": 71
+            "description": "Light rain",
+            "icon": "10d",
+            "temp": 64.8
           },
           {
             "date": "2026-05-28",
-            "description": "Overcast clouds",
-            "icon": "04n",
-            "temp": 76.7
+            "description": "Light rain",
+            "icon": "10n",
+            "temp": 71.3
           },
           {
             "date": "2026-05-29",
-            "description": "Few clouds",
-            "icon": "02n",
-            "temp": 79.7
+            "description": "Broken clouds",
+            "icon": "04n",
+            "temp": 78
+          },
+          {
+            "date": "2026-05-30",
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 79.6
+          },
+          {
+            "date": "2026-05-31",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 85.2
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-05-25T16:22:51.346924"
+        "timestamp": "2026-05-27T17:19:35.808716"
       },
-      "timestamp": "2026-05-25T16:22:51.346924",
-      "source": "OpenWeather API"
+      "name": "weather",
+      "source": "OpenWeather API",
+      "timestamp": "2026-05-27T17:19:35.808716"
     },
     {
-      "name": "sports",
       "data": {
         "source": "The Sports DB API",
         "teams": [
@@ -82,97 +81,82 @@
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-05-25T16:22:53.293458"
+        "timestamp": "2026-05-27T17:19:37.213462"
       },
-      "timestamp": "2026-05-25T16:22:53.293458",
-      "source": "The Sports DB API"
+      "name": "sports",
+      "source": "The Sports DB API",
+      "timestamp": "2026-05-27T17:19:37.213462"
     },
     {
-      "name": "tech",
       "data": {
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-05-25T16:00:00Z",
+            "published_at": "2026-05-27T16:59:19Z",
             "source": "TechCrunch",
-            "summary": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents.",
-            "title": "What ClickUp\u2019s mass layoff tells us about the future of work",
-            "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/"
+            "summary": "Cybercriminals used the Glassworm botnet to infect open source software projects with malware, and in turn hack the developers and companies that use that software.",
+            "title": "CrowdStrike and Google take down botnet used by hackers to target software developers in supply chain attacks",
+            "url": "https://techcrunch.com/2026/05/27/crowdstrike-and-google-take-down-botnet-used-by-hackers-to-target-software-developers-in-supply-chain-attacks/"
           },
           {
             "category": "technology",
-            "published_at": "2026-05-25T15:05:07Z",
+            "published_at": "2026-05-27T16:42:46Z",
             "source": "The Verge",
-            "summary": "Pope Leo XIV warned of the risks of AI and unconstrained technological power in his first major papal document released on Monday. Magnifica Humanitas is the pope\\'s manifesto on \"safeguarding the huma",
-            "title": "Pope Leo calls for being \u2018profoundly human\u2019 in the age of AI",
-            "url": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare"
+            "summary": "Motorola says that recently discovered behavior, which saw some of its phones sending users to an affiliate tracking website before opening the Amazon app, was \"unintended\" and has been \"promptly corr",
+            "title": "Motorola says affiliate hijacking of Amazon app was &#8216;unintended&#8217;",
+            "url": "https://www.theverge.com/tech/938249/motorola-device-native-amazon-affiliate-hijack"
           },
           {
             "category": "technology",
-            "published_at": "2026-05-22T21:42:59Z",
+            "published_at": "2026-05-27T10:30:28Z",
             "source": "Ars Technica",
-            "summary": "Google tells Ars it fixed the first-gen Chromecast bug.",
-            "title": "First-generation Chromecast users stressed by devices suddenly failing",
-            "url": "https://arstechnica.com/gadgets/2026/05/original-chromecast-lives-devices-back-on-after-mysteriously-breaking-this-week/"
+            "summary": "The feds are raising the alarm about a new category of threat.",
+            "title": "US law enforcement warns of \"anti-tech extremism\" as AI hatred grows",
+            "url": "https://arstechnica.com/ai/2026/05/us-law-enforcement-warns-of-anti-tech-extremism-as-ai-hatred-grows/"
           },
           {
             "category": "technology",
-            "published_at": "2026-05-25T11:30:00Z",
+            "published_at": "2026-05-27T16:30:00Z",
             "source": "Wired",
-            "summary": "As public backlash against Big Dating mounts, a batch of new gay hookup apps offer community-powered alternatives.",
-            "title": "These Privacy-Conscious Gay Dating Apps Want to Dethrone Grindr",
-            "url": "https://www.wired.com/story/these-privacy-conscious-gay-dating-apps-want-to-dethrone-grindr/"
+            "summary": "These WIRED-tested computer speakers, from stereo speakers to surround sound, will suit any budget.",
+            "title": "8 Best Computer Speakers (2026) After Testing 25+ Pairs",
+            "url": "https://www.wired.com/gallery/best-computer-speakers/"
           },
           {
             "category": "technology",
-            "published_at": "2026-05-24T17:00:17Z",
-            "source": "VentureBeat",
-            "summary": "There is a category of production incident that engineering teams are not tracking yet \u2014 because it doesn&#x27;t fit any existing postmortem template. The agent initiated an action. The action was tec",
-            "title": "AI agents are quietly generating chaos engineering failures enterprises don\u2019t track yet",
-            "url": "https://venturebeat.com/orchestration/ai-agents-are-quietly-generating-chaos-engineering-failures-enterprises-dont-track-yet"
+            "published_at": "2026-05-27T12:10:00Z",
+            "source": "MIT Technology Review",
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Stay on top of what\u2019s going on in AI this summer H",
+            "title": "The Download: keeping up with AI, and the future of IVF",
+            "url": "https://www.technologyreview.com/2026/05/27/1138048/the-download-ai-future-ivf-technology/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-05-25T16:22:54.461399"
+        "timestamp": "2026-05-27T17:19:38.041007"
       },
-      "timestamp": "2026-05-25T16:22:54.461399",
-      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
+      "name": "tech",
+      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
+      "timestamp": "2026-05-27T17:19:38.041007"
     },
     {
-      "name": "market",
       "data": {
         "indexes": [
           {
-            "change": 29.2,
-            "change_percent": 0.39,
+            "change": 49.5,
+            "change_percent": 0.66,
             "is_positive": true,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 7456.4
-          },
-          {
-            "change": 10.2,
-            "change_percent": 0.3,
-            "is_positive": true,
-            "name": "NASDAQ",
-            "symbol": "^IXIC",
-            "value": 3400.5
-          },
-          {
-            "change": 45.2,
-            "change_percent": 0.45,
-            "is_positive": true,
-            "name": "DOW JONES",
-            "symbol": "^DJI",
-            "value": 10000.9
+            "value": 7505.9
           }
         ],
         "market_summary": "Markets rallied across all major indexes on positive sentiment.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-05-25T16:22:54.902272"
+        "timestamp": "2026-05-27T17:19:38.220163"
       },
-      "timestamp": "2026-05-25T16:22:54.902272",
-      "source": "Alpha Vantage API (via ETF proxies)"
+      "name": "market",
+      "source": "Alpha Vantage API (via ETF proxies)",
+      "timestamp": "2026-05-27T17:19:38.220163"
     }
   ]
 }
