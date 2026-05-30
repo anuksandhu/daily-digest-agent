@@ -1,59 +1,61 @@
 {
-  "date": "2026-05-29",
-  "generated_at": "2026-05-29T17:33:21.440370",
+  "date": "2026-05-30",
+  "generated_at": "2026-05-30T15:06:58.459101",
   "sections": [
     {
+      "name": "weather",
       "data": {
         "current": {
-          "description": "Broken clouds",
-          "feels_like": 64,
-          "humidity": 66,
+          "description": "Overcast clouds",
+          "feels_like": 56.5,
+          "humidity": 80,
           "icon": "04d",
-          "temp": 64.7,
-          "wind_speed": 9.2
+          "temp": 57.3,
+          "wind_speed": 2
         },
         "forecast": [
           {
-            "date": "2026-05-29",
+            "date": "2026-05-30",
             "description": "Broken clouds",
             "icon": "04d",
-            "temp": 66.6
-          },
-          {
-            "date": "2026-05-30",
-            "description": "Scattered clouds",
-            "icon": "03n",
-            "temp": 80
+            "temp": 68.5
           },
           {
             "date": "2026-05-31",
-            "description": "Clear sky",
-            "icon": "01n",
-            "temp": 85.6
+            "description": "Scattered clouds",
+            "icon": "03n",
+            "temp": 86
           },
           {
             "date": "2026-06-01",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 91.1
+            "temp": 91.2
           },
           {
             "date": "2026-06-02",
-            "description": "Clear sky",
-            "icon": "01n",
-            "temp": 88.3
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 87.9
+          },
+          {
+            "date": "2026-06-03",
+            "description": "Scattered clouds",
+            "icon": "03n",
+            "temp": 80.2
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-05-29T17:33:16.263454"
+        "timestamp": "2026-05-30T15:06:55.720413"
       },
-      "name": "weather",
-      "source": "OpenWeather API",
-      "timestamp": "2026-05-29T17:33:16.263454"
+      "timestamp": "2026-05-30T15:06:55.720413",
+      "source": "OpenWeather API"
     },
     {
+      "name": "sports",
       "data": {
+        "source": "The Sports DB API",
         "teams": [
           {
             "latest_game": "L 0-1 vs Arsenal (2026-05-18)",
@@ -80,83 +82,97 @@
             "standings": "N/A"
           }
         ],
-        "source": "The Sports DB API",
-        "timestamp": "2026-05-29T17:33:20.045775"
+        "timestamp": "2026-05-30T15:06:56.967928"
       },
-      "name": "sports",
-      "source": "The Sports DB API",
-      "timestamp": "2026-05-29T17:33:20.045775"
+      "timestamp": "2026-05-30T15:06:56.967928",
+      "source": "The Sports DB API"
     },
     {
+      "name": "tech",
       "data": {
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-05-29T17:27:13Z",
+            "published_at": "2026-05-30T14:49:27Z",
             "source": "TechCrunch",
-            "summary": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, pe",
-            "title": "After Nvidia\u2019s $20B not-aqui-hire, AI chip startup Groq reportedly raising $650M",
-            "url": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-aqui-hire-ai-chip-startup-groq-reportedly-raising-650m/"
+            "summary": "\"If you\\'re 22 years old in San Francisco and building something in AI, there may be a seed term sheet in your inbox \u2014 but if you're 19, oh my God, this means you're really good; you might already have",
+            "title": "The groupthink boom: what three top VCs really think about the AI frenzy",
+            "url": "https://techcrunch.com/2026/05/30/the-groupthink-boom-what-three-top-vcs-really-think-about-the-ai-frenzy/"
           },
           {
             "category": "technology",
-            "published_at": "2026-05-29T16:51:08Z",
+            "published_at": "2026-05-30T15:00:00Z",
             "source": "The Verge",
-            "summary": "Microsoft has delayed its upcoming Fable reboot once again. The game was set to launch in autumn 2026, but Microsoft now says that Fable will come out in February 2027. However, it will show a \"new lo",
-            "title": "Microsoft delays Fable (again) to avoid GTA VI",
-            "url": "https://www.theverge.com/games/939991/microsoft-fable-xbox-delay-gta-vi"
+            "summary": "Art TVs aren\u2019t exactly known for being affordable, which is why Woot\u2019s latest sale is notable. Now through June 26th, the retailer is discounting Samsung&#8217;s 2025 Frame TV and Hisense&#8217;s 2025",
+            "title": "Some of our favorite art TVs are more than 40 percent off this weekend",
+            "url": "https://www.theverge.com/gadgets/940211/samsung-frame-hisense-canvastv-art-tv-sale-deal"
           },
           {
             "category": "technology",
-            "published_at": "2026-05-29T16:16:14Z",
+            "published_at": "2026-05-29T18:21:44Z",
             "source": "Ars Technica",
-            "summary": "The latest twist in paying humans to wear head cameras for robot training data.",
-            "title": "Startup offers free home cleaning\u2014if it can record it all for robot training",
-            "url": "https://arstechnica.com/ai/2026/05/robot-training-startup-will-send-humans-wearing-cameras-to-clean-your-home/"
+            "summary": "\"The crown is a weight that crushes. You'll do things that spell death for all involved.\"",
+            "title": "House of the Dragon S3 trailer revels in dragons, fire, and blood",
+            "url": "https://arstechnica.com/culture/2026/05/house-of-the-dragon-s3-trailer-revels-in-dragons-fire-and-blood/"
           },
           {
             "category": "technology",
-            "published_at": "2026-05-29T16:30:00Z",
+            "published_at": "2026-05-30T10:39:00Z",
             "source": "Wired",
-            "summary": "A book about how AI shapes perceptions of reality came under fire for using AI-generated quotes. Its problems go beyond that.",
-            "title": "We Asked the \u2018Future of Truth\u2019 Author to Explain How He Used AI. It Didn\u2019t Go Well",
-            "url": "https://www.wired.com/story/future-of-truth-ai-interview/"
+            "summary": "With inflation and gas prices rising, I\u2019m trying to save money wherever I can. I tested Tello\u2019s budget cell phone plan, and for me, it turns out prepaid can be just as good.",
+            "title": "Tello Mobile Plan Review (2026): Low Cost, Reliable Service",
+            "url": "https://www.wired.com/review/tello-mobile-custom-plans/"
           },
           {
             "category": "technology",
             "published_at": "2026-05-29T12:10:00Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How a new extraction process could unlock the worl",
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily download of what&#8217;s going on in the world of technology. How a new extraction process could unlock the worl",
             "title": "The Download: unlocking lithium and controlling Ebola",
             "url": "https://www.technologyreview.com/2026/05/29/1138110/the-download-lithium-extraction-ebola-ai-pope/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-05-29T17:33:20.944277"
+        "timestamp": "2026-05-30T15:06:57.801844"
       },
-      "name": "tech",
-      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-      "timestamp": "2026-05-29T17:33:20.944277"
+      "timestamp": "2026-05-30T15:06:57.801844",
+      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
+      "name": "market",
       "data": {
         "indexes": [
           {
-            "change": 41.4,
-            "change_percent": 0.55,
+            "change": 18.8,
+            "change_percent": 0.25,
             "is_positive": true,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 7546
+            "value": 7564.8
+          },
+          {
+            "change": 18.8,
+            "change_percent": 0.25,
+            "is_positive": true,
+            "name": "NASDAQ",
+            "symbol": "^IXIC",
+            "value": 7564.8
+          },
+          {
+            "change": 18.8,
+            "change_percent": 0.25,
+            "is_positive": true,
+            "name": "DOW JONES",
+            "symbol": "^DJI",
+            "value": 7564.8
           }
         ],
         "market_summary": "Markets rallied across all major indexes on positive sentiment.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-05-29T17:33:21.439820"
+        "timestamp": "2026-05-30T15:06:57.952115"
       },
-      "name": "market",
-      "source": "Alpha Vantage API (via ETF proxies)",
-      "timestamp": "2026-05-29T17:33:21.439820"
+      "timestamp": "2026-05-30T15:06:57.952115",
+      "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
 }
