@@ -1,59 +1,58 @@
 {
-  "date": "2026-05-30",
-  "generated_at": "2026-05-30T15:06:58.459101",
+  "date": "2026-05-31",
+  "generated_at": "2026-05-31T15:17:40.000000",
   "sections": [
     {
-      "name": "weather",
       "data": {
         "current": {
-          "description": "Overcast clouds",
-          "feels_like": 56.5,
-          "humidity": 80,
-          "icon": "04d",
-          "temp": 57.3,
-          "wind_speed": 2
+          "description": "Haze",
+          "feels_like": 57.6,
+          "humidity": 71,
+          "icon": "50d",
+          "temp": 58.7,
+          "wind_speed": 0
         },
         "forecast": [
           {
-            "date": "2026-05-30",
-            "description": "Broken clouds",
-            "icon": "04d",
-            "temp": 68.5
-          },
-          {
             "date": "2026-05-31",
-            "description": "Scattered clouds",
-            "icon": "03n",
-            "temp": 86
+            "description": "Clear sky",
+            "icon": "01d",
+            "temp": 73.1
           },
           {
             "date": "2026-06-01",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 91.2
+            "temp": 91.3
           },
           {
             "date": "2026-06-02",
             "description": "Overcast clouds",
             "icon": "04n",
-            "temp": 87.9
+            "temp": 90.6
           },
           {
             "date": "2026-06-03",
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 85.3
+          },
+          {
+            "date": "2026-06-04",
             "description": "Scattered clouds",
             "icon": "03n",
-            "temp": 80.2
+            "temp": 84.8
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-05-30T15:06:55.720413"
+        "timestamp": "2026-05-31T15:17:36.796860"
       },
-      "timestamp": "2026-05-30T15:06:55.720413",
-      "source": "OpenWeather API"
+      "name": "weather",
+      "source": "OpenWeather API",
+      "timestamp": "2026-05-31T15:17:36.796860"
     },
     {
-      "name": "sports",
       "data": {
         "source": "The Sports DB API",
         "teams": [
@@ -61,7 +60,7 @@
             "latest_game": "L 0-1 vs Arsenal (2026-05-18)",
             "league": "English Premier League",
             "name": "San Francisco 49ers",
-            "next_game": "@ SG on 2026-05-30",
+            "next_game": "@ Arsenal on 2026-08-05",
             "record": "Season in progress",
             "standings": "N/A"
           },
@@ -69,7 +68,7 @@
             "latest_game": "L 0-1 vs Arsenal (2026-05-18)",
             "league": "English Premier League",
             "name": "San Jose Sharks",
-            "next_game": "@ SG on 2026-05-30",
+            "next_game": "@ Arsenal on 2026-08-05",
             "record": "Season in progress",
             "standings": "N/A"
           },
@@ -77,69 +76,69 @@
             "latest_game": "L 0-1 vs Arsenal (2026-05-18)",
             "league": "English Premier League",
             "name": "Golden State Warriors",
-            "next_game": "@ SG on 2026-05-30",
+            "next_game": "@ Arsenal on 2026-08-05",
             "record": "Season in progress",
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-05-30T15:06:56.967928"
+        "timestamp": "2026-05-31T15:17:38.460849"
       },
-      "timestamp": "2026-05-30T15:06:56.967928",
-      "source": "The Sports DB API"
+      "name": "sports",
+      "source": "The Sports DB API",
+      "timestamp": "2026-05-31T15:17:38.460849"
     },
     {
-      "name": "tech",
       "data": {
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-05-30T14:49:27Z",
+            "published_at": "2026-05-31T15:00:00Z",
             "source": "TechCrunch",
-            "summary": "\"If you\\'re 22 years old in San Francisco and building something in AI, there may be a seed term sheet in your inbox \u2014 but if you're 19, oh my God, this means you're really good; you might already have",
-            "title": "The groupthink boom: what three top VCs really think about the AI frenzy",
-            "url": "https://techcrunch.com/2026/05/30/the-groupthink-boom-what-three-top-vcs-really-think-about-the-ai-frenzy/"
+            "summary": "Speaking to TechCrunch, Crunchbase\u2019s head of research Gen\u00e9 Teare, said the factors holding back Black founders include \u201caccess to networks, relationships, and early introductions.\"",
+            "title": "Black founders raise highest amount of quarterly funding since 2022, but there\u2019s a catch",
+            "url": "https://techcrunch.com/2026/05/31/black-founders-raise-highest-amount-of-quarterly-funding-since-2022-but-theres-a-catch/"
           },
           {
             "category": "technology",
-            "published_at": "2026-05-30T15:00:00Z",
+            "published_at": "2026-05-31T14:00:00Z",
             "source": "The Verge",
-            "summary": "Art TVs aren\u2019t exactly known for being affordable, which is why Woot\u2019s latest sale is notable. Now through June 26th, the retailer is discounting Samsung&#8217;s 2025 Frame TV and Hisense&#8217;s 2025",
-            "title": "Some of our favorite art TVs are more than 40 percent off this weekend",
-            "url": "https://www.theverge.com/gadgets/940211/samsung-frame-hisense-canvastv-art-tv-sale-deal"
+            "summary": "IO Interactive\u2019s 007 First Light is here, and it\u2019s just as stunning a James Bond mov \u2014 err, video game \u2014 as we hoped it would be. Pardon the confusion, the title\u2019s engaging tutorial really feels like ",
+            "title": "007 First Light is already discounted for the PS5 and Steam",
+            "url": "https://www.theverge.com/gadgets/940126/007-first-light-ps5-pc-steam-deal-sale"
           },
           {
             "category": "technology",
-            "published_at": "2026-05-29T18:21:44Z",
+            "published_at": "2026-05-31T10:00:07Z",
             "source": "Ars Technica",
-            "summary": "\"The crown is a weight that crushes. You'll do things that spell death for all involved.\"",
-            "title": "House of the Dragon S3 trailer revels in dragons, fire, and blood",
-            "url": "https://arstechnica.com/culture/2026/05/house-of-the-dragon-s3-trailer-revels-in-dragons-fire-and-blood/"
+            "summary": "As temperatures rise, some creatures pick fights while others struggle to learn.",
+            "title": "They call it stupid hot for a reason: Heat muddles animal brains",
+            "url": "https://arstechnica.com/science/2026/05/they-call-it-stupid-hot-for-a-reason-heat-muddles-animal-brains/"
           },
           {
             "category": "technology",
-            "published_at": "2026-05-30T10:39:00Z",
+            "published_at": "2026-05-31T11:01:00Z",
             "source": "Wired",
-            "summary": "With inflation and gas prices rising, I\u2019m trying to save money wherever I can. I tested Tello\u2019s budget cell phone plan, and for me, it turns out prepaid can be just as good.",
-            "title": "Tello Mobile Plan Review (2026): Low Cost, Reliable Service",
-            "url": "https://www.wired.com/review/tello-mobile-custom-plans/"
+            "summary": "The M-Track Duo HD Producer Pack removes the last remaining excuse for terrible audio and potentially terrible opinions.",
+            "title": "M-Audio M Track Duo HD Producer Pack Review: Hot Takes, Cold Opens",
+            "url": "https://www.wired.com/review/m-audio-m-track-duo-hd-audio-interface-bundle/"
           },
           {
             "category": "technology",
             "published_at": "2026-05-29T12:10:00Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily download of what&#8217;s going on in the world of technology. How a new extraction process could unlock the worl",
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How a new extraction process could unlock the worl",
             "title": "The Download: unlocking lithium and controlling Ebola",
             "url": "https://www.technologyreview.com/2026/05/29/1138110/the-download-lithium-extraction-ebola-ai-pope/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-05-30T15:06:57.801844"
+        "timestamp": "2026-05-31T15:17:39.104144"
       },
-      "timestamp": "2026-05-30T15:06:57.801844",
-      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
+      "name": "tech",
+      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
+      "timestamp": "2026-05-31T15:17:39.104144"
     },
     {
-      "name": "market",
       "data": {
         "indexes": [
           {
@@ -149,30 +148,15 @@
             "name": "S&P 500",
             "symbol": "^GSPC",
             "value": 7564.8
-          },
-          {
-            "change": 18.8,
-            "change_percent": 0.25,
-            "is_positive": true,
-            "name": "NASDAQ",
-            "symbol": "^IXIC",
-            "value": 7564.8
-          },
-          {
-            "change": 18.8,
-            "change_percent": 0.25,
-            "is_positive": true,
-            "name": "DOW JONES",
-            "symbol": "^DJI",
-            "value": 7564.8
           }
         ],
         "market_summary": "Markets rallied across all major indexes on positive sentiment.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-05-30T15:06:57.952115"
+        "timestamp": "2026-05-31T15:17:39.431894"
       },
-      "timestamp": "2026-05-30T15:06:57.952115",
-      "source": "Alpha Vantage API (via ETF proxies)"
+      "name": "market",
+      "source": "Alpha Vantage API (via ETF proxies)",
+      "timestamp": "2026-05-31T15:17:39.431894"
     }
   ]
 }
