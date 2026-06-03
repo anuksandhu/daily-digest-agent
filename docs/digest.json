@@ -1,6 +1,162 @@
 {
-  "date": "2026-06-01",
-  "generated_at": "2026-06-01T19:20:05.103311",
-  "sections": [],
-  "raw_response": "```\n{\"date\": \"2026-06-01\", \"generated_at\": \"2026-06-01T19:20:00.123456Z\", \"sections\": [{\"data\": {\"current\": {\"description\": \"Clear sky\", \"feels_like\": 81.7, \"humidity\": 38, \"icon\": \"01d\", \"temp\": 82.5, \"wind_speed\": 6}, \"forecast\": [{\"date\": \"2026-06-01\", \"description\": \"Clear sky\", \"icon\": \"01d\", \"temp\": 83.9}, {\"date\": \"2026-06-02\", \"description\": \"Few clouds\", \"icon\": \"02n\", \"temp\": 90.6}, {\"date\": \"2026-06-03\", \"description\": \"Overcast clouds\", \"icon\": \"04n\", \"temp\": 87.5}, {\"date\": \"2026-06-04\", \"description\": \"Clear sky\", \"icon\": \"01n\", \"temp\": 87.7}, {\"date\": \"2026-06-05\", \"description\": \"Clear sky\", \"icon\": \"01n\", \"temp\": 93.3}], \"location\": \"San Jose\", \"source\": \"OpenWeather API\", \"timestamp\": \"2026-06-01T19:19:56.356809\"}, \"name\": \"weather\", \"source\": \"OpenWeather API\", \"timestamp\": \"2026-06-01T19:19:56.356809\"}, {\"data\": {\"source\": \"The Sports DB API\", \"teams\": [{\"latest_game\": \"L 0-1 vs Arsenal (2026-05-18)\", \"league\": \"English Premier League\", \"name\": \"San Francisco 49ers\", \"next_game\": \"@ Arsenal on 2026-08-05\", \"record\": \"Season in progress\", \"standings\": \"N/A\"}, {\"latest_game\": \"L 0-1 vs Arsenal (2026-05-18)\", \"league\": \"English Premier League\", \"name\": \"San Jose Sharks\", \"next_game\": \"@ Arsenal on 2026-08-05\", \"record\": \"Season in progress\", \"standings\": \"N/A\"}, {\"latest_game\": \"L 0-1 vs Arsenal (2026-05-18)\", \"league\": \"English Premier League\", \"name\": \"Golden State Warriors\", \"next_game\": \"@ Arsenal on 2026-08-05\", \"record\": \"Season in progress\", \"standings\": \"N/A\"}], \"timestamp\": \"2026-06-01T19:19:58.360167\"}, \"name\": \"sports\", \"source\": \"The Sports DB API\", \"timestamp\": \"2026-06-01T19:19:58.360167\"}, {\"data\": {\"articles\": [{\"category\": \"technology\", \"published_at\": \"2026-06-01T18:34:32Z\", \"source\": \"TechCrunch\", \"summary\": \"Several users on social media reported having their Instagram accounts hacked over the weekend. Meta's own support chatbot was blamed for allowing hackers to hijack accounts.\", \"title\": \"Hackers hijacked Instagram accounts by tricking Meta AI support chatbot into granting access\", \"url\": \"https://techcrunch.com/2026/06/01/hackers-hijacked-instagram-accounts-by-tricking-meta-ai-support-chatbot-into-granting-access/\"}, {\"category\": \"technology\", \"published_at\": \"2026-06-01T19:07:03Z\", \"source\": \"The Verge\", \"summary\": \"Some news: The Vergecast is now a daily podcast! Starting today, we'll be posting every weekday, with even more gadgets and rankings and conversations and feelings and podcasts-within-podcasts. We're \", \"title\": \"Casey Neistat\u2019s guide to posting every day\", \"url\": \"https://www.theverge.com/podcast/941140/casey-neistat-daily-vergecast\"}, {\"category\": \"technology\", \"published_at\": \"2026-06-01T13:32:16Z\", \"source\": \"Ars Technica\", \"summary\": \"Crescent Island is an air-cooled chip that uses LPDDR5 memory.\", \"title\": \"Intel: Our upcoming AI chip will be cheaper, run cooler than Nvidia, AMD options\", \"url\": \"https://arstechnica.com/ai/2026/06/intel-our-upcoming-ai-chip-will-be-cheaper-run-cooler-than-nvidia-amd-options/\"}, {\"category\": \"technology\", \"published_at\": \"2026-06-01T17:17:58Z\", \"source\": \"Wired\", \"summary\": \"The AI giant behind Claude submitted paperwork on Monday that would take it public, just a couple of weeks after SpaceX\u2019s splashy IPO announcement.\", \"title\": \"Anthropic Confidentially Files for What Could Be the Largest IPO Ever\", \"url\": \"https://www.wired.com/story/anthropic-files-s1-ipo-sec/\"}, {\"category\": \"technology\", \"published_at\": \"2026-06-01T12:10:00Z\", \"source\": \"MIT Technology Review\", \"summary\": \"This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. China has approved the world\u2019s first invasive brai\", \"title\": \"The Download: China\u2019s brain implant ambitions\", \"url\": \"https://www.technologyreview.com/2026/06/01/1138207/the-download-china-bci-brain-implant-nvidia-ai-chips-laptops/\"}], \"source\": \"RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)\", \"timestamp\": \"2026-06-01T19:19:59.332688\"}, \"name\": \"tech\", \"source\": \"RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)\", \"timestamp\": \"2026-06-01T19:19:59.332688\"}, {\"data\": {\"indexes\": [{\"change\": 18.8, \"change_percent\": 0.25, \"is_positive\": True, \"name\": \"S&P 500\", \"symbol\": \"^GSPC\", \"value\": 7564.8}], \"market_summary\": \"Markets rallied across all major indexes on positive sentiment.\", \"source\": \"Alpha Vantage API (via ETF proxies)\", \"timestamp\": \"2026-06-01T19:19:59.778206\"}, \"name\": \"market\", \"source\": \"Alpha Vantage API (via ETF proxies)\", \"timestamp\": \"2026-06-01T19:19:59.778206\"}]}\n}"
+  "date": "2026-06-03",
+  "generated_at": "2026-06-03T18:22:52.299331",
+  "sections": [
+    {
+      "data": {
+        "current": {
+          "description": "Broken clouds",
+          "feels_like": 73.4,
+          "humidity": 52,
+          "icon": "04d",
+          "temp": 73.9,
+          "wind_speed": 4
+        },
+        "forecast": [
+          {
+            "date": "2026-06-03",
+            "description": "Broken clouds",
+            "icon": "04d",
+            "temp": 75.6
+          },
+          {
+            "date": "2026-06-04",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 82.4
+          },
+          {
+            "date": "2026-06-05",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 93.7
+          },
+          {
+            "date": "2026-06-06",
+            "description": "Scattered clouds",
+            "icon": "03n",
+            "temp": 89.7
+          },
+          {
+            "date": "2026-06-07",
+            "description": "Few clouds",
+            "icon": "02n",
+            "temp": 79
+          }
+        ],
+        "location": "San Jose",
+        "source": "OpenWeather API",
+        "timestamp": "2026-06-03T18:22:48.967940"
+      },
+      "name": "weather",
+      "source": "OpenWeather API",
+      "timestamp": "2026-06-03T18:22:48.967940"
+    },
+    {
+      "data": {
+        "source": "The Sports DB API",
+        "teams": [
+          {
+            "latest_game": "L 3-13 vs Seahawks (2026-01-04)",
+            "league": "NFL",
+            "name": "San Francisco 49ers",
+            "next_game": "@ Chargers on 2026-08-21",
+            "record": "Season in progress",
+            "standings": "N/A"
+          },
+          {
+            "latest_game": "L 3-4 vs Canucks (2026-04-12)",
+            "league": "NHL",
+            "name": "San Jose Sharks",
+            "next_game": "No upcoming games scheduled",
+            "record": "Season in progress",
+            "standings": "N/A"
+          },
+          {
+            "latest_game": "L 103-119 vs Lakers (2026-04-10)",
+            "league": "NBA",
+            "name": "Golden State Warriors",
+            "next_game": "vs Lakers on 2026-07-04",
+            "record": "Season in progress",
+            "standings": "N/A"
+          }
+        ],
+        "timestamp": "2026-06-03T18:22:50.883510"
+      },
+      "name": "sports",
+      "source": "The Sports DB API",
+      "timestamp": "2026-06-03T18:22:50.883510"
+    },
+    {
+      "data": {
+        "articles": [
+          {
+            "category": "technology",
+            "published_at": "2026-06-03T17:25:51Z",
+            "source": "TechCrunch",
+            "summary": "Carvana was granted a warrant to buy shares in Slate last year, according to documents obtained by TechCrunch. Guggenheim Partners CEO Mark Walter is heavily invested in both companies.",
+            "title": "Carvana ties up with Bezos-backed Slate Auto as it plans new car sales",
+            "url": "https://techcrunch.com/2026/06/03/carvana-ties-up-with-bezos-backed-slate-auto-as-it-plans-new-car-sales/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-06-03T17:45:35Z",
+            "source": "The Verge",
+            "summary": "This week we've got tandem hands-ons with Google's new Gemini AI agent - Spark - from my colleagues David Pierce and Jay Peters. Their takeaways are similar: It's so effective that it's scary. Spark k",
+            "title": "As AI gets better, it reveals an empty promise",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-06-03T11:15:07Z",
+            "source": "Ars Technica",
+            "summary": "When they're being eaten, bean plants release chemicals that draw in parasitic wasps.",
+            "title": "Beans use an immune receptor to call in airstrikes on caterpillars",
+            "url": "https://arstechnica.com/science/2026/06/beans-use-an-immune-receptor-to-call-in-airstrikes-on-caterpillars/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-06-03T18:00:00Z",
+            "source": "Wired",
+            "summary": "Spencer Huang, Nvidia\u2019s robotics lead, tells WIRED that the new bot combines the best of both worlds.",
+            "title": "The Humanoid Robot of the Future Is a 6-Foot-Tall Beefcake With a Chinese Body and an American Brain",
+            "url": "https://www.wired.com/story/nvidia-unitree-humanoid-robot-h2-plus/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-06-03T12:10:00Z",
+            "source": "MIT Technology Review",
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. 5 key points in Trump&#8217;s new AI order Less th",
+            "title": "The Download: Trump\u2019s new AI order, and smart glasses for warfare",
+            "url": "https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/"
+          }
+        ],
+        "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
+        "timestamp": "2026-06-03T18:22:51.823414"
+      },
+      "name": "tech",
+      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
+      "timestamp": "2026-06-03T18:22:51.823414"
+    },
+    {
+      "data": {
+        "indexes": [
+          {
+            "change": 10.3,
+            "change_percent": 0.14,
+            "is_positive": true,
+            "name": "S&P 500",
+            "symbol": "^GSPC",
+            "value": 7595.7
+          }
+        ],
+        "market_summary": "Markets rallied across all major indexes on positive sentiment.",
+        "source": "Alpha Vantage API (via ETF proxies)",
+        "timestamp": "2026-06-03T18:22:52.034183"
+      },
+      "name": "market",
+      "source": "Alpha Vantage API (via ETF proxies)",
+      "timestamp": "2026-06-03T18:22:52.034183"
+    }
+  ]
 }
