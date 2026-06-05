@@ -1,55 +1,55 @@
 {
-  "date": "2026-06-04",
-  "generated_at": "2026-06-04T16:54:09.000000",
+  "date": "2026-06-05",
+  "generated_at": "2026-06-05T16:29:37.000000",
   "sections": [
     {
       "name": "weather",
       "data": {
         "current": {
           "description": "Clear sky",
-          "feels_like": 69.8,
-          "humidity": 64,
+          "feels_like": 68.3,
+          "humidity": 63,
           "icon": "01d",
-          "temp": 70.1,
-          "wind_speed": 1
+          "temp": 68.8,
+          "wind_speed": 2
         },
         "forecast": [
           {
-            "date": "2026-06-04",
+            "date": "2026-06-05",
             "description": "Clear sky",
             "icon": "01d",
-            "temp": 70.7
-          },
-          {
-            "date": "2026-06-05",
-            "description": "Broken clouds",
-            "icon": "04n",
-            "temp": 76.9
+            "temp": 70.1
           },
           {
             "date": "2026-06-06",
-            "description": "Scattered clouds",
-            "icon": "03n",
-            "temp": 78.6
+            "description": "Few clouds",
+            "icon": "02n",
+            "temp": 70.8
           },
           {
             "date": "2026-06-07",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 81.7
+            "temp": 80.5
           },
           {
             "date": "2026-06-08",
             "description": "Overcast clouds",
             "icon": "04n",
-            "temp": 75.1
+            "temp": 79.7
+          },
+          {
+            "date": "2026-06-09",
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 75.5
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-06-04T16:54:06.004158"
+        "timestamp": "2026-06-05T16:29:33.730345"
       },
-      "timestamp": "2026-06-04T16:54:06.004158",
+      "timestamp": "2026-06-05T16:29:33.730345",
       "source": "OpenWeather API"
     },
     {
@@ -61,7 +61,7 @@
             "latest_game": "L 3-13 vs Seahawks (2026-01-04)",
             "league": "NFL",
             "name": "San Francisco 49ers",
-            "next_game": "@ Chargers on 2026-08-21",
+            "next_game": "vs Titans on 2026-08-14",
             "record": "Season in progress",
             "standings": "N/A"
           },
@@ -82,9 +82,9 @@
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-06-04T16:54:07.448069"
+        "timestamp": "2026-06-05T16:29:35.526476"
       },
-      "timestamp": "2026-06-04T16:54:07.448069",
+      "timestamp": "2026-06-05T16:29:35.526476",
       "source": "The Sports DB API"
     },
     {
@@ -93,49 +93,49 @@
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-06-04T16:47:12Z",
+            "published_at": "2026-06-05T14:49:12Z",
             "source": "TechCrunch",
-            "summary": "Meta's board cites \"due process\" concerns over account bans. It's also pushing Meta to offer clear information about violations and its use in AI in making its determinations.",
-            "title": "Meta\u2019s Oversight Board says account bans lack due process, transparency",
-            "url": "https://techcrunch.com/2026/06/04/metas-oversight-board-says-account-bans-lack-due-process-transparency/"
+            "summary": "\"The whole conversation shifted from tokenmaxxing and \\'go fast\\' to \\'we need guardrails, how do we control this?\\'\"",
+            "title": "The token bill comes due: Inside the industry scramble to manage AI\u2019s runaway costs",
+            "url": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/"
           },
           {
             "category": "technology",
-            "published_at": "2026-06-04T14:15:44Z",
+            "published_at": "2026-06-05T16:15:00Z",
             "source": "The Verge",
-            "summary": "Taiwan Semiconductor Manufacturing Co. - the world's biggest semiconductor-maker - is struggling to meet demands from American customers even with its factory buildout in the US, according to reports ",
-            "title": "TSMC struggles to keep up with AI demand: &#8216;We can only support so much&#8217;",
-            "url": "https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles"
+            "summary": "Even if you've done nothing wrong, it's never a good idea to hand your phone to the cops. But international travelers at American airports often have no choice - even if they're US citizens. When Minn",
+            "title": "What happens when your phone is confiscated at the airport",
+            "url": "https://www.theverge.com/report/944076/cbp-airport-phone-searches-seizure-minneapolis-activists"
           },
           {
             "category": "technology",
-            "published_at": "2026-06-04T15:43:51Z",
+            "published_at": "2026-06-05T14:20:54Z",
             "source": "Ars Technica",
-            "summary": "Subaru's badge-engineered SUV remains on sale alongside the new Trailseeker.",
-            "title": "It doesn't feel very agricultural: The 2026 Subaru Solterra review",
-            "url": "https://arstechnica.com/cars/2026/06/2026-subaru-solterra-review-the-badge-engineered-bz-aint-bad/"
+            "summary": "NASA expects to begin stacking the SLS rocket this summer for next year's Artemis III launch.",
+            "title": "Rocket Report: Blue Origin explosion still making headlines; Impulse raises money",
+            "url": "https://arstechnica.com/space/2026/06/rocket-report-blue-origin-explosion-still-making-headlines-impulse-raises-money/"
           },
           {
             "category": "technology",
-            "published_at": "2026-06-04T10:30:00Z",
+            "published_at": "2026-06-05T16:00:00Z",
             "source": "Wired",
-            "summary": "With $500 million in funding and a reported $2.5 billion valuation, Flourish wants to reinvent AI by putting real neurons under the microscope.",
-            "title": "Jeff Bezos Is Funding a Wild Hunt for the Brain\u2019s \u2018Core Algorithm\u2019",
-            "url": "https://www.wired.com/story/jeff-bezos-is-funding-a-wild-hunt-for-the-brains-core-algorithm/"
+            "summary": "Hotels and other service providers pitch themselves as eco-friendly when they\u2019re not. Here\u2019s how to call their bluff.",
+            "title": "How to Spot Greenwashing Claims When You Travel",
+            "url": "https://www.wired.com/story/how-to-spot-greenwashing-when-you-travel/"
           },
           {
             "category": "technology",
-            "published_at": "2026-06-04T12:10:00Z",
+            "published_at": "2026-06-05T12:10:00Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily download of what&#8217;s going on in the world of technology. How courts are coping with a flood of AI-generated",
-            "title": "The Download: AI-generated lawsuits and virtual power plants for data centers",
-            "url": "https://www.technologyreview.com/2026/06/04/1138408/the-download-ai-lawsuits-virtual-power-plants-data-centers/"
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Meta hack shows there\u2019s more to AI security th",
+            "title": "The Download: AI hacking beyond Mythos, and chatbots\u2019 impact on our brains",
+            "url": "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-06-04T16:54:08.267915"
+        "timestamp": "2026-06-05T16:29:36.568543"
       },
-      "timestamp": "2026-06-04T16:54:08.267915",
+      "timestamp": "2026-06-05T16:29:36.568543",
       "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
@@ -143,19 +143,19 @@
       "data": {
         "indexes": [
           {
-            "change": -53.3,
-            "change_percent": -0.7,
-            "is_positive": false,
+            "change": 28.5,
+            "change_percent": 0.38,
+            "is_positive": true,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 7542.4
+            "value": 7570.9
           }
         ],
-        "market_summary": "Markets declined on concerns about economic outlook.",
+        "market_summary": "Markets rallied across all major indexes on positive sentiment.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-06-04T16:54:08.489481"
+        "timestamp": "2026-06-05T16:29:36.932443"
       },
-      "timestamp": "2026-06-04T16:54:08.489481",
+      "timestamp": "2026-06-05T16:29:36.932443",
       "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
