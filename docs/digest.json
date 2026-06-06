@@ -1,61 +1,60 @@
 {
-  "date": "2026-06-05",
-  "generated_at": "2026-06-05T16:29:37.000000",
+  "date": "2026-06-06",
+  "generated_at": "2026-06-06T15:16:15.000000",
   "sections": [
     {
       "name": "weather",
       "data": {
         "current": {
           "description": "Clear sky",
-          "feels_like": 68.3,
-          "humidity": 63,
+          "feels_like": 57.5,
+          "humidity": 74,
           "icon": "01d",
-          "temp": 68.8,
-          "wind_speed": 2
+          "temp": 58.4,
+          "wind_speed": 3
         },
         "forecast": [
           {
-            "date": "2026-06-05",
+            "date": "2026-06-06",
             "description": "Clear sky",
             "icon": "01d",
-            "temp": 70.1
-          },
-          {
-            "date": "2026-06-06",
-            "description": "Few clouds",
-            "icon": "02n",
-            "temp": 70.8
+            "temp": 66.6
           },
           {
             "date": "2026-06-07",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 80.5
+            "temp": 72.7
           },
           {
             "date": "2026-06-08",
             "description": "Overcast clouds",
             "icon": "04n",
-            "temp": 79.7
+            "temp": 74.9
           },
           {
             "date": "2026-06-09",
             "description": "Overcast clouds",
             "icon": "04n",
-            "temp": 75.5
+            "temp": 76.6
+          },
+          {
+            "date": "2026-06-10",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 88.3
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-06-05T16:29:33.730345"
+        "timestamp": "2026-06-06T15:16:11.561914"
       },
-      "timestamp": "2026-06-05T16:29:33.730345",
+      "timestamp": "2026-06-06T15:16:11.561914",
       "source": "OpenWeather API"
     },
     {
       "name": "sports",
       "data": {
-        "source": "The Sports DB API",
         "teams": [
           {
             "latest_game": "L 3-13 vs Seahawks (2026-01-04)",
@@ -82,9 +81,10 @@
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-06-05T16:29:35.526476"
+        "source": "The Sports DB API",
+        "timestamp": "2026-06-06T15:16:13.511140"
       },
-      "timestamp": "2026-06-05T16:29:35.526476",
+      "timestamp": "2026-06-06T15:16:13.511140",
       "source": "The Sports DB API"
     },
     {
@@ -93,35 +93,35 @@
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-06-05T14:49:12Z",
+            "published_at": "2026-06-05T22:35:01Z",
             "source": "TechCrunch",
-            "summary": "\"The whole conversation shifted from tokenmaxxing and \\'go fast\\' to \\'we need guardrails, how do we control this?\\'\"",
-            "title": "The token bill comes due: Inside the industry scramble to manage AI\u2019s runaway costs",
-            "url": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/"
+            "summary": "After a very profitable decade on Microsoft\\'s board, Reid Hoffman is stepping down to focus on his AI drug discovery startup Manus.",
+            "title": "Reid Hoffman is leaving Microsoft\u2019s board to go \u2018founder mode\u2019 with  startup Manus",
+            "url": "https://techcrunch.com/2026/06/05/reid-hoffman-is-leaving-microsofts-board-to-go-founder-mode-with-startup-manus/"
           },
           {
             "category": "technology",
-            "published_at": "2026-06-05T16:15:00Z",
+            "published_at": "2026-06-06T15:00:00Z",
             "source": "The Verge",
-            "summary": "Even if you've done nothing wrong, it's never a good idea to hand your phone to the cops. But international travelers at American airports often have no choice - even if they're US citizens. When Minn",
-            "title": "What happens when your phone is confiscated at the airport",
-            "url": "https://www.theverge.com/report/944076/cbp-airport-phone-searches-seizure-minneapolis-activists"
+            "summary": "Benn Jordan may have initially gained notoriety for his music as Flashbulb and later, reviewing synths and effects pedals on YouTube under Benn and Gear. But about five years ago, Benn decided to take",
+            "title": "Benn Jordan longs for the days of tech that didn\u2019t spy on you",
+            "url": "https://www.theverge.com/report/942609/benn-jordan-music-gear-cybersecurity-surveillance-questionnaire"
           },
           {
             "category": "technology",
-            "published_at": "2026-06-05T14:20:54Z",
+            "published_at": "2026-06-05T19:03:16Z",
             "source": "Ars Technica",
-            "summary": "NASA expects to begin stacking the SLS rocket this summer for next year's Artemis III launch.",
-            "title": "Rocket Report: Blue Origin explosion still making headlines; Impulse raises money",
-            "url": "https://arstechnica.com/space/2026/06/rocket-report-blue-origin-explosion-still-making-headlines-impulse-raises-money/"
+            "summary": "\"We look forward to working with Roscosmos on a collaborative approach to address the leaks.\"",
+            "title": "The saga of the International Space Station air leak took a worrying turn Friday",
+            "url": "https://arstechnica.com/space/2026/06/work-on-russias-leaky-space-station-module-causes-astronauts-to-take-shelter/"
           },
           {
             "category": "technology",
-            "published_at": "2026-06-05T16:00:00Z",
+            "published_at": "2026-06-06T14:00:00Z",
             "source": "Wired",
-            "summary": "Hotels and other service providers pitch themselves as eco-friendly when they\u2019re not. Here\u2019s how to call their bluff.",
-            "title": "How to Spot Greenwashing Claims When You Travel",
-            "url": "https://www.wired.com/story/how-to-spot-greenwashing-when-you-travel/"
+            "summary": "I tried all the top models to find the best 3-in-1 Apple charging stations, pads, and more. Keep your iPhone, Apple Watch, and AirPods topped up with these WIRED-tested docking systems.",
+            "title": "The Best 3-in-1 Apple Charging Stations After Testing Top Models",
+            "url": "https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/"
           },
           {
             "category": "technology",
@@ -133,9 +133,9 @@
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-06-05T16:29:36.568543"
+        "timestamp": "2026-06-06T15:16:14.277679"
       },
-      "timestamp": "2026-06-05T16:29:36.568543",
+      "timestamp": "2026-06-06T15:16:14.277679",
       "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
@@ -143,19 +143,19 @@
       "data": {
         "indexes": [
           {
-            "change": 28.5,
-            "change_percent": 0.38,
-            "is_positive": true,
+            "change": -195.4,
+            "change_percent": -2.58,
+            "is_positive": false,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 7570.9
+            "value": 7375.5
           }
         ],
-        "market_summary": "Markets rallied across all major indexes on positive sentiment.",
+        "market_summary": "Markets declined on concerns about economic outlook.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-06-05T16:29:36.932443"
+        "timestamp": "2026-06-06T15:16:14.734014"
       },
-      "timestamp": "2026-06-05T16:29:36.932443",
+      "timestamp": "2026-06-06T15:16:14.734014",
       "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
