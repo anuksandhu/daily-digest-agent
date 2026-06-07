@@ -1,55 +1,53 @@
 {
-  "date": "2026-06-06",
-  "generated_at": "2026-06-06T15:16:15.000000",
+  "date": "2026-06-07",
+  "generated_at": "2026-06-07T15:23:58.983277",
   "sections": [
     {
       "name": "weather",
       "data": {
         "current": {
           "description": "Clear sky",
-          "feels_like": 57.5,
-          "humidity": 74,
+          "feels_like": 54.6,
+          "humidity": 73,
           "icon": "01d",
-          "temp": 58.4,
-          "wind_speed": 3
+          "temp": 55.9,
+          "wind_speed": 4
         },
         "forecast": [
           {
-            "date": "2026-06-06",
-            "description": "Clear sky",
-            "icon": "01d",
-            "temp": 66.6
-          },
-          {
             "date": "2026-06-07",
             "description": "Clear sky",
-            "icon": "01n",
-            "temp": 72.7
+            "icon": "01d",
+            "temp": 68.6
           },
           {
             "date": "2026-06-08",
             "description": "Overcast clouds",
             "icon": "04n",
-            "temp": 74.9
+            "temp": 74
           },
           {
             "date": "2026-06-09",
-            "description": "Overcast clouds",
+            "description": "Broken clouds",
             "icon": "04n",
-            "temp": 76.6
+            "temp": 78.2
           },
           {
             "date": "2026-06-10",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 88.3
+            "temp": 91.5
+          },
+          {
+            "date": "2026-06-11",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 101
           }
         ],
         "location": "San Jose",
-        "source": "OpenWeather API",
-        "timestamp": "2026-06-06T15:16:11.561914"
+        "timestamp": "2026-06-07T15:23:54.848845"
       },
-      "timestamp": "2026-06-06T15:16:11.561914",
       "source": "OpenWeather API"
     },
     {
@@ -81,10 +79,8 @@
             "standings": "N/A"
           }
         ],
-        "source": "The Sports DB API",
-        "timestamp": "2026-06-06T15:16:13.511140"
+        "timestamp": "2026-06-07T15:23:56.698637"
       },
-      "timestamp": "2026-06-06T15:16:13.511140",
       "source": "The Sports DB API"
     },
     {
@@ -93,49 +89,47 @@
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-06-05T22:35:01Z",
+            "published_at": "2026-06-06T20:32:24Z",
             "source": "TechCrunch",
-            "summary": "After a very profitable decade on Microsoft\\'s board, Reid Hoffman is stepping down to focus on his AI drug discovery startup Manus.",
-            "title": "Reid Hoffman is leaving Microsoft\u2019s board to go \u2018founder mode\u2019 with  startup Manus",
-            "url": "https://techcrunch.com/2026/06/05/reid-hoffman-is-leaving-microsofts-board-to-go-founder-mode-with-startup-manus/"
+            "summary": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
+            "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+            "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/"
           },
           {
             "category": "technology",
-            "published_at": "2026-06-06T15:00:00Z",
+            "published_at": "2026-06-07T12:00:00Z",
             "source": "The Verge",
-            "summary": "Benn Jordan may have initially gained notoriety for his music as Flashbulb and later, reviewing synths and effects pedals on YouTube under Benn and Gear. But about five years ago, Benn decided to take",
-            "title": "Benn Jordan longs for the days of tech that didn\u2019t spy on you",
-            "url": "https://www.theverge.com/report/942609/benn-jordan-music-gear-cybersecurity-surveillance-questionnaire"
+            "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI confusion, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM E",
+            "title": "AI \u2018content creators\u2019 are getting harder to spot",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/943187/ai-content-creators"
           },
           {
             "category": "technology",
-            "published_at": "2026-06-05T19:03:16Z",
+            "published_at": "2026-06-07T11:08:30Z",
             "source": "Ars Technica",
-            "summary": "\"We look forward to working with Roscosmos on a collaborative approach to address the leaks.\"",
-            "title": "The saga of the International Space Station air leak took a worrying turn Friday",
-            "url": "https://arstechnica.com/space/2026/06/work-on-russias-leaky-space-station-module-causes-astronauts-to-take-shelter/"
+            "summary": "How accurate does an AI system need to be?",
+            "title": "School shooting survivor sues AI gun detection firm after system failed to spot weapon",
+            "url": "https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/"
           },
           {
             "category": "technology",
-            "published_at": "2026-06-06T14:00:00Z",
+            "published_at": "2026-06-07T10:22:00Z",
             "source": "Wired",
-            "summary": "I tried all the top models to find the best 3-in-1 Apple charging stations, pads, and more. Keep your iPhone, Apple Watch, and AirPods topped up with these WIRED-tested docking systems.",
-            "title": "The Best 3-in-1 Apple Charging Stations After Testing Top Models",
-            "url": "https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/"
+            "summary": "Lauf\u2019s sleek new entry feels closer to a traditional mountain bike than anything I\u2019ve ridden before.",
+            "title": "Lauf eElja Electric Mountain Bike Review: Power Trip",
+            "url": "https://www.wired.com/review/lauf-eelja-electric-mountain-bike/"
           },
           {
             "category": "technology",
             "published_at": "2026-06-05T12:10:00Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Meta hack shows there\u2019s more to AI security th",
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily download of what&#8217;s going on in the world of technology. The Meta hack shows there\u2019s more to AI security th",
             "title": "The Download: AI hacking beyond Mythos, and chatbots\u2019 impact on our brains",
             "url": "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/"
           }
         ],
-        "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-06-06T15:16:14.277679"
+        "timestamp": "2026-06-07T15:23:57.742110"
       },
-      "timestamp": "2026-06-06T15:16:14.277679",
       "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
@@ -149,13 +143,27 @@
             "name": "S&P 500",
             "symbol": "^GSPC",
             "value": 7375.5
+          },
+          {
+            "change": -195.4,
+            "change_percent": -2.58,
+            "is_positive": false,
+            "name": "NASDAQ",
+            "symbol": "^IXIC",
+            "value": 7375.5
+          },
+          {
+            "change": -195.4,
+            "change_percent": -2.58,
+            "is_positive": false,
+            "name": "DOW JONES",
+            "symbol": "^DJI",
+            "value": 7375.5
           }
         ],
         "market_summary": "Markets declined on concerns about economic outlook.",
-        "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-06-06T15:16:14.734014"
+        "timestamp": "2026-06-07T15:23:58.136270"
       },
-      "timestamp": "2026-06-06T15:16:14.734014",
       "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
