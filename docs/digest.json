@@ -1,58 +1,61 @@
 {
-  "date": "2026-06-07",
-  "generated_at": "2026-06-07T15:23:58.983277",
+  "date": "2026-06-08",
+  "generated_at": "2026-06-08T17:22:43.112500",
   "sections": [
     {
       "name": "weather",
       "data": {
         "current": {
-          "description": "Clear sky",
-          "feels_like": 54.6,
-          "humidity": 73,
-          "icon": "01d",
-          "temp": 55.9,
-          "wind_speed": 4
+          "description": "Broken clouds",
+          "feels_like": 65.2,
+          "humidity": 51,
+          "icon": "04d",
+          "temp": 66.5,
+          "wind_speed": 3
         },
         "forecast": [
           {
-            "date": "2026-06-07",
-            "description": "Clear sky",
-            "icon": "01d",
-            "temp": 68.6
-          },
-          {
             "date": "2026-06-08",
-            "description": "Overcast clouds",
-            "icon": "04n",
-            "temp": 74
+            "description": "Broken clouds",
+            "icon": "04d",
+            "temp": 68.5
           },
           {
             "date": "2026-06-09",
-            "description": "Broken clouds",
-            "icon": "04n",
-            "temp": 78.2
+            "description": "Scattered clouds",
+            "icon": "03n",
+            "temp": 78
           },
           {
             "date": "2026-06-10",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 91.5
+            "temp": 92.2
           },
           {
             "date": "2026-06-11",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 101
+            "temp": 101.3
+          },
+          {
+            "date": "2026-06-12",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 99.1
           }
         ],
         "location": "San Jose",
-        "timestamp": "2026-06-07T15:23:54.848845"
+        "source": "OpenWeather API",
+        "timestamp": "2026-06-08T17:22:40.154347"
       },
+      "timestamp": "2026-06-08T17:22:40.154347",
       "source": "OpenWeather API"
     },
     {
       "name": "sports",
       "data": {
+        "source": "The Sports DB API",
         "teams": [
           {
             "latest_game": "L 3-13 vs Seahawks (2026-01-04)",
@@ -79,8 +82,9 @@
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-06-07T15:23:56.698637"
+        "timestamp": "2026-06-08T17:22:41.834793"
       },
+      "timestamp": "2026-06-08T17:22:41.834793",
       "source": "The Sports DB API"
     },
     {
@@ -89,47 +93,49 @@
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-06-06T20:32:24Z",
+            "published_at": "2026-06-08T15:49:12Z",
             "source": "TechCrunch",
-            "summary": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
-            "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
-            "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/"
+            "summary": "A new feature in the Amazon Shopping app allows users to generate designs with Alexa, then print them on products like T-shirts, hoodies, and tumblers.",
+            "title": "Amazon now lets you design custom merch using AI",
+            "url": "https://techcrunch.com/2026/06/08/amazon-now-lets-you-design-custom-merch-using-ai/"
           },
           {
             "category": "technology",
-            "published_at": "2026-06-07T12:00:00Z",
+            "published_at": "2026-06-08T16:00:00Z",
             "source": "The Verge",
-            "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI confusion, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM E",
-            "title": "AI \u2018content creators\u2019 are getting harder to spot",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/943187/ai-content-creators"
+            "summary": "Google is rolling out \"across the board\" updates to NotebookLM. The AI-powered note-taking app now uses Google\\'s upgraded Gemini 3.5 model, which will allow it to respond with \"more accurate and relia",
+            "title": "NotebookLM&#8217;s Gemini 3.5 upgrade adds a cloud computer and help finding sources",
+            "url": "https://www.theverge.com/tech/944325/google-notebooklm-ai-gemini-update"
           },
           {
             "category": "technology",
-            "published_at": "2026-06-07T11:08:30Z",
+            "published_at": "2026-06-08T13:51:16Z",
             "source": "Ars Technica",
-            "summary": "How accurate does an AI system need to be?",
-            "title": "School shooting survivor sues AI gun detection firm after system failed to spot weapon",
-            "url": "https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/"
+            "summary": "OpenAI to recast hit chatbot as a route to higher-margin products before a potential IPO.",
+            "title": "\"Chat is dead\": OpenAI preps overhaul of ChatGPT",
+            "url": "https://arstechnica.com/ai/2026/06/chat-is-dead-openai-preps-overhaul-of-chatgpt/"
           },
           {
             "category": "technology",
-            "published_at": "2026-06-07T10:22:00Z",
+            "published_at": "2026-06-08T10:30:00Z",
             "source": "Wired",
-            "summary": "Lauf\u2019s sleek new entry feels closer to a traditional mountain bike than anything I\u2019ve ridden before.",
-            "title": "Lauf eElja Electric Mountain Bike Review: Power Trip",
-            "url": "https://www.wired.com/review/lauf-eelja-electric-mountain-bike/"
+            "summary": "Moms are outsourcing tedious household tasks to ChatGPT and selling courses teaching others to do the same. Where are all the dads?",
+            "title": "Momfluencers Are Pitching AI as a Better \u2018Coparent\u2019 Than Men",
+            "url": "https://www.wired.com/story/momfluencers-are-pitching-ai-as-a-better-coparent-than-men/"
           },
           {
             "category": "technology",
-            "published_at": "2026-06-05T12:10:00Z",
+            "published_at": "2026-06-08T12:10:00Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily download of what&#8217;s going on in the world of technology. The Meta hack shows there\u2019s more to AI security th",
-            "title": "The Download: AI hacking beyond Mythos, and chatbots\u2019 impact on our brains",
-            "url": "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/"
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why this year\u2019s World Cup ball may not fly as far ",
+            "title": "The Download: how the World Cup ball will fly and OpenAI\u2019s \u201csuper app\u201d",
+            "url": "https://www.technologyreview.com/2026/06/08/1138485/the-download-world-cup-ball-openai-super-app/"
           }
         ],
-        "timestamp": "2026-06-07T15:23:57.742110"
+        "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
+        "timestamp": "2026-06-08T17:22:42.573855"
       },
+      "timestamp": "2026-06-08T17:22:42.573855",
       "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
@@ -143,27 +149,13 @@
             "name": "S&P 500",
             "symbol": "^GSPC",
             "value": 7375.5
-          },
-          {
-            "change": -195.4,
-            "change_percent": -2.58,
-            "is_positive": false,
-            "name": "NASDAQ",
-            "symbol": "^IXIC",
-            "value": 7375.5
-          },
-          {
-            "change": -195.4,
-            "change_percent": -2.58,
-            "is_positive": false,
-            "name": "DOW JONES",
-            "symbol": "^DJI",
-            "value": 7375.5
           }
         ],
         "market_summary": "Markets declined on concerns about economic outlook.",
-        "timestamp": "2026-06-07T15:23:58.136270"
+        "source": "Alpha Vantage API (via ETF proxies)",
+        "timestamp": "2026-06-08T17:22:43.112205"
       },
+      "timestamp": "2026-06-08T17:22:43.112205",
       "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
