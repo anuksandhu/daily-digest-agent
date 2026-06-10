@@ -1,59 +1,57 @@
 {
-  "date": "2026-06-09",
-  "generated_at": "2026-06-09T16:31:18.335100",
+  "date": "2026-06-10",
+  "generated_at": "2026-06-10T17:20:23.000000",
   "sections": [
     {
-      "name": "weather",
       "data": {
         "current": {
-          "description": "Broken clouds",
-          "feels_like": 66.2,
-          "humidity": 75,
-          "icon": "04d",
-          "temp": 66.3,
-          "wind_speed": 5
+          "description": "Clear sky",
+          "feels_like": 76.7,
+          "humidity": 53,
+          "icon": "01d",
+          "temp": 76.9,
+          "wind_speed": 2
         },
         "forecast": [
           {
-            "date": "2026-06-09",
-            "description": "Broken clouds",
-            "icon": "04d",
-            "temp": 74.1
-          },
-          {
             "date": "2026-06-10",
             "description": "Clear sky",
-            "icon": "01n",
-            "temp": 89.8
+            "icon": "01d",
+            "temp": 79.7
           },
           {
             "date": "2026-06-11",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 101
+            "temp": 89.6
           },
           {
             "date": "2026-06-12",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 99.5
+            "temp": 99
           },
           {
             "date": "2026-06-13",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 98.9
+            "temp": 96.3
+          },
+          {
+            "date": "2026-06-14",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 95.2
           }
         ],
         "location": "San Jose",
-        "source": "OpenWeather API",
-        "timestamp": "2026-06-09T16:31:15.121589"
+        "source": "OpenWeather API"
       },
-      "timestamp": "2026-06-09T16:31:15.121589",
-      "source": "OpenWeather API"
+      "name": "weather",
+      "source": "OpenWeather API",
+      "timestamp": "2026-06-10T17:20:19.564386"
     },
     {
-      "name": "sports",
       "data": {
         "source": "The Sports DB API",
         "teams": [
@@ -82,97 +80,82 @@
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-06-09T16:31:16.943693"
+        "timestamp": "2026-06-10T17:20:21.543174"
       },
-      "timestamp": "2026-06-09T16:31:16.943693",
-      "source": "The Sports DB API"
+      "name": "sports",
+      "source": "The Sports DB API",
+      "timestamp": "2026-06-10T17:20:21.543174"
     },
     {
-      "name": "tech",
       "data": {
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-06-09T16:09:14Z",
+            "published_at": "2026-06-10T17:07:35Z",
             "source": "TechCrunch",
-            "summary": "With SpaceX, Anthropic, and OpenAI all eyeing massive public debuts, the tech industry may soon have a new class of corporate overlords \u2014 and a new acronym to match. Say goodbye to FAANG and hello to ",
-            "title": "It\u2019s not FAANG anymore. It\u2019s MANGOS.",
-            "url": "https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/"
+            "summary": "The most AI-obsessed firms are spending roughly $7,500 monthly per employee on AI, per Ramp AI Index. That's not more than an engineer's salary \u2014 yet.",
+            "title": "\u2018AI-pilled\u2019 firms spend $7,500 per employee each month on AI",
+            "url": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/"
           },
           {
             "category": "technology",
-            "published_at": "2026-06-09T16:13:14Z",
+            "published_at": "2026-06-10T17:06:10Z",
             "source": "The Verge",
-            "summary": "Apple used to question whether generative AI-powered editing features were worth the risk of distorting our perceptions of the world. Now it seems Apple no longer believes that photos should accuratel",
-            "title": "Apple is embracing the fantasy of AI photo editing",
-            "url": "https://www.theverge.com/tech/946850/apple-ai-photo-editing-tools-ios27-wwdc-2026-deepfakes"
+            "summary": "Instagram is going to let you tweak what its algorithm shows you on your main feed. With the Your Algorithm feature, \"you can now see the topics we think you're interested in, and change them, across ",
+            "title": "You can just tell the Instagram algorithm what you want now",
+            "url": "https://www.theverge.com/tech/947898/meta-instagram-your-algorithm-main-feed-tell"
           },
           {
             "category": "technology",
-            "published_at": "2026-06-09T15:44:36Z",
+            "published_at": "2026-06-10T13:31:37Z",
             "source": "Ars Technica",
-            "summary": "US Navy\u2019s Task Force 59 achieved the drone rescue at sea near Strait of Hormuz.",
-            "title": "US military claims first drone boat rescue of downed helicopter crew",
-            "url": "https://arstechnica.com/gadgets/2026/06/us-military-claims-first-drone-boat-rescue-of-downed-helicopter-crew/"
+            "summary": "Violent threats against lawmakers have also surged on Facebook.",
+            "title": "Racist comments targeting politicians tripled since Meta relaxed its rules",
+            "url": "https://arstechnica.com/tech-policy/2026/06/racist-comments-targeting-politicians-tripled-since-meta-relaxed-its-rules/"
           },
           {
             "category": "technology",
-            "published_at": "2026-06-09T13:00:00Z",
+            "published_at": "2026-06-10T14:00:00Z",
             "source": "Wired",
-            "summary": "With a competitive price, winning design, and better performance than the R1, Rivian could be set to break into the big leagues. Just make sure you get the right model with the right tech.",
-            "title": "Rivian R2 2026: Specs, Price, Availability",
-            "url": "https://www.wired.com/story/rivian-r2-first-drive/"
+            "summary": "The ACLU is suing two Florida police departments over the arrest of a Fort Myers man in a child-abduction case, saying officers treated a flawed face-recognition match as a near-certain ID.",
+            "title": "Wrongful Arrest Exposes Failures in One of the Oldest Police Face-Recognition Tools in the US",
+            "url": "https://www.wired.com/story/wrongful-arrest-tests-one-of-the-oldest-police-face-recognition-tools-in-the-us/"
           },
           {
             "category": "technology",
-            "published_at": "2026-06-09T12:10:00Z",
+            "published_at": "2026-06-10T12:10:00Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily download of what&#8217;s going on in the world of technology. David Sinclair plans to test whole-body rejuvenati",
-            "title": "The Download: whole-body rejuvenation drugs and five things to know about AI",
-            "url": "https://www.technologyreview.com/2026/06/09/1138604/the-download-anti-aging-drugs-ai-five-things-to-know/"
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The \u201csteroid olympics\u201d were a circus\u2014and a window ",
+            "title": "The Download: the \u201csteroid olympics\u201d and a safer Mythos",
+            "url": "https://www.technologyreview.com/2026/06/10/1138739/the-download-steroid-olympics-enhanced-games-anthropic-mythos/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-06-09T16:31:17.956240"
+        "timestamp": "2026-06-10T17:20:22.385140"
       },
-      "timestamp": "2026-06-09T16:31:17.956240",
-      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
+      "name": "tech",
+      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
+      "timestamp": "2026-06-10T17:20:22.385140"
     },
     {
-      "name": "market",
       "data": {
         "indexes": [
           {
-            "change": 16.7,
-            "change_percent": 0.23,
-            "is_positive": true,
+            "change": -21.7,
+            "change_percent": -0.29,
+            "is_positive": false,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 7392.2
-          },
-          {
-            "change": 16.7,
-            "change_percent": 0.23,
-            "is_positive": true,
-            "name": "NASDAQ",
-            "symbol": "^IXIC",
-            "value": 7392.2
-          },
-          {
-            "change": 16.7,
-            "change_percent": 0.23,
-            "is_positive": true,
-            "name": "DOW JONES",
-            "symbol": "^DJI",
-            "value": 7392.2
+            "value": 7370.5
           }
         ],
-        "market_summary": "Markets rallied across all major indexes on positive sentiment.",
+        "market_summary": "Markets declined on concerns about economic outlook.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-06-09T16:31:18.334057"
+        "timestamp": "2026-06-10T17:20:22.847947"
       },
-      "timestamp": "2026-06-09T16:31:18.334057",
-      "source": "Alpha Vantage API (via ETF proxies)"
+      "name": "market",
+      "source": "Alpha Vantage API (via ETF proxies)",
+      "timestamp": "2026-06-10T17:20:22.847947"
     }
   ]
 }
