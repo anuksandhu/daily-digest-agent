@@ -1,36 +1,30 @@
 {
-  "date": "2026-06-11",
-  "generated_at": "2026-06-11T17:36:28.759506",
+  "date": "2026-06-12",
+  "generated_at": "2026-06-12T16:44:39.304031",
   "sections": [
     {
       "name": "weather",
       "data": {
         "current": {
           "description": "Clear sky",
-          "feels_like": 86.1,
-          "humidity": 21,
+          "feels_like": 83.7,
+          "humidity": 47,
           "icon": "01d",
-          "temp": 89.6,
-          "wind_speed": 4
+          "temp": 83.3,
+          "wind_speed": 1.9
         },
         "forecast": [
           {
-            "date": "2026-06-11",
-            "description": "Clear sky",
-            "icon": "01d",
-            "temp": 89.6
-          },
-          {
             "date": "2026-06-12",
             "description": "Clear sky",
-            "icon": "01n",
-            "temp": 88.1
+            "icon": "01d",
+            "temp": 83.3
           },
           {
             "date": "2026-06-13",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 97.1
+            "temp": 91.8
           },
           {
             "date": "2026-06-14",
@@ -42,14 +36,20 @@
             "date": "2026-06-15",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 99.7
+            "temp": 99
+          },
+          {
+            "date": "2026-06-16",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 101.7
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-06-11T17:36:23.950041"
+        "timestamp": "2026-06-12T16:44:35.938040"
       },
-      "timestamp": "2026-06-11T17:36:23.950041",
+      "timestamp": "2026-06-12T16:44:35.938040",
       "source": "OpenWeather API"
     },
     {
@@ -82,9 +82,9 @@
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-06-11T17:36:26.151437"
+        "timestamp": "2026-06-12T16:44:37.444614"
       },
-      "timestamp": "2026-06-11T17:36:26.151437",
+      "timestamp": "2026-06-12T16:44:37.444614",
       "source": "The Sports DB API"
     },
     {
@@ -93,49 +93,49 @@
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-06-11T17:30:00Z",
+            "published_at": "2026-06-12T16:23:25Z",
             "source": "TechCrunch",
-            "summary": "By integrating an AI assistant directly into Edits, Meta is aiming to keep creators engaged on Instagram as it continues to compete with TikTok and YouTube for creators' attention.",
-            "title": "Meta\u2019s Edits app is getting an AI assistant and a desktop version",
-            "url": "https://techcrunch.com/2026/06/11/metas-edits-app-is-getting-an-ai-assistant-and-a-desktop-version/"
+            "summary": "The IPO market is back, and&#160;it&#8217;s&#160;not the same&#160;companies&#160;leading the charge. FAANG had a good run, but a&#160;new acronym is taking over: MANGOS&#160;\u2014 Meta (or Microsoft, dep",
+            "title": "SpaceX, Anthropic, and OpenAI\u2019s hot IPO summer",
+            "url": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/"
           },
           {
             "category": "technology",
-            "published_at": "2026-06-11T17:26:57Z",
+            "published_at": "2026-06-12T16:26:29Z",
             "source": "The Verge",
-            "summary": "Just after Seattle enacted a one-year data center moratorium that some of Amazon's own employees pushed for, Amazon shared how much water its data centers use, reportedly for the first time. With conc",
-            "title": "Amazon&#8217;s data centers used 2.5 billion gallons of water last year",
-            "url": "https://www.theverge.com/tech/948534/amazon-data-centers-water-use"
+            "summary": "Elon Musk is now officially the world\\'s first trillionaire. That is a colossal amount of wealth (and by proxy, power) for one individual to have. Its scale - a thousand times more than a billion - is ",
+            "title": "A trillion dollars is a stupid amount of money",
+            "url": "https://www.theverge.com/tech/948917/elon-musk-trillionaire-how-much-visualization"
           },
           {
             "category": "technology",
-            "published_at": "2026-06-11T13:56:30Z",
+            "published_at": "2026-06-12T15:03:52Z",
             "source": "Ars Technica",
-            "summary": "Brutal self-assessment paints a picture of a Microsoft gaming division in crisis.",
-            "title": "\"This cannot continue\": Xbox leaders lay out \"hard truths\" behind sagging brand",
-            "url": "https://arstechnica.com/gaming/2026/06/this-cannot-continue-xbox-leaders-lay-out-hard-truths-behind-sagging-brand/"
+            "summary": "Did chatbot abandon mental health guardrails when a vulnerable user pushed back?",
+            "title": "Lawsuit: ChatGPT validated suicidal woman\\'s distrust of crisis lines",
+            "url": "https://arstechnica.com/tech-policy/2026/06/lawsuit-chatgpt-validated-suicidal-womans-distrust-of-crisis-lines/"
           },
           {
             "category": "technology",
-            "published_at": "2026-06-11T16:07:30Z",
+            "published_at": "2026-06-12T10:31:00Z",
             "source": "Wired",
-            "summary": "A joint congressional report describes a spam operation that turned tens of thousands of fake podcasts into search-engine bait for illegal pharmacy and scam sites.",
-            "title": "Drug Sites Hijacked Spotify\u2019s Search Ranking Through Fake Podcasts",
-            "url": "https://www.wired.com/story/drug-sites-hijacked-spotifys-search-ranking-through-fake-podcasts-report-finds/"
+            "summary": "The musician created his own line of loopers that record and layer riffs in a loop. The pricey Looper X does what it claims, but it isn\u2019t without quirks.",
+            "title": "Sheeran Loopers Looper X Review: Create Your One-Person Tour",
+            "url": "https://www.wired.com/review/ed-sheeran-looper-x/"
           },
           {
             "category": "technology",
-            "published_at": "2026-06-11T12:10:00Z",
+            "published_at": "2026-06-12T12:10:00Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Inside soccer\u2019s data renaissance Imagine tuning in",
-            "title": "The Download: soccer\u2019s data renaissance and China\u2019s big nuclear plans",
-            "url": "https://www.technologyreview.com/2026/06/11/1138809/the-download-soccer-football-data-analytics-china-nuclear-power/"
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why \u201creprogramming\u201d is the buzziest approach to re",
+            "title": "The Download: \u201creprogramming\u201d aging, and the hidden sense of interoception",
+            "url": "https://www.technologyreview.com/2026/06/12/1138899/the-download-reprogramming-reverse-aging-interoception/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-06-11T17:36:27.883862"
+        "timestamp": "2026-06-12T16:44:38.559099"
       },
-      "timestamp": "2026-06-11T17:36:27.883862",
+      "timestamp": "2026-06-12T16:44:38.559099",
       "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
@@ -143,19 +143,35 @@
       "data": {
         "indexes": [
           {
-            "change": -116.2,
-            "change_percent": -1.58,
-            "is_positive": false,
+            "change": 123.3,
+            "change_percent": 1.7,
+            "is_positive": true,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 7254.3
+            "value": 7377.6
+          },
+          {
+            "change": 300.0,
+            "change_percent": 3.0,
+            "is_positive": true,
+            "name": "NASDAQ",
+            "symbol": "^IXIC",
+            "value": 10300.0
+          },
+          {
+            "change": 450.0,
+            "change_percent": 4.5,
+            "is_positive": true,
+            "name": "DOW JONES",
+            "symbol": "^DJI",
+            "value": 10450.0
           }
         ],
-        "market_summary": "Markets declined on concerns about economic outlook.",
+        "market_summary": "Markets rallied across all major indexes on positive sentiment.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-06-11T17:36:28.759506"
+        "timestamp": "2026-06-12T16:44:38.775779"
       },
-      "timestamp": "2026-06-11T17:36:28.759506",
+      "timestamp": "2026-06-12T16:44:38.775779",
       "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
