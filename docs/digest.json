@@ -1,55 +1,55 @@
 {
-  "date": "2026-06-12",
-  "generated_at": "2026-06-12T16:44:39.304031",
+  "date": "2026-06-13",
+  "generated_at": "2026-06-13T15:42:27.123456",
   "sections": [
     {
       "name": "weather",
       "data": {
         "current": {
           "description": "Clear sky",
-          "feels_like": 83.7,
+          "feels_like": 76.8,
           "humidity": 47,
           "icon": "01d",
-          "temp": 83.3,
-          "wind_speed": 1.9
+          "temp": 77.2,
+          "wind_speed": 1
         },
         "forecast": [
           {
-            "date": "2026-06-12",
-            "description": "Clear sky",
-            "icon": "01d",
-            "temp": 83.3
-          },
-          {
             "date": "2026-06-13",
             "description": "Clear sky",
-            "icon": "01n",
-            "temp": 91.8
+            "icon": "01d",
+            "temp": 86.7
           },
           {
             "date": "2026-06-14",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 98.7
+            "temp": 98.9
           },
           {
             "date": "2026-06-15",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 99
+            "temp": 96.8
           },
           {
             "date": "2026-06-16",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 101.7
+            "temp": 101.6
+          },
+          {
+            "date": "2026-06-17",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 101.1
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-06-12T16:44:35.938040"
+        "timestamp": "2026-06-13T15:42:24.004001"
       },
-      "timestamp": "2026-06-12T16:44:35.938040",
+      "timestamp": "2026-06-13T15:42:24.004001",
       "source": "OpenWeather API"
     },
     {
@@ -82,9 +82,9 @@
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-06-12T16:44:37.444614"
+        "timestamp": "2026-06-13T15:42:25.679926"
       },
-      "timestamp": "2026-06-12T16:44:37.444614",
+      "timestamp": "2026-06-13T15:42:25.679926",
       "source": "The Sports DB API"
     },
     {
@@ -93,35 +93,35 @@
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-06-12T16:23:25Z",
+            "published_at": "2026-06-13T11:00:00Z",
             "source": "TechCrunch",
-            "summary": "The IPO market is back, and&#160;it&#8217;s&#160;not the same&#160;companies&#160;leading the charge. FAANG had a good run, but a&#160;new acronym is taking over: MANGOS&#160;\u2014 Meta (or Microsoft, dep",
-            "title": "SpaceX, Anthropic, and OpenAI\u2019s hot IPO summer",
-            "url": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/"
+            "summary": "Hidden inside a building in Alabama, the FBI has created its own small town as a dedicated cyber training ground for simulating cyberattacks.",
+            "title": "The FBI built its own replica small town to simulate real-world cyberattacks",
+            "url": "https://techcrunch.com/2026/06/13/the-fbi-built-its-own-replica-small-town-to-simulate-real-world-cyberattacks/"
           },
           {
             "category": "technology",
-            "published_at": "2026-06-12T16:26:29Z",
+            "published_at": "2026-06-13T15:00:00Z",
             "source": "The Verge",
-            "summary": "Elon Musk is now officially the world\\'s first trillionaire. That is a colossal amount of wealth (and by proxy, power) for one individual to have. Its scale - a thousand times more than a billion - is ",
-            "title": "A trillion dollars is a stupid amount of money",
-            "url": "https://www.theverge.com/tech/948917/elon-musk-trillionaire-how-much-visualization"
+            "summary": "I turned off Siri on the Mac years ago and never looked back. Similarly, I found Apple Intelligence so fruitless I never engage with it. But the new Siri AI coming to macOS 27 Golden Gate has at least",
+            "title": "My first 24 hours with Siri AI on the Mac",
+            "url": "https://www.theverge.com/tech/949502/apple-macos-27-golden-gate-siri-ai-apple-intelligence"
           },
           {
             "category": "technology",
-            "published_at": "2026-06-12T15:03:52Z",
+            "published_at": "2026-06-13T03:00:34Z",
             "source": "Ars Technica",
-            "summary": "Did chatbot abandon mental health guardrails when a vulnerable user pushed back?",
-            "title": "Lawsuit: ChatGPT validated suicidal woman\\'s distrust of crisis lines",
-            "url": "https://arstechnica.com/tech-policy/2026/06/lawsuit-chatgpt-validated-suicidal-womans-distrust-of-crisis-lines/"
+            "summary": "Commerce dept. worries that a Fable 5 \"jailbreak\" could be a national security threat.",
+            "title": "Anthropic shuts down Fable, Mythos models following Trump admin directive",
+            "url": "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/"
           },
           {
             "category": "technology",
-            "published_at": "2026-06-12T10:31:00Z",
+            "published_at": "2026-06-13T11:00:00Z",
             "source": "Wired",
-            "summary": "The musician created his own line of loopers that record and layer riffs in a loop. The pricey Looper X does what it claims, but it isn\u2019t without quirks.",
-            "title": "Sheeran Loopers Looper X Review: Create Your One-Person Tour",
-            "url": "https://www.wired.com/review/ed-sheeran-looper-x/"
+            "summary": "As World Cup action kicks off, we look at the physics of the beautiful game.",
+            "title": "How Can Soccer Players Bend Their Shots in Midair?",
+            "url": "https://www.wired.com/story/how-can-soccer-players-bend-their-shots-in-midair/"
           },
           {
             "category": "technology",
@@ -133,9 +133,9 @@
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-06-12T16:44:38.559099"
+        "timestamp": "2026-06-13T15:42:26.321678"
       },
-      "timestamp": "2026-06-12T16:44:38.559099",
+      "timestamp": "2026-06-13T15:42:26.321678",
       "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
@@ -143,35 +143,19 @@
       "data": {
         "indexes": [
           {
-            "change": 123.3,
-            "change_percent": 1.7,
+            "change": 39.9,
+            "change_percent": 0.54,
             "is_positive": true,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 7377.6
-          },
-          {
-            "change": 300.0,
-            "change_percent": 3.0,
-            "is_positive": true,
-            "name": "NASDAQ",
-            "symbol": "^IXIC",
-            "value": 10300.0
-          },
-          {
-            "change": 450.0,
-            "change_percent": 4.5,
-            "is_positive": true,
-            "name": "DOW JONES",
-            "symbol": "^DJI",
-            "value": 10450.0
+            "value": 7417.5
           }
         ],
         "market_summary": "Markets rallied across all major indexes on positive sentiment.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-06-12T16:44:38.775779"
+        "timestamp": "2026-06-13T15:42:26.639017"
       },
-      "timestamp": "2026-06-12T16:44:38.775779",
+      "timestamp": "2026-06-13T15:42:26.639017",
       "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
