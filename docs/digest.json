@@ -1,59 +1,58 @@
 {
-  "date": "2026-06-13",
-  "generated_at": "2026-06-13T15:42:27.123456",
+  "date": "2026-06-14",
+  "generated_at": "2026-06-14T15:48:44.308745",
   "sections": [
     {
-      "name": "weather",
       "data": {
         "current": {
           "description": "Clear sky",
-          "feels_like": 76.8,
-          "humidity": 47,
+          "feels_like": 68.2,
+          "humidity": 74,
           "icon": "01d",
-          "temp": 77.2,
-          "wind_speed": 1
+          "temp": 68.2,
+          "wind_speed": 1.8
         },
         "forecast": [
           {
-            "date": "2026-06-13",
-            "description": "Clear sky",
-            "icon": "01d",
-            "temp": 86.7
-          },
-          {
             "date": "2026-06-14",
             "description": "Clear sky",
-            "icon": "01n",
-            "temp": 98.9
+            "icon": "01d",
+            "temp": 78.5
           },
           {
             "date": "2026-06-15",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 96.8
+            "temp": 83.8
           },
           {
             "date": "2026-06-16",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 101.6
+            "temp": 101.2
           },
           {
             "date": "2026-06-17",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 101.1
+            "temp": 100.1
+          },
+          {
+            "date": "2026-06-18",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 95.2
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-06-13T15:42:24.004001"
+        "timestamp": "2026-06-14T15:48:40.087230"
       },
-      "timestamp": "2026-06-13T15:42:24.004001",
-      "source": "OpenWeather API"
+      "name": "weather",
+      "source": "OpenWeather API",
+      "timestamp": "2026-06-14T15:48:40.087230"
     },
     {
-      "name": "sports",
       "data": {
         "source": "The Sports DB API",
         "teams": [
@@ -82,46 +81,46 @@
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-06-13T15:42:25.679926"
+        "timestamp": "2026-06-14T15:48:42.114434"
       },
-      "timestamp": "2026-06-13T15:42:25.679926",
-      "source": "The Sports DB API"
+      "name": "sports",
+      "source": "The Sports DB API",
+      "timestamp": "2026-06-14T15:48:42.114434"
     },
     {
-      "name": "tech",
       "data": {
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-06-13T11:00:00Z",
+            "published_at": "2026-06-14T03:00:00Z",
             "source": "TechCrunch",
-            "summary": "Hidden inside a building in Alabama, the FBI has created its own small town as a dedicated cyber training ground for simulating cyberattacks.",
-            "title": "The FBI built its own replica small town to simulate real-world cyberattacks",
-            "url": "https://techcrunch.com/2026/06/13/the-fbi-built-its-own-replica-small-town-to-simulate-real-world-cyberattacks/"
+            "summary": "Tech leaders debate whether the Anthropic episode is a wake-up call for India\u2019s AI ambitions.",
+            "title": "As Anthropic suspends access to new models, India debates its AI future",
+            "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/"
           },
           {
             "category": "technology",
-            "published_at": "2026-06-13T15:00:00Z",
+            "published_at": "2026-06-14T13:42:07Z",
             "source": "The Verge",
-            "summary": "I turned off Siri on the Mac years ago and never looked back. Similarly, I found Apple Intelligence so fruitless I never engage with it. But the new Siri AI coming to macOS 27 Golden Gate has at least",
-            "title": "My first 24 hours with Siri AI on the Mac",
-            "url": "https://www.theverge.com/tech/949502/apple-macos-27-golden-gate-siri-ai-apple-intelligence"
+            "summary": "You don\\'t really ever have to explain why a universal remote is a good idea. You have a bunch of stuff that needs controlling; this thing controls them all. Many companies have set out to build a prod",
+            "title": "The impossible dream of the universal remote",
+            "url": "https://www.theverge.com/podcast/949620/harmony-universal-remote-version-history"
           },
           {
             "category": "technology",
-            "published_at": "2026-06-13T03:00:34Z",
+            "published_at": "2026-06-13T17:17:44Z",
             "source": "Ars Technica",
-            "summary": "Commerce dept. worries that a Fable 5 \"jailbreak\" could be a national security threat.",
-            "title": "Anthropic shuts down Fable, Mythos models following Trump admin directive",
-            "url": "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/"
+            "summary": "There\\'s nothing new or surprising, but it\\'s still an entertaining film from one of our greatest directors.",
+            "title": "Review: Disclosure Day is big on action, light on ideas",
+            "url": "https://arstechnica.com/culture/2026/06/review-disclosure-day-is-big-on-action-light-on-ideas/"
           },
           {
             "category": "technology",
-            "published_at": "2026-06-13T11:00:00Z",
+            "published_at": "2026-06-14T10:30:00Z",
             "source": "Wired",
-            "summary": "As World Cup action kicks off, we look at the physics of the beautiful game.",
-            "title": "How Can Soccer Players Bend Their Shots in Midair?",
-            "url": "https://www.wired.com/story/how-can-soccer-players-bend-their-shots-in-midair/"
+            "summary": "Suunto swaps bone for air conduction, giving these open-ear earbuds a perfect fit for the great outdoors.",
+            "title": "Suunto Spark Review: The Perfect Pair for Runs and Rides",
+            "url": "https://www.wired.com/review/suunto-spark/"
           },
           {
             "category": "technology",
@@ -133,13 +132,13 @@
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-06-13T15:42:26.321678"
+        "timestamp": "2026-06-14T15:48:43.434780"
       },
-      "timestamp": "2026-06-13T15:42:26.321678",
-      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
+      "name": "tech",
+      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
+      "timestamp": "2026-06-14T15:48:43.434780"
     },
     {
-      "name": "market",
       "data": {
         "indexes": [
           {
@@ -153,10 +152,11 @@
         ],
         "market_summary": "Markets rallied across all major indexes on positive sentiment.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-06-13T15:42:26.639017"
+        "timestamp": "2026-06-14T15:48:43.878185"
       },
-      "timestamp": "2026-06-13T15:42:26.639017",
-      "source": "Alpha Vantage API (via ETF proxies)"
+      "name": "market",
+      "source": "Alpha Vantage API (via ETF proxies)",
+      "timestamp": "2026-06-14T15:48:43.878185"
     }
   ]
 }
