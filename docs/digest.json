@@ -1,56 +1,56 @@
 {
-  "date": "2026-06-14",
-  "generated_at": "2026-06-14T15:48:44.308745",
+  "date": "2026-06-15",
+  "generated_at": "2026-06-15T18:26:29.000000",
   "sections": [
     {
       "data": {
         "current": {
           "description": "Clear sky",
-          "feels_like": 68.2,
-          "humidity": 74,
+          "feels_like": 77.7,
+          "humidity": 56,
           "icon": "01d",
-          "temp": 68.2,
-          "wind_speed": 1.8
+          "temp": 77.6,
+          "wind_speed": 6
         },
         "forecast": [
           {
-            "date": "2026-06-14",
-            "description": "Clear sky",
-            "icon": "01d",
-            "temp": 78.5
-          },
-          {
             "date": "2026-06-15",
             "description": "Clear sky",
-            "icon": "01n",
-            "temp": 83.8
+            "icon": "01d",
+            "temp": 78.3
           },
           {
             "date": "2026-06-16",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 101.2
+            "temp": 86
           },
           {
             "date": "2026-06-17",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 100.1
+            "temp": 96.9
           },
           {
             "date": "2026-06-18",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 95.2
+            "temp": 95.1
+          },
+          {
+            "date": "2026-06-19",
+            "description": "Few clouds",
+            "icon": "02n",
+            "temp": 89.1
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-06-14T15:48:40.087230"
+        "timestamp": "2026-06-15T18:26:26.391371"
       },
       "name": "weather",
       "source": "OpenWeather API",
-      "timestamp": "2026-06-14T15:48:40.087230"
+      "timestamp": "2026-06-15T18:26:26.391371"
     },
     {
       "data": {
@@ -81,62 +81,62 @@
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-06-14T15:48:42.114434"
+        "timestamp": "2026-06-15T18:26:27.701601"
       },
       "name": "sports",
       "source": "The Sports DB API",
-      "timestamp": "2026-06-14T15:48:42.114434"
+      "timestamp": "2026-06-15T18:26:27.701601"
     },
     {
       "data": {
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-06-14T03:00:00Z",
+            "published_at": "2026-06-15T17:41:02Z",
             "source": "TechCrunch",
-            "summary": "Tech leaders debate whether the Anthropic episode is a wake-up call for India\u2019s AI ambitions.",
-            "title": "As Anthropic suspends access to new models, India debates its AI future",
-            "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/"
+            "summary": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and ex",
+            "title": "These are the countries moving to ban social media for children",
+            "url": "https://techcrunch.com/2026/06/15/social-media-ban-children-countries-list/"
           },
           {
             "category": "technology",
-            "published_at": "2026-06-14T13:42:07Z",
+            "published_at": "2026-06-15T18:10:27Z",
             "source": "The Verge",
-            "summary": "You don\\'t really ever have to explain why a universal remote is a good idea. You have a bunch of stuff that needs controlling; this thing controls them all. Many companies have set out to build a prod",
-            "title": "The impossible dream of the universal remote",
-            "url": "https://www.theverge.com/podcast/949620/harmony-universal-remote-version-history"
+            "summary": "At Washington\\'s request, Anthropic suddenly took its newest and most powerful AI models offline over the weekend. The American company said it had little choice after the White House demanded it block",
+            "title": "Trump\u2019s Anthropic shutdown just made the case for non-American AI",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai"
           },
           {
             "category": "technology",
-            "published_at": "2026-06-13T17:17:44Z",
+            "published_at": "2026-06-15T16:32:14Z",
             "source": "Ars Technica",
-            "summary": "There\\'s nothing new or surprising, but it\\'s still an entertaining film from one of our greatest directors.",
-            "title": "Review: Disclosure Day is big on action, light on ideas",
-            "url": "https://arstechnica.com/culture/2026/06/review-disclosure-day-is-big-on-action-light-on-ideas/"
+            "summary": "Remembering the ups and downs of the Intel Mac era as it finally winds down.",
+            "title": "20 years of Intel Macs: Why Apple switched, and why it switched again",
+            "url": "https://arstechnica.com/gadgets/2026/06/20-years-of-intel-macs-why-apple-switched-and-why-it-switched-again/"
           },
           {
             "category": "technology",
-            "published_at": "2026-06-14T10:30:00Z",
+            "published_at": "2026-06-15T11:00:00Z",
             "source": "Wired",
-            "summary": "Suunto swaps bone for air conduction, giving these open-ear earbuds a perfect fit for the great outdoors.",
-            "title": "Suunto Spark Review: The Perfect Pair for Runs and Rides",
-            "url": "https://www.wired.com/review/suunto-spark/"
+            "summary": "Both kratom and one of its active components, 7-OH, have opioid-like effects and are widely available across the US. As health secretary RFK Jr. aims to get 7-OH banned, proponents of both are fightin",
+            "title": "The Kratom Civil War Is Heating Up, and MAHA Has Picked a Side",
+            "url": "https://www.wired.com/story/the-kratom-civil-war-is-heating-up-and-maha-has-picked-a-side/"
           },
           {
             "category": "technology",
-            "published_at": "2026-06-12T12:10:00Z",
+            "published_at": "2026-06-15T15:12:28Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Why \u201creprogramming\u201d is the buzziest approach to re",
-            "title": "The Download: \u201creprogramming\u201d aging, and the hidden sense of interoception",
-            "url": "https://www.technologyreview.com/2026/06/12/1138899/the-download-reprogramming-reverse-aging-interoception/"
+            "summary": "Casey Harrell has had a set of electrodes embedded in his brain for almost three years. Harrell, who has amyotrophic lateral sclerosis (ALS) and is paralyzed, first used his brain-computer interface (",
+            "title": "This man with ALS is \u201cthe first power user\u201d of a brain implant that lets him speak",
+            "url": "https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-06-14T15:48:43.434780"
+        "timestamp": "2026-06-15T18:26:28.530155"
       },
       "name": "tech",
       "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-      "timestamp": "2026-06-14T15:48:43.434780"
+      "timestamp": "2026-06-15T18:26:28.530155"
     },
     {
       "data": {
@@ -152,11 +152,11 @@
         ],
         "market_summary": "Markets rallied across all major indexes on positive sentiment.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-06-14T15:48:43.878185"
+        "timestamp": "2026-06-15T18:26:28.705667"
       },
       "name": "market",
       "source": "Alpha Vantage API (via ETF proxies)",
-      "timestamp": "2026-06-14T15:48:43.878185"
+      "timestamp": "2026-06-15T18:26:28.705667"
     }
   ]
 }
