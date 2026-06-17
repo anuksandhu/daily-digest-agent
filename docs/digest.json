@@ -1,58 +1,61 @@
 {
-  "date": "2026-06-16",
-  "generated_at": "2026-06-16T18:27:03.428497",
+  "date": "2026-06-17",
+  "generated_at": "2026-06-17T16:54:52.532779",
   "sections": [
     {
       "name": "weather",
       "data": {
         "current": {
           "description": "Clear sky",
-          "feels_like": 78.2,
-          "humidity": 55,
+          "feels_like": 71,
+          "humidity": 61,
           "icon": "01d",
-          "temp": 78.1,
-          "wind_speed": 1
+          "temp": 71.3,
+          "wind_speed": 3.2
         },
         "forecast": [
           {
-            "date": "2026-06-16",
-            "description": "Clear sky",
-            "icon": "01d",
-            "temp": 78.7
-          },
-          {
             "date": "2026-06-17",
             "description": "Clear sky",
-            "icon": "01n",
-            "temp": 81.3
+            "icon": "01d",
+            "temp": 73
           },
           {
             "date": "2026-06-18",
-            "description": "Few clouds",
-            "icon": "02n",
-            "temp": 89.5
+            "description": "Scattered clouds",
+            "icon": "03n",
+            "temp": 76.1
           },
           {
             "date": "2026-06-19",
-            "description": "Few clouds",
-            "icon": "02n",
-            "temp": 83.8
+            "description": "Scattered clouds",
+            "icon": "03n",
+            "temp": 84.4
           },
           {
             "date": "2026-06-20",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 86.5
+            "temp": 88
+          },
+          {
+            "date": "2026-06-21",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 91.5
           }
         ],
         "location": "San Jose",
-        "timestamp": "2026-06-16T18:27:00.805713",
-        "source": "OpenWeather API"
-      }
+        "source": "OpenWeather API",
+        "timestamp": "2026-06-17T16:54:49.877755"
+      },
+      "timestamp": "2026-06-17T16:54:49.877755",
+      "source": "OpenWeather API"
     },
     {
       "name": "sports",
       "data": {
+        "source": "The Sports DB API",
         "teams": [
           {
             "latest_game": "L 3-13 vs Seahawks (2026-01-04)",
@@ -79,9 +82,10 @@
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-06-16T18:27:02.131274",
-        "source": "The Sports DB API"
-      }
+        "timestamp": "2026-06-17T16:54:51.462725"
+      },
+      "timestamp": "2026-06-17T16:54:51.462725",
+      "source": "The Sports DB API"
     },
     {
       "name": "tech",
@@ -89,82 +93,70 @@
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-06-16T18:22:24Z",
+            "published_at": "2026-06-17T16:30:09Z",
             "source": "TechCrunch",
-            "summary": "Qualcomm's CEO said today that the company is working on over 40 new AI hardware designs",
-            "title": "Qualcomm wants to be the chip inside whatever replaces your smartphone, and it just announced two products toward that end",
-            "url": "https://techcrunch.com/2026/06/16/qualcomm-wants-to-be-the-chip-inside-whatever-replaces-your-smartphone-and-it-just-announced-two-products-toward-that-end/"
+            "summary": "Google is betting generative AI can breathe new life into the smart speaker. The company's new $99.99 Google Home Speaker replaces the rigid commands of the Google Assistant era with more conversation",
+            "title": "Google bets on Gemini to reinvent the smart home speaker",
+            "url": "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/"
           },
           {
             "category": "technology",
-            "published_at": "2026-06-16T18:00:00Z",
+            "published_at": "2026-06-17T16:27:00Z",
             "source": "The Verge",
-            "summary": "Following its official debut last month, Google is now rolling out Android 17 to compatible Pixel phones, alongside additional exclusive features as part of the June Pixel Drop. Not every feature anno\n",
-            "title": "Android 17 arrives on Pixel phones today",
-            "url": "https://www.theverge.com/tech/950651/android-17-release-pixel-drop-google-bubble-screen-reaction"
+            "summary": "Hello and welcome to Regulator, an email for Verge subscribers about technology, politics, and what happens when science crashes headlong into self-interest. Not a subscriber? Sign up here today! Got ",
+            "title": "Vibe-decoding the White House-Anthropic fight over Fable",
+            "url": "https://www.theverge.com/column/951516/trump-anthropic-feud-mythos-fable-white-house"
           },
           {
             "category": "technology",
-            "published_at": "2026-06-16T17:50:52Z",
-            "source": "Wired",
-            "summary": "The US government crackdown on Anthropic\u2019s Claude Fable 5 and Mythos 5 hides a glaring truth: AI models with advanced hacking capabilities will soon be the norm.",
-            "title": "\u2018Dangerous\u2019 AI Models Are Coming No Matter What",
-            "url": "https://www.wired.com/story/dangerous-ai-models-are-coming-no-matter-what/"
-          },
-          {
-            "category": "technology",
-            "published_at": "2026-06-16T12:10:00Z",
-            "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This man with ALS is the first \u201cpower user\u201d of a b",
-            "title": "The Download: the first brain implant power user and South Korea\u2019s AI obsession",
-            "url": "https://www.technologyreview.com/2026/06/16/1139010/the-download-brain-implant-power-user-bci-south-korea-ai-obsession/"
-          },
-          {
-            "category": "technology",
-            "published_at": "2026-06-16T18:11:05Z",
+            "published_at": "2026-06-17T15:57:14Z",
             "source": "Ars Technica",
-            "summary": "Pentagon also claims 1.5 million personnel are using generative AI tools.",
-            "title": "Pentagon boasts of using AI to write reports mandated by Congress",
-            "url": "https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/"
+            "summary": "Google's new smart speaker is more about Gemini than audio quality.",
+            "title": "Ten months later, the $100 Google Home Speaker is finally available for preorder",
+            "url": "https://arstechnica.com/google/2026/06/the-gemini-powered-google-home-speaker-arrives-on-june-25-for-100/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-06-17T05:00:00Z",
+            "source": "Wired",
+            "summary": "Save up to $400 on top air purifiers and filters with verified AirDoctor promo codes and special offers for 2026.",
+            "title": "AirDoctor Coupon Codes: 40% Off | June 2026",
+            "url": "https://www.wired.com/story/airdoctor-coupon-code/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-06-17T12:10:00Z",
+            "source": "MIT Technology Review",
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Hacking the atmosphere: geoengineering gets a real",
+            "title": "The Download: a reality check for geoengineering and the science of interoception",
+            "url": "https://www.technologyreview.com/2026/06/17/1139200/the-download-solar-geoengineering-interoception/"
           }
         ],
-        "timestamp": "2026-06-16T18:27:02.986321",
-        "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
-      }
+        "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
+        "timestamp": "2026-06-17T16:54:52.163630"
+      },
+      "timestamp": "2026-06-17T16:54:52.163630",
+      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
       "name": "market",
       "data": {
         "indexes": [
           {
-            "change": 130.8,
-            "change_percent": 1.76,
-            "is_positive": true,
+            "change": -45,
+            "change_percent": -0.6,
+            "is_positive": false,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 7548.3
-          },
-          {
-            "change": 50.2,
-            "change_percent": 0.89,
-            "is_positive": true,
-            "name": "NASDAQ",
-            "symbol": "^IXIC",
-            "value": 5690.7
-          },
-          {
-            "change": 200.5,
-            "change_percent": 2.15,
-            "is_positive": true,
-            "name": "DOW JONES",
-            "symbol": "^DJI",
-            "value": 9500.2
+            "value": 7503.3
           }
         ],
-        "market_summary": "Markets rallied across all major indexes on positive sentiment.",
-        "timestamp": "2026-06-16T18:27:03.174344",
-        "source": "Alpha Vantage API (via ETF proxies)"
-      }
+        "market_summary": "Markets declined on concerns about economic outlook.",
+        "source": "Alpha Vantage API (via ETF proxies)",
+        "timestamp": "2026-06-17T16:54:52.490780"
+      },
+      "timestamp": "2026-06-17T16:54:52.490780",
+      "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
 }
