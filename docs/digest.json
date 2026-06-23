@@ -1,60 +1,59 @@
 {
-  "date": "2026-06-22",
-  "generated_at": "2026-06-22T18:12:04.123456",
+  "date": "2026-06-23",
+  "generated_at": "2026-06-23T16:26:42.710934",
   "sections": [
     {
+      "name": "weather",
       "data": {
         "current": {
           "description": "Clear sky",
-          "feels_like": 73.6,
-          "humidity": 60,
+          "feels_like": 64.4,
+          "humidity": 76,
           "icon": "01d",
-          "temp": 73.7,
+          "temp": 64.7,
           "wind_speed": 1
         },
         "forecast": [
           {
-            "date": "2026-06-22",
-            "description": "Clear sky",
-            "icon": "01d",
-            "temp": 76.1
-          },
-          {
             "date": "2026-06-23",
             "description": "Clear sky",
-            "icon": "01n",
-            "temp": 85.9
+            "icon": "01d",
+            "temp": 74.8
           },
           {
             "date": "2026-06-24",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 94.7
+            "temp": 82.6
           },
           {
             "date": "2026-06-25",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 93.4
+            "temp": 89.7
           },
           {
             "date": "2026-06-26",
-            "description": "Few clouds",
-            "icon": "02n",
-            "temp": 88.6
+            "description": "Broken clouds",
+            "icon": "04n",
+            "temp": 82.9
+          },
+          {
+            "date": "2026-06-27",
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 78.4
           }
         ],
         "location": "San Jose",
-        "source": "OpenWeather API",
-        "timestamp": "2026-06-22T18:12:00.996723"
+        "source": "OpenWeather API"
       },
-      "name": "weather",
-      "source": "OpenWeather API",
-      "timestamp": "2026-06-22T18:12:00.996723"
+      "timestamp": "2026-06-23T16:26:40.132342",
+      "source": "OpenWeather API"
     },
     {
+      "name": "sports",
       "data": {
-        "source": "The Sports DB API",
         "teams": [
           {
             "latest_game": "L 3-13 vs Seahawks (2026-01-04)",
@@ -81,82 +80,95 @@
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-06-22T18:12:02.440596"
+        "source": "The Sports DB API"
       },
-      "name": "sports",
-      "source": "The Sports DB API",
-      "timestamp": "2026-06-22T18:12:02.440596"
+      "timestamp": "2026-06-23T16:26:41.532959",
+      "source": "The Sports DB API"
     },
     {
+      "name": "tech",
       "data": {
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-06-22T18:05:13Z",
+            "published_at": "2026-06-23T15:09:38Z",
             "source": "TechCrunch",
-            "summary": "Claude\\'s chatbot may ask to verify your age and identity \"in certain circumstances,\" such as with a passport or driver\\'s license, according to a privacy policy change.",
-            "title": "Anthropic says Claude may want to see your ID",
-            "url": "https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/"
+            "summary": "HaloBraid aims to help salons speed up braiding with its first device, slated to launch later this year, that acts as a braiding assistant for professional stylists.",
+            "title": "HaloBraid raises $7M from Seven Seven Six to end the six-hour hair salon appointment",
+            "url": "https://techcrunch.com/2026/06/23/halobraid-raises-7m-from-seven-seven-six-to-end-the-six-hour-hair-salon-appointment/"
           },
           {
             "category": "technology",
-            "published_at": "2026-06-22T17:18:13Z",
+            "published_at": "2026-06-23T16:00:00Z",
             "source": "The Verge",
-            "summary": "Google\\'s DeepMind AI lab is teaming up with A24 to develop new movie production technologies that aim to help future filmmakers \"expand their storytelling possibilities.\" As part of this new research ",
-            "title": "Google invests in A24 to build AI movie tools",
-            "url": "https://www.theverge.com/entertainment/953596/google-deepmind-a24-studio-ai-partnership"
+            "summary": "While there are several thousand products discounted for Prime Day 2026, most of them aren\u2019t what we\u2019d call winners. We\u2019ve already gathered the best Prime Day deals in our main roundup, but we\u2019re dedi",
+            "title": "Here are the best Prime Day deals on the Verge staff\u2019s favorite stuff",
+            "url": "https://www.theverge.com/gadgets/952503/best-prime-day-deals-verge-favorites-2026"
           },
           {
             "category": "technology",
-            "published_at": "2026-06-22T13:45:24Z",
+            "published_at": "2026-06-23T13:55:14Z",
             "source": "Ars Technica",
-            "summary": "The company warned about dangers of advanced AI far more than rival OpenAI.",
-            "title": "How Anthropic may have talked itself into an AI export ban",
-            "url": "https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/"
+            "summary": "Tonally, the trailer gives strong vibes akin to the director's 2016 feature Hunt for the Wilderpeople.",
+            "title": "Sony releases trailer for Taika Waititi's Klara and the Sun",
+            "url": "https://arstechnica.com/culture/2026/06/taika-waititi-brings-more-dramatic-tone-to-klara-and-the-sun-trailer/"
           },
           {
             "category": "technology",
-            "published_at": "2026-06-22T17:02:30Z",
+            "published_at": "2026-06-23T16:17:42Z",
             "source": "Wired",
-            "summary": "Two years after it turned Marg Monday into a daily, the Ninja Slushi is only $200. That\u2019s the cheapest deal ever.",
-            "title": "The Ninja Slushi Is Only $200: Early Amazon Prime Day Deal 2026",
-            "url": "https://www.wired.com/story/ninja-slushi-amazon-prime-day-deal-2026/"
+            "summary": "Skip the pricey upgrade and save $100+ on the Oura Ring 4.",
+            "title": "The Oura Ring Prime Day Sale I've Been Waiting For (2026)",
+            "url": "https://www.wired.com/story/oura-ring-prime-day-sale-2026/"
           },
           {
             "category": "technology",
-            "published_at": "2026-06-22T12:10:00Z",
+            "published_at": "2026-06-23T12:10:00Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Inside the world\u2019s deepest and longest subsea road",
-            "title": "The Download: record-breaking subsea tunnels and flexible data centers",
-            "url": "https://www.technologyreview.com/2026/06/22/1139385/the-download-rogfast-subsea-tunnel-flexible-data-centers/"
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily download of what&#8217;s going on in the world of technology. The $400 million machine powering the future of ch",
+            "title": "The Download: the future of chipmaking and Anthropic\u2019s government clash",
+            "url": "https://www.technologyreview.com/2026/06/23/1139483/the-download-chipmaking-future-asml-ai-anthropic-government-clash/"
           }
         ],
-        "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-06-22T18:12:03.407562"
+        "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
       },
-      "name": "tech",
-      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-      "timestamp": "2026-06-22T18:12:03.407562"
+      "timestamp": "2026-06-23T16:26:42.364829",
+      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
+      "name": "market",
       "data": {
         "indexes": [
           {
-            "change": 76.64,
-            "change_percent": 1.04,
-            "is_positive": true,
+            "change": -23.5,
+            "change_percent": -0.31,
+            "is_positive": false,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 7467.4
+            "value": 7443.9
+          },
+          {
+            "change": -75.2,
+            "change_percent": -0.5,
+            "is_positive": false,
+            "name": "NASDAQ",
+            "symbol": "^IXIC",
+            "value": 15000.0
+          },
+          {
+            "change": -150.0,
+            "change_percent": -0.4,
+            "is_positive": false,
+            "name": "DOW JONES",
+            "symbol": "^DJI",
+            "value": 37500.0
           }
         ],
-        "market_summary": "Markets rallied across all major indexes on positive sentiment.",
-        "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-06-22T18:12:03.671116"
+        "market_summary": "Markets declined on concerns about economic outlook.",
+        "source": "Alpha Vantage API (via ETF proxies)"
       },
-      "name": "market",
-      "source": "Alpha Vantage API (via ETF proxies)",
-      "timestamp": "2026-06-22T18:12:03.671116"
+      "timestamp": "2026-06-23T16:26:42.553675",
+      "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
 }
