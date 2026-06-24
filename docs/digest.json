@@ -1,54 +1,55 @@
 {
-  "date": "2026-06-23",
-  "generated_at": "2026-06-23T16:26:42.710934",
+  "date": "2026-06-24",
+  "generated_at": "2026-06-24T16:22:12.500000",
   "sections": [
     {
       "name": "weather",
       "data": {
         "current": {
           "description": "Clear sky",
-          "feels_like": 64.4,
-          "humidity": 76,
+          "feels_like": 62.7,
+          "humidity": 79,
           "icon": "01d",
-          "temp": 64.7,
-          "wind_speed": 1
+          "temp": 63,
+          "wind_speed": 1.9
         },
         "forecast": [
           {
-            "date": "2026-06-23",
-            "description": "Clear sky",
-            "icon": "01d",
-            "temp": 74.8
-          },
-          {
             "date": "2026-06-24",
             "description": "Clear sky",
-            "icon": "01n",
-            "temp": 82.6
+            "icon": "01d",
+            "temp": 73.2
           },
           {
             "date": "2026-06-25",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 89.7
+            "temp": 76.5
           },
           {
             "date": "2026-06-26",
             "description": "Broken clouds",
             "icon": "04n",
-            "temp": 82.9
+            "temp": 79.2
           },
           {
             "date": "2026-06-27",
             "description": "Overcast clouds",
             "icon": "04n",
-            "temp": 78.4
+            "temp": 77.5
+          },
+          {
+            "date": "2026-06-28",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 79.3
           }
         ],
         "location": "San Jose",
-        "source": "OpenWeather API"
+        "source": "OpenWeather API",
+        "timestamp": "2026-06-24T16:22:08.976572"
       },
-      "timestamp": "2026-06-23T16:26:40.132342",
+      "timestamp": "2026-06-24T16:22:08.976572",
       "source": "OpenWeather API"
     },
     {
@@ -67,7 +68,7 @@
             "latest_game": "L 3-4 vs Canucks (2026-04-12)",
             "league": "NHL",
             "name": "San Jose Sharks",
-            "next_game": "No upcoming games scheduled",
+            "next_game": "@ Ducks on 2026-09-20",
             "record": "Season in progress",
             "standings": "N/A"
           },
@@ -80,9 +81,10 @@
             "standings": "N/A"
           }
         ],
+        "timestamp": "2026-06-24T16:22:11.046601",
         "source": "The Sports DB API"
       },
-      "timestamp": "2026-06-23T16:26:41.532959",
+      "timestamp": "2026-06-24T16:22:11.046601",
       "source": "The Sports DB API"
     },
     {
@@ -91,48 +93,49 @@
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-06-23T15:09:38Z",
+            "published_at": "2026-06-24T16:15:00Z",
             "source": "TechCrunch",
-            "summary": "HaloBraid aims to help salons speed up braiding with its first device, slated to launch later this year, that acts as a braiding assistant for professional stylists.",
-            "title": "HaloBraid raises $7M from Seven Seven Six to end the six-hour hair salon appointment",
-            "url": "https://techcrunch.com/2026/06/23/halobraid-raises-7m-from-seven-seven-six-to-end-the-six-hour-hair-salon-appointment/"
+            "summary": "Figma's update adds a new code layer, support for motion and shaders, and the ability to create custom plugins for various tasks using AI.",
+            "title": "Figma adds code layers, support for animations, more AI features in new update",
+            "url": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/"
           },
           {
             "category": "technology",
-            "published_at": "2026-06-23T16:00:00Z",
+            "published_at": "2026-06-24T16:15:00Z",
             "source": "The Verge",
-            "summary": "While there are several thousand products discounted for Prime Day 2026, most of them aren\u2019t what we\u2019d call winners. We\u2019ve already gathered the best Prime Day deals in our main roundup, but we\u2019re dedi",
-            "title": "Here are the best Prime Day deals on the Verge staff\u2019s favorite stuff",
-            "url": "https://www.theverge.com/gadgets/952503/best-prime-day-deals-verge-favorites-2026"
+            "summary": "Figma has unveiled some new design and coding product updates at its annual Config conference that aim to help creatives \"push their ideas further\" and automate tedious tasks with AI. Part of this is ",
+            "title": "Figma now has AI motion graphics and shader tools",
+            "url": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements"
           },
           {
             "category": "technology",
-            "published_at": "2026-06-23T13:55:14Z",
+            "published_at": "2026-06-23T20:17:38Z",
             "source": "Ars Technica",
-            "summary": "Tonally, the trailer gives strong vibes akin to the director's 2016 feature Hunt for the Wilderpeople.",
-            "title": "Sony releases trailer for Taika Waititi's Klara and the Sun",
-            "url": "https://arstechnica.com/culture/2026/06/taika-waititi-brings-more-dramatic-tone-to-klara-and-the-sun-trailer/"
+            "summary": "Oracle is spending billions on data center infrastructure to support AI.",
+            "title": "Oracle\u2019s 21,000 layoffs help drive its debt-fueled AI investments",
+            "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/"
           },
           {
             "category": "technology",
-            "published_at": "2026-06-23T16:17:42Z",
+            "published_at": "2026-06-24T13:00:00Z",
             "source": "Wired",
-            "summary": "Skip the pricey upgrade and save $100+ on the Oura Ring 4.",
-            "title": "The Oura Ring Prime Day Sale I've Been Waiting For (2026)",
-            "url": "https://www.wired.com/story/oura-ring-prime-day-sale-2026/"
+            "summary": "Google\u2019s first new smart speaker in six years is here and once again leads its competitors\u2014now with paywalled features.",
+            "title": "Google Home Speaker Review: Leading the Pack, Again",
+            "url": "https://www.wired.com/review/google-home-speaker-2026/"
           },
           {
             "category": "technology",
-            "published_at": "2026-06-23T12:10:00Z",
+            "published_at": "2026-06-24T15:25:28Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily download of what&#8217;s going on in the world of technology. The $400 million machine powering the future of ch",
-            "title": "The Download: the future of chipmaking and Anthropic\u2019s government clash",
-            "url": "https://www.technologyreview.com/2026/06/23/1139483/the-download-chipmaking-future-asml-ai-anthropic-government-clash/"
+            "summary": "Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to fans and air-conditioning to try to stay cool. Some power plants won\u2019t be online to",
+            "title": "Europe\u2019s extreme heat is shutting down power plants",
+            "url": "https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/"
           }
         ],
+        "timestamp": "2026-06-24T16:22:11.746097",
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
       },
-      "timestamp": "2026-06-23T16:26:42.364829",
+      "timestamp": "2026-06-24T16:22:11.746097",
       "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
@@ -140,34 +143,35 @@
       "data": {
         "indexes": [
           {
-            "change": -23.5,
-            "change_percent": -0.31,
+            "change": -108.1,
+            "change_percent": -1.45,
             "is_positive": false,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 7443.9
+            "value": 7335.8
           },
           {
-            "change": -75.2,
-            "change_percent": -0.5,
+            "change": -108.1,
+            "change_percent": -1.45,
             "is_positive": false,
             "name": "NASDAQ",
             "symbol": "^IXIC",
-            "value": 15000.0
+            "value": 7335.8
           },
           {
-            "change": -150.0,
-            "change_percent": -0.4,
+            "change": -108.1,
+            "change_percent": -1.45,
             "is_positive": false,
             "name": "DOW JONES",
             "symbol": "^DJI",
-            "value": 37500.0
+            "value": 7335.8
           }
         ],
         "market_summary": "Markets declined on concerns about economic outlook.",
+        "timestamp": "2026-06-24T16:22:12.310150",
         "source": "Alpha Vantage API (via ETF proxies)"
       },
-      "timestamp": "2026-06-23T16:26:42.553675",
+      "timestamp": "2026-06-24T16:22:12.310150",
       "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
