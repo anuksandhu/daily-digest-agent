@@ -1,56 +1,56 @@
 {
-  "date": "2026-06-29",
-  "generated_at": "2026-06-29T16:52:49.355430",
+  "date": "2026-07-01",
+  "generated_at": "2026-07-01T16:27:03.127147",
   "sections": [
     {
       "data": {
         "current": {
-          "description": "Clear sky",
-          "feels_like": 67.3,
-          "humidity": 64,
-          "icon": "01d",
-          "temp": 67.8,
-          "wind_speed": 5
+          "description": "Scattered clouds",
+          "feels_like": 61.9,
+          "humidity": 69,
+          "icon": "03d",
+          "temp": 62.6,
+          "wind_speed": 10
         },
         "forecast": [
           {
-            "date": "2026-06-29",
-            "description": "Clear sky",
-            "icon": "01d",
-            "temp": 73.3
-          },
-          {
-            "date": "2026-06-30",
-            "description": "Clear sky",
-            "icon": "01n",
-            "temp": 85.2
-          },
-          {
             "date": "2026-07-01",
             "description": "Scattered clouds",
-            "icon": "03n",
-            "temp": 83.2
+            "icon": "03d",
+            "temp": 71.8
           },
           {
             "date": "2026-07-02",
-            "description": "Clear sky",
-            "icon": "01n",
-            "temp": 88.9
+            "description": "Scattered clouds",
+            "icon": "03n",
+            "temp": 79.2
           },
           {
             "date": "2026-07-03",
-            "description": "Scattered clouds",
-            "icon": "03n",
-            "temp": 91.8
+            "description": "Few clouds",
+            "icon": "02n",
+            "temp": 91.9
+          },
+          {
+            "date": "2026-07-04",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 94.5
+          },
+          {
+            "date": "2026-07-05",
+            "description": "Few clouds",
+            "icon": "02n",
+            "temp": 93.5
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-06-29T16:52:46.470819"
+        "timestamp": "2026-07-01T16:27:00.250348"
       },
       "name": "weather",
       "source": "OpenWeather API",
-      "timestamp": "2026-06-29T16:52:46.470819"
+      "timestamp": "2026-07-01T16:27:00.250348"
     },
     {
       "data": {
@@ -81,82 +81,82 @@
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-06-29T16:52:47.775456"
+        "timestamp": "2026-07-01T16:27:01.499474"
       },
       "name": "sports",
       "source": "The Sports DB API",
-      "timestamp": "2026-06-29T16:52:47.775456"
+      "timestamp": "2026-07-01T16:27:01.499474"
     },
     {
       "data": {
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-06-29T16:29:04Z",
+            "published_at": "2026-07-01T16:05:47Z",
             "source": "TechCrunch",
-            "summary": "TIDAL\\'s new policy will prevent AI-generated music from making money on its service.",
-            "title": "TIDAL cracks down on AI music by cutting off monetization",
-            "url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/"
+            "summary": "The nine-year-old scooter and bike-share company has said it needs the funds to help pay down around $1 billion in liabilities.",
+            "title": "Lime raises $167M in IPO after years of teasing a public debut",
+            "url": "https://techcrunch.com/2026/07/01/lime-raises-167m-in-ipo-after-years-of-teasing-a-public-debut/"
           },
           {
             "category": "technology",
-            "published_at": "2026-06-29T16:00:00Z",
+            "published_at": "2026-07-01T12:15:13Z",
             "source": "The Verge",
-            "summary": "A new proposal would ban the sale of Americans\\' health and location information to data brokers - including information people reveal to an AI chatbot like ChatGPT or Claude. In the coming weeks, Sena",
-            "title": "Lawmakers want to ban AI companies from selling your health data",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon"
+            "summary": "Sony has announced that from January 2028 it will entirely stop the production of physical discs for new PlayStation games. From that point onwards, new releases will only be available in digital vers",
+            "title": "Sony is killing all physical PlayStation game discs",
+            "url": "https://www.theverge.com/games/960160/sony-playstation-disc-production-ending"
           },
           {
             "category": "technology",
-            "published_at": "2026-06-26T22:19:05Z",
+            "published_at": "2026-07-01T11:01:38Z",
             "source": "Ars Technica",
-            "summary": "Half-million-strong military will train on drones as \u201cuniversal combat tool.\u201d",
-            "title": "South Korea plans to train entire military as \"drone warriors\"",
-            "url": "https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/"
+            "summary": "After Trump's claims, Tylenol usage dropped during pregnancies.",
+            "title": "Scientists find no link between Tylenol and autism, again, after Trump warning",
+            "url": "https://arstechnica.com/health/2026/07/trump-and-rfk-jr-still-wrong-about-tylenol-and-autism-another-study-finds/"
           },
           {
             "category": "technology",
-            "published_at": "2026-06-29T11:00:00Z",
+            "published_at": "2026-07-01T16:00:00Z",
             "source": "Wired",
-            "summary": "The 1970s porn actress turned New York City late night public access queen says censorship and a lack of star quality among modern adult entertainers turned her off of the industry.",
-            "title": "Robin Byrd, the Sex Godmother of Millennials, Says the Internet Ruined Porn",
-            "url": "https://www.wired.com/story/the-robin-byrd-show/"
+            "summary": "The government has removed restrictions on Anthropic\u2019s Fable 5 and Mythos 5 AI models\u2014but there were strings attached.",
+            "title": "Anthropic Added a New Security Measure to Get Back Into the Trump Administration\u2019s Good Graces",
+            "url": "https://www.wired.com/story/anthropic-added-a-new-security-measure-to-get-back-into-the-trump-administrations-good-graces/"
           },
           {
             "category": "technology",
-            "published_at": "2026-06-29T14:44:01Z",
+            "published_at": "2026-07-01T14:35:16Z",
             "source": "MIT Technology Review",
-            "summary": "Enterprise investment in AI is booming. Gartner is calling 2026 an \u201cinflection year\u201d for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mount",
-            "title": "Agent confidence on the technical frontier",
-            "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/"
+            "summary": "Let\u2019s start with a game. Open up your chatbot of choice\u2014Claude, ChatGPT, Gemini\u2014and type \u201cGive me a random number between 1 and 10.\u201d You\u2019re going to get 7. Almost always. Now type \u201cAnother\u201d and you\u2019ll",
+            "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+            "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-06-29T16:52:48.468864"
+        "timestamp": "2026-07-01T16:27:02.975870"
       },
       "name": "tech",
       "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-      "timestamp": "2026-06-29T16:52:48.468864"
+      "timestamp": "2026-07-01T16:27:02.975870"
     },
     {
       "data": {
         "indexes": [
           {
-            "change": -53.1,
-            "change_percent": -0.72,
-            "is_positive": false,
+            "change": 57.7,
+            "change_percent": 0.78,
+            "is_positive": true,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 7289.9
+            "value": 7467.7
           }
         ],
-        "market_summary": "Markets declined on concerns about economic outlook.",
+        "market_summary": "Markets rallied across all major indexes on positive sentiment.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-06-29T16:52:48.624858"
+        "timestamp": "2026-07-01T16:27:03.127147"
       },
       "name": "market",
       "source": "Alpha Vantage API (via ETF proxies)",
-      "timestamp": "2026-06-29T16:52:48.624858"
+      "timestamp": "2026-07-01T16:27:03.127147"
     }
   ]
 }
