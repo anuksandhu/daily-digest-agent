@@ -1,61 +1,58 @@
 {
-  "date": "2026-07-04",
-  "generated_at": "2026-07-04T15:05:44.020000",
+  "date": "2026-07-05",
+  "generated_at": "2026-07-05T15:13:12.179513",
   "sections": [
     {
       "name": "weather",
       "data": {
         "current": {
-          "description": "Clear sky",
-          "feels_like": 62.2,
-          "humidity": 82,
-          "icon": "01d",
-          "temp": 62.4,
-          "wind_speed": 1
+          "description": "Scattered clouds",
+          "feels_like": 61.7,
+          "humidity": 80,
+          "icon": "03d",
+          "temp": 62,
+          "wind_speed": 4
         },
         "forecast": [
           {
-            "date": "2026-07-04",
-            "description": "Clear sky",
-            "icon": "01d",
-            "temp": 77.9
-          },
-          {
             "date": "2026-07-05",
-            "description": "Overcast clouds",
-            "icon": "04n",
-            "temp": 83.6
+            "description": "Scattered clouds",
+            "icon": "03d",
+            "temp": 75.2
           },
           {
             "date": "2026-07-06",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 90.3
+            "temp": 79.8
           },
           {
             "date": "2026-07-07",
             "description": "Few clouds",
             "icon": "02n",
-            "temp": 87.2
+            "temp": 85.9
           },
           {
             "date": "2026-07-08",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 93.2
+            "temp": 92.1
+          },
+          {
+            "date": "2026-07-09",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 92.4
           }
         ],
         "location": "San Jose",
-        "source": "OpenWeather API",
-        "timestamp": "2026-07-04T15:05:41.017475"
-      },
-      "timestamp": "2026-07-04T15:05:41.017475",
-      "source": "OpenWeather API"
+        "timestamp": "2026-07-05T15:13:08.671688",
+        "source": "OpenWeather API"
+      }
     },
     {
       "name": "sports",
       "data": {
-        "source": "The Sports DB API",
         "teams": [
           {
             "latest_game": "L 3-13 vs Seahawks (2026-01-04)",
@@ -74,18 +71,17 @@
             "standings": "N/A"
           },
           {
-            "latest_game": "L 103-119 vs Lakers (2026-04-10)",
+            "latest_game": "L 83-97 vs Bucks (2026-07-04)",
             "league": "NBA",
             "name": "Golden State Warriors",
-            "next_game": "vs Lakers on 2026-07-04",
+            "next_game": "vs Spurs on 2026-07-05",
             "record": "Season in progress",
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-07-04T15:05:42.733925"
-      },
-      "timestamp": "2026-07-04T15:05:42.733925",
-      "source": "The Sports DB API"
+        "timestamp": "2026-07-05T15:13:10.689203",
+        "source": "The Sports DB API"
+      }
     },
     {
       "name": "tech",
@@ -93,19 +89,19 @@
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-07-03T21:20:00Z",
+            "published_at": "2026-07-05T13:33:32Z",
             "source": "TechCrunch",
-            "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-            "title": "The only AI glossary you\u2019ll need this year",
-            "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/"
+            "summary": "Bending Spoons remains largely unknown, even as its portfolio of products has served more than a billion people.",
+            "title": "What is Bending Spoons? The little-known AOL and Vimeo owner that\u2019s now public",
+            "url": "https://techcrunch.com/2026/07/05/what-is-bending-spoons-everything-to-know-about-aols-acquirer/"
           },
           {
             "category": "technology",
-            "published_at": "2026-07-04T12:00:00Z",
+            "published_at": "2026-07-05T14:23:11Z",
             "source": "The Verge",
-            "summary": "Over the past week, a new fanworks movement has kicked off, with the aim to root out authors using generative AI. But the detection methods being implemented are questionable, and any fanfic writer co",
-            "title": "The fanfiction community is at war with AI \u2014 and itself",
-            "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector"
+            "summary": "\"Group project, but make it 1776.\" That's how a new commercial for Google Workspace opens. And things only get cringier from there. The clip imagines what it would be like if the founding fathers turn",
+            "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence"
           },
           {
             "category": "technology",
@@ -132,11 +128,9 @@
             "url": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/"
           }
         ],
-        "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-07-04T15:05:43.636968"
-      },
-      "timestamp": "2026-07-04T15:05:43.636968",
-      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
+        "timestamp": "2026-07-05T15:13:11.673998",
+        "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
+      }
     },
     {
       "name": "market",
@@ -152,11 +146,9 @@
           }
         ],
         "market_summary": "Markets declined on concerns about economic outlook.",
-        "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-07-04T15:05:44.009356"
-      },
-      "timestamp": "2026-07-04T15:05:44.009356",
-      "source": "Alpha Vantage API (via ETF proxies)"
+        "timestamp": "2026-07-05T15:13:12.175680",
+        "source": "Alpha Vantage API (via ETF proxies)"
+      }
     }
   ]
 }
