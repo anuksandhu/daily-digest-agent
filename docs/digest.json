@@ -1,6 +1,162 @@
 {
-  "date": "2026-07-13",
-  "generated_at": "2026-07-13T16:34:15.520157",
-  "sections": [],
-  "raw_response": "```\n{\"date\": \"2026-07-13\", \"generated_at\": \"2026-07-13T16:34:06.123456\", \"sections\": [{\"name\": \"weather\", \"data\": {\"current\": {\"description\": \"Overcast clouds\", \"feels_like\": 77, \"humidity\": 49, \"icon\": \"04d\", \"temp\": 77.2, \"wind_speed\": 2.8}, \"forecast\": [{\"date\": \"2026-07-13\", \"description\": \"Overcast clouds\", \"icon\": \"04d\", \"temp\": 80.8}, {\"date\": \"2026-07-14\", \"description\": \"Broken clouds\", \"icon\": \"04n\", \"temp\": 90.1}, {\"date\": \"2026-07-15\", \"description\": \"Clear sky\", \"icon\": \"01n\", \"temp\": 97.5}, {\"date\": \"2026-07-16\", \"description\": \"Clear sky\", \"icon\": \"01n\", \"temp\": 94.5}, {\"date\": \"2026-07-17\", \"description\": \"Clear sky\", \"icon\": \"01n\", \"temp\": 87.9}], \"location\": \"San Jose\", \"source\": \"OpenWeather API\", \"timestamp\": \"2026-07-13T16:34:03.242271\"}, \"timestamp\": \"2026-07-13T16:34:03.242271\", \"source\": \"OpenWeather API\"}, {\"name\": \"sports\", \"data\": {\"source\": \"The Sports DB API\", \"teams\": [{\"latest_game\": \"L 3-13 vs Seahawks (2026-01-04)\", \"league\": \"NFL\", \"name\": \"San Francisco 49ers\", \"next_game\": \"vs Titans on 2026-08-14\", \"record\": \"Season in progress\", \"standings\": \"N/A\"}, {\"latest_game\": \"L 3-4 vs Canucks (2026-04-12)\", \"league\": \"NHL\", \"name\": \"San Jose Sharks\", \"next_game\": \"@ Ducks on 2026-09-20\", \"record\": \"Season in progress\", \"standings\": \"N/A\"}, {\"latest_game\": \"W 104-79 vs Thunder (2026-07-12)\", \"league\": \"NBA\", \"name\": \"Golden State Warriors\", \"next_game\": \"vs Grizzlies on 2026-07-14\", \"record\": \"Season in progress\", \"standings\": \"N/A\"}], \"timestamp\": \"2026-07-13T16:34:04.493344\"}, \"timestamp\": \"2026-07-13T16:34:04.493344\", \"source\": \"The Sports DB API\"}, {\"name\": \"tech\", \"data\": {\"articles\": [{\"category\": \"technology\", \"published_at\": \"2026-07-13T16:31:23Z\", \"source\": \"TechCrunch\", \"summary\": \"What does a world of total user-aligned AI actually look like?\", \"title\": \"Should AI help you get away with killing your spouse?\", \"url\": \"https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/\"}, {\"category\": \"technology\", \"published_at\": \"2026-07-13T15:00:00Z\", \"source\": \"The Verge\", \"summary\": \"Today, I\u2019m talking with Xinzhou Wu, who is the head of automotive at Nvidia.&#160; Nvidia is obviously in the news constantly because of the AI boom \u2014 it\u2019s one of the most valuable companies in the wo\", \"title\": \"Even Nvidia\u2019s head of automotive fights with Nvidia for compute\", \"url\": \"https://www.theverge.com/podcast/964614/nvidia-auto-xinzhou-wu-ev-ai-hyperion-autonomy-cars-tesla\"}, {\"category\": \"technology\", \"published_at\": \"2026-07-12T11:12:19Z\", \"source\": \"Ars Technica\", \"summary\": \"New climate evidence adds context to these long voyages.\", \"title\": \"The real mystery behind Moana: After 1,700 years, why did Polynesians suddenly sail\\u00a0east?\", \"url\": \"https://arstechnica.com/culture/2026/07/the-real-mystery-behind-moana-after-1700-years-why-did-polynesians-suddenly-sail-east/\"}, {\"category\": \"technology\", \"published_at\": \"2026-07-13T11:08:00Z\", \"source\": \"Wired\", \"summary\": \"Swimming against the iGarden Swim Jet X Pro 10\u2019s artificial current is a real workout, even if it doesn\u2019t quite replace a full-size lap pool.\", \"title\": \"iGarden Swim Jet X Pro 10 Review: Endless Pool\", \"url\": \"https://www.wired.com/review/igarden-swim-jet-x-pro-10/\"}, {\"category\": \"technology\", \"published_at\": \"2026-07-13T12:10:00Z\", \"source\": \"MIT Technology Review\", \"summary\": \"This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Sperm donors need limits, says a European fertilit\", \"title\": \"The Download: a donor conception cap and world models for AI\", \"url\": \"https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/\"}], \"source\": \"RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)\", \"timestamp\": \"2026-07-13T16:34:05.303541\"}, \"timestamp\": \"2026-07-13T16:34:05.303541\", \"source\": \"RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)\"}, {\"name\": \"market\", \"data\": {\"indexes\": [{\"change\": 32.4, \"change_percent\": 0.43, \"is_positive\": True, \"name\": \"S&P 500\", \"symbol\": \"^GSPC\", \"value\": 7549.5}], \"market_summary\": \"Markets rallied across all major indexes on positive sentiment.\", \"source\": \"Alpha Vantage API (via ETF proxies)\", \"timestamp\": \"2026-07-13T16:34:05.461463\"}, \"timestamp\": \"2026-07-13T16:34:05.461463\", \"source\": \"Alpha Vantage API (via ETF proxies)\"}]}"
+  "date": "2026-07-14",
+  "generated_at": "2026-07-14T15:23:14.123456",
+  "sections": [
+    {
+      "name": "weather",
+      "data": {
+        "current": {
+          "description": "Clear sky",
+          "feels_like": 74.2,
+          "humidity": 63,
+          "icon": "01d",
+          "temp": 74.2,
+          "wind_speed": 1
+        },
+        "forecast": [
+          {
+            "date": "2026-07-14",
+            "description": "Clear sky",
+            "icon": "01d",
+            "temp": 85.3
+          },
+          {
+            "date": "2026-07-15",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 86.6
+          },
+          {
+            "date": "2026-07-16",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 89.8
+          },
+          {
+            "date": "2026-07-17",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 93.2
+          },
+          {
+            "date": "2026-07-18",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 91.9
+          }
+        ],
+        "location": "San Jose",
+        "source": "OpenWeather API",
+        "timestamp": "2026-07-14T15:23:09.843129"
+      },
+      "timestamp": "2026-07-14T15:23:09.843129",
+      "source": "OpenWeather API"
+    },
+    {
+      "name": "sports",
+      "data": {
+        "source": "The Sports DB API",
+        "teams": [
+          {
+            "latest_game": "L 3-13 vs Seahawks (2026-01-04)",
+            "league": "NFL",
+            "name": "San Francisco 49ers",
+            "next_game": "vs Titans on 2026-08-14",
+            "record": "Season in progress",
+            "standings": "N/A"
+          },
+          {
+            "latest_game": "L 3-4 vs Canucks (2026-04-12)",
+            "league": "NHL",
+            "name": "San Jose Sharks",
+            "next_game": "@ Ducks on 2026-09-20",
+            "record": "Season in progress",
+            "standings": "N/A"
+          },
+          {
+            "latest_game": "W 104-79 vs Thunder (2026-07-12)",
+            "league": "NBA",
+            "name": "Golden State Warriors",
+            "next_game": "vs Grizzlies on 2026-07-14",
+            "record": "Season in progress",
+            "standings": "N/A"
+          }
+        ],
+        "timestamp": "2026-07-14T15:23:11.897492"
+      },
+      "timestamp": "2026-07-14T15:23:11.897492",
+      "source": "The Sports DB API"
+    },
+    {
+      "name": "tech",
+      "data": {
+        "articles": [
+          {
+            "category": "technology",
+            "published_at": "2026-07-14T15:17:59Z",
+            "source": "TechCrunch",
+            "summary": "New York has become the first state to temporarily halt approval of large data centers, as Gov. Kathy Hochul argues the AI-driven building boom shouldn\u2019t come at the expense of higher electricity cost",
+            "title": "New York State halts construction of all new data centers",
+            "url": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-07-14T14:01:07Z",
+            "source": "The Verge",
+            "summary": "OpenAI has spent the better part of the year involved in lawsuit after lawsuit, including one from the world's richest man. But last Friday, the company was hit with one of the highest-profile legal a",
+            "title": "Sam Altman didn\u2019t need another lawsuit",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/965294/openai-apple-trade-secrets-lawsuit-sam-altman-ipo"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-07-13T22:07:34Z",
+            "source": "Ars Technica",
+            "summary": "The man is said to be doing well in a Frankfurt hospital.",
+            "title": "US continues to shun Ebola-infected citizens; second American sent to Germany",
+            "url": "https://arstechnica.com/health/2026/07/us-continues-to-shun-ebola-infected-citizens-second-american-sent-to-germany/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-07-14T14:54:41Z",
+            "source": "Wired",
+            "summary": "\u201cWe have no choice but to address the challenges created by these massive facilities,\u201d New York governor Kathy Hochul said. The executive order will pause construction for one year.",
+            "title": "New York Governor Signs First Statewide Data Center Moratorium",
+            "url": "https://www.wired.com/story/new-york-governor-signs-first-statewide-data-center-moratorium/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-07-14T12:10:00Z",
+            "source": "MIT Technology Review",
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What Anthropic\u2019s latest AI discovery does\u2014and does",
+            "title": "The Download: Claude\u2019s inner workings, and the future of world models",
+            "url": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/"
+          }
+        ],
+        "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
+        "timestamp": "2026-07-14T15:23:12.972216"
+      },
+      "timestamp": "2026-07-14T15:23:12.972216",
+      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
+    },
+    {
+      "name": "market",
+      "data": {
+        "indexes": [
+          {
+            "change": -57.8,
+            "change_percent": -0.77,
+            "is_positive": false,
+            "name": "S&P 500",
+            "symbol": "^GSPC",
+            "value": 7491.7
+          }
+        ],
+        "market_summary": "Markets declined on concerns about economic outlook.",
+        "source": "Alpha Vantage API (via ETF proxies)",
+        "timestamp": "2026-07-14T15:23:13.467609"
+      },
+      "timestamp": "2026-07-14T15:23:13.467609",
+      "source": "Alpha Vantage API (via ETF proxies)"
+    }
+  ]
 }
