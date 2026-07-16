@@ -1,55 +1,55 @@
 {
-  "date": "2026-07-14",
-  "generated_at": "2026-07-14T15:23:14.123456",
+  "date": "2026-07-16",
+  "generated_at": "2026-07-16T15:38:24.701182",
   "sections": [
     {
       "name": "weather",
       "data": {
         "current": {
           "description": "Clear sky",
-          "feels_like": 74.2,
-          "humidity": 63,
+          "feels_like": 66.1,
+          "humidity": 70,
           "icon": "01d",
-          "temp": 74.2,
-          "wind_speed": 1
+          "temp": 66.4,
+          "wind_speed": 5.5
         },
         "forecast": [
           {
-            "date": "2026-07-14",
-            "description": "Clear sky",
-            "icon": "01d",
-            "temp": 85.3
-          },
-          {
-            "date": "2026-07-15",
-            "description": "Clear sky",
-            "icon": "01n",
-            "temp": 86.6
-          },
-          {
             "date": "2026-07-16",
             "description": "Clear sky",
-            "icon": "01n",
-            "temp": 89.8
+            "icon": "01d",
+            "temp": 77.4
           },
           {
             "date": "2026-07-17",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 93.2
+            "temp": 83.1
           },
           {
             "date": "2026-07-18",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 91.9
+            "temp": 92.8
+          },
+          {
+            "date": "2026-07-19",
+            "description": "Broken clouds",
+            "icon": "04n",
+            "temp": 91.7
+          },
+          {
+            "date": "2026-07-20",
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 85.6
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-07-14T15:23:09.843129"
+        "timestamp": "2026-07-16T15:38:22.402244"
       },
-      "timestamp": "2026-07-14T15:23:09.843129",
+      "timestamp": "2026-07-16T15:38:22.402244",
       "source": "OpenWeather API"
     },
     {
@@ -74,17 +74,17 @@
             "standings": "N/A"
           },
           {
-            "latest_game": "W 104-79 vs Thunder (2026-07-12)",
+            "latest_game": "L 85-106 vs Grizzlies (2026-07-14)",
             "league": "NBA",
             "name": "Golden State Warriors",
-            "next_game": "vs Grizzlies on 2026-07-14",
+            "next_game": "@ Knicks on 2026-07-16",
             "record": "Season in progress",
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-07-14T15:23:11.897492"
+        "timestamp": "2026-07-16T15:38:23.849564"
       },
-      "timestamp": "2026-07-14T15:23:11.897492",
+      "timestamp": "2026-07-16T15:38:23.849564",
       "source": "The Sports DB API"
     },
     {
@@ -93,49 +93,49 @@
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-07-14T15:17:59Z",
+            "published_at": "2026-07-16T15:37:47Z",
             "source": "TechCrunch",
-            "summary": "New York has become the first state to temporarily halt approval of large data centers, as Gov. Kathy Hochul argues the AI-driven building boom shouldn\u2019t come at the expense of higher electricity cost",
-            "title": "New York State halts construction of all new data centers",
-            "url": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/"
+            "summary": "Owen Flowers and Thalha Jubair, two members of the prolific Scattered Spider hacking group, pleaded guilty and were sentenced to five years and six months in jail for hacking London\u2019s metropolitan tra",
+            "title": "UK cops say arrest of two young hackers disrupted the operations of an infamous hacking group",
+            "url": "https://techcrunch.com/2026/07/16/uk-cops-say-arrest-of-two-young-hackers-disrupted-the-operations-of-an-infamous-hacking-group/"
           },
           {
             "category": "technology",
-            "published_at": "2026-07-14T14:01:07Z",
+            "published_at": "2026-07-16T14:00:00Z",
             "source": "The Verge",
-            "summary": "OpenAI has spent the better part of the year involved in lawsuit after lawsuit, including one from the world's richest man. But last Friday, the company was hit with one of the highest-profile legal a",
-            "title": "Sam Altman didn\u2019t need another lawsuit",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/965294/openai-apple-trade-secrets-lawsuit-sam-altman-ipo"
+            "summary": "Today on Decoder, we\u2019ve got the first of a two-part series on the systems that run the world: I\u2019m talking with Bart Butler, the CTO of Proton, the company that makes private and secure productivity so",
+            "title": "\u2018No company is going to go to jail for you\u2019: Proton\u2019s CTO on balancing privacy, policy, and trust",
+            "url": "https://www.theverge.com/podcast/966074/proton-cto-bart-butler-privacy-encryption-surveillance-age-verification"
           },
           {
             "category": "technology",
-            "published_at": "2026-07-13T22:07:34Z",
+            "published_at": "2026-07-16T11:00:21Z",
             "source": "Ars Technica",
-            "summary": "The man is said to be doing well in a Frankfurt hospital.",
-            "title": "US continues to shun Ebola-infected citizens; second American sent to Germany",
-            "url": "https://arstechnica.com/health/2026/07/us-continues-to-shun-ebola-infected-citizens-second-american-sent-to-germany/"
+            "summary": "Xona aims to deploy 258 satellites into low-Earth orbit as a GPS alternative.",
+            "title": "Move over, GPS: Navigation satellites in low-Earth orbit are making a comeback",
+            "url": "https://arstechnica.com/space/2026/07/move-over-gps-navigation-satellites-in-low-earth-orbit-are-making-a-comeback/"
           },
           {
             "category": "technology",
-            "published_at": "2026-07-14T14:54:41Z",
+            "published_at": "2026-07-16T10:08:00Z",
             "source": "Wired",
-            "summary": "\u201cWe have no choice but to address the challenges created by these massive facilities,\u201d New York governor Kathy Hochul said. The executive order will pause construction for one year.",
-            "title": "New York Governor Signs First Statewide Data Center Moratorium",
-            "url": "https://www.wired.com/story/new-york-governor-signs-first-statewide-data-center-moratorium/"
+            "summary": "Protect your home against dust, pets, allergens, and more with the best air purifiers, tested firsthand.",
+            "title": "Best Air Purifiers (2026): Coway, AirDoctor, IQAir, and More",
+            "url": "https://www.wired.com/gallery/best-air-purifiers/"
           },
           {
             "category": "technology",
-            "published_at": "2026-07-14T12:10:00Z",
+            "published_at": "2026-07-16T12:10:00Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What Anthropic\u2019s latest AI discovery does\u2014and does",
-            "title": "The Download: Claude\u2019s inner workings, and the future of world models",
-            "url": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/"
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet GPT-Red: an LLM super-hacker OpenAI built to ",
+            "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
+            "url": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-07-14T15:23:12.972216"
+        "timestamp": "2026-07-16T15:38:24.468515"
       },
-      "timestamp": "2026-07-14T15:23:12.972216",
+      "timestamp": "2026-07-16T15:38:24.468515",
       "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
@@ -143,19 +143,35 @@
       "data": {
         "indexes": [
           {
-            "change": -57.8,
-            "change_percent": -0.77,
-            "is_positive": false,
+            "change": 29.8,
+            "change_percent": 0.4,
+            "is_positive": true,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 7491.7
+            "value": 7548.1
+          },
+          {
+            "change": 118.3,
+            "change_percent": 0.7,
+            "is_positive": true,
+            "name": "NASDAQ",
+            "symbol": "^IXIC",
+            "value": 17732.1
+          },
+          {
+            "change": 350.9,
+            "change_percent": 0.9,
+            "is_positive": true,
+            "name": "DOW JONES",
+            "symbol": "^DJI",
+            "value": 39945.2
           }
         ],
-        "market_summary": "Markets declined on concerns about economic outlook.",
+        "market_summary": "Markets rallied across all major indexes on positive sentiment.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-07-14T15:23:13.467609"
+        "timestamp": "2026-07-16T15:38:24.677657"
       },
-      "timestamp": "2026-07-14T15:23:13.467609",
+      "timestamp": "2026-07-16T15:38:24.677657",
       "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
