@@ -1,6 +1,162 @@
 {
-  "date": "2026-07-17",
-  "generated_at": "2026-07-17T15:13:18.275854",
-  "sections": [],
-  "raw_response": "```\n{\"date\": \"2026-07-17\", \"generated_at\": \"2026-07-17T15:13:12.837000\", \"sections\": [{\"name\": \"weather\", \"data\": {\"current\": {\"description\": \"Clear sky\", \"feels_like\": 61.2, \"humidity\": 79, \"icon\": \"01d\", \"temp\": 61.6, \"wind_speed\": 1}, \"forecast\": [{\"date\": \"2026-07-17\", \"description\": \"Clear sky\", \"icon\": \"01d\", \"temp\": 77.1}, {\"date\": \"2026-07-18\", \"description\": \"Clear sky\", \"icon\": \"01n\", \"temp\": 85}, {\"date\": \"2026-07-19\", \"description\": \"Scattered clouds\", \"icon\": \"03n\", \"temp\": 96}, {\"date\": \"2026-07-20\", \"description\": \"Overcast clouds\", \"icon\": \"04n\", \"temp\": 90}, {\"date\": \"2026-07-21\", \"description\": \"Clear sky\", \"icon\": \"01n\", \"temp\": 97.9}], \"location\": \"San Jose\", \"source\": \"OpenWeather API\", \"timestamp\": \"2026-07-17T15:13:10.471153\"}, \"timestamp\": \"2026-07-17T15:13:10.471153\", \"source\": \"OpenWeather API\"}, {\"name\": \"sports\", \"data\": {\"teams\": [{\"latest_game\": \"L 3-13 vs Seahawks (2026-01-04)\", \"league\": \"NFL\", \"name\": \"San Francisco 49ers\", \"next_game\": \"vs Titans on 2026-08-14\", \"record\": \"Season in progress\", \"standings\": \"N/A\"}, {\"latest_game\": \"L 3-4 vs Canucks (2026-04-12)\", \"league\": \"NHL\", \"name\": \"San Jose Sharks\", \"next_game\": \"@ Ducks on 2026-09-20\", \"record\": \"Season in progress\", \"standings\": \"N/A\"}, {\"latest_game\": \"L 85-106 vs Grizzlies (2026-07-14)\", \"league\": \"NBA\", \"name\": \"Golden State Warriors\", \"next_game\": \"No upcoming games scheduled\", \"record\": \"Season in progress\", \"standings\": \"N/A\"}], \"timestamp\": \"2026-07-17T15:13:11.827824\", \"source\": \"The Sports DB API\"}, \"timestamp\": \"2026-07-17T15:13:11.827824\", \"source\": \"The Sports DB API\"}, {\"name\": \"tech\", \"data\": {\"articles\": [{\"category\": \"technology\", \"published_at\": \"2026-07-17T14:30:00Z\", \"source\": \"TechCrunch\", \"summary\": \"It\u2019s not just you: AI startups are taking in a huge amount of seed funding, and in the process making things harder for anyone looking for funding even at a pre-seed stage.\u00a0We\u2019ve covered the trend in \", \"title\": \"No product? No problem. This Disrupt 2026 session shows how to get pre-seed funding with conviction, storytelling\", \"url\": \"https://techcrunch.com/2026/07/17/no-product-no-problem-this-disrupt-2026-session-shows-how-to-get-pre-seed-funding-with-conviction-storytelling/\"}, {\"category\": \"technology\", \"published_at\": \"2026-07-17T14:00:37Z\", \"source\": \"The Verge\", \"summary\": \"Xbox is currently in a \\\"reset\\\" period that includes laying off around 3,200 employees over the next year, involving deep cuts at beloved studios like id Software and Obsidian Entertainment. Now, in an\", \"title\": \"Bethesda teases Fallout 5 soon after Xbox\u2019s mass layoffs\", \"url\": \"https://www.theverge.com/entertainment/966724/fallout-5-bethesda\"}, {\"category\": \"technology\", \"published_at\": \"2026-07-17T11:15:55Z\", \"source\": \"Ars Technica\", \"summary\": \"FCC chair has been gifted at least $63,000 worth of tickets by CBS or its parent company.\", \"title\": \"FCC took pricey gifts from Paramount as the company needed approval for deals\", \"url\": \"https://arstechnica.com/tech-policy/2026/07/fcc-took-pricey-gifts-from-paramount-as-the-company-needed-approval-for-deals/\"}, {\"category\": \"technology\", \"published_at\": \"2026-07-17T11:00:00Z\", \"source\": \"Wired\", \"summary\": \"Great for indie darlings, but Sony, Microsoft, and Nintendo remain kings of TV gaming.\", \"title\": \"Valve Steam Machine Review: A Compromised Console\", \"url\": \"https://www.wired.com/review/valve-steam-machine/\"}, {\"category\": \"technology\", \"published_at\": \"2026-07-17T12:10:00Z\", \"source\": \"MIT Technology Review\", \"summary\": \"This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. There\u2019s a lot of hype around perimenopause. Don\u2019t \", \"title\": \"The Download: perimenopause misinformation and China\u2019s latest AI leap\", \"url\": \"https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/\"}], \"timestamp\": \"2026-07-17T15:13:12.497065\", \"source\": \"RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)\"}, \"timestamp\": \"2026-07-17T15:13:12.497065\", \"source\": \"RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)\"}, {\"name\": \"market\", \"data\": {\"indexes\": [{\"change\": -40.9, \"change_percent\": -0.54, \"is_positive\": False, \"name\": \"S&P 500\", \"symbol\": \"^GSPC\", \"value\": 7507.2}], \"market_summary\": \"Markets declined on concerns about economic outlook.\", \"timestamp\": \"2026-07-17T15:13:12.651465\", \"source\": \"Alpha Vantage API (via ETF proxies)\"}, \"timestamp\": \"2026-07-17T15:13:12.651465\", \"source\": \"Alpha Vantage API (via ETF proxies)\"}]}"
+  "date": "2026-07-18",
+  "generated_at": "2026-07-18T14:52:53.000000",
+  "sections": [
+    {
+      "name": "weather",
+      "data": {
+        "current": {
+          "description": "Clear sky",
+          "feels_like": 59.9,
+          "humidity": 81,
+          "icon": "01d",
+          "temp": 60.3,
+          "wind_speed": 3
+        },
+        "forecast": [
+          {
+            "date": "2026-07-18",
+            "description": "Clear sky",
+            "icon": "01d",
+            "temp": 75.5
+          },
+          {
+            "date": "2026-07-19",
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 79
+          },
+          {
+            "date": "2026-07-20",
+            "description": "Broken clouds",
+            "icon": "04n",
+            "temp": 86.9
+          },
+          {
+            "date": "2026-07-21",
+            "description": "Few clouds",
+            "icon": "02n",
+            "temp": 98.6
+          },
+          {
+            "date": "2026-07-22",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 98.6
+          }
+        ],
+        "location": "San Jose",
+        "source": "OpenWeather API",
+        "timestamp": "2026-07-18T14:52:49.072202"
+      },
+      "timestamp": "2026-07-18T14:52:49.072202",
+      "source": "OpenWeather API"
+    },
+    {
+      "name": "sports",
+      "data": {
+        "source": "The Sports DB API",
+        "teams": [
+          {
+            "latest_game": "L 3-13 vs Seahawks (2026-01-04)",
+            "league": "NFL",
+            "name": "San Francisco 49ers",
+            "next_game": "vs Titans on 2026-08-14",
+            "record": "Season in progress",
+            "standings": "N/A"
+          },
+          {
+            "latest_game": "L 3-4 vs Canucks (2026-04-12)",
+            "league": "NHL",
+            "name": "San Jose Sharks",
+            "next_game": "@ Ducks on 2026-09-20",
+            "record": "Season in progress",
+            "standings": "N/A"
+          },
+          {
+            "latest_game": "L 85-106 vs Grizzlies (2026-07-14)",
+            "league": "NBA",
+            "name": "Golden State Warriors",
+            "next_game": "No upcoming games scheduled",
+            "record": "Season in progress",
+            "standings": "N/A"
+          }
+        ],
+        "timestamp": "2026-07-18T14:52:51.023710"
+      },
+      "timestamp": "2026-07-18T14:52:51.023710",
+      "source": "The Sports DB API"
+    },
+    {
+      "name": "tech",
+      "data": {
+        "articles": [
+          {
+            "category": "technology",
+            "published_at": "2026-07-18T04:47:25Z",
+            "source": "TechCrunch",
+            "summary": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily.",
+            "title": "Neil Rimer thinks the AI money is coming back out",
+            "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-07-18T12:00:00Z",
+            "source": "The Verge",
+            "summary": "It\\'s been a good few weeks for games on rails. Nintendo\\'s Star Fox remake wisely kept the tightly scripted, action-packed levels from Star Fox 64 largely the same, and they\\'re still fun to fly through",
+            "title": "More games should be on rails (literally)",
+            "url": "https://www.theverge.com/games/961152/denshattack-review"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-07-18T11:18:25Z",
+            "source": "Ars Technica",
+            "summary": "The government is piloting a program that uses AI for insurance-coverage decisions.",
+            "title": "Will AI fix prior authorization\u2014or make it worse?",
+            "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-07-18T10:30:00Z",
+            "source": "Wired",
+            "summary": "Plus: Russian cyberspies turn to infrastructure hacking, DHS repeatedly fails to realize it\u2019d been hacked, a breach exposes an AI music generator\u2019s scraping ways, and more.",
+            "title": "Your Period Tracker Is (Probably) Spying on You",
+            "url": "https://www.wired.com/story/security-news-this-week-your-period-tracker-is-probably-spying-on-you/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-07-17T12:10:00Z",
+            "source": "MIT Technology Review",
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily download of what&#8217;s going on in the world of technology. There\u2019s a lot of hype around perimenopause. Don\u2019t ",
+            "title": "The Download: perimenopause misinformation and China\u2019s latest AI leap",
+            "url": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/"
+          }
+        ],
+        "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
+        "timestamp": "2026-07-18T14:52:51.716485"
+      },
+      "timestamp": "2026-07-18T14:52:51.716485",
+      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
+    },
+    {
+      "name": "market",
+      "data": {
+        "indexes": [
+          {
+            "change": -74.3,
+            "change_percent": -0.99,
+            "is_positive": false,
+            "name": "S&P 500",
+            "symbol": "^GSPC",
+            "value": 7432.9
+          }
+        ],
+        "market_summary": "Markets declined on concerns about economic outlook.",
+        "source": "Alpha Vantage API (via ETF proxies)",
+        "timestamp": "2026-07-18T14:52:52.185785"
+      },
+      "timestamp": "2026-07-18T14:52:52.185785",
+      "source": "Alpha Vantage API (via ETF proxies)"
+    }
+  ]
 }
