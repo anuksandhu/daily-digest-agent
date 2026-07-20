@@ -1,55 +1,55 @@
 {
-  "date": "2026-07-19",
-  "generated_at": "2026-07-19T14:55:40.000000",
+  "date": "2026-07-20",
+  "generated_at": "2026-07-20T15:50:00.324510",
   "sections": [
     {
       "name": "weather",
       "data": {
         "current": {
           "description": "Overcast clouds",
-          "feels_like": 61.1,
-          "humidity": 82,
+          "feels_like": 70.3,
+          "humidity": 76,
           "icon": "04d",
-          "temp": 61.5,
-          "wind_speed": 2
+          "temp": 70,
+          "wind_speed": 0.7
         },
         "forecast": [
           {
-            "date": "2026-07-19",
-            "description": "Overcast clouds",
-            "icon": "04d",
-            "temp": 74.5
-          },
-          {
             "date": "2026-07-20",
             "description": "Overcast clouds",
-            "icon": "04n",
-            "temp": 80.1
+            "icon": "04d",
+            "temp": 79.8
           },
           {
             "date": "2026-07-21",
-            "description": "Broken clouds",
-            "icon": "04n",
-            "temp": 95.6
+            "description": "Scattered clouds",
+            "icon": "03n",
+            "temp": 81
           },
           {
             "date": "2026-07-22",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 98
+            "temp": 97.7
           },
           {
             "date": "2026-07-23",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 97.6
+            "temp": 95.8
+          },
+          {
+            "date": "2026-07-24",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 91.7
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-07-19T14:55:37.809322"
+        "timestamp": "2026-07-20T15:49:57.296438"
       },
-      "timestamp": "2026-07-19T14:55:37.809322",
+      "timestamp": "2026-07-20T15:49:57.296438",
       "source": "OpenWeather API"
     },
     {
@@ -77,14 +77,14 @@
             "latest_game": "L 85-106 vs Grizzlies (2026-07-14)",
             "league": "NBA",
             "name": "Golden State Warriors",
-            "next_game": "No upcoming games scheduled",
+            "next_game": "@ Grizzlies on 2026-07-20",
             "record": "Season in progress",
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-07-19T14:55:39.078548"
+        "timestamp": "2026-07-20T15:49:59.019605"
       },
-      "timestamp": "2026-07-19T14:55:39.078548",
+      "timestamp": "2026-07-20T15:49:59.019605",
       "source": "The Sports DB API"
     },
     {
@@ -93,49 +93,49 @@
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-07-19T14:52:08Z",
+            "published_at": "2026-07-20T15:45:00Z",
             "source": "TechCrunch",
-            "summary": "\"Everybody knows the Greeks are inside.\"",
-            "title": "\u2018Odyssey\u2019 director Christopher Nolan calls AI an obvious \u2018Trojan horse\u2019",
-            "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/"
+            "summary": "Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app",
+            "title": "Adobe camera app\u2019s new feature will critique your photos using AI",
+            "url": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/"
           },
           {
             "category": "technology",
-            "published_at": "2026-07-19T13:28:26Z",
+            "published_at": "2026-07-20T15:00:00Z",
             "source": "The Verge",
-            "summary": "Clap on. Clap off. Well, more like, Clap, pause for half a beat but no longer because otherwise it'll stop hearing you, clap again because you waited too long, clap louder and faster, that didn't work",
-            "title": "The Clapper was a bad smart home gadget \u2014 and a viral sensation",
-            "url": "https://www.theverge.com/podcast/967642/the-clapper-version-history"
+            "summary": "Today, I\u2019m talking with Harvard professor and New Yorker staff writer Dr. Jill Lepore about her new book, The Rise and Fall of the Artificial State, which comes out on August 25. Jill is one of the be",
+            "title": "Dr. Jill Lepore on why AI backlash is vital for the future",
+            "url": "https://www.theverge.com/podcast/967884/jill-lepore-history-ai-artificial-state-elon-musk"
           },
           {
             "category": "technology",
-            "published_at": "2026-07-18T11:18:25Z",
+            "published_at": "2026-07-20T14:33:46Z",
             "source": "Ars Technica",
-            "summary": "The government is piloting a program that uses AI for insurance-coverage decisions.",
-            "title": "Will AI fix prior authorization\u2014or make it worse?",
-            "url": "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/"
+            "summary": "\"Something's coming. Something we may not be able to deter.\"",
+            "title": "The first trailer for Avengers: Doomsday is finally here",
+            "url": "https://arstechnica.com/culture/2026/07/the-first-trailer-for-avengers-doomsday-is-finally-here/"
           },
           {
             "category": "technology",
-            "published_at": "2026-07-19T09:00:00Z",
+            "published_at": "2026-07-20T10:15:00Z",
             "source": "Wired",
-            "summary": "The end of the FIFA Men\u2019s World Cup is nigh. Here\u2019s how to watch the final games and the first ever World Cup halftime show.",
-            "title": "How To Watch the 2026 FIFA World Cup Finals: Spain vs. Argentina",
-            "url": "https://www.wired.com/story/how-to-watch-the-fifa-2026-world-cup-07-19-2026/"
+            "summary": "Several Chinese businesses associated with the ebike brand Aipas settled a lawsuit with Amazon and the safety certification company UL in July.",
+            "title": "An Ebike Company Was Sued for Misleading Info on Safety. It Points to a Big Problem",
+            "url": "https://www.wired.com/story/an-ebike-company-was-sued-for-misleading-on-safety-it-points-to-a-big-problem/"
           },
           {
             "category": "technology",
-            "published_at": "2026-07-17T12:10:00Z",
+            "published_at": "2026-07-20T12:10:00Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. There\u2019s a lot of hype around perimenopause. Don\u2019t ",
-            "title": "The Download: perimenopause misinformation and China\u2019s latest AI leap",
-            "url": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/"
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI is more likely than humans to form biases when ",
+            "title": "The Download: AI hiring biases, and weather data sabotage",
+            "url": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-07-19T14:55:39.755800"
+        "timestamp": "2026-07-20T15:49:59.947085"
       },
-      "timestamp": "2026-07-19T14:55:39.755800",
+      "timestamp": "2026-07-20T15:49:59.947085",
       "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
@@ -149,29 +149,13 @@
             "name": "S&P 500",
             "symbol": "^GSPC",
             "value": 7432.9
-          },
-          {
-            "change": -74.3,
-            "change_percent": -0.99,
-            "is_positive": false,
-            "name": "NASDAQ",
-            "symbol": "^IXIC",
-            "value": 7432.9
-          },
-          {
-            "change": -74.3,
-            "change_percent": -0.99,
-            "is_positive": false,
-            "name": "DOW JONES",
-            "symbol": "^DJI",
-            "value": 7432.9
           }
         ],
         "market_summary": "Markets declined on concerns about economic outlook.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-07-19T14:55:39.911101"
+        "timestamp": "2026-07-20T15:50:00.306370"
       },
-      "timestamp": "2026-07-19T14:55:39.911101",
+      "timestamp": "2026-07-20T15:50:00.306370",
       "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
