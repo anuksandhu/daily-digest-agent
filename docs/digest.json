@@ -1,57 +1,61 @@
 {
-  "date": "2026-07-23",
-  "generated_at": "2026-07-23T15:55:21.696096",
+  "date": "2026-07-24",
+  "generated_at": "2026-07-24T15:25:17.000000",
   "sections": [
     {
+      "name": "weather",
       "data": {
         "current": {
-          "description": "Few clouds",
-          "feels_like": 65.2,
-          "humidity": 77,
-          "icon": "02d",
-          "temp": 65.4,
-          "wind_speed": 4
+          "description": "Clear sky",
+          "feels_like": 62.7,
+          "humidity": 83,
+          "icon": "01d",
+          "temp": 62.8,
+          "wind_speed": 1
         },
         "forecast": [
           {
-            "date": "2026-07-23",
-            "description": "Few clouds",
-            "icon": "02d",
-            "temp": 74.2
-          },
-          {
             "date": "2026-07-24",
             "description": "Clear sky",
-            "icon": "01n",
-            "temp": 81.7
+            "icon": "01d",
+            "temp": 77.3
           },
           {
             "date": "2026-07-25",
-            "description": "Scattered clouds",
-            "icon": "03n",
-            "temp": 88.2
+            "description": "Broken clouds",
+            "icon": "04n",
+            "temp": 83.4
           },
           {
             "date": "2026-07-26",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 91.1
+            "temp": 89.5
           },
           {
             "date": "2026-07-27",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 93.4
+            "temp": 90.4
+          },
+          {
+            "date": "2026-07-28",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 89.6
           }
         ],
         "location": "San Jose",
-        "timestamp": "2026-07-23T15:55:17.418640"
+        "source": "OpenWeather API",
+        "timestamp": "2026-07-24T15:25:14.473802"
       },
-      "name": "weather",
+      "timestamp": "2026-07-24T15:25:14.473802",
       "source": "OpenWeather API"
     },
     {
+      "name": "sports",
       "data": {
+        "source": "The Sports DB API",
         "teams": [
           {
             "latest_game": "L 3-13 vs Seahawks (2026-01-04)",
@@ -78,76 +82,96 @@
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-07-23T15:55:19.233983"
+        "timestamp": "2026-07-24T15:25:15.646149"
       },
-      "name": "sports",
+      "timestamp": "2026-07-24T15:25:15.646149",
       "source": "The Sports DB API"
     },
     {
+      "name": "tech",
       "data": {
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-07-23T15:00:00Z",
+            "published_at": "2026-07-24T15:16:31Z",
             "source": "TechCrunch",
-            "summary": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says.",
-            "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
-            "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/"
+            "summary": "The carmaker has said it's owed a refund in the \"tens of millions of dollars.\"",
+            "title": "Rivian sues the US government for \u2018full refund\u2019 of Trump tariffs",
+            "url": "https://techcrunch.com/2026/07/24/rivian-sues-the-us-government-for-full-refund-of-trump-tariffs/"
           },
           {
             "category": "technology",
-            "published_at": "2026-07-23T15:00:00Z",
+            "published_at": "2026-07-24T15:14:04Z",
             "source": "The Verge",
-            "summary": "There&#8217;s no shortage of great shows and movies to watch, but discovering something new isn&#8217;t always easy. Amazon&#8217;s Fire TV Stick 4K Plus and Fire TV Stick 4K Max come with redesigned ",
-            "title": "Amazon\u2019s best 4K streaming sticks are up to 40 percent off",
-            "url": "https://www.theverge.com/gadgets/969615/amazon-fire-tv-stick-4k-plus-4k-max-anker-zolo-deal-sale"
+            "summary": "Tesla's electronic door handles that have been linked to several deaths could lead to tougher safety rules for the entire auto industry. In a notice published today, the National Highway Traffic Safet",
+            "title": "Tesla\u2019s car door defect could lead to tougher rules for everyone",
+            "url": "https://www.theverge.com/transportation/970560/tesla-electronic-door-crash-nhtsa-safety-rules"
           },
           {
             "category": "technology",
-            "published_at": "2026-07-23T14:45:05Z",
+            "published_at": "2026-07-23T20:47:33Z",
             "source": "Ars Technica",
-            "summary": "Aggressive training techniques sharpens threat of bad behavior by leading models.",
-            "title": "AI arms race in line for a reckoning after OpenAI hacking incident",
-            "url": "https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/"
+            "summary": "App is installed through Windows Update when certain LG monitors connect to a PC.",
+            "title": "Microsoft responds to LG monitors installing McAfee ads on Windows",
+            "url": "https://arstechnica.com/gadgets/2026/07/microsoft-responds-to-lg-monitors-installing-mcafee-ads-on-windows/"
           },
           {
             "category": "technology",
-            "published_at": "2026-07-23T11:33:00Z",
+            "published_at": "2026-07-24T15:00:00Z",
             "source": "Wired",
-            "summary": "Cordless, handheld, robot, and traditional\u2014we tested them all to find the vacuum that\u2019s fantastic for fur.",
-            "title": "The Best Vacuum for Pet Hair\u2014We Tested Many to Find Which Ones Work Best (2026)",
-            "url": "https://www.wired.com/gallery/best-pet-hair-vacuums/"
+            "summary": "The AI \u201cstartups\u201d worth billions of dollars are raising alarm bells about Chinese AI. The smaller players have a totally different take.",
+            "title": "Silicon Valley Is Completely Divided Over Chinese AI",
+            "url": "https://www.wired.com/story/silicon-valley-is-completely-divided-over-chinese-ai/"
           },
           {
             "category": "technology",
-            "published_at": "2026-07-23T12:10:00Z",
+            "published_at": "2026-07-24T12:10:00Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The power line that could reshape New York\u2019s grid ",
-            "title": "The Download: energy transmission and US threats against Chinese AI",
-            "url": "https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai/"
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Supercooled kidneys have been transplanted into pi",
+            "title": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
+            "url": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/"
           }
         ],
-        "timestamp": "2026-07-23T15:55:20.113769"
+        "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
+        "timestamp": "2026-07-24T15:25:16.420843"
       },
-      "name": "tech",
+      "timestamp": "2026-07-24T15:25:16.420843",
       "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
+      "name": "market",
       "data": {
         "indexes": [
           {
-            "change": -8.7,
-            "change_percent": -0.12,
+            "change": -92.3,
+            "change_percent": -1.23,
             "is_positive": false,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 7474.1
+            "value": 7381.8
+          },
+          {
+            "change": -92.3,
+            "change_percent": -1.23,
+            "is_positive": false,
+            "name": "NASDAQ",
+            "symbol": "^IXIC",
+            "value": 10425.5
+          },
+          {
+            "change": -92.3,
+            "change_percent": -1.23,
+            "is_positive": false,
+            "name": "DOW JONES",
+            "symbol": "^DJI",
+            "value": 36010.9
           }
         ],
         "market_summary": "Markets declined on concerns about economic outlook.",
-        "timestamp": "2026-07-23T15:55:20.513557"
+        "source": "Alpha Vantage API (via ETF proxies)",
+        "timestamp": "2026-07-24T15:25:16.562761"
       },
-      "name": "market",
+      "timestamp": "2026-07-24T15:25:16.562761",
       "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
