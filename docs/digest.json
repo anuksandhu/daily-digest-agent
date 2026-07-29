@@ -1,55 +1,55 @@
 {
-  "date": "2026-07-26",
-  "generated_at": "2026-07-26T15:05:09.000000",
+  "date": "2026-07-29",
+  "generated_at": "2026-07-29T15:49:37.526142",
   "sections": [
     {
       "name": "weather",
       "data": {
         "current": {
           "description": "Clear sky",
-          "feels_like": 61.9,
-          "humidity": 83,
+          "feels_like": 68.3,
+          "humidity": 76,
           "icon": "01d",
-          "temp": 62.1,
-          "wind_speed": 1
+          "temp": 68.2,
+          "wind_speed": 1.8
         },
         "forecast": [
           {
-            "date": "2026-07-26",
-            "description": "Clear sky",
-            "icon": "01d",
-            "temp": 76.6
-          },
-          {
-            "date": "2026-07-27",
-            "description": "Clear sky",
-            "icon": "01n",
-            "temp": 82.6
-          },
-          {
-            "date": "2026-07-28",
-            "description": "Clear sky",
-            "icon": "01n",
-            "temp": 90.8
-          },
-          {
             "date": "2026-07-29",
             "description": "Clear sky",
-            "icon": "01n",
-            "temp": 98
+            "icon": "01d",
+            "temp": 79.6
           },
           {
             "date": "2026-07-30",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 97.6
+            "temp": 87.3
+          },
+          {
+            "date": "2026-07-31",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 96.8
+          },
+          {
+            "date": "2026-08-01",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 100.4
+          },
+          {
+            "date": "2026-08-02",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 104.1
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-07-26T15:05:06.192171"
+        "timestamp": "2026-07-29T15:49:35.308374"
       },
-      "timestamp": "2026-07-26T15:05:06.192171",
+      "timestamp": "2026-07-29T15:49:35.308374",
       "source": "OpenWeather API"
     },
     {
@@ -77,14 +77,14 @@
             "latest_game": "L 85-106 vs Grizzlies (2026-07-14)",
             "league": "NBA",
             "name": "Golden State Warriors",
-            "next_game": "No upcoming games scheduled",
+            "next_game": "vs Lakers on 2026-10-07",
             "record": "Season in progress",
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-07-26T15:05:07.719255"
+        "timestamp": "2026-07-29T15:49:36.567954"
       },
-      "timestamp": "2026-07-26T15:05:07.719255",
+      "timestamp": "2026-07-29T15:49:36.567954",
       "source": "The Sports DB API"
     },
     {
@@ -93,49 +93,49 @@
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-07-26T01:30:00Z",
+            "published_at": "2026-07-29T15:35:09Z",
             "source": "TechCrunch",
-            "summary": "A running look \u2014 in reverse chronological order \u2014 at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
-            "title": "Monday.com is the latest tech company to blame AI for layoffs \u2014 here are 20 others",
-            "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/"
+            "summary": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an \u201cAI for your home,\u201d combining property records, maintenance schedules, home documents, and an AI assistant into a sing",
+            "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
+            "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/"
           },
           {
             "category": "technology",
-            "published_at": "2026-07-26T14:51:33Z",
+            "published_at": "2026-07-29T15:28:50Z",
             "source": "The Verge",
-            "summary": "While perhaps less dramatic than in years past, Marvel nonetheless had some big reveals lined up for Comic-Con. The highest profile was certainly the announcement that Ryan Gosling would be joining th",
-            "title": "Marvel announces Ryan Gosling as Ghost Rider, a new Black Panther, and more",
-            "url": "https://www.theverge.com/entertainment/971071/marvel-ryan-gosling-ghost-rider-black-panther-comic-con"
+            "summary": "Just two months after a bumpy launch earlier this year, Ferrari has reportedly already hit its 2026 sales goal for its polarizing, Jony Ive-designed Luce EV. Ahead of Ferrari announcing its quarterly ",
+            "title": "The Ferrari Luce has at least 500 fans",
+            "url": "https://www.theverge.com/transportation/972569/ferrari-luce-ev-sales"
           },
           {
             "category": "technology",
-            "published_at": "2026-07-25T20:52:30Z",
+            "published_at": "2026-07-29T13:23:31Z",
             "source": "Ars Technica",
-            "summary": "Also: Forging the One Ring in Rings of Power S3 teaser; new Lanterns trailer; Spaceballs: The New One panel.",
-            "title": "SDCC teaser gives us our first good look at Blade Runner 2099",
-            "url": "https://arstechnica.com/culture/2026/07/sdcc-teaser-gives-us-our-first-good-look-at-blade-runner-2099/"
+            "summary": "AI is fantastic at spotting patterns, but human insight is the key.",
+            "title": "What happens when you put AI to work deciphering lost languages?",
+            "url": "https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/"
           },
           {
             "category": "technology",
-            "published_at": "2026-07-26T11:09:00Z",
+            "published_at": "2026-07-29T11:00:00Z",
             "source": "Wired",
-            "summary": "Our top-pick sleeping pads from Nemo, Therm-a-Rest, and Gossamer Gear use high-tech materials to engineer the best sleep you can get outdoors.",
-            "title": "The Best Backpacking Sleeping Pads, Tested on the Trail (2026)",
-            "url": "https://www.wired.com/gallery/best-backpacking-sleeping-pad/"
+            "summary": "Thanks to the surge in local AI processing and the ongoing memory shortage, it\u2019s incredibly difficult to buy a Mac Mini.",
+            "title": "Mac Mini Availability: Long Waits and Higher Prices",
+            "url": "https://www.wired.com/story/mac-mini-availability/"
           },
           {
             "category": "technology",
-            "published_at": "2026-07-24T17:03:55Z",
+            "published_at": "2026-07-29T12:10:00Z",
             "source": "MIT Technology Review",
-            "summary": "This week, I covered a fascinating effort to preserve organs outside the body. There\u2019s a huge shortage of donor organs, and one of the main reasons is time\u2014they survive only a matter of hours outside ",
-            "title": "The quest to keep organs alive outside the body",
-            "url": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/"
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Samsung\u2019s chip workers are jumping ship to rival S",
+            "title": "The Download: a chip talent battle, and deflating AI hype",
+            "url": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-07-26T15:05:08.530598"
+        "timestamp": "2026-07-29T15:49:37.372740"
       },
-      "timestamp": "2026-07-26T15:05:08.530598",
+      "timestamp": "2026-07-29T15:49:37.372740",
       "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
@@ -143,19 +143,19 @@
       "data": {
         "indexes": [
           {
-            "change": 7.5,
-            "change_percent": 0.1,
+            "change": 17.7,
+            "change_percent": 0.24,
             "is_positive": true,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 7389.3
+            "value": 7408.6
           }
         ],
         "market_summary": "Markets rallied across all major indexes on positive sentiment.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-07-26T15:05:08.724824"
+        "timestamp": "2026-07-29T15:49:37.526142"
       },
-      "timestamp": "2026-07-26T15:05:08.724824",
+      "timestamp": "2026-07-29T15:49:37.526142",
       "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
