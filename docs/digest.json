@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-29",
-  "generated_at": "2026-07-29T15:49:37.526142",
+  "date": "2026-07-30",
+  "generated_at": "2026-07-30T15:51:32.123456",
   "sections": [
     {
       "name": "weather",
@@ -8,38 +8,38 @@
         "current": {
           "description": "Clear sky",
           "feels_like": 68.3,
-          "humidity": 76,
+          "humidity": 75,
           "icon": "01d",
           "temp": 68.2,
-          "wind_speed": 1.8
+          "wind_speed": 3.1
         },
         "forecast": [
           {
-            "date": "2026-07-29",
-            "description": "Clear sky",
-            "icon": "01d",
-            "temp": 79.6
-          },
-          {
             "date": "2026-07-30",
             "description": "Clear sky",
-            "icon": "01n",
-            "temp": 87.3
+            "icon": "01d",
+            "temp": 80.7
           },
           {
             "date": "2026-07-31",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 96.8
+            "temp": 88
           },
           {
             "date": "2026-08-01",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 100.4
+            "temp": 97.6
           },
           {
             "date": "2026-08-02",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 100.5
+          },
+          {
+            "date": "2026-08-03",
             "description": "Clear sky",
             "icon": "01n",
             "temp": 104.1
@@ -47,9 +47,9 @@
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-07-29T15:49:35.308374"
+        "timestamp": "2026-07-30T15:51:29.697375"
       },
-      "timestamp": "2026-07-29T15:49:35.308374",
+      "timestamp": "2026-07-30T15:51:29.697375",
       "source": "OpenWeather API"
     },
     {
@@ -82,9 +82,9 @@
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-07-29T15:49:36.567954"
+        "timestamp": "2026-07-30T15:51:30.934700"
       },
-      "timestamp": "2026-07-29T15:49:36.567954",
+      "timestamp": "2026-07-30T15:51:30.934700",
       "source": "The Sports DB API"
     },
     {
@@ -93,49 +93,49 @@
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-07-29T15:35:09Z",
+            "published_at": "2026-07-30T15:41:16Z",
             "source": "TechCrunch",
-            "summary": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an \u201cAI for your home,\u201d combining property records, maintenance schedules, home documents, and an AI assistant into a sing",
-            "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
-            "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/"
+            "summary": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way following a recent",
+            "title": "Meta says AI is making it easier to build new apps \u2014 and more are coming",
+            "url": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/"
           },
           {
             "category": "technology",
-            "published_at": "2026-07-29T15:28:50Z",
+            "published_at": "2026-07-30T15:48:10Z",
             "source": "The Verge",
-            "summary": "Just two months after a bumpy launch earlier this year, Ferrari has reportedly already hit its 2026 sales goal for its polarizing, Jony Ive-designed Luce EV. Ahead of Ferrari announcing its quarterly ",
-            "title": "The Ferrari Luce has at least 500 fans",
-            "url": "https://www.theverge.com/transportation/972569/ferrari-luce-ev-sales"
+            "summary": "Best Buy has raised the price of the Asus ROG Astral RTX 5080 OC to $2,099 - the first time a major US retailer is directly selling an RTX 5080 for more than the $1,999 MSRP of the RTX 5090, VideoCard",
+            "title": "Best Buy is selling an RTX 5080 for more than the RTX 5090\u2019s MSRP",
+            "url": "https://www.theverge.com/games/973173/asus-rog-rtx-5080-price-hike-best-buy"
           },
           {
             "category": "technology",
-            "published_at": "2026-07-29T13:23:31Z",
+            "published_at": "2026-07-30T14:53:07Z",
             "source": "Ars Technica",
-            "summary": "AI is fantastic at spotting patterns, but human insight is the key.",
-            "title": "What happens when you put AI to work deciphering lost languages?",
-            "url": "https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/"
+            "summary": "Plus, a new deprecation policy ensures features aren't removed suddenly.",
+            "title": "New MCP specification addresses the main barrier to enterprise adoption",
+            "url": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/"
           },
           {
             "category": "technology",
-            "published_at": "2026-07-29T11:00:00Z",
+            "published_at": "2026-07-30T15:39:33Z",
             "source": "Wired",
-            "summary": "Thanks to the surge in local AI processing and the ongoing memory shortage, it\u2019s incredibly difficult to buy a Mac Mini.",
-            "title": "Mac Mini Availability: Long Waits and Higher Prices",
-            "url": "https://www.wired.com/story/mac-mini-availability/"
+            "summary": "Avi Schiffmann has a new version of his controversial AI companion. It\u2019s more expensive, and you can\u2019t change its personality.",
+            "title": "The New Friend AI Pendant Can Now Talk Back to You",
+            "url": "https://www.wired.com/story/the-friend-2-necklace-can-talk-back-to-you-now/"
           },
           {
             "category": "technology",
-            "published_at": "2026-07-29T12:10:00Z",
+            "published_at": "2026-07-30T12:10:00Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Samsung\u2019s chip workers are jumping ship to rival S",
-            "title": "The Download: a chip talent battle, and deflating AI hype",
-            "url": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/"
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerab",
+            "title": "The Download: tricking LLMs, and reviving geothermal plants",
+            "url": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-07-29T15:49:37.372740"
+        "timestamp": "2026-07-30T15:51:31.681760"
       },
-      "timestamp": "2026-07-29T15:49:37.372740",
+      "timestamp": "2026-07-30T15:51:31.681760",
       "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
@@ -143,19 +143,35 @@
       "data": {
         "indexes": [
           {
-            "change": 17.7,
-            "change_percent": 0.24,
-            "is_positive": true,
+            "change": -114,
+            "change_percent": -1.54,
+            "is_positive": false,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 7408.6
+            "value": 7294.6
+          },
+          {
+            "change": -230.2,
+            "change_percent": -1.87,
+            "is_positive": false,
+            "name": "NASDAQ",
+            "symbol": "^IXIC",
+            "value": 12032.19
+          },
+          {
+            "change": -350.5,
+            "change_percent": -2.13,
+            "is_positive": false,
+            "name": "DOW JONES",
+            "symbol": "^DJI",
+            "value": 16005.75
           }
         ],
-        "market_summary": "Markets rallied across all major indexes on positive sentiment.",
+        "market_summary": "Markets declined on concerns about economic outlook.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-07-29T15:49:37.526142"
+        "timestamp": "2026-07-30T15:51:31.855526"
       },
-      "timestamp": "2026-07-29T15:49:37.526142",
+      "timestamp": "2026-07-30T15:51:31.855526",
       "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
