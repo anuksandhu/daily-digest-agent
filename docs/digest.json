@@ -1,60 +1,60 @@
 {
-  "date": "2026-08-07",
-  "generated_at": "2026-08-07T14:52:28.185919",
+  "date": "2026-08-09",
+  "generated_at": "2026-08-09T14:34:17.553177",
   "sections": [
     {
-      "name": "weather",
       "data": {
         "current": {
-          "description": "Scattered clouds",
-          "feels_like": 62.5,
-          "humidity": 85,
-          "icon": "03d",
-          "temp": 62.6,
-          "wind_speed": 1.9
+          "description": "Clear sky",
+          "feels_like": 61.3,
+          "humidity": 89,
+          "icon": "01d",
+          "temp": 61.3,
+          "wind_speed": 0.7
         },
         "forecast": [
           {
-            "date": "2026-08-07",
-            "description": "Scattered clouds",
-            "icon": "03d",
-            "temp": 79
-          },
-          {
-            "date": "2026-08-08",
-            "description": "Clear sky",
-            "icon": "01n",
-            "temp": 92.2
-          },
-          {
             "date": "2026-08-09",
             "description": "Clear sky",
-            "icon": "01n",
-            "temp": 105.3
+            "icon": "01d",
+            "temp": 80.1
           },
           {
             "date": "2026-08-10",
-            "description": "Clear sky",
-            "icon": "01n",
-            "temp": 102.3
+            "description": "Few clouds",
+            "icon": "02n",
+            "temp": 86.7
           },
           {
             "date": "2026-08-11",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 100.8
+            "temp": 100.5
+          },
+          {
+            "date": "2026-08-12",
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 97.6
+          },
+          {
+            "date": "2026-08-13",
+            "description": "Scattered clouds",
+            "icon": "03n",
+            "temp": 92.7
           }
         ],
         "location": "San Jose",
-        "timestamp": "2026-08-07T14:52:21.006856",
-        "source": "OpenWeather API"
+        "source": "OpenWeather API",
+        "timestamp": "2026-08-09T14:34:15.001215"
       },
-      "timestamp": "2026-08-07T14:52:21.006856",
-      "source": "OpenWeather API"
+      "name": "weather",
+      "source": "OpenWeather API",
+      "timestamp": "2026-08-09T14:34:15.001215"
     },
     {
-      "name": "sports",
       "data": {
+        "source": "The Sports DB API",
         "teams": [
           {
             "latest_game": "L 3-13 vs Seahawks (2026-01-04)",
@@ -81,47 +81,46 @@
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-08-07T14:52:22.185919",
-        "source": "The Sports DB API"
+        "timestamp": "2026-08-09T14:34:16.267801"
       },
-      "timestamp": "2026-08-07T14:52:22.185919",
-      "source": "The Sports DB API"
+      "name": "sports",
+      "source": "The Sports DB API",
+      "timestamp": "2026-08-09T14:34:16.267801"
     },
     {
-      "name": "tech",
       "data": {
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-08-07T14:28:31Z",
+            "published_at": "2026-08-09T14:30:00Z",
             "source": "TechCrunch",
-            "summary": "In the Kimi test, the sandbox designed to contain the experiment was not properly configured.",
-            "title": "Chinese AI model Kimi escaped its cybersecurity testing environment, researchers say",
-            "url": "https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say/"
+            "summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with i",
+            "title": "The AI safety test is becoming a safety risk",
+            "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/"
           },
           {
             "category": "technology",
-            "published_at": "2026-08-07T14:48:38Z",
+            "published_at": "2026-08-09T13:00:00Z",
             "source": "The Verge",
-            "summary": "What makes the Samsung Galaxy Z Fold 8 Ultra so Ultra? Samsung\\'s first foldable with the Ultra name isn't a souped-up version of the regular Fold 8, as you might expect. Where the Z Fold 8 is squat an",
-            "title": "Samsung\u2019s Z Fold 8 Ultra is more of the same, but better than ever",
-            "url": "https://www.theverge.com/tech/976551/samsung-galaxy-z-fold-8-ultra-review"
+            "summary": "In 2018 I bet my reputation and self-worth on a huge crowdfunded game design project. It could have been a failure for many reasons, but the one I became most worried about was losing all of the work ",
+            "title": "Dropbox is a PC builder\u2019s best friend",
+            "url": "https://www.theverge.com/tech/976092/pc-building-dropbox-backup"
           },
           {
             "category": "technology",
-            "published_at": "2026-08-07T13:29:22Z",
+            "published_at": "2026-08-07T19:00:17Z",
             "source": "Ars Technica",
-            "summary": "TikTok owner training a model with 10 trillion parameters.",
-            "title": "ByteDance trains massive AI model in bid to rival Anthropic",
-            "url": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/"
+            "summary": "Fitted with telescopes, the plane did our longest imaging of the Sun\\'s corona.",
+            "title": "The ultimate eclipse chase: A Concorde raced against the Moon's shadow",
+            "url": "https://arstechnica.com/science/2026/08/the-ultimate-eclipse-chase-a-concorde-raced-against-the-moons-shadow/"
           },
           {
             "category": "technology",
-            "published_at": "2026-08-07T14:13:57Z",
+            "published_at": "2026-08-09T11:04:00Z",
             "source": "Wired",
-            "summary": "The use of AI systems to create viruses opens up new possibilities for combating bacterial resistance. It also raises concerns about the pace at which technology is outstripping regulation.",
-            "title": "Scientists Used AI to Create 16 New Viruses",
-            "url": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/"
+            "summary": "Whether you\u2019re training hard, traveling often, or dealing with poor circulation, these are the best compression boots for anyone looking for better muscle recovery.",
+            "title": "4 Best Compression Boots: Therabody, Hyperice, and More (2026)",
+            "url": "https://www.wired.com/story/best-compression-boots/"
           },
           {
             "category": "technology",
@@ -132,31 +131,32 @@
             "url": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/"
           }
         ],
-        "timestamp": "2026-08-07T14:52:27.023582",
-        "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
+        "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
+        "timestamp": "2026-08-09T14:34:16.847513"
       },
-      "timestamp": "2026-08-07T14:52:27.023582",
-      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
+      "name": "tech",
+      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
+      "timestamp": "2026-08-09T14:34:16.847513"
     },
     {
-      "name": "market",
       "data": {
         "indexes": [
           {
-            "change": -12.3,
-            "change_percent": -0.16,
-            "is_positive": false,
+            "change": 47,
+            "change_percent": 0.61,
+            "is_positive": true,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 7685.6
+            "value": 7732.6
           }
         ],
-        "market_summary": "Markets declined on concerns about economic outlook.",
-        "timestamp": "2026-08-07T14:52:27.180923",
-        "source": "Alpha Vantage API (via ETF proxies)"
+        "market_summary": "Markets rallied across all major indexes on positive sentiment.",
+        "source": "Alpha Vantage API (via ETF proxies)",
+        "timestamp": "2026-08-09T14:34:17.086946"
       },
-      "timestamp": "2026-08-07T14:52:27.180923",
-      "source": "Alpha Vantage API (via ETF proxies)"
+      "name": "market",
+      "source": "Alpha Vantage API (via ETF proxies)",
+      "timestamp": "2026-08-09T14:34:17.086946"
     }
   ]
 }
