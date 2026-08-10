@@ -1,58 +1,59 @@
 {
-  "date": "2026-08-09",
-  "generated_at": "2026-08-09T14:34:17.553177",
+  "date": "2026-08-10",
+  "generated_at": "2026-08-10T14:57:58.050522",
   "sections": [
     {
+      "name": "weather",
       "data": {
         "current": {
-          "description": "Clear sky",
-          "feels_like": 61.3,
-          "humidity": 89,
-          "icon": "01d",
-          "temp": 61.3,
-          "wind_speed": 0.7
+          "description": "Scattered clouds",
+          "feels_like": 64.3,
+          "humidity": 80,
+          "icon": "03d",
+          "temp": 64.4,
+          "wind_speed": 2.9
         },
         "forecast": [
           {
-            "date": "2026-08-09",
-            "description": "Clear sky",
-            "icon": "01d",
-            "temp": 80.1
-          },
-          {
             "date": "2026-08-10",
-            "description": "Few clouds",
-            "icon": "02n",
-            "temp": 86.7
+            "description": "Scattered clouds",
+            "icon": "03d",
+            "temp": 79.2
           },
           {
             "date": "2026-08-11",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 100.5
+            "temp": 86.4
           },
           {
             "date": "2026-08-12",
             "description": "Overcast clouds",
             "icon": "04n",
-            "temp": 97.6
+            "temp": 95.8
           },
           {
             "date": "2026-08-13",
+            "description": "Broken clouds",
+            "icon": "04n",
+            "temp": 92.1
+          },
+          {
+            "date": "2026-08-14",
             "description": "Scattered clouds",
             "icon": "03n",
-            "temp": 92.7
+            "temp": 88.6
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-08-09T14:34:15.001215"
+        "timestamp": "2026-08-10T14:57:54.532524"
       },
-      "name": "weather",
-      "source": "OpenWeather API",
-      "timestamp": "2026-08-09T14:34:15.001215"
+      "timestamp": "2026-08-10T14:57:54.532524",
+      "source": "OpenWeather API"
     },
     {
+      "name": "sports",
       "data": {
         "source": "The Sports DB API",
         "teams": [
@@ -81,64 +82,64 @@
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-08-09T14:34:16.267801"
+        "timestamp": "2026-08-10T14:57:56.427923"
       },
-      "name": "sports",
-      "source": "The Sports DB API",
-      "timestamp": "2026-08-09T14:34:16.267801"
+      "timestamp": "2026-08-10T14:57:56.427923",
+      "source": "The Sports DB API"
     },
     {
+      "name": "tech",
       "data": {
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-08-09T14:30:00Z",
+            "published_at": "2026-08-10T14:20:19Z",
             "source": "TechCrunch",
-            "summary": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with i",
-            "title": "The AI safety test is becoming a safety risk",
-            "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/"
+            "summary": "Companies that rely on Ceva Logistics for shipping their physical goods to customers say their personal data was taken during a recent cyberattack.",
+            "title": "A data breach at shipping giant Ceva Logistics is rippling across banks, retailers, Steam gamers, and beyond",
+            "url": "https://techcrunch.com/2026/08/10/a-data-breach-at-shipping-giant-ceva-logistics-is-rippling-across-banks-retailers-steam-gamers-and-beyond/"
           },
           {
             "category": "technology",
-            "published_at": "2026-08-09T13:00:00Z",
+            "published_at": "2026-08-10T14:00:00Z",
             "source": "The Verge",
-            "summary": "In 2018 I bet my reputation and self-worth on a huge crowdfunded game design project. It could have been a failure for many reasons, but the one I became most worried about was losing all of the work ",
-            "title": "Dropbox is a PC builder\u2019s best friend",
-            "url": "https://www.theverge.com/tech/976092/pc-building-dropbox-backup"
+            "summary": "Today, I\u2019m talking with Lila Snyder, who is the CEO of Bose. You certainly know Bose \u2014 it\u2019s one of the most famous brands in all of consumer tech. The company started 60 years ago selling speakers to ",
+            "title": "Bose CEO Lila Snyder on the fight for high-quality audio",
+            "url": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio"
           },
           {
             "category": "technology",
-            "published_at": "2026-08-07T19:00:17Z",
+            "published_at": "2026-08-10T11:00:47Z",
             "source": "Ars Technica",
-            "summary": "Fitted with telescopes, the plane did our longest imaging of the Sun\\'s corona.",
-            "title": "The ultimate eclipse chase: A Concorde raced against the Moon's shadow",
-            "url": "https://arstechnica.com/science/2026/08/the-ultimate-eclipse-chase-a-concorde-raced-against-the-moons-shadow/"
+            "summary": "As research and AI-assisted papers surge, volunteer reviewers struggle to keep up.",
+            "title": "Peer review is overwhelmed\u2014can it survive in the AI era?",
+            "url": "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/"
           },
           {
             "category": "technology",
-            "published_at": "2026-08-09T11:04:00Z",
+            "published_at": "2026-08-10T14:47:52Z",
             "source": "Wired",
-            "summary": "Whether you\u2019re training hard, traveling often, or dealing with poor circulation, these are the best compression boots for anyone looking for better muscle recovery.",
-            "title": "4 Best Compression Boots: Therabody, Hyperice, and More (2026)",
-            "url": "https://www.wired.com/story/best-compression-boots/"
+            "summary": "The solar-powered limited edition may be here to mark the final Dutch Grand Prix taking place in Zandvoort, but it\\'s the juicy iconic colorway WIRED's been waiting for.",
+            "title": "Orange Crush: TAG Heuer Drops a Bright Revamp of the Original Metal F1 Watch",
+            "url": "https://www.wired.com/story/orange-crush-tag-heuer-drops-a-bright-revamp-of-the-original-metal-f1-watch/"
           },
           {
             "category": "technology",
-            "published_at": "2026-08-07T14:20:00Z",
+            "published_at": "2026-08-10T12:10:00Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How ideas of a vast censorship network moved from ",
-            "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
-            "url": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/"
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI for science needs reasoning, not just data \u2014Eri",
+            "title": "The Download: AI agents for science, and the \u201ccensorship-industrial complex\u201d",
+            "url": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-08-09T14:34:16.847513"
+        "timestamp": "2026-08-10T14:57:57.331333"
       },
-      "name": "tech",
-      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-      "timestamp": "2026-08-09T14:34:16.847513"
+      "timestamp": "2026-08-10T14:57:57.331333",
+      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
+      "name": "market",
       "data": {
         "indexes": [
           {
@@ -152,11 +153,10 @@
         ],
         "market_summary": "Markets rallied across all major indexes on positive sentiment.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-08-09T14:34:17.086946"
+        "timestamp": "2026-08-10T14:57:57.705430"
       },
-      "name": "market",
-      "source": "Alpha Vantage API (via ETF proxies)",
-      "timestamp": "2026-08-09T14:34:17.086946"
+      "timestamp": "2026-08-10T14:57:57.705430",
+      "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
 }
