@@ -1,55 +1,55 @@
 {
-  "date": "2026-08-10",
-  "generated_at": "2026-08-10T14:57:58.050522",
+  "date": "2026-08-11",
+  "generated_at": "2026-08-11T14:57:04.012345",
   "sections": [
     {
       "name": "weather",
       "data": {
         "current": {
-          "description": "Scattered clouds",
-          "feels_like": 64.3,
-          "humidity": 80,
-          "icon": "03d",
-          "temp": 64.4,
-          "wind_speed": 2.9
+          "description": "Clear sky",
+          "feels_like": 61,
+          "humidity": 86,
+          "icon": "01d",
+          "temp": 61.2,
+          "wind_speed": 3.1
         },
         "forecast": [
           {
-            "date": "2026-08-10",
-            "description": "Scattered clouds",
-            "icon": "03d",
-            "temp": 79.2
-          },
-          {
             "date": "2026-08-11",
             "description": "Clear sky",
-            "icon": "01n",
-            "temp": 86.4
+            "icon": "01d",
+            "temp": 78.5
           },
           {
             "date": "2026-08-12",
             "description": "Overcast clouds",
             "icon": "04n",
-            "temp": 95.8
+            "temp": 82
           },
           {
             "date": "2026-08-13",
-            "description": "Broken clouds",
+            "description": "Overcast clouds",
             "icon": "04n",
-            "temp": 92.1
+            "temp": 86.4
           },
           {
             "date": "2026-08-14",
-            "description": "Scattered clouds",
-            "icon": "03n",
-            "temp": 88.6
+            "description": "Broken clouds",
+            "icon": "04n",
+            "temp": 87.5
+          },
+          {
+            "date": "2026-08-15",
+            "description": "Few clouds",
+            "icon": "02n",
+            "temp": 88.2
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-08-10T14:57:54.532524"
+        "timestamp": "2026-08-11T14:56:59.644188"
       },
-      "timestamp": "2026-08-10T14:57:54.532524",
+      "timestamp": "2026-08-11T14:56:59.644188",
       "source": "OpenWeather API"
     },
     {
@@ -82,9 +82,9 @@
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-08-10T14:57:56.427923"
+        "timestamp": "2026-08-11T14:57:00.912220"
       },
-      "timestamp": "2026-08-10T14:57:56.427923",
+      "timestamp": "2026-08-11T14:57:00.912220",
       "source": "The Sports DB API"
     },
     {
@@ -93,49 +93,49 @@
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-08-10T14:20:19Z",
+            "published_at": "2026-08-11T13:00:00Z",
             "source": "TechCrunch",
-            "summary": "Companies that rely on Ceva Logistics for shipping their physical goods to customers say their personal data was taken during a recent cyberattack.",
-            "title": "A data breach at shipping giant Ceva Logistics is rippling across banks, retailers, Steam gamers, and beyond",
-            "url": "https://techcrunch.com/2026/08/10/a-data-breach-at-shipping-giant-ceva-logistics-is-rippling-across-banks-retailers-steam-gamers-and-beyond/"
+            "summary": "Spotify is introducing \u201cAI Persona\u201d labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by defa",
+            "title": "Spotify will label \u2018AI Persona\u2019 profiles and exclude their music from recommendations",
+            "url": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/"
           },
           {
             "category": "technology",
-            "published_at": "2026-08-10T14:00:00Z",
+            "published_at": "2026-08-11T14:45:44Z",
             "source": "The Verge",
-            "summary": "Today, I\u2019m talking with Lila Snyder, who is the CEO of Bose. You certainly know Bose \u2014 it\u2019s one of the most famous brands in all of consumer tech. The company started 60 years ago selling speakers to ",
-            "title": "Bose CEO Lila Snyder on the fight for high-quality audio",
-            "url": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio"
+            "summary": "Zoom has patched a major security vulnerability that could allow an attacker to hijack anyone\\'s device during a meeting. In a blog post on Tuesday, researchers at A Security say they uncovered the fla",
+            "title": "\u2018Zoomsday\u2019 hack uncovered using fewer than 20 AI prompts",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack"
           },
           {
             "category": "technology",
-            "published_at": "2026-08-10T11:00:47Z",
+            "published_at": "2026-08-10T22:13:03Z",
             "source": "Ars Technica",
-            "summary": "As research and AI-assisted papers surge, volunteer reviewers struggle to keep up.",
-            "title": "Peer review is overwhelmed\u2014can it survive in the AI era?",
-            "url": "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/"
+            "summary": "Meta has been trailing competitors. Zuckerberg thinks he\\'s found a way forward.",
+            "title": "With new open models, Meta pitches another reboot of its struggling AI strategy",
+            "url": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/"
           },
           {
             "category": "technology",
-            "published_at": "2026-08-10T14:47:52Z",
+            "published_at": "2026-08-11T13:45:02Z",
             "source": "Wired",
-            "summary": "The solar-powered limited edition may be here to mark the final Dutch Grand Prix taking place in Zandvoort, but it\\'s the juicy iconic colorway WIRED's been waiting for.",
-            "title": "Orange Crush: TAG Heuer Drops a Bright Revamp of the Original Metal F1 Watch",
-            "url": "https://www.wired.com/story/orange-crush-tag-heuer-drops-a-bright-revamp-of-the-original-metal-f1-watch/"
+            "summary": "New research finds that by making the fossil fuel industry more productive, AI could help increase carbon emissions by up to nearly 5 percent\u2014vastly outpacing the impact of data centers.",
+            "title": "AI Could Help Fossil Fuel Companies Create More Emissions",
+            "url": "https://www.wired.com/story/ai-could-help-fossil-fuel-companies-create-more-emissions/"
           },
           {
             "category": "technology",
-            "published_at": "2026-08-10T12:10:00Z",
+            "published_at": "2026-08-11T12:10:00Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI for science needs reasoning, not just data \u2014Eri",
-            "title": "The Download: AI agents for science, and the \u201ccensorship-industrial complex\u201d",
-            "url": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/"
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily download of what&#8217;s going on in the world of technology. These startups are chasing the next big thing in L",
+            "title": "The Download: the next big thing in LLMs and how AI academic research is shifting",
+            "url": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-08-10T14:57:57.331333"
+        "timestamp": "2026-08-11T14:57:03.826823"
       },
-      "timestamp": "2026-08-10T14:57:57.331333",
+      "timestamp": "2026-08-11T14:57:03.826823",
       "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
@@ -143,19 +143,19 @@
       "data": {
         "indexes": [
           {
-            "change": 47,
-            "change_percent": 0.61,
-            "is_positive": true,
+            "change": -2.3,
+            "change_percent": -0.03,
+            "is_positive": false,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 7732.6
+            "value": 7730.3
           }
         ],
-        "market_summary": "Markets rallied across all major indexes on positive sentiment.",
+        "market_summary": "Markets declined on concerns about economic outlook.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-08-10T14:57:57.705430"
+        "timestamp": "2026-08-11T14:57:03.991396"
       },
-      "timestamp": "2026-08-10T14:57:57.705430",
+      "timestamp": "2026-08-11T14:57:03.991396",
       "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
