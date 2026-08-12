@@ -1,55 +1,55 @@
 {
-  "date": "2026-08-11",
-  "generated_at": "2026-08-11T14:57:04.012345",
+  "date": "2026-08-12",
+  "generated_at": "2026-08-12T14:56:35.470000",
   "sections": [
     {
       "name": "weather",
       "data": {
         "current": {
-          "description": "Clear sky",
-          "feels_like": 61,
-          "humidity": 86,
-          "icon": "01d",
-          "temp": 61.2,
-          "wind_speed": 3.1
+          "description": "Overcast clouds",
+          "feels_like": 59.5,
+          "humidity": 85,
+          "icon": "04d",
+          "temp": 59.9,
+          "wind_speed": 4.6
         },
         "forecast": [
           {
-            "date": "2026-08-11",
-            "description": "Clear sky",
-            "icon": "01d",
-            "temp": 78.5
-          },
-          {
             "date": "2026-08-12",
             "description": "Overcast clouds",
-            "icon": "04n",
-            "temp": 82
+            "icon": "04d",
+            "temp": 74.7
           },
           {
             "date": "2026-08-13",
             "description": "Overcast clouds",
             "icon": "04n",
-            "temp": 86.4
+            "temp": 77
           },
           {
             "date": "2026-08-14",
             "description": "Broken clouds",
             "icon": "04n",
-            "temp": 87.5
+            "temp": 88
           },
           {
             "date": "2026-08-15",
             "description": "Few clouds",
             "icon": "02n",
-            "temp": 88.2
+            "temp": 87.6
+          },
+          {
+            "date": "2026-08-16",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 92
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-08-11T14:56:59.644188"
+        "timestamp": "2026-08-12T14:56:33.173394"
       },
-      "timestamp": "2026-08-11T14:56:59.644188",
+      "timestamp": "2026-08-12T14:56:33.173394",
       "source": "OpenWeather API"
     },
     {
@@ -82,9 +82,9 @@
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-08-11T14:57:00.912220"
+        "timestamp": "2026-08-12T14:56:34.493820"
       },
-      "timestamp": "2026-08-11T14:57:00.912220",
+      "timestamp": "2026-08-12T14:56:34.493820",
       "source": "The Sports DB API"
     },
     {
@@ -93,49 +93,49 @@
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-08-11T13:00:00Z",
+            "published_at": "2026-08-12T14:20:33Z",
             "source": "TechCrunch",
-            "summary": "Spotify is introducing \u201cAI Persona\u201d labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by defa",
-            "title": "Spotify will label \u2018AI Persona\u2019 profiles and exclude their music from recommendations",
-            "url": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/"
+            "summary": "From the Pixel 11 series and a brand new competitor to Apple\u2019s AirTag, here are all the announcements from the Made by Google 2026 event.",
+            "title": "Everything announced at Made by Google \u201926: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+            "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/"
           },
           {
             "category": "technology",
-            "published_at": "2026-08-11T14:45:44Z",
+            "published_at": "2026-08-12T14:30:00Z",
             "source": "The Verge",
-            "summary": "Zoom has patched a major security vulnerability that could allow an attacker to hijack anyone\\'s device during a meeting. In a blog post on Tuesday, researchers at A Security say they uncovered the fla",
-            "title": "\u2018Zoomsday\u2019 hack uncovered using fewer than 20 AI prompts",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack"
+            "summary": "Google knows creators are a big audience. The occupation is growing fast, and landing some influential names could be a major turning point for the Pixel's market share. This year, Google is building ",
+            "title": "Google aims for influencers with the Pixel 11 Creator Suite",
+            "url": "https://www.theverge.com/tech/977888/pixel-creator-suite-influencer-camera-features"
           },
           {
             "category": "technology",
-            "published_at": "2026-08-10T22:13:03Z",
+            "published_at": "2026-08-12T14:00:51Z",
             "source": "Ars Technica",
-            "summary": "Meta has been trailing competitors. Zuckerberg thinks he\\'s found a way forward.",
-            "title": "With new open models, Meta pitches another reboot of its struggling AI strategy",
-            "url": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/"
+            "summary": "Google focuses more on AI and curated experiences than spec upgrades in 2026.",
+            "title": "Google reveals 2026 hardware lineup: Pixel 11, Pixel Watch 5, and Pixel Tag",
+            "url": "https://arstechnica.com/gadgets/2026/08/google-reveals-2026-hardware-lineup-pixel-11-pixel-watch-5-and-pixel-tag/"
           },
           {
             "category": "technology",
-            "published_at": "2026-08-11T13:45:02Z",
+            "published_at": "2026-08-12T12:00:00Z",
             "source": "Wired",
-            "summary": "New research finds that by making the fossil fuel industry more productive, AI could help increase carbon emissions by up to nearly 5 percent\u2014vastly outpacing the impact of data centers.",
-            "title": "AI Could Help Fossil Fuel Companies Create More Emissions",
-            "url": "https://www.wired.com/story/ai-could-help-fossil-fuel-companies-create-more-emissions/"
+            "summary": "Security researchers found that in less than 60 seconds, they could open a\u00a0hatch on a plane\u2019s exterior, plug in a tiny device, and redirect the aircraft\u2019s autopilot or sabotage its flight plan.",
+            "title": "This Coin-Sized Device Can Hack a Boeing 737",
+            "url": "https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737/"
           },
           {
             "category": "technology",
-            "published_at": "2026-08-11T12:10:00Z",
+            "published_at": "2026-08-12T12:10:00Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily download of what&#8217;s going on in the world of technology. These startups are chasing the next big thing in L",
-            "title": "The Download: the next big thing in LLMs and how AI academic research is shifting",
-            "url": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/"
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How we picked 35 of the world\u2019s top young scientis",
+            "title": "The Download: our 35 young innovators and the \u201ccensorship-industrial complex\u201d",
+            "url": "https://www.technologyreview.com/2026/08/12/1141714/the-download-innovators-under-35-censorship-industrial-complex/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-08-11T14:57:03.826823"
+        "timestamp": "2026-08-12T14:56:35.300277"
       },
-      "timestamp": "2026-08-11T14:57:03.826823",
+      "timestamp": "2026-08-12T14:56:35.300277",
       "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
@@ -143,19 +143,19 @@
       "data": {
         "indexes": [
           {
-            "change": -2.3,
-            "change_percent": -0.03,
+            "change": -24.7,
+            "change_percent": -0.32,
             "is_positive": false,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 7730.3
+            "value": 7705.6
           }
         ],
         "market_summary": "Markets declined on concerns about economic outlook.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-08-11T14:57:03.991396"
+        "timestamp": "2026-08-12T14:56:35.462189"
       },
-      "timestamp": "2026-08-11T14:57:03.991396",
+      "timestamp": "2026-08-12T14:56:35.462189",
       "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
