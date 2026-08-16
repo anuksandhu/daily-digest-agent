@@ -1,6 +1,154 @@
 {
-  "date": "2026-08-15",
-  "generated_at": "2026-08-15T14:21:51.293827",
-  "sections": [],
-  "raw_response": "{\"date\": \"2026-08-15\", \"generated_at\": \"2026-08-15T14:21:48.123456\", \"sections\": [{\"data\": {\"current\": {\"description\": \"Broken clouds\", \"feels_like\": 61, \"humidity\": 79, \"icon\": \"04d\", \"temp\": 61.4, \"wind_speed\": 7.6}, \"forecast\": [{\"date\": \"2026-08-15\", \"description\": \"Broken clouds\", \"icon\": \"04d\", \"temp\": 72.9}, {\"date\": \"2026-08-16\", \"description\": \"Clear sky\", \"icon\": \"01n\", \"temp\": 84.8}, {\"date\": \"2026-08-17\", \"description\": \"Overcast clouds\", \"icon\": \"04n\", \"temp\": 91.2}, {\"date\": \"2026-08-18\", \"description\": \"Overcast clouds\", \"icon\": \"04n\", \"temp\": 90.9}, {\"date\": \"2026-08-19\", \"description\": \"Broken clouds\", \"icon\": \"04n\", \"temp\": 96.8}], \"location\": \"San Jose\"}, \"source\": \"OpenWeather API\", \"timestamp\": \"2026-08-15T14:21:45.821548\"}, \"name\": \"weather\"}, {\"data\": {\"teams\": [{\"latest_game\": \"L 13-19 vs Titans (2026-08-14)\", \"league\": \"NFL\", \"name\": \"San Francisco 49ers\", \"next_game\": \"@ Chargers on 2026-08-21\", \"record\": \"Season in progress\", \"standings\": \"N/A\"}, {\"latest_game\": \"L 3-4 vs Canucks (2026-04-12)\", \"league\": \"NHL\", \"name\": \"San Jose Sharks\", \"next_game\": \"@ Ducks on 2026-09-20\", \"record\": \"Season in progress\", \"standings\": \"N/A\"}, {\"latest_game\": \"L 85-106 vs Grizzlies (2026-07-14)\", \"league\": \"NBA\", \"name\": \"Golden State Warriors\", \"next_game\": \"vs Lakers on 2026-10-07\", \"record\": \"Season in progress\", \"standings\": \"N/A\"}], \"source\": \"The Sports DB API\", \"timestamp\": \"2026-08-15T14:21:46.970944\"}, \"name\": \"sports\"}, {\"data\": {\"articles\": [{\"category\": \"technology\", \"published_at\": \"2026-08-15T13:15:20Z\", \"source\": \"TechCrunch\", \"summary\": \"Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.\", \"title\": \"Every fusion startup that has raised over $100M\", \"url\": \"https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/\"}, {\"category\": \"technology\", \"published_at\": \"2026-08-15T14:20:33Z\", \"source\": \"The Verge\", \"summary\": \"The annual Disney fan event showed off the cast of Marvel&#8217;s X-Men movie, plus a new trailer for Avengers: Doomsday, and our first look at the VisionQuest TV show for Disney Plus. For Star Wars f\", \"title\": \"Disney D23 2026: Everything announced for Star Wars, Marvel, and more\", \"url\": \"https://www.theverge.com/streaming/980633/x-men-marvel-star-wars-pixar-disney-d23\"}, {\"category\": \"technology\", \"published_at\": \"2026-08-14T18:00:23Z\", \"source\": \"Ars Technica\", \"summary\": \"Airline-backed venture aims to develop a hybrid-electric commercial aircraft.\", \"title\": \"First test flight of largest all-electric aircraft used just $5 of electricity\", \"url\": \"https://arstechnica.com/gadgets/2026/08/first-test-flight-of-largest-all-electric-aircraft-used-just-5-of-electricity/\"}, {\"category\": \"technology\", \"published_at\": \"2026-08-15T09:30:00Z\", \"source\": \"Wired\", \"summary\": \"The island could capture billions of gallons of water a year if it implemented systems to catch it as it falls from the sky.\", \"title\": \"Puerto Rico Is Rationing Water. It Could\u2019ve Avoided It by Harvesting Rainwater\", \"url\": \"https://www.wired.com/story/puerto-rico-is-rationing-water-it-could-avoid-it-by-harvesting-rainwater/\"}, {\"category\": \"technology\", \"published_at\": \"2026-08-14T12:17:21Z\", \"source\": \"MIT Technology Review\", \"summary\": \"This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Flock is tightening its rules in response to a gro\", \"title\": \"The Download: Flock\u2019s new rules, cloning\u2019s future, and children\u2019s cells\", \"url\": \"https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/\"}], \"source\": \"RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)\", \"timestamp\": \"2026-08-15T14:21:47.732860\"}, \"name\": \"tech\"}, {\"data\": {\"indexes\": [{\"change\": -15.4, \"change_percent\": -0.2, \"is_positive\": False, \"name\": \"S&P 500\", \"symbol\": \"^GSPC\", \"value\": 7763.4}], \"market_summary\": \"Markets declined on concerns about economic outlook.\", \"source\": \"Alpha Vantage API (via ETF proxies)\", \"timestamp\": \"2026-08-15T14:21:47.886000\"}, \"name\": \"market\"}]}"
+  "date": "2026-08-16",
+  "generated_at": "2026-08-16T14:22:12.126346",
+  "sections": [
+    {
+      "name": "weather",
+      "data": {
+        "current": {
+          "description": "Broken clouds",
+          "feels_like": 60.4,
+          "humidity": 86,
+          "icon": "04d",
+          "temp": 60.6,
+          "wind_speed": 3.4
+        },
+        "forecast": [
+          {
+            "date": "2026-08-16",
+            "description": "Broken clouds",
+            "icon": "04d",
+            "temp": 75.4
+          },
+          {
+            "date": "2026-08-17",
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 83.8
+          },
+          {
+            "date": "2026-08-18",
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 92.8
+          },
+          {
+            "date": "2026-08-19",
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 97.5
+          },
+          {
+            "date": "2026-08-20",
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 91.4
+          }
+        ],
+        "location": "San Jose",
+        "source": "OpenWeather API",
+        "timestamp": "2026-08-16T14:22:06.070794"
+      },
+      "timestamp": "2026-08-16T14:22:06.070794",
+      "source": "OpenWeather API"
+    },
+    {
+      "name": "sports",
+      "data": {
+        "source": "The Sports DB API",
+        "teams": [
+          {
+            "latest_game": "L 13-19 vs Titans (2026-08-14)",
+            "league": "NFL",
+            "name": "San Francisco 49ers",
+            "next_game": "@ Chargers on 2026-08-21",
+            "record": "Season in progress",
+            "standings": "N/A"
+          },
+          {
+            "latest_game": "L 3-4 vs Canucks (2026-04-12)",
+            "league": "NHL",
+            "name": "San Jose Sharks",
+            "next_game": "@ Ducks on 2026-09-20",
+            "record": "Season in progress",
+            "standings": "N/A"
+          }
+        ],
+        "timestamp": "2026-08-16T14:22:11.114507"
+      },
+      "timestamp": "2026-08-16T14:22:11.114507",
+      "source": "The Sports DB API"
+    },
+    {
+      "name": "tech",
+      "data": {
+        "articles": [
+          {
+            "category": "technology",
+            "published_at": "2026-08-15T21:29:19Z",
+            "source": "TechCrunch",
+            "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+            "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+            "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-08-16T12:00:00Z",
+            "source": "The Verge",
+            "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. ",
+            "title": "Rogue AI aren\u2019t science fiction anymore",
+            "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-08-16T10:00:59Z",
+            "source": "Ars Technica",
+            "summary": "Regulations reduced prenatal exposure to harmful emissions, but wildfire smoke is erasing gains.",
+            "title": "Wildfire smoke now bigger prenatal threat than human sources of air pollution",
+            "url": "https://arstechnica.com/science/2026/08/wildfire-smoke-now-bigger-prenatal-threat-than-human-sources-of-air-pollution/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-08-16T10:30:00Z",
+            "source": "Wired",
+            "summary": "The installation utility EasyDMG makes it so you never drag and drop an icon again.",
+            "title": "Someone Finally Fixed Installing Apps on a Mac",
+            "url": "https://www.wired.com/story/easydmg-finally-fixed-installing-apps-on-a-mac/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-08-14T12:17:21Z",
+            "source": "MIT Technology Review",
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Flock is tightening its rules in response to a gro",
+            "title": "The Download: Flock\u2019s new rules, cloning\u2019s future, and children\u2019s cells",
+            "url": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/"
+          }
+        ],
+        "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
+        "timestamp": "2026-08-16T14:22:11.814176"
+      },
+      "timestamp": "2026-08-16T14:22:11.814176",
+      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
+    },
+    {
+      "name": "market",
+      "data": {
+        "indexes": [
+          {
+            "change": -15.4,
+            "change_percent": -0.2,
+            "is_positive": false,
+            "name": "S&P 500",
+            "symbol": "^GSPC",
+            "value": 7763.4
+          }
+        ],
+        "market_summary": "Markets declined on concerns about economic outlook.",
+        "source": "Alpha Vantage API (via ETF proxies)",
+        "timestamp": "2026-08-16T14:22:12.126346"
+      },
+      "timestamp": "2026-08-16T14:22:12.126346",
+      "source": "Alpha Vantage API (via ETF proxies)"
+    }
+  ]
 }
