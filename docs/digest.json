@@ -1,55 +1,55 @@
 {
-  "date": "2026-08-16",
-  "generated_at": "2026-08-16T14:22:12.126346",
+  "date": "2026-08-17",
+  "generated_at": "2026-08-17T14:27:19.310521",
   "sections": [
     {
       "name": "weather",
       "data": {
         "current": {
           "description": "Broken clouds",
-          "feels_like": 60.4,
-          "humidity": 86,
+          "feels_like": 61.8,
+          "humidity": 85,
           "icon": "04d",
-          "temp": 60.6,
+          "temp": 61.9,
           "wind_speed": 3.4
         },
         "forecast": [
           {
-            "date": "2026-08-16",
+            "date": "2026-08-17",
             "description": "Broken clouds",
             "icon": "04d",
-            "temp": 75.4
-          },
-          {
-            "date": "2026-08-17",
-            "description": "Overcast clouds",
-            "icon": "04n",
-            "temp": 83.8
+            "temp": 74.9
           },
           {
             "date": "2026-08-18",
-            "description": "Overcast clouds",
+            "description": "Broken clouds",
             "icon": "04n",
-            "temp": 92.8
+            "temp": 82.5
           },
           {
             "date": "2026-08-19",
             "description": "Overcast clouds",
             "icon": "04n",
-            "temp": 97.5
+            "temp": 97
           },
           {
             "date": "2026-08-20",
             "description": "Overcast clouds",
             "icon": "04n",
-            "temp": 91.4
+            "temp": 96.1
+          },
+          {
+            "date": "2026-08-21",
+            "description": "Few clouds",
+            "icon": "02n",
+            "temp": 92.5
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-08-16T14:22:06.070794"
+        "timestamp": "2026-08-17T14:27:14.552882"
       },
-      "timestamp": "2026-08-16T14:22:06.070794",
+      "timestamp": "2026-08-17T14:27:14.552882",
       "source": "OpenWeather API"
     },
     {
@@ -72,11 +72,19 @@
             "next_game": "@ Ducks on 2026-09-20",
             "record": "Season in progress",
             "standings": "N/A"
+          },
+          {
+            "latest_game": "L 85-106 vs Grizzlies (2026-07-14)",
+            "league": "NBA",
+            "name": "Golden State Warriors",
+            "next_game": "vs Lakers on 2026-10-07",
+            "record": "Season in progress",
+            "standings": "N/A"
           }
         ],
-        "timestamp": "2026-08-16T14:22:11.114507"
+        "timestamp": "2026-08-17T14:27:16.198968"
       },
-      "timestamp": "2026-08-16T14:22:11.114507",
+      "timestamp": "2026-08-17T14:27:16.198968",
       "source": "The Sports DB API"
     },
     {
@@ -85,49 +93,49 @@
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-08-15T21:29:19Z",
+            "published_at": "2026-08-17T13:10:05Z",
             "source": "TechCrunch",
-            "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
-            "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-            "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/"
+            "summary": "Wispr\u2019s total funding is now over $361 million.",
+            "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
+            "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/"
           },
           {
             "category": "technology",
-            "published_at": "2026-08-16T12:00:00Z",
+            "published_at": "2026-08-17T14:24:35Z",
             "source": "The Verge",
-            "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. ",
-            "title": "Rogue AI aren\u2019t science fiction anymore",
-            "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai"
+            "summary": "Uber is teaming up with drone company Zipline to start airborne takeout deliveries later this year, with the goal of reaching 1 million daily drone deliveries by 2029. Uber also said it was making a s",
+            "title": "Uber partners with Zipline on Eats drone deliveries",
+            "url": "https://www.theverge.com/transportation/980912/uber-eats-zipline-drone-delivery-investment"
           },
           {
             "category": "technology",
-            "published_at": "2026-08-16T10:00:59Z",
+            "published_at": "2026-08-17T13:41:35Z",
             "source": "Ars Technica",
-            "summary": "Regulations reduced prenatal exposure to harmful emissions, but wildfire smoke is erasing gains.",
-            "title": "Wildfire smoke now bigger prenatal threat than human sources of air pollution",
-            "url": "https://arstechnica.com/science/2026/08/wildfire-smoke-now-bigger-prenatal-threat-than-human-sources-of-air-pollution/"
+            "summary": "\"It highlights the brutality of medieval warfare,\" said paleopathologist Jo Buckberry.",
+            "title": "Meet the only known trebuchet casualty in history",
+            "url": "https://arstechnica.com/science/2026/08/meet-the-only-known-trebuchet-casualty-in-history/"
           },
           {
             "category": "technology",
-            "published_at": "2026-08-16T10:30:00Z",
+            "published_at": "2026-08-17T09:00:00Z",
             "source": "Wired",
-            "summary": "The installation utility EasyDMG makes it so you never drag and drop an icon again.",
-            "title": "Someone Finally Fixed Installing Apps on a Mac",
-            "url": "https://www.wired.com/story/easydmg-finally-fixed-installing-apps-on-a-mac/"
+            "summary": "Researchers found that a metabolite produced by gut bacteria can weaken the barrier that protects the brain and promote changes associated with the cognitive disease.",
+            "title": "There\u2019s a New Link Between Gut Health and Alzheimer\u2019s Disease",
+            "url": "https://www.wired.com/story/new-link-between-gut-health-and-alzheimers/"
           },
           {
             "category": "technology",
-            "published_at": "2026-08-14T12:17:21Z",
+            "published_at": "2026-08-17T12:10:00Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Flock is tightening its rules in response to a gro",
-            "title": "The Download: Flock\u2019s new rules, cloning\u2019s future, and children\u2019s cells",
-            "url": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/"
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What happens when a kid\u2019s robot best friend dies? ",
+            "title": "The Download: dead robot friends and the \u201ccensorship-industrial complex\u201d",
+            "url": "https://www.technologyreview.com/2026/08/17/1142175/the-download-dead-robot-friends-censorship-industrial-complex/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-08-16T14:22:11.814176"
+        "timestamp": "2026-08-17T14:27:17.264682"
       },
-      "timestamp": "2026-08-16T14:22:11.814176",
+      "timestamp": "2026-08-17T14:27:17.264682",
       "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
@@ -141,13 +149,21 @@
             "name": "S&P 500",
             "symbol": "^GSPC",
             "value": 7763.4
+          },
+          {
+            "change": -111,
+            "change_percent": -0.21,
+            "is_positive": false,
+            "name": "DOW JONES",
+            "symbol": "^DJI",
+            "value": 53680
           }
         ],
         "market_summary": "Markets declined on concerns about economic outlook.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-08-16T14:22:12.126346"
+        "timestamp": "2026-08-17T14:27:18.840379"
       },
-      "timestamp": "2026-08-16T14:22:12.126346",
+      "timestamp": "2026-08-17T14:27:18.840379",
       "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
