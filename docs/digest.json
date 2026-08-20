@@ -1,59 +1,58 @@
 {
-  "date": "2026-08-17",
-  "generated_at": "2026-08-17T14:27:19.310521",
+  "date": "2026-08-20",
+  "generated_at": "2026-08-20T14:35:44.502905",
   "sections": [
     {
-      "name": "weather",
       "data": {
         "current": {
-          "description": "Broken clouds",
-          "feels_like": 61.8,
-          "humidity": 85,
+          "description": "Overcast clouds",
+          "feels_like": 61.2,
+          "humidity": 86,
           "icon": "04d",
-          "temp": 61.9,
-          "wind_speed": 3.4
+          "temp": 61.4,
+          "wind_speed": 4.6
         },
         "forecast": [
           {
-            "date": "2026-08-17",
-            "description": "Broken clouds",
-            "icon": "04d",
-            "temp": 74.9
-          },
-          {
-            "date": "2026-08-18",
-            "description": "Broken clouds",
-            "icon": "04n",
-            "temp": 82.5
-          },
-          {
-            "date": "2026-08-19",
-            "description": "Overcast clouds",
-            "icon": "04n",
-            "temp": 97
-          },
-          {
             "date": "2026-08-20",
             "description": "Overcast clouds",
-            "icon": "04n",
-            "temp": 96.1
+            "icon": "04d",
+            "temp": 72.5
           },
           {
             "date": "2026-08-21",
+            "description": "Broken clouds",
+            "icon": "04n",
+            "temp": 75.5
+          },
+          {
+            "date": "2026-08-22",
             "description": "Few clouds",
             "icon": "02n",
-            "temp": 92.5
+            "temp": 87.4
+          },
+          {
+            "date": "2026-08-23",
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 97.4
+          },
+          {
+            "date": "2026-08-24",
+            "description": "Broken clouds",
+            "icon": "04n",
+            "temp": 94.3
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-08-17T14:27:14.552882"
+        "timestamp": "2026-08-20T14:35:39.627915"
       },
-      "timestamp": "2026-08-17T14:27:14.552882",
-      "source": "OpenWeather API"
+      "name": "weather",
+      "source": "OpenWeather API",
+      "timestamp": "2026-08-20T14:35:39.627915"
     },
     {
-      "name": "sports",
       "data": {
         "source": "The Sports DB API",
         "teams": [
@@ -82,89 +81,82 @@
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-08-17T14:27:16.198968"
+        "timestamp": "2026-08-20T14:35:41.752385"
       },
-      "timestamp": "2026-08-17T14:27:16.198968",
-      "source": "The Sports DB API"
+      "name": "sports",
+      "source": "The Sports DB API",
+      "timestamp": "2026-08-20T14:35:41.752385"
     },
     {
-      "name": "tech",
       "data": {
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-08-17T13:10:05Z",
+            "published_at": "2026-08-20T13:01:24Z",
             "source": "TechCrunch",
-            "summary": "Wispr\u2019s total funding is now over $361 million.",
-            "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
-            "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/"
+            "summary": "The data search and AI giant confirmed unauthorized access to its systems during an incident on Tuesday, and said it was investigating the breach.",
+            "title": "AI data giant Alation confirms cyberattack",
+            "url": "https://techcrunch.com/2026/08/20/ai-data-giant-alation-confirms-cyberattack/"
           },
           {
             "category": "technology",
-            "published_at": "2026-08-17T14:24:35Z",
+            "published_at": "2026-08-20T14:00:00Z",
             "source": "The Verge",
-            "summary": "Uber is teaming up with drone company Zipline to start airborne takeout deliveries later this year, with the goal of reaching 1 million daily drone deliveries by 2029. Uber also said it was making a s",
-            "title": "Uber partners with Zipline on Eats drone deliveries",
-            "url": "https://www.theverge.com/transportation/980912/uber-eats-zipline-drone-delivery-investment"
+            "summary": "Today on Decoder, I\u2019m talking with Robert Hart, The Verge\u2019s London-based AI reporter, about what AI is doing to the field of mathematics and the existential crisis many lead mathematicians are having ",
+            "title": "Welcome to the AI crisis in math",
+            "url": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis"
           },
           {
             "category": "technology",
-            "published_at": "2026-08-17T13:41:35Z",
+            "published_at": "2026-08-20T13:00:35Z",
             "source": "Ars Technica",
-            "summary": "\"It highlights the brutality of medieval warfare,\" said paleopathologist Jo Buckberry.",
-            "title": "Meet the only known trebuchet casualty in history",
-            "url": "https://arstechnica.com/science/2026/08/meet-the-only-known-trebuchet-casualty-in-history/"
+            "summary": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
+            "title": "Grok exfiltrates user data when malicious instructions are encrypted",
+            "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/"
           },
           {
             "category": "technology",
-            "published_at": "2026-08-17T09:00:00Z",
-            "source": "Wired",
-            "summary": "Researchers found that a metabolite produced by gut bacteria can weaken the barrier that protects the brain and promote changes associated with the cognitive disease.",
-            "title": "There\u2019s a New Link Between Gut Health and Alzheimer\u2019s Disease",
-            "url": "https://www.wired.com/story/new-link-between-gut-health-and-alzheimers/"
-          },
-          {
-            "category": "technology",
-            "published_at": "2026-08-17T12:10:00Z",
+            "published_at": "2026-08-20T12:10:00Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What happens when a kid\u2019s robot best friend dies? ",
-            "title": "The Download: dead robot friends and the \u201ccensorship-industrial complex\u201d",
-            "url": "https://www.technologyreview.com/2026/08/17/1142175/the-download-dead-robot-friends-censorship-industrial-complex/"
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Support networks aim to help kids through the poly",
+            "title": "The Download: polycrisis support networks and a hydrogen gold rush",
+            "url": "https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-08-19T23:50:00Z",
+            "source": "VentureBeat",
+            "summary": "Another day, another new AI agent harness is released.Only this time, it's one that aims to solve a growing enterprise problem as AI agents proliferate: enabling greater developer control of agen",
+            "title": "TrueFoundry's open source AI agent harness TrueForge boasts 30%-75% cheaper task completion than Claude Managed Agents",
+            "url": "https://venturebeat.com/orchestration/truefoundrys-open-source-ai-agent-harness-trueforge-boasts-30-75-cheaper-task-completion-than-claude-managed-agents"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-08-17T14:27:17.264682"
+        "timestamp": "2026-08-20T14:35:43.814424"
       },
-      "timestamp": "2026-08-17T14:27:17.264682",
-      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
+      "name": "tech",
+      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
+      "timestamp": "2026-08-20T14:35:43.814424"
     },
     {
-      "name": "market",
       "data": {
         "indexes": [
           {
-            "change": -15.4,
-            "change_percent": -0.2,
-            "is_positive": false,
+            "change": 16.1,
+            "change_percent": 0.21,
+            "is_positive": true,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 7763.4
-          },
-          {
-            "change": -111,
-            "change_percent": -0.21,
-            "is_positive": false,
-            "name": "DOW JONES",
-            "symbol": "^DJI",
-            "value": 53680
+            "value": 7690.6
           }
         ],
-        "market_summary": "Markets declined on concerns about economic outlook.",
+        "market_summary": "Markets rallied across all major indexes on positive sentiment.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-08-17T14:27:18.840379"
+        "timestamp": "2026-08-20T14:35:44.499802"
       },
-      "timestamp": "2026-08-17T14:27:18.840379",
-      "source": "Alpha Vantage API (via ETF proxies)"
+      "name": "market",
+      "source": "Alpha Vantage API (via ETF proxies)",
+      "timestamp": "2026-08-20T14:35:44.499802"
     }
   ]
 }
