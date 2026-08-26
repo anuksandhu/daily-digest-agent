@@ -1,58 +1,59 @@
 {
-  "date": "2026-08-20",
-  "generated_at": "2026-08-20T14:35:44.502905",
+  "date": "2026-08-26",
+  "generated_at": "2026-08-26T14:43:13.291208",
   "sections": [
     {
+      "name": "weather",
       "data": {
         "current": {
-          "description": "Overcast clouds",
-          "feels_like": 61.2,
-          "humidity": 86,
-          "icon": "04d",
-          "temp": 61.4,
-          "wind_speed": 4.6
+          "description": "Few clouds",
+          "feels_like": 60.7,
+          "humidity": 88,
+          "icon": "02d",
+          "temp": 60.8,
+          "wind_speed": 3.4
         },
         "forecast": [
           {
-            "date": "2026-08-20",
-            "description": "Overcast clouds",
-            "icon": "04d",
-            "temp": 72.5
-          },
-          {
-            "date": "2026-08-21",
-            "description": "Broken clouds",
-            "icon": "04n",
-            "temp": 75.5
-          },
-          {
-            "date": "2026-08-22",
+            "date": "2026-08-26",
             "description": "Few clouds",
-            "icon": "02n",
-            "temp": 87.4
+            "icon": "02d",
+            "temp": 79.4
           },
           {
-            "date": "2026-08-23",
+            "date": "2026-08-27",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 87.6
+          },
+          {
+            "date": "2026-08-28",
             "description": "Overcast clouds",
             "icon": "04n",
-            "temp": 97.4
+            "temp": 89.1
           },
           {
-            "date": "2026-08-24",
-            "description": "Broken clouds",
-            "icon": "04n",
-            "temp": 94.3
+            "date": "2026-08-29",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 86.4
+          },
+          {
+            "date": "2026-08-30",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 88.3
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-08-20T14:35:39.627915"
+        "timestamp": "2026-08-26T14:43:08.674515"
       },
-      "name": "weather",
-      "source": "OpenWeather API",
-      "timestamp": "2026-08-20T14:35:39.627915"
+      "timestamp": "2026-08-26T14:43:08.674515",
+      "source": "OpenWeather API"
     },
     {
+      "name": "sports",
       "data": {
         "source": "The Sports DB API",
         "teams": [
@@ -60,7 +61,7 @@
             "latest_game": "L 13-19 vs Titans (2026-08-14)",
             "league": "NFL",
             "name": "San Francisco 49ers",
-            "next_game": "@ Chargers on 2026-08-21",
+            "next_game": "@ Raiders on 2026-08-28",
             "record": "Season in progress",
             "standings": "N/A"
           },
@@ -81,82 +82,81 @@
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-08-20T14:35:41.752385"
+        "timestamp": "2026-08-26T14:43:11.160818"
       },
-      "name": "sports",
-      "source": "The Sports DB API",
-      "timestamp": "2026-08-20T14:35:41.752385"
+      "timestamp": "2026-08-26T14:43:11.160818",
+      "source": "The Sports DB API"
     },
     {
+      "name": "tech",
       "data": {
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-08-20T13:01:24Z",
+            "published_at": "2026-08-26T14:37:01Z",
             "source": "TechCrunch",
-            "summary": "The data search and AI giant confirmed unauthorized access to its systems during an incident on Tuesday, and said it was investigating the breach.",
-            "title": "AI data giant Alation confirms cyberattack",
-            "url": "https://techcrunch.com/2026/08/20/ai-data-giant-alation-confirms-cyberattack/"
+            "summary": "Gates is mostly in the Responsible AI camp, but there are a few ideas in here we hadn't heard before.",
+            "title": "Bill Gates wants to see a robot tax and \u2018Human Reserved\u2019 jobs to mitigate harms from AI",
+            "url": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/"
           },
           {
             "category": "technology",
-            "published_at": "2026-08-20T14:00:00Z",
+            "published_at": "2026-08-26T14:05:38Z",
             "source": "The Verge",
-            "summary": "Today on Decoder, I\u2019m talking with Robert Hart, The Verge\u2019s London-based AI reporter, about what AI is doing to the field of mathematics and the existential crisis many lead mathematicians are having ",
-            "title": "Welcome to the AI crisis in math",
-            "url": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis"
+            "summary": "The special-edition translucent green Xbox finally has an official price. Preorders for the console start August 27th at 10AM ET / 7AM PT, although Microsoft says \"some of XBOX's most dedicated fans\" ",
+            "title": "Microsoft\u2019s 25th anniversary Xbox will cost $899",
+            "url": "https://www.theverge.com/games/985003/microsoft-xbox-25th-anniversary-console-price"
           },
           {
             "category": "technology",
-            "published_at": "2026-08-20T13:00:35Z",
+            "published_at": "2026-08-26T13:53:32Z",
             "source": "Ars Technica",
-            "summary": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
-            "title": "Grok exfiltrates user data when malicious instructions are encrypted",
-            "url": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/"
+            "summary": "Biology is coming to psychiatry\u2019s diagnostic manual, even as reliable biomarkers remain rare.",
+            "title": "Psychiatry\u2019s diagnostic bible is finally getting a biological upgrade",
+            "url": "https://arstechnica.com/health/2026/08/psychiatrys-diagnostic-bible-is-finally-getting-a-biological-upgrade/"
           },
           {
             "category": "technology",
-            "published_at": "2026-08-20T12:10:00Z",
+            "published_at": "2026-08-26T11:00:00Z",
+            "source": "Wired",
+            "summary": "Pet owners, rescue agencies, and wildlife groups are calling for new safeguards as AI makes it harder to tell whether animals, from polar bears to house cats, are real or fake.",
+            "title": "AI Slop Is Ruining Cute Animals on the Internet",
+            "url": "https://www.wired.com/story/ai-slop-is-ruining-the-internets-cute-animal-economy/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-08-26T12:10:00Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Support networks aim to help kids through the poly",
-            "title": "The Download: polycrisis support networks and a hydrogen gold rush",
-            "url": "https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/"
-          },
-          {
-            "category": "technology",
-            "published_at": "2026-08-19T23:50:00Z",
-            "source": "VentureBeat",
-            "summary": "Another day, another new AI agent harness is released.Only this time, it's one that aims to solve a growing enterprise problem as AI agents proliferate: enabling greater developer control of agen",
-            "title": "TrueFoundry's open source AI agent harness TrueForge boasts 30%-75% cheaper task completion than Claude Managed Agents",
-            "url": "https://venturebeat.com/orchestration/truefoundrys-open-source-ai-agent-harness-trueforge-boasts-30-75-cheaper-task-completion-than-claude-managed-agents"
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Kids issue If the desire to limit",
+            "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
+            "url": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-08-20T14:35:43.814424"
+        "timestamp": "2026-08-26T14:43:11.824565"
       },
-      "name": "tech",
-      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-      "timestamp": "2026-08-20T14:35:43.814424"
+      "timestamp": "2026-08-26T14:43:11.824565",
+      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
+      "name": "market",
       "data": {
         "indexes": [
           {
-            "change": 16.1,
-            "change_percent": 0.21,
+            "change": 24.4,
+            "change_percent": 0.32,
             "is_positive": true,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 7690.6
+            "value": 7659.1
           }
         ],
         "market_summary": "Markets rallied across all major indexes on positive sentiment.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-08-20T14:35:44.499802"
+        "timestamp": "2026-08-26T14:43:12.742013"
       },
-      "name": "market",
-      "source": "Alpha Vantage API (via ETF proxies)",
-      "timestamp": "2026-08-20T14:35:44.499802"
+      "timestamp": "2026-08-26T14:43:12.742013",
+      "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
 }
