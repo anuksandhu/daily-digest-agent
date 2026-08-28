@@ -1,67 +1,63 @@
 {
-  "date": "2026-08-26",
-  "generated_at": "2026-08-26T14:43:13.291208",
+  "date": "2026-08-28",
+  "generated_at": "2026-08-28T23:25:53.016141",
   "sections": [
     {
-      "name": "weather",
       "data": {
         "current": {
-          "description": "Few clouds",
-          "feels_like": 60.7,
-          "humidity": 88,
-          "icon": "02d",
-          "temp": 60.8,
-          "wind_speed": 3.4
+          "description": "Overcast clouds",
+          "feels_like": 80,
+          "humidity": 49,
+          "icon": "04d",
+          "temp": 80,
+          "wind_speed": 6.9
         },
         "forecast": [
-          {
-            "date": "2026-08-26",
-            "description": "Few clouds",
-            "icon": "02d",
-            "temp": 79.4
-          },
-          {
-            "date": "2026-08-27",
-            "description": "Clear sky",
-            "icon": "01n",
-            "temp": 87.6
-          },
-          {
-            "date": "2026-08-28",
-            "description": "Overcast clouds",
-            "icon": "04n",
-            "temp": 89.1
-          },
           {
             "date": "2026-08-29",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 86.4
+            "temp": 83
           },
           {
             "date": "2026-08-30",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 88.3
+            "temp": 89.2
+          },
+          {
+            "date": "2026-08-31",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 87.9
+          },
+          {
+            "date": "2026-09-01",
+            "description": "Few clouds",
+            "icon": "02n",
+            "temp": 81.6
+          },
+          {
+            "date": "2026-09-02",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 80.9
           }
         ],
         "location": "San Jose",
-        "source": "OpenWeather API",
-        "timestamp": "2026-08-26T14:43:08.674515"
+        "timestamp": "2026-08-28T23:25:47.647709"
       },
-      "timestamp": "2026-08-26T14:43:08.674515",
+      "name": "weather",
       "source": "OpenWeather API"
     },
     {
-      "name": "sports",
       "data": {
-        "source": "The Sports DB API",
         "teams": [
           {
             "latest_game": "L 13-19 vs Titans (2026-08-14)",
             "league": "NFL",
             "name": "San Francisco 49ers",
-            "next_game": "@ Raiders on 2026-08-28",
+            "next_game": "@ Rams on 2026-09-11",
             "record": "Season in progress",
             "standings": "N/A"
           },
@@ -82,80 +78,76 @@
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-08-26T14:43:11.160818"
+        "timestamp": "2026-08-28T23:25:51.576150"
       },
-      "timestamp": "2026-08-26T14:43:11.160818",
+      "name": "sports",
       "source": "The Sports DB API"
     },
     {
-      "name": "tech",
       "data": {
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-08-26T14:37:01Z",
+            "published_at": "2026-08-28T22:42:48Z",
             "source": "TechCrunch",
-            "summary": "Gates is mostly in the Responsible AI camp, but there are a few ideas in here we hadn't heard before.",
-            "title": "Bill Gates wants to see a robot tax and \u2018Human Reserved\u2019 jobs to mitigate harms from AI",
-            "url": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/"
+            "summary": "Are XREAL's smart glasses the way of the future for home entertainment?",
+            "title": "Is the best way to watch a movie on a pair of sunglasses?",
+            "url": "https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/"
           },
           {
             "category": "technology",
-            "published_at": "2026-08-26T14:05:38Z",
+            "published_at": "2026-08-28T22:48:11Z",
             "source": "The Verge",
-            "summary": "The special-edition translucent green Xbox finally has an official price. Preorders for the console start August 27th at 10AM ET / 7AM PT, although Microsoft says \"some of XBOX's most dedicated fans\" ",
-            "title": "Microsoft\u2019s 25th anniversary Xbox will cost $899",
-            "url": "https://www.theverge.com/games/985003/microsoft-xbox-25th-anniversary-console-price"
+            "summary": "Google is now automatically expanding its AI search summaries at the top of the results page for some searches, as reported by Search Engine Roundtable. The change, when it kicks in, pushes the typica",
+            "title": "Google further buries search results under AI mode",
+            "url": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand"
           },
           {
             "category": "technology",
-            "published_at": "2026-08-26T13:53:32Z",
+            "published_at": "2026-08-28T15:42:24Z",
             "source": "Ars Technica",
-            "summary": "Biology is coming to psychiatry\u2019s diagnostic manual, even as reliable biomarkers remain rare.",
-            "title": "Psychiatry\u2019s diagnostic bible is finally getting a biological upgrade",
-            "url": "https://arstechnica.com/health/2026/08/psychiatrys-diagnostic-bible-is-finally-getting-a-biological-upgrade/"
+            "summary": "Meta fixes AI glasses to stop recording any time users cover up the safety light.",
+            "title": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording",
+            "url": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/"
           },
           {
             "category": "technology",
-            "published_at": "2026-08-26T11:00:00Z",
+            "published_at": "2026-08-28T19:44:11Z",
             "source": "Wired",
-            "summary": "Pet owners, rescue agencies, and wildlife groups are calling for new safeguards as AI makes it harder to tell whether animals, from polar bears to house cats, are real or fake.",
-            "title": "AI Slop Is Ruining Cute Animals on the Internet",
-            "url": "https://www.wired.com/story/ai-slop-is-ruining-the-internets-cute-animal-economy/"
+            "summary": "The longtime far-right operator and troll, a UK citizen, is being held in ICE custody pending his removal from the United States.",
+            "title": "Milo Yiannopoulos Detained by ICE in Louisiana",
+            "url": "https://www.wired.com/story/milo-yiannopoulos-detained-by-ice-in-louisiana/"
           },
           {
             "category": "technology",
-            "published_at": "2026-08-26T12:10:00Z",
+            "published_at": "2026-08-28T12:35:27Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Kids issue If the desire to limit",
-            "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
-            "url": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/"
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A startup claims it\u2019s found a drug to make your bl",
+            "title": "The Download: a secretive antiaging drug and joining virtual power plants",
+            "url": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/"
           }
         ],
-        "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-08-26T14:43:11.824565"
+        "timestamp": "2026-08-28T23:25:52.726393"
       },
-      "timestamp": "2026-08-26T14:43:11.824565",
+      "name": "tech",
       "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
-      "name": "market",
       "data": {
         "indexes": [
           {
-            "change": 24.4,
-            "change_percent": 0.32,
-            "is_positive": true,
+            "change": -17.5,
+            "change_percent": -0.23,
+            "is_positive": false,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 7659.1
+            "value": 7693.5
           }
         ],
-        "market_summary": "Markets rallied across all major indexes on positive sentiment.",
-        "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-08-26T14:43:12.742013"
+        "market_summary": "Markets declined on concerns about economic outlook.",
+        "timestamp": "2026-08-28T23:25:52.913884"
       },
-      "timestamp": "2026-08-26T14:43:12.742013",
+      "name": "market",
       "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
