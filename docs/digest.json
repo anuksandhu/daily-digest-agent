@@ -1,57 +1,61 @@
 {
-  "date": "2026-08-29",
-  "generated_at": "2026-08-29T17:31:10.123456",
+  "date": "2026-08-30",
+  "generated_at": "2026-08-30T17:57:01.356989",
   "sections": [
     {
+      "name": "weather",
       "data": {
         "current": {
           "description": "Clear sky",
-          "feels_like": 68,
-          "humidity": 66,
+          "feels_like": 71.6,
+          "humidity": 54,
           "icon": "01d",
-          "temp": 68.4,
-          "wind_speed": 4.6
+          "temp": 72.2,
+          "wind_speed": 1
         },
         "forecast": [
           {
-            "date": "2026-08-29",
-            "description": "Clear sky",
-            "icon": "01d",
-            "temp": 72.8
-          },
-          {
             "date": "2026-08-30",
             "description": "Clear sky",
-            "icon": "01n",
-            "temp": 81.9
+            "icon": "01d",
+            "temp": 75.1
           },
           {
             "date": "2026-08-31",
-            "description": "Scattered clouds",
-            "icon": "03n",
-            "temp": 86.8
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 78.7
           },
           {
             "date": "2026-09-01",
-            "description": "Few clouds",
-            "icon": "02n",
-            "temp": 82.8
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 82.7
           },
           {
             "date": "2026-09-02",
+            "description": "Few clouds",
+            "icon": "02n",
+            "temp": 80.3
+          },
+          {
+            "date": "2026-09-03",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 79.8
+            "temp": 82.5
           }
         ],
         "location": "San Jose",
-        "timestamp": "2026-08-29T17:31:03.406758"
+        "source": "OpenWeather API",
+        "timestamp": "2026-08-30T17:56:58.531739"
       },
-      "name": "weather",
+      "timestamp": "2026-08-30T17:56:58.531739",
       "source": "OpenWeather API"
     },
     {
+      "name": "sports",
       "data": {
+        "source": "The Sports DB API",
         "teams": [
           {
             "latest_game": "L 13-19 vs Titans (2026-08-14)",
@@ -78,29 +82,30 @@
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-08-29T17:31:08.195167"
+        "timestamp": "2026-08-30T17:56:59.890650"
       },
-      "name": "sports",
+      "timestamp": "2026-08-30T17:56:59.890650",
       "source": "The Sports DB API"
     },
     {
+      "name": "tech",
       "data": {
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-08-29T14:00:00Z",
+            "published_at": "2026-08-30T16:03:00Z",
             "source": "TechCrunch",
-            "summary": "As my 20s are set to come to an end later this year, I\u2019ve officially reached the age where sleeping in the wrong position or stretching just a little far can cause aches and pains. I\u2019ve always bee",
-            "title": "The Theragun Sense makes everyday recovery surprisingly easy",
-            "url": "https://techcrunch.com/2026/08/29/the-theragun-sense-makes-everyday-recovery-surprisingly-easy/"
+            "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+            "title": "TechCrunch Mobility: The hidden human cost of robotaxis",
+            "url": "https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/"
           },
           {
             "category": "technology",
-            "published_at": "2026-08-29T12:00:00Z",
+            "published_at": "2026-08-30T15:35:10Z",
             "source": "The Verge",
-            "summary": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically derive",
-            "title": "Musicians-turned-detectives are hunting for AI grifters",
-            "url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai"
+            "summary": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the publication of a Texas Tribune investigation that ",
+            "title": "Texas Governor Abbott blocks funding for more Flock cameras",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras"
           },
           {
             "category": "technology",
@@ -122,17 +127,19 @@
             "category": "technology",
             "published_at": "2026-08-28T12:35:27Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A startup claims it\u2019s found a drug to make your bl",
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily download of what&#8217;s going on in the world of technology. A startup claims it\u2019s found a drug to make your bl",
             "title": "The Download: a secretive antiaging drug and joining virtual power plants",
             "url": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/"
           }
         ],
-        "timestamp": "2026-08-29T17:31:09.000143"
+        "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
+        "timestamp": "2026-08-30T17:57:00.645783"
       },
-      "name": "tech",
+      "timestamp": "2026-08-30T17:57:00.645783",
       "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
+      "name": "market",
       "data": {
         "indexes": [
           {
@@ -145,9 +152,10 @@
           }
         ],
         "market_summary": "Markets declined on concerns about economic outlook.",
-        "timestamp": "2026-08-29T17:31:09.592347"
+        "source": "Alpha Vantage API (via ETF proxies)",
+        "timestamp": "2026-08-30T17:57:00.986091"
       },
-      "name": "market",
+      "timestamp": "2026-08-30T17:57:00.986091",
       "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
