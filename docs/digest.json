@@ -1,55 +1,55 @@
 {
-  "date": "2026-08-30",
-  "generated_at": "2026-08-30T17:57:01.356989",
+  "date": "2026-08-31",
+  "generated_at": "2026-08-31T19:51:03.155912",
   "sections": [
     {
       "name": "weather",
       "data": {
         "current": {
           "description": "Clear sky",
-          "feels_like": 71.6,
-          "humidity": 54,
+          "feels_like": 71.1,
+          "humidity": 61,
           "icon": "01d",
-          "temp": 72.2,
-          "wind_speed": 1
+          "temp": 71.4,
+          "wind_speed": 9.2
         },
         "forecast": [
           {
-            "date": "2026-08-30",
-            "description": "Clear sky",
-            "icon": "01d",
-            "temp": 75.1
-          },
-          {
             "date": "2026-08-31",
             "description": "Clear sky",
-            "icon": "01n",
-            "temp": 78.7
+            "icon": "01d",
+            "temp": 71
           },
           {
             "date": "2026-09-01",
-            "description": "Clear sky",
-            "icon": "01n",
-            "temp": 82.7
+            "description": "Scattered clouds",
+            "icon": "03n",
+            "temp": 70.8
           },
           {
             "date": "2026-09-02",
             "description": "Few clouds",
             "icon": "02n",
-            "temp": 80.3
+            "temp": 81.5
           },
           {
             "date": "2026-09-03",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 82.5
+            "temp": 79.8
+          },
+          {
+            "date": "2026-09-04",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 78
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-08-30T17:56:58.531739"
+        "timestamp": "2026-08-31T19:50:59.713154"
       },
-      "timestamp": "2026-08-30T17:56:58.531739",
+      "timestamp": "2026-08-31T19:50:59.713154",
       "source": "OpenWeather API"
     },
     {
@@ -82,9 +82,9 @@
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-08-30T17:56:59.890650"
+        "timestamp": "2026-08-31T19:51:01.633053"
       },
-      "timestamp": "2026-08-30T17:56:59.890650",
+      "timestamp": "2026-08-31T19:51:01.633053",
       "source": "The Sports DB API"
     },
     {
@@ -93,49 +93,49 @@
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-08-30T16:03:00Z",
+            "published_at": "2026-08-31T19:16:59Z",
             "source": "TechCrunch",
-            "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-            "title": "TechCrunch Mobility: The hidden human cost of robotaxis",
-            "url": "https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/"
+            "summary": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
+            "title": "Instagram puts new limits on undisclosed AI profiles",
+            "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/"
           },
           {
             "category": "technology",
-            "published_at": "2026-08-30T15:35:10Z",
+            "published_at": "2026-08-31T16:38:10Z",
             "source": "The Verge",
-            "summary": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the publication of a Texas Tribune investigation that ",
-            "title": "Texas Governor Abbott blocks funding for more Flock cameras",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras"
+            "summary": "YouTuber Mark \"Markiplier\" Fischbach has invested enough in GoPro to become its single largest shareholder, with an 8.5 percent stake in the company, Bloomberg reports. Speaking to Bloomberg, Fischbac",
+            "title": "Markiplier is now GoPro\u2019s biggest shareholder",
+            "url": "https://www.theverge.com/tech/986847/markiplier-gopro-investor"
           },
           {
             "category": "technology",
-            "published_at": "2026-08-28T15:42:24Z",
+            "published_at": "2026-08-31T10:00:34Z",
             "source": "Ars Technica",
-            "summary": "Meta fixes AI glasses to stop recording any time users cover up the safety light.",
-            "title": "Meta makes AI glasses slightly less creepy with limit on nonconsensual recording",
-            "url": "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/"
+            "summary": "Interactive mobile \"gizmos\" are easy to make, hard to share outside Meta's platform.",
+            "title": "Pocket's AI made my game ideas real. Now Meta controls the results.",
+            "url": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/"
           },
           {
             "category": "technology",
-            "published_at": "2026-08-29T10:30:00Z",
+            "published_at": "2026-08-31T11:00:00Z",
             "source": "Wired",
-            "summary": "Plus: Hackers target over 100 US water systems, ICE puts in an order for robot dogs, and you\u2019ll never guess what \u201cMrChildPorn\u201d was arrested for.",
-            "title": "The Cybersecurity Apocalypse Is Coming in \u2018Months,\u2019 AI Giants Warn",
-            "url": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/"
+            "summary": "While Trump administration cuts have contributed to the epidemic of foodborne illnesses this summer, there are also deeper issues that make the American food supply chain susceptible to parasites and ",
+            "title": "Why Food Keeps Making Everybody Sick This Summer",
+            "url": "https://www.wired.com/story/why-salmonella-cyclospora-make-americans-sick/"
           },
           {
             "category": "technology",
-            "published_at": "2026-08-28T12:35:27Z",
+            "published_at": "2026-08-31T18:00:00Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily download of what&#8217;s going on in the world of technology. A startup claims it\u2019s found a drug to make your bl",
-            "title": "The Download: a secretive antiaging drug and joining virtual power plants",
-            "url": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/"
+            "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. By now you\u2019ve probably heard about last month\u2019s major AI secur",
+            "title": "Hugging Face hack could indicate cultural issues at OpenAI",
+            "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-08-30T17:57:00.645783"
+        "timestamp": "2026-08-31T19:51:02.695659"
       },
-      "timestamp": "2026-08-30T17:57:00.645783",
+      "timestamp": "2026-08-31T19:51:02.695659",
       "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
@@ -149,13 +149,29 @@
             "name": "S&P 500",
             "symbol": "^GSPC",
             "value": 7693.5
+          },
+          {
+            "change": -45.2,
+            "change_percent": -0.31,
+            "is_positive": false,
+            "name": "NASDAQ",
+            "symbol": "^IXIC",
+            "value": 14630.1
+          },
+          {
+            "change": -120.5,
+            "change_percent": -0.36,
+            "is_positive": false,
+            "name": "DOW JONES",
+            "symbol": "^DJI",
+            "value": 33310.2
           }
         ],
         "market_summary": "Markets declined on concerns about economic outlook.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-08-30T17:57:00.986091"
+        "timestamp": "2026-08-31T19:51:03.132912"
       },
-      "timestamp": "2026-08-30T17:57:00.986091",
+      "timestamp": "2026-08-31T19:51:03.132912",
       "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
