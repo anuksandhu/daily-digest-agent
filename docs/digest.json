@@ -1,55 +1,55 @@
 {
-  "date": "2026-08-31",
-  "generated_at": "2026-08-31T19:51:03.155912",
+  "date": "2026-09-01",
+  "generated_at": "2026-09-01T17:38:46.352519",
   "sections": [
     {
       "name": "weather",
       "data": {
         "current": {
-          "description": "Clear sky",
-          "feels_like": 71.1,
-          "humidity": 61,
-          "icon": "01d",
-          "temp": 71.4,
-          "wind_speed": 9.2
+          "description": "Broken clouds",
+          "feels_like": 67,
+          "humidity": 52,
+          "icon": "04d",
+          "temp": 68,
+          "wind_speed": 6.9
         },
         "forecast": [
           {
-            "date": "2026-08-31",
-            "description": "Clear sky",
-            "icon": "01d",
-            "temp": 71
-          },
-          {
             "date": "2026-09-01",
-            "description": "Scattered clouds",
-            "icon": "03n",
-            "temp": 70.8
+            "description": "Broken clouds",
+            "icon": "04d",
+            "temp": 68.7
           },
           {
             "date": "2026-09-02",
             "description": "Few clouds",
             "icon": "02n",
-            "temp": 81.5
+            "temp": 72
           },
           {
             "date": "2026-09-03",
-            "description": "Clear sky",
-            "icon": "01n",
-            "temp": 79.8
+            "description": "Few clouds",
+            "icon": "02n",
+            "temp": 76.2
           },
           {
             "date": "2026-09-04",
+            "description": "Few clouds",
+            "icon": "02n",
+            "temp": 80.6
+          },
+          {
+            "date": "2026-09-05",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 78
+            "temp": 82.1
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-08-31T19:50:59.713154"
+        "timestamp": "2026-09-01T17:38:43.747328"
       },
-      "timestamp": "2026-08-31T19:50:59.713154",
+      "timestamp": "2026-09-01T17:38:43.747328",
       "source": "OpenWeather API"
     },
     {
@@ -82,9 +82,9 @@
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-08-31T19:51:01.633053"
+        "timestamp": "2026-09-01T17:38:45.423014"
       },
-      "timestamp": "2026-08-31T19:51:01.633053",
+      "timestamp": "2026-09-01T17:38:45.423014",
       "source": "The Sports DB API"
     },
     {
@@ -93,49 +93,49 @@
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-08-31T19:16:59Z",
+            "published_at": "2026-09-01T17:35:37Z",
             "source": "TechCrunch",
-            "summary": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
-            "title": "Instagram puts new limits on undisclosed AI profiles",
-            "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/"
+            "summary": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
+            "title": "Google\u2019s answer to Canva is an AI tool where you prompt instead of design",
+            "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/"
           },
           {
             "category": "technology",
-            "published_at": "2026-08-31T16:38:10Z",
+            "published_at": "2026-09-01T16:00:52Z",
             "source": "The Verge",
-            "summary": "YouTuber Mark \"Markiplier\" Fischbach has invested enough in GoPro to become its single largest shareholder, with an 8.5 percent stake in the company, Bloomberg reports. Speaking to Bloomberg, Fischbac",
-            "title": "Markiplier is now GoPro\u2019s biggest shareholder",
-            "url": "https://www.theverge.com/tech/986847/markiplier-gopro-investor"
+            "summary": "John Deere is testing a new \"JD\" AI assistant that it says can help farmers make more money, with answers about best practices and historical trends that are based on their own data. It uses their \"fi",
+            "title": "John Deere launched an AI chatbot for farmers",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot"
           },
           {
             "category": "technology",
-            "published_at": "2026-08-31T10:00:34Z",
+            "published_at": "2026-09-01T14:46:28Z",
             "source": "Ars Technica",
-            "summary": "Interactive mobile \"gizmos\" are easy to make, hard to share outside Meta's platform.",
-            "title": "Pocket's AI made my game ideas real. Now Meta controls the results.",
-            "url": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/"
+            "summary": "Independent safety officials also have high praise for changes by NASA leadership.",
+            "title": "It turns out that Orion\\'s much-maligned heat shield performed really well",
+            "url": "https://arstechnica.com/space/2026/09/it-turns-out-that-orions-much-maligned-heat-shield-performed-really-well/"
           },
           {
             "category": "technology",
-            "published_at": "2026-08-31T11:00:00Z",
+            "published_at": "2026-09-01T14:40:00Z",
             "source": "Wired",
-            "summary": "While Trump administration cuts have contributed to the epidemic of foodborne illnesses this summer, there are also deeper issues that make the American food supply chain susceptible to parasites and ",
-            "title": "Why Food Keeps Making Everybody Sick This Summer",
-            "url": "https://www.wired.com/story/why-salmonella-cyclospora-make-americans-sick/"
+            "summary": "Sonos is cramming AI into its software because it\u2019s \u201cvery hot these days.\u201d The new features, which include agentic automation, are opt-in.",
+            "title": "Sonos Ace Ultra, Beam Ultra, Sonos Fabric, and a New App: Everything Sonos Just Announced",
+            "url": "https://www.wired.com/story/sonos-has-new-devices-a-new-os-and-yes-a-new-app/"
           },
           {
             "category": "technology",
-            "published_at": "2026-08-31T18:00:00Z",
+            "published_at": "2026-09-01T14:00:00Z",
             "source": "MIT Technology Review",
-            "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. By now you\u2019ve probably heard about last month\u2019s major AI secur",
-            "title": "Hugging Face hack could indicate cultural issues at OpenAI",
-            "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/"
+            "summary": "For years, legacy technology has been a problem companies knew they needed to solve, but one they often struggled to tackle. The cost, complexity, and risk of replacing business-critical systems could",
+            "title": "Making the AI-powered case for legacy modernization",
+            "url": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-08-31T19:51:02.695659"
+        "timestamp": "2026-09-01T17:38:46.112472"
       },
-      "timestamp": "2026-08-31T19:51:02.695659",
+      "timestamp": "2026-09-01T17:38:46.112472",
       "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
@@ -143,35 +143,35 @@
       "data": {
         "indexes": [
           {
-            "change": -17.5,
-            "change_percent": -0.23,
+            "change": -23,
+            "change_percent": -0.3,
             "is_positive": false,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 7693.5
+            "value": 7670.5
           },
           {
             "change": -45.2,
-            "change_percent": -0.31,
+            "change_percent": -0.5,
             "is_positive": false,
             "name": "NASDAQ",
             "symbol": "^IXIC",
-            "value": 14630.1
+            "value": 8995.3
           },
           {
-            "change": -120.5,
-            "change_percent": -0.36,
+            "change": -150.8,
+            "change_percent": -0.4,
             "is_positive": false,
             "name": "DOW JONES",
             "symbol": "^DJI",
-            "value": 33310.2
+            "value": 37550.2
           }
         ],
         "market_summary": "Markets declined on concerns about economic outlook.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-08-31T19:51:03.132912"
+        "timestamp": "2026-09-01T17:38:46.273164"
       },
-      "timestamp": "2026-08-31T19:51:03.132912",
+      "timestamp": "2026-09-01T17:38:46.273164",
       "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
