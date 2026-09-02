@@ -1,61 +1,57 @@
 {
-  "date": "2026-09-01",
-  "generated_at": "2026-09-01T17:38:46.352519",
+  "date": "2026-09-02",
+  "generated_at": "2026-09-02T17:38:44.198735Z",
   "sections": [
     {
-      "name": "weather",
       "data": {
         "current": {
           "description": "Broken clouds",
-          "feels_like": 67,
-          "humidity": 52,
+          "feels_like": 71.5,
+          "humidity": 59,
           "icon": "04d",
-          "temp": 68,
-          "wind_speed": 6.9
+          "temp": 71.8,
+          "wind_speed": 8.1
         },
         "forecast": [
           {
-            "date": "2026-09-01",
+            "date": "2026-09-02",
             "description": "Broken clouds",
             "icon": "04d",
-            "temp": 68.7
-          },
-          {
-            "date": "2026-09-02",
-            "description": "Few clouds",
-            "icon": "02n",
-            "temp": 72
+            "temp": 73.5
           },
           {
             "date": "2026-09-03",
-            "description": "Few clouds",
-            "icon": "02n",
-            "temp": 76.2
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 77.8
           },
           {
             "date": "2026-09-04",
-            "description": "Few clouds",
-            "icon": "02n",
-            "temp": 80.6
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 79.7
           },
           {
             "date": "2026-09-05",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 82.1
+            "temp": 81.6
+          },
+          {
+            "date": "2026-09-06",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 83.3
           }
         ],
         "location": "San Jose",
-        "source": "OpenWeather API",
-        "timestamp": "2026-09-01T17:38:43.747328"
+        "timestamp": "2026-09-02T17:38:40.469410"
       },
-      "timestamp": "2026-09-01T17:38:43.747328",
+      "name": "weather",
       "source": "OpenWeather API"
     },
     {
-      "name": "sports",
       "data": {
-        "source": "The Sports DB API",
         "teams": [
           {
             "latest_game": "L 13-19 vs Titans (2026-08-14)",
@@ -82,96 +78,76 @@
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-09-01T17:38:45.423014"
+        "timestamp": "2026-09-02T17:38:42.279608"
       },
-      "timestamp": "2026-09-01T17:38:45.423014",
+      "name": "sports",
       "source": "The Sports DB API"
     },
     {
-      "name": "tech",
       "data": {
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-09-01T17:35:37Z",
+            "published_at": "2026-09-02T17:18:13Z",
             "source": "TechCrunch",
-            "summary": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
-            "title": "Google\u2019s answer to Canva is an AI tool where you prompt instead of design",
-            "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/"
+            "summary": "The internet has a trust problem, and&#160;it\u2019s&#160;not just because social media feeds are filling up with AI&#160;slop. AI-generated text and images are now making their way into job applications, ",
+            "title": "Pangram\u2019s Max Spero on why AI detection is harder than \u2018Real or Fake\u2019",
+            "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/"
           },
           {
             "category": "technology",
-            "published_at": "2026-09-01T16:00:52Z",
+            "published_at": "2026-09-02T16:40:50Z",
             "source": "The Verge",
-            "summary": "John Deere is testing a new \"JD\" AI assistant that it says can help farmers make more money, with answers about best practices and historical trends that are based on their own data. It uses their \"fi",
-            "title": "John Deere launched an AI chatbot for farmers",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot"
+            "summary": "OpenAI is on the cusp of releasing its most powerful AI model yet, Astra, following weeks of delays to shore up safety protocols after its agents attacked real targets during testing. As details about",
+            "title": "Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety"
           },
           {
             "category": "technology",
-            "published_at": "2026-09-01T14:46:28Z",
+            "published_at": "2026-09-02T11:15:23Z",
             "source": "Ars Technica",
-            "summary": "Independent safety officials also have high praise for changes by NASA leadership.",
-            "title": "It turns out that Orion\\'s much-maligned heat shield performed really well",
-            "url": "https://arstechnica.com/space/2026/09/it-turns-out-that-orions-much-maligned-heat-shield-performed-really-well/"
+            "summary": "At least three of the first 32 Rassvet satellites likely suffered outright failures, and more may be in trouble.",
+            "title": "Is Russia\\'s rival to Starlink failing? Here\\'s what we know.",
+            "url": "https://arstechnica.com/space/2026/09/rassvet-russias-rival-to-starlink-is-getting-off-to-a-slow-start/"
           },
           {
             "category": "technology",
-            "published_at": "2026-09-01T14:40:00Z",
+            "published_at": "2026-09-02T15:51:46Z",
             "source": "Wired",
-            "summary": "Sonos is cramming AI into its software because it\u2019s \u201cvery hot these days.\u201d The new features, which include agentic automation, are opt-in.",
-            "title": "Sonos Ace Ultra, Beam Ultra, Sonos Fabric, and a New App: Everything Sonos Just Announced",
-            "url": "https://www.wired.com/story/sonos-has-new-devices-a-new-os-and-yes-a-new-app/"
+            "summary": "Christopher was sick of being ghosted by AI recruiters. So he unleashed ChatGPT on his robot interviewer.",
+            "title": "The Logical End Point of AI Job Interviews Is Two Bots Talking to Each Other",
+            "url": "https://www.wired.com/story/bot-vs-bot-job-interview-ai/"
           },
           {
             "category": "technology",
-            "published_at": "2026-09-01T14:00:00Z",
+            "published_at": "2026-09-02T14:00:00Z",
             "source": "MIT Technology Review",
-            "summary": "For years, legacy technology has been a problem companies knew they needed to solve, but one they often struggled to tackle. The cost, complexity, and risk of replacing business-critical systems could",
-            "title": "Making the AI-powered case for legacy modernization",
-            "url": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/"
+            "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds ",
+            "title": "Facilitating AI integration with simplicity at scale",
+            "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/"
           }
         ],
-        "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-09-01T17:38:46.112472"
+        "timestamp": "2026-09-02T17:38:43.018362"
       },
-      "timestamp": "2026-09-01T17:38:46.112472",
+      "name": "tech",
       "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
-      "name": "market",
       "data": {
         "indexes": [
           {
-            "change": -23,
-            "change_percent": -0.3,
+            "change": -52.7,
+            "change_percent": -0.69,
             "is_positive": false,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 7670.5
-          },
-          {
-            "change": -45.2,
-            "change_percent": -0.5,
-            "is_positive": false,
-            "name": "NASDAQ",
-            "symbol": "^IXIC",
-            "value": 8995.3
-          },
-          {
-            "change": -150.8,
-            "change_percent": -0.4,
-            "is_positive": false,
-            "name": "DOW JONES",
-            "symbol": "^DJI",
-            "value": 37550.2
+            "value": 7617.8
           }
         ],
         "market_summary": "Markets declined on concerns about economic outlook.",
-        "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-09-01T17:38:46.273164"
+        "timestamp": "2026-09-02T17:38:43.263559"
       },
-      "timestamp": "2026-09-01T17:38:46.273164",
+      "name": "market",
       "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
