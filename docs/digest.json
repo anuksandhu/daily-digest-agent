@@ -1,55 +1,55 @@
 {
-  "date": "2026-09-03",
-  "generated_at": "2026-09-03T17:33:13.115000",
+  "date": "2026-09-04",
+  "generated_at": "2026-09-04T17:23:09.090847",
   "sections": [
     {
       "name": "weather",
       "data": {
         "current": {
-          "description": "Clear sky",
-          "feels_like": 70.6,
-          "humidity": 59,
-          "icon": "01d",
-          "temp": 71,
-          "wind_speed": 3.4
+          "description": "Few clouds",
+          "feels_like": 67,
+          "humidity": 68,
+          "icon": "02d",
+          "temp": 67.3,
+          "wind_speed": 5.8
         },
         "forecast": [
           {
-            "date": "2026-09-03",
-            "description": "Clear sky",
-            "icon": "01d",
-            "temp": 72.7
-          },
-          {
             "date": "2026-09-04",
-            "description": "Broken clouds",
-            "icon": "04n",
-            "temp": 74.8
+            "description": "Few clouds",
+            "icon": "02d",
+            "temp": 70
           },
           {
             "date": "2026-09-05",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 82.5
+            "temp": 79.5
           },
           {
             "date": "2026-09-06",
-            "description": "Scattered clouds",
-            "icon": "03n",
-            "temp": 80
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 81.8
           },
           {
             "date": "2026-09-07",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 85.9
+            "temp": 88.2
+          },
+          {
+            "date": "2026-09-08",
+            "description": "Few clouds",
+            "icon": "02n",
+            "temp": 91.2
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-09-03T17:33:08.639548"
+        "timestamp": "2026-09-04T17:23:06.809763"
       },
-      "timestamp": "2026-09-03T17:33:08.639548",
+      "timestamp": "2026-09-04T17:23:06.809763",
       "source": "OpenWeather API"
     },
     {
@@ -82,9 +82,9 @@
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-09-03T17:33:11.176818"
+        "timestamp": "2026-09-04T17:23:08.111955"
       },
-      "timestamp": "2026-09-03T17:33:11.176818",
+      "timestamp": "2026-09-04T17:23:08.111955",
       "source": "The Sports DB API"
     },
     {
@@ -93,49 +93,49 @@
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-09-03T16:09:01Z",
+            "published_at": "2026-09-04T17:18:00Z",
             "source": "TechCrunch",
-            "summary": "The family-focused AI assistant wants access to the details of your everyday life, but says it won\u2019t use that data to train AI models or share it with others.",
-            "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
-            "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/"
+            "summary": "It&#8217;s&#160;officially the Ternus era at Apple.&#160;&#160; Tim Cook stepped down&#160;as CEO this week, handing the company to former hardware chief John Ternus, whose first memo&#160;promised a ",
+            "title": "What will Apple\u2019s John Ternus era look like?",
+            "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/"
           },
           {
             "category": "technology",
-            "published_at": "2026-09-03T16:00:00Z",
+            "published_at": "2026-09-04T17:16:49Z",
             "source": "The Verge",
-            "summary": "Lenovo is announcing the IdeaPad Vibe, a productivity laptop aimed at taking on the MacBook Neo with a similar starting price and a wider range of colors. The Vibe comes in 14- and 15-inch sizes, with",
-            "title": "Lenovo\u2019s new MacBook Neo competitor comes in two sizes and seven colors",
-            "url": "https://www.theverge.com/tech/988765/lenovo-ideapad-vibe-laptop-macbook-neo-competitor-ifa-colors-price-specs"
+            "summary": "OpenAI announced its next big model, GPT-6 Astra, and also, by the way, that \"the AGI era\" is here now. Today on The Vergecast, we\\'ve got an all-star panel to break down the news of the week. First, s",
+            "title": "AGI is whatever you want it to be",
+            "url": "https://www.theverge.com/podcast/990323/agi-is-whatever-you-want-it-to-be"
           },
           {
             "category": "technology",
-            "published_at": "2026-09-03T13:34:13Z",
+            "published_at": "2026-09-04T16:42:53Z",
             "source": "Ars Technica",
-            "summary": "Nvidia says Hugging Face will stay open even as the chipmaker takes control of a key AI hub.",
-            "title": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
-            "url": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/"
+            "summary": "\"I think we can\\'t get in trouble for that now. It\\'s like 20 years ago.\"",
+            "title": "Valve secretly leaked a Left 4 Dead 2 trailer to dodge the ESRB",
+            "url": "https://arstechnica.com/gaming/2026/09/valve-secretly-leaked-a-left-4-dead-2-trailer-to-dodge-the-esrb/"
           },
           {
             "category": "technology",
-            "published_at": "2026-09-03T16:42:40Z",
+            "published_at": "2026-09-04T15:00:00Z",
             "source": "Wired",
-            "summary": "OpenAI recently estimated its Cursor partnership would make more than $1 billion in revenue a year, WIRED has learned. It still walked away after Elon Musk\u2019s SpaceX acquired the AI coding startup.",
-            "title": "OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk",
-            "url": "https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue/"
+            "summary": "While philosophers ponder AI consciousness, the models have ideas of their own.",
+            "title": "Who Cares if AI Is Conscious\u2014It\u2019s Basically Alive",
+            "url": "https://www.wired.com/story/who-cares-if-ai-is-conscious-its-basically-alive/"
           },
           {
             "category": "technology",
-            "published_at": "2026-09-03T12:10:00Z",
+            "published_at": "2026-09-04T12:10:00Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Child-monitoring apps might need a reboot Digital ",
-            "title": "The Download: rethinking child safety and fossil-fueled farming",
-            "url": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/"
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Data from drones in Ukraine is fueling a new Wild ",
+            "title": "The Download: selling battlefield drone data and AI reshaping language",
+            "url": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-09-03T17:33:11.891680"
+        "timestamp": "2026-09-04T17:23:08.844052"
       },
-      "timestamp": "2026-09-03T17:33:11.891680",
+      "timestamp": "2026-09-04T17:23:08.844052",
       "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
@@ -143,35 +143,35 @@
       "data": {
         "indexes": [
           {
-            "change": 33.8,
-            "change_percent": 0.44,
+            "change": 80.1,
+            "change_percent": 1.05,
             "is_positive": true,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 7651.6
+            "value": 7731.7
           },
           {
-            "change": 10.5,
-            "change_percent": 0.13,
+            "change": 80.1,
+            "change_percent": 1.05,
             "is_positive": true,
             "name": "NASDAQ",
             "symbol": "^IXIC",
-            "value": 7890.4
+            "value": 15500.0
           },
           {
-            "change": 50.2,
-            "change_percent": 0.51,
+            "change": 80.1,
+            "change_percent": 1.05,
             "is_positive": true,
             "name": "DOW JONES",
             "symbol": "^DJI",
-            "value": 9870.1
+            "value": 30000.0
           }
         ],
         "market_summary": "Markets rallied across all major indexes on positive sentiment.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-09-03T17:33:12.663178"
+        "timestamp": "2026-09-04T17:23:09.062977"
       },
-      "timestamp": "2026-09-03T17:33:12.663178",
+      "timestamp": "2026-09-04T17:23:09.062977",
       "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
