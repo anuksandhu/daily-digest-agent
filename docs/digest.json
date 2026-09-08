@@ -1,55 +1,55 @@
 {
-  "date": "2026-09-07",
-  "generated_at": "2026-09-07T18:37:06.179000",
+  "date": "2026-09-08",
+  "generated_at": "2026-09-08T17:46:36.017983",
   "sections": [
     {
       "name": "weather",
       "data": {
         "current": {
           "description": "Clear sky",
-          "feels_like": 74.3,
-          "humidity": 43,
+          "feels_like": 78.1,
+          "humidity": 42,
           "icon": "01d",
-          "temp": 75.1,
+          "temp": 78.6,
           "wind_speed": 0
         },
         "forecast": [
           {
-            "date": "2026-09-07",
-            "description": "Clear sky",
-            "icon": "01d",
-            "temp": 77.5
-          },
-          {
             "date": "2026-09-08",
             "description": "Clear sky",
-            "icon": "01n",
-            "temp": 91.4
+            "icon": "01d",
+            "temp": 83
           },
           {
             "date": "2026-09-09",
             "description": "Overcast clouds",
             "icon": "04n",
-            "temp": 99.5
+            "temp": 98.6
           },
           {
             "date": "2026-09-10",
-            "description": "Overcast clouds",
-            "icon": "04n",
-            "temp": 98.8
+            "description": "Scattered clouds",
+            "icon": "03n",
+            "temp": 98.9
           },
           {
             "date": "2026-09-11",
             "description": "Broken clouds",
             "icon": "04n",
-            "temp": 94.7
+            "temp": 94.1
+          },
+          {
+            "date": "2026-09-12",
+            "description": "Scattered clouds",
+            "icon": "03n",
+            "temp": 84.4
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-09-07T18:37:02.176720"
+        "timestamp": "2026-09-08T17:46:33.456032"
       },
-      "timestamp": "2026-09-07T18:37:02.176720",
+      "timestamp": "2026-09-08T17:46:33.456032",
       "source": "OpenWeather API"
     },
     {
@@ -82,9 +82,9 @@
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-09-07T18:37:04.339461"
+        "timestamp": "2026-09-08T17:46:34.838851"
       },
-      "timestamp": "2026-09-07T18:37:04.339461",
+      "timestamp": "2026-09-08T17:46:34.838851",
       "source": "The Sports DB API"
     },
     {
@@ -93,49 +93,49 @@
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-09-07T15:58:00Z",
+            "published_at": "2026-09-08T17:32:15Z",
             "source": "TechCrunch",
-            "summary": "While Apple's first foldable iPhone Ultra will headline the September 9 launch, we're also expecting news about AirPods and HomePods.",
-            "title": "What we expect from the upcoming Apple launch",
-            "url": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/"
+            "summary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
+            "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+            "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/"
           },
           {
             "category": "technology",
-            "published_at": "2026-09-07T16:00:00Z",
+            "published_at": "2026-09-08T17:13:51Z",
             "source": "The Verge",
-            "summary": "Six years ago Sony and Bose were in the middle of a noise-canceling battle, with each new model of headphones better than the last. In the fall of 2020, Sony released the WH-1000XM4 headphones to wide",
-            "title": "Six years later, Sony revisits its legendary XM4 headphones",
-            "url": "https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones"
+            "summary": "There's never really been a game like Grand Theft Auto VI before, one that has completely altered the lineup of games around it. Everyone, it seems, is scared of going up against Grand Theft Auto VI. ",
+            "title": "Nintendo isn\u2019t scared of GTA VI",
+            "url": "https://www.theverge.com/games/991484/zelda-ocarina-of-time-gta-6"
           },
           {
             "category": "technology",
-            "published_at": "2026-09-07T11:00:03Z",
+            "published_at": "2026-09-08T16:05:32Z",
             "source": "Ars Technica",
-            "summary": "When multiple companies are behind one project, who bears responsibility for problems?",
-            "title": "The complex corporate web behind a $3.2 billion AI data center",
-            "url": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/"
+            "summary": "Blast your opponents in 1v1 arcade space battles like it's 1992 all over again.",
+            "title": "The combat demo for Free Stars: Children of Infinity is out, and it's free",
+            "url": "https://arstechnica.com/gaming/2026/09/the-official-sequel-to-the-ur-quan-masters-releases-its-free-demo-today/"
           },
           {
             "category": "technology",
-            "published_at": "2026-09-07T13:33:30Z",
+            "published_at": "2026-09-08T16:42:05Z",
             "source": "Wired",
-            "summary": "Labor Day already? Say it ain\u2019t so. Today is the last day to shop the best deals on WIRED-tested outdoor gear from REI, Nemo, MSR, Coleman, and more during REI\u2019s Labor Day sale.",
-            "title": "The 57 Best Deals From the REI Labor Day Sale",
-            "url": "https://www.wired.com/story/rei-labor-day-sale-2026/"
+            "summary": "A landmark announcement by the frontier AI lab has been overshadowed by accusations of impropriety.",
+            "title": "OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul",
+            "url": "https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/"
           },
           {
             "category": "technology",
-            "published_at": "2026-09-07T12:10:00Z",
+            "published_at": "2026-09-08T12:10:00Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How much hydrogen awaits us underground? A flurry ",
-            "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
-            "url": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/"
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing our 35 Innovators Under 35 list for 20",
+            "title": "The Download: our 35 Innovators Under 35 this year",
+            "url": "https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-09-07T18:37:05.136937"
+        "timestamp": "2026-09-08T17:46:35.770926"
       },
-      "timestamp": "2026-09-07T18:37:05.136937",
+      "timestamp": "2026-09-08T17:46:35.770926",
       "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
@@ -149,13 +149,29 @@
             "name": "S&P 500",
             "symbol": "^GSPC",
             "value": 7701.9
+          },
+          {
+            "change": -44.2,
+            "change_percent": -0.52,
+            "is_positive": false,
+            "name": "NASDAQ",
+            "symbol": "^IXIC",
+            "value": 8500.8
+          },
+          {
+            "change": -76.5,
+            "change_percent": -0.58,
+            "is_positive": false,
+            "name": "DOW JONES",
+            "symbol": "^DJI",
+            "value": 13200.0
           }
         ],
         "market_summary": "Markets declined on concerns about economic outlook.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-09-07T18:37:05.580713"
+        "timestamp": "2026-09-08T17:46:35.970919"
       },
-      "timestamp": "2026-09-07T18:37:05.580713",
+      "timestamp": "2026-09-08T17:46:35.970919",
       "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
