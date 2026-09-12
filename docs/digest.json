@@ -1,55 +1,55 @@
 {
-  "date": "2026-09-11",
-  "generated_at": "2026-09-11T17:34:22.000000",
+  "date": "2026-09-12",
+  "generated_at": "2026-09-12T16:47:18.211594",
   "sections": [
     {
       "name": "weather",
       "data": {
         "current": {
-          "description": "Clear sky",
-          "feels_like": 69.8,
-          "humidity": 71,
-          "icon": "01d",
-          "temp": 69.8,
-          "wind_speed": 4.6
+          "description": "Broken clouds",
+          "feels_like": 67.1,
+          "humidity": 70,
+          "icon": "04d",
+          "temp": 67.4,
+          "wind_speed": 5.8
         },
         "forecast": [
           {
-            "date": "2026-09-11",
-            "description": "Clear sky",
-            "icon": "01d",
-            "temp": 76
-          },
-          {
             "date": "2026-09-12",
-            "description": "Few clouds",
-            "icon": "02n",
-            "temp": 81.1
+            "description": "Broken clouds",
+            "icon": "04d",
+            "temp": 70.6
           },
           {
             "date": "2026-09-13",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 76.7
+            "temp": 69.3
           },
           {
             "date": "2026-09-14",
-            "description": "Scattered clouds",
-            "icon": "03n",
-            "temp": 84.8
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 85
           },
           {
             "date": "2026-09-15",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 90.9
+            "temp": 91.9
+          },
+          {
+            "date": "2026-09-16",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 90.6
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-09-11T17:34:18.919654"
+        "timestamp": "2026-09-12T16:47:14.623812"
       },
-      "timestamp": "2026-09-11T17:34:18.919654",
+      "timestamp": "2026-09-12T16:47:14.623812",
       "source": "OpenWeather API"
     },
     {
@@ -61,7 +61,7 @@
             "latest_game": "L 13-19 vs Titans (2026-08-14)",
             "league": "NFL",
             "name": "San Francisco 49ers",
-            "next_game": "@ Rams on 2026-09-11",
+            "next_game": "vs Dolphins on 2026-09-20",
             "record": "Season in progress",
             "standings": "N/A"
           },
@@ -82,9 +82,9 @@
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-09-11T17:34:20.444460"
+        "timestamp": "2026-09-12T16:47:16.691208"
       },
-      "timestamp": "2026-09-11T17:34:20.444460",
+      "timestamp": "2026-09-12T16:47:16.691208",
       "source": "The Sports DB API"
     },
     {
@@ -93,49 +93,49 @@
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-09-11T16:46:25Z",
+            "published_at": "2026-09-12T14:40:00Z",
             "source": "TechCrunch",
-            "summary": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
-            "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
-            "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/"
+            "summary": "Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators.",
+            "title": "Revolut confirms customer data breach through fake government requests",
+            "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/"
           },
           {
             "category": "technology",
-            "published_at": "2026-09-11T17:16:59Z",
+            "published_at": "2026-09-12T16:23:40Z",
             "source": "The Verge",
-            "summary": "Two days after being placed on a paid leave of absence, Matt Mullenweg says he has been reinstated as CEO of Automattic, according to a Slack message seen by TechCrunch. As 404 Media reported on Wedne",
-            "title": "Matt Mullenweg reportedly returns as Automattic CEO two days after getting booted",
-            "url": "https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return"
+            "summary": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and ",
+            "title": "Anthropic CEO says it\u2019s time to pump the brakes on AI",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development"
           },
           {
             "category": "technology",
-            "published_at": "2026-09-11T13:02:35Z",
+            "published_at": "2026-09-11T21:41:16Z",
             "source": "Ars Technica",
-            "summary": "Some dangerous biology looks much like legitimate research, complicating AI safeguards.",
-            "title": "Claude users found ways around safeguards for bioweapons research",
-            "url": "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/"
+            "summary": "Simple games gain rich strategies in the face of noise.",
+            "title": "Random rewards enrich classic game-theory insights",
+            "url": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/"
           },
           {
             "category": "technology",
-            "published_at": "2026-09-11T16:19:49Z",
+            "published_at": "2026-09-12T10:30:00Z",
             "source": "Wired",
-            "summary": "Save on Petlibro essentials, including automatic feeders, water fountains, and accessories to keep cats and dogs fed, hydrated, and comfortable every day.",
-            "title": "Petlibro Offers: 30% Off in September 2026",
-            "url": "https://www.wired.com/story/petlibro-discount-code/"
+            "summary": "I tried all the top models to find the best 3-in-1 Apple charging stations, pads, and more. Keep your iPhone, Apple Watch, and AirPods topped up with these WIRED-tested docking systems.",
+            "title": "The Best 3-in-1 Apple Charging Stations After Testing 30+ Models",
+            "url": "https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/"
           },
           {
             "category": "technology",
-            "published_at": "2026-09-11T12:10:00Z",
+            "published_at": "2026-09-11T20:05:06Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet the under-35s shaping the future of biotech E",
-            "title": "The Download: biotech\u2019s future and cheaper, cleaner steel",
-            "url": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/"
+            "summary": "Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Te",
+            "title": "Roundtables: Could AI really kill us all?",
+            "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-09-11T17:34:21.243659"
+        "timestamp": "2026-09-12T16:47:17.662273"
       },
-      "timestamp": "2026-09-11T17:34:21.243659",
+      "timestamp": "2026-09-12T16:47:17.662273",
       "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
@@ -143,19 +143,19 @@
       "data": {
         "indexes": [
           {
-            "change": -45.7,
-            "change_percent": -0.6,
-            "is_positive": false,
+            "change": 64.6,
+            "change_percent": 0.85,
+            "is_positive": true,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 7578.3
+            "value": 7642.9
           }
         ],
-        "market_summary": "Markets declined on concerns about economic outlook.",
+        "market_summary": "Markets rallied across all major indexes on positive sentiment.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-09-11T17:34:21.520669"
+        "timestamp": "2026-09-12T16:47:18.211594"
       },
-      "timestamp": "2026-09-11T17:34:21.520669",
+      "timestamp": "2026-09-12T16:47:18.211594",
       "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
