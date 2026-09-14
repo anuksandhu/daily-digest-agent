@@ -1,55 +1,55 @@
 {
-  "date": "2026-09-12",
-  "generated_at": "2026-09-12T16:47:18.211594",
+  "date": "2026-09-14",
+  "generated_at": "2026-09-14T19:03:23.000000",
   "sections": [
     {
       "name": "weather",
       "data": {
         "current": {
-          "description": "Broken clouds",
-          "feels_like": 67.1,
-          "humidity": 70,
-          "icon": "04d",
-          "temp": 67.4,
-          "wind_speed": 5.8
+          "description": "Clear sky",
+          "feels_like": 79.9,
+          "humidity": 35,
+          "icon": "01d",
+          "temp": 79.9,
+          "wind_speed": 8.1
         },
         "forecast": [
           {
-            "date": "2026-09-12",
-            "description": "Broken clouds",
-            "icon": "04d",
-            "temp": 70.6
-          },
-          {
-            "date": "2026-09-13",
-            "description": "Clear sky",
-            "icon": "01n",
-            "temp": 69.3
-          },
-          {
             "date": "2026-09-14",
-            "description": "Clear sky",
-            "icon": "01n",
-            "temp": 85
+            "description": "Few clouds",
+            "icon": "02d",
+            "temp": 80.1
           },
           {
             "date": "2026-09-15",
-            "description": "Clear sky",
-            "icon": "01n",
-            "temp": 91.9
+            "description": "Scattered clouds",
+            "icon": "03n",
+            "temp": 80.6
           },
           {
             "date": "2026-09-16",
+            "description": "Few clouds",
+            "icon": "02n",
+            "temp": 85.9
+          },
+          {
+            "date": "2026-09-17",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 90.6
+            "temp": 80.4
+          },
+          {
+            "date": "2026-09-18",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 81.9
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-09-12T16:47:14.623812"
+        "timestamp": "2026-09-14T19:03:19.942379"
       },
-      "timestamp": "2026-09-12T16:47:14.623812",
+      "timestamp": "2026-09-14T19:03:19.942379",
       "source": "OpenWeather API"
     },
     {
@@ -82,9 +82,9 @@
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-09-12T16:47:16.691208"
+        "timestamp": "2026-09-14T19:03:21.345524"
       },
-      "timestamp": "2026-09-12T16:47:16.691208",
+      "timestamp": "2026-09-14T19:03:21.345524",
       "source": "The Sports DB API"
     },
     {
@@ -93,49 +93,49 @@
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-09-12T14:40:00Z",
+            "published_at": "2026-09-14T17:41:20Z",
             "source": "TechCrunch",
-            "summary": "Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators.",
-            "title": "Revolut confirms customer data breach through fake government requests",
-            "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/"
+            "summary": "Volkswagen\\'s new efficiency-minded halo car is almost twice as efficient as the most efficient production car, the Lucid Air.",
+            "title": "Volkswagen\u2019s crazy-efficient EV borrows an idea from Slate",
+            "url": "https://techcrunch.com/2026/09/14/volkswagens-crazy-efficient-ev-borrows-an-idea-from-slate/"
           },
           {
             "category": "technology",
-            "published_at": "2026-09-12T16:23:40Z",
+            "published_at": "2026-09-14T17:10:13Z",
             "source": "The Verge",
-            "summary": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and ",
-            "title": "Anthropic CEO says it\u2019s time to pump the brakes on AI",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development"
+            "summary": "Apple released macOS 27 Golden Gate on Monday, which brings the new Siri AI assistant, Liquid Glass improvements, improved performance, and more. The update is compatible with all Macs with Apple Sili",
+            "title": "macOS 27 is available now",
+            "url": "https://www.theverge.com/tech/994818/apple-macos-27-golden-gate-available-now"
           },
           {
             "category": "technology",
-            "published_at": "2026-09-11T21:41:16Z",
+            "published_at": "2026-09-13T11:00:41Z",
             "source": "Ars Technica",
-            "summary": "Simple games gain rich strategies in the face of noise.",
-            "title": "Random rewards enrich classic game-theory insights",
-            "url": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/"
+            "summary": "The manufacturer has a service that lets owners repair their own equipment.",
+            "title": "I fixed a tractor using John Deere\u2019s self-repair service. Farmers aren\u2019t sold on it.",
+            "url": "https://arstechnica.com/gadgets/2026/09/i-fixed-a-tractor-using-john-deeres-self-repair-service-farmers-arent-sold-on-it/"
           },
           {
             "category": "technology",
-            "published_at": "2026-09-12T10:30:00Z",
+            "published_at": "2026-09-14T16:50:00Z",
             "source": "Wired",
-            "summary": "I tried all the top models to find the best 3-in-1 Apple charging stations, pads, and more. Keep your iPhone, Apple Watch, and AirPods topped up with these WIRED-tested docking systems.",
-            "title": "The Best 3-in-1 Apple Charging Stations After Testing 30+ Models",
-            "url": "https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/"
+            "summary": "In the biggest-ever legal action against harmful deepfake websites, the Manhattan District Attorney\u2019s Office has seized 12 sites that collectively targeted around 1,200 victims.",
+            "title": "New York Seizes a Dozen Celebrity Deepfake Websites",
+            "url": "https://www.wired.com/story/new-york-seizes-a-dozen-celebrity-deepfake-websites/"
           },
           {
             "category": "technology",
-            "published_at": "2026-09-11T20:05:06Z",
+            "published_at": "2026-09-14T17:54:22Z",
             "source": "MIT Technology Review",
-            "summary": "Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Te",
-            "title": "Roundtables: Could AI really kill us all?",
-            "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/"
+            "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for",
+            "title": "The AI industry has taken a doomer turn. What now?",
+            "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-09-12T16:47:17.662273"
+        "timestamp": "2026-09-14T19:03:22.702222"
       },
-      "timestamp": "2026-09-12T16:47:17.662273",
+      "timestamp": "2026-09-14T19:03:22.702222",
       "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
@@ -149,13 +149,29 @@
             "name": "S&P 500",
             "symbol": "^GSPC",
             "value": 7642.9
+          },
+          {
+            "change": 45.2,
+            "change_percent": 0.62,
+            "is_positive": true,
+            "name": "NASDAQ",
+            "symbol": "^IXIC",
+            "value": 7345.8
+          },
+          {
+            "change": 78.9,
+            "change_percent": 1.01,
+            "is_positive": true,
+            "name": "DOW JONES",
+            "symbol": "^DJI",
+            "value": 7880.3
           }
         ],
         "market_summary": "Markets rallied across all major indexes on positive sentiment.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-09-12T16:47:18.211594"
+        "timestamp": "2026-09-14T19:03:22.866338"
       },
-      "timestamp": "2026-09-12T16:47:18.211594",
+      "timestamp": "2026-09-14T19:03:22.866338",
       "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
