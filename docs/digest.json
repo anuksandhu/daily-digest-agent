@@ -1,60 +1,58 @@
 {
-  "date": "2026-09-23",
-  "generated_at": "2026-09-23T18:16:45.560956",
+  "date": "2026-09-25",
+  "generated_at": "2026-09-25T18:14:47.034519",
   "sections": [
     {
+      "name": "weather",
       "data": {
         "current": {
           "description": "Clear sky",
-          "feels_like": 69.2,
-          "humidity": 64,
+          "feels_like": 72.4,
+          "humidity": 69,
           "icon": "01d",
-          "temp": 69.5,
-          "wind_speed": 0
+          "temp": 72.3,
+          "wind_speed": 15
         },
         "forecast": [
           {
-            "date": "2026-09-23",
-            "description": "Clear sky",
-            "icon": "01d",
-            "temp": 73.2
-          },
-          {
-            "date": "2026-09-24",
-            "description": "Clear sky",
-            "icon": "01n",
-            "temp": 82.6
-          },
-          {
             "date": "2026-09-25",
             "description": "Few clouds",
-            "icon": "02n",
-            "temp": 79.1
+            "icon": "02d",
+            "temp": 73.9
           },
           {
             "date": "2026-09-26",
-            "description": "Scattered clouds",
-            "icon": "03n",
-            "temp": 75.5
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 76.1
           },
           {
             "date": "2026-09-27",
-            "description": "Overcast clouds",
+            "description": "Broken clouds",
             "icon": "04n",
-            "temp": 71.2
+            "temp": 72.1
+          },
+          {
+            "date": "2026-09-28",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 75.6
+          },
+          {
+            "date": "2026-09-29",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 85.1
           }
         ],
         "location": "San Jose",
-        "source": "OpenWeather API",
-        "timestamp": "2026-09-23T18:16:40.477171"
-      },
-      "name": "weather",
-      "source": "OpenWeather API",
-      "timestamp": "2026-09-23T18:16:40.477171"
+        "timestamp": "2026-09-25T18:14:44.810579",
+        "source": "OpenWeather API"
+      }
     },
     {
+      "name": "sports",
       "data": {
-        "source": "The Sports DB API",
         "teams": [
           {
             "latest_game": "W 35-13 vs Dolphins (2026-09-20)",
@@ -65,10 +63,10 @@
             "standings": "N/A"
           },
           {
-            "latest_game": "L 3-4 vs Canucks (2026-04-12)",
+            "latest_game": "L 1-2 vs Knights (2026-09-23)",
             "league": "NHL",
             "name": "San Jose Sharks",
-            "next_game": "vs Knights on 2026-09-23",
+            "next_game": "vs Ducks on 2026-09-25",
             "record": "Season in progress",
             "standings": "N/A"
           },
@@ -81,82 +79,76 @@
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-09-23T18:16:43.021946"
-      },
-      "name": "sports",
-      "source": "The Sports DB API",
-      "timestamp": "2026-09-23T18:16:43.021946"
+        "timestamp": "2026-09-25T18:14:46.095239",
+        "source": "The Sports DB API"
+      }
     },
     {
+      "name": "tech",
       "data": {
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-09-23T18:06:27Z",
+            "published_at": "2026-09-25T17:29:46Z",
             "source": "TechCrunch",
-            "summary": "Disney is raising the prices of Disney+ and Hulu as streaming costs continue to rise across the industry.",
-            "title": "Disney+ and Hulu add to the growing trend of streaming inflation",
-            "url": "https://techcrunch.com/2026/09/23/disney-and-hulu-add-to-the-growing-trend-of-streaming-inflation/"
+            "summary": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly.",
+            "title": "Some Supabase customers are publicly exposing reams of people\u2019s data to the web",
+            "url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/"
           },
           {
             "category": "technology",
-            "published_at": "2026-09-23T18:00:00Z",
+            "published_at": "2026-09-25T17:23:30Z",
             "source": "The Verge",
-            "summary": "Anthropic says its AI Claude has \"autonomously discovered\" a new enzyme system similar to machinery behind the powerful gene-editing tool Crispr. It\\'s the first result from Anthropic\\'s newly-launched ",
-            "title": "Anthropic&#8217;s biolab made a discovery it&#8217;s comparing to Crispr",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr"
+            "summary": "One of the questionable limitations of the iPhone 18 Pro's new main camera with a variable aperture is that you're limited to just four settings in the native iOS' camera app in manual mode: f/1.48, f",
+            "title": "These camera apps give you more control over the iPhone 18 Pro\u2019s aperture",
+            "url": "https://www.theverge.com/tech/1000729/moment-pro-blackmagic-camera-ii-ios-app-iphone-18-pro-max-aperature-camera"
           },
           {
             "category": "technology",
-            "published_at": "2026-09-23T14:20:23Z",
+            "published_at": "2026-09-24T22:29:48Z",
             "source": "Ars Technica",
-            "summary": "Feds know of 5 crashes where cars using comma.ai devices hit slow or stopped vehicles.",
-            "title": "After multiple deaths and injuries, NHTSA is investigating comma.ai",
-            "url": "https://arstechnica.com/cars/2026/09/aftermarket-driver-assist-under-federal-probe-following-fatal-crashes/"
+            "summary": "Health department previously blamed delay on \"not yet finalized procurement decisions.\"",
+            "title": "CDC opens state ordering for COVID-19 vaccines after unexplained delay",
+            "url": "https://arstechnica.com/health/2026/09/cdc-opens-state-ordering-for-covid-19-vaccines-after-unexplained-delay/"
           },
           {
             "category": "technology",
-            "published_at": "2026-09-23T18:03:00Z",
+            "published_at": "2026-09-25T16:58:20Z",
             "source": "Wired",
-            "summary": "Paolo Benanti tells WIRED that hysteria over whether godlike AI could destroy humanity is distracting from the need for public debate about how to govern the technology.",
-            "title": "The Pope\u2019s AI Guy Is Worried About \u2018Cartel\u2019 Behavior Among Big Labs",
-            "url": "https://www.wired.com/story/popes-ai-advisor-warns-of-cartel-behavior-big-labs/"
+            "summary": "The AI lab had argued multiple violations of its rights, but a divided panel of judges sided with the Trump administration.",
+            "title": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
+            "url": "https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/"
           },
           {
             "category": "technology",
-            "published_at": "2026-09-23T17:10:11Z",
+            "published_at": "2026-09-25T12:10:00Z",
             "source": "MIT Technology Review",
-            "summary": "Delia Ramirez, a Democratic US representative from Illinois, has announced a plan to introduce new legislation to terminate the surveillance tower program along the US southern border.&#160; The annou",
-            "title": "A congressional representative just proposed killing America\u2019s border tower program",
-            "url": "https://www.technologyreview.com/2026/09/23/1145002/a-congressional-representative-just-proposed-killing-americas-border-tower-program/"
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Pentagon wants $30 million to build an AI-powe",
+            "title": "The Download: the Pentagon\u2019s AI-powered lie detector and young organ limits",
+            "url": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/"
           }
         ],
-        "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-09-23T18:16:44.863111"
-      },
-      "name": "tech",
-      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-      "timestamp": "2026-09-23T18:16:44.863111"
+        "timestamp": "2026-09-25T18:14:46.721715",
+        "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
+      }
     },
     {
+      "name": "market",
       "data": {
         "indexes": [
           {
-            "change": -1.2,
-            "change_percent": -0.02,
+            "change": -6.3,
+            "change_percent": -0.08,
             "is_positive": false,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 7733.8
+            "value": 7671.8
           }
         ],
         "market_summary": "Markets declined on concerns about economic outlook.",
-        "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-09-23T18:16:45.272487"
-      },
-      "name": "market",
-      "source": "Alpha Vantage API (via ETF proxies)",
-      "timestamp": "2026-09-23T18:16:45.272487"
+        "timestamp": "2026-09-25T18:14:46.884475",
+        "source": "Alpha Vantage API (via ETF proxies)"
+      }
     }
   ]
 }
