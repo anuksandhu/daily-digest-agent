@@ -1,58 +1,60 @@
 {
-  "date": "2026-09-25",
-  "generated_at": "2026-09-25T18:14:47.034519",
+  "date": "2026-09-27",
+  "generated_at": "2026-09-27T18:03:49.320000",
   "sections": [
     {
-      "name": "weather",
       "data": {
         "current": {
-          "description": "Clear sky",
-          "feels_like": 72.4,
-          "humidity": 69,
-          "icon": "01d",
-          "temp": 72.3,
-          "wind_speed": 15
+          "description": "Broken clouds",
+          "feels_like": 62.8,
+          "humidity": 71,
+          "icon": "04d",
+          "temp": 63.4,
+          "wind_speed": 6.9
         },
         "forecast": [
           {
-            "date": "2026-09-25",
-            "description": "Few clouds",
-            "icon": "02d",
-            "temp": 73.9
-          },
-          {
-            "date": "2026-09-26",
-            "description": "Clear sky",
-            "icon": "01n",
-            "temp": 76.1
-          },
-          {
             "date": "2026-09-27",
             "description": "Broken clouds",
-            "icon": "04n",
-            "temp": 72.1
+            "icon": "04d",
+            "temp": 66.2
           },
           {
             "date": "2026-09-28",
-            "description": "Clear sky",
-            "icon": "01n",
-            "temp": 75.6
+            "description": "Scattered clouds",
+            "icon": "03n",
+            "temp": 77.7
           },
           {
             "date": "2026-09-29",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 85.1
+            "temp": 84.8
+          },
+          {
+            "date": "2026-09-30",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 87.5
+          },
+          {
+            "date": "2026-10-01",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 85.5
           }
         ],
         "location": "San Jose",
-        "timestamp": "2026-09-25T18:14:44.810579",
-        "source": "OpenWeather API"
-      }
+        "source": "OpenWeather API",
+        "timestamp": "2026-09-27T18:03:46.073385"
+      },
+      "name": "weather",
+      "source": "OpenWeather API",
+      "timestamp": "2026-09-27T18:03:46.073385"
     },
     {
-      "name": "sports",
       "data": {
+        "source": "The Sports DB API",
         "teams": [
           {
             "latest_game": "W 35-13 vs Dolphins (2026-09-20)",
@@ -63,10 +65,10 @@
             "standings": "N/A"
           },
           {
-            "latest_game": "L 1-2 vs Knights (2026-09-23)",
+            "latest_game": "W 10-0 vs Ducks (2026-09-25)",
             "league": "NHL",
             "name": "San Jose Sharks",
-            "next_game": "vs Ducks on 2026-09-25",
+            "next_game": "@ Knights on 2026-09-27",
             "record": "Season in progress",
             "standings": "N/A"
           },
@@ -79,76 +81,82 @@
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-09-25T18:14:46.095239",
-        "source": "The Sports DB API"
-      }
+        "timestamp": "2026-09-27T18:03:47.902488"
+      },
+      "name": "sports",
+      "source": "The Sports DB API",
+      "timestamp": "2026-09-27T18:03:47.902488"
     },
     {
-      "name": "tech",
       "data": {
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-09-25T17:29:46Z",
+            "published_at": "2026-09-27T16:30:00Z",
             "source": "TechCrunch",
-            "summary": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly.",
-            "title": "Some Supabase customers are publicly exposing reams of people\u2019s data to the web",
-            "url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/"
+            "summary": "\"AI is the devil and I its maker.\"",
+            "title": "Anthropic\u2019s Dario Amodei gets the SNL treatment",
+            "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/"
           },
           {
             "category": "technology",
-            "published_at": "2026-09-25T17:23:30Z",
+            "published_at": "2026-09-27T17:21:07Z",
             "source": "The Verge",
-            "summary": "One of the questionable limitations of the iPhone 18 Pro's new main camera with a variable aperture is that you're limited to just four settings in the native iOS' camera app in manual mode: f/1.48, f",
-            "title": "These camera apps give you more control over the iPhone 18 Pro\u2019s aperture",
-            "url": "https://www.theverge.com/tech/1000729/moment-pro-blackmagic-camera-ii-ios-app-iphone-18-pro-max-aperature-camera"
+            "summary": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the inciden",
+            "title": "OpenAI agents tried to \u2018bruteforce\u2019 a UN website",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website"
           },
           {
             "category": "technology",
-            "published_at": "2026-09-24T22:29:48Z",
+            "published_at": "2026-09-25T21:36:20Z",
             "source": "Ars Technica",
-            "summary": "Health department previously blamed delay on \"not yet finalized procurement decisions.\"",
-            "title": "CDC opens state ordering for COVID-19 vaccines after unexplained delay",
-            "url": "https://arstechnica.com/health/2026/09/cdc-opens-state-ordering-for-covid-19-vaccines-after-unexplained-delay/"
+            "summary": "\"Overly constrained AI models\" could cause military operations to fail, judges say.",
+            "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
+            "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/"
           },
           {
             "category": "technology",
-            "published_at": "2026-09-25T16:58:20Z",
+            "published_at": "2026-09-27T10:00:00Z",
             "source": "Wired",
-            "summary": "The AI lab had argued multiple violations of its rights, but a divided panel of judges sided with the Trump administration.",
-            "title": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
-            "url": "https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/"
+            "summary": "Climate groups are latching onto the data center opposition movement, but it remains to be seen if they can get people to care about the facilities\u2019 impact on the atmosphere.",
+            "title": "The Data Center Backlash Should Also Be a Climate Reckoning. It Isn\u2019t Yet",
+            "url": "https://www.wired.com/story/data-center-backlash-climate-reckoning/"
           },
           {
             "category": "technology",
             "published_at": "2026-09-25T12:10:00Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Pentagon wants $30 million to build an AI-powe",
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily download of what&#8217;s going on in the world of technology. The Pentagon wants $30 million to build an AI-powe",
             "title": "The Download: the Pentagon\u2019s AI-powered lie detector and young organ limits",
             "url": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/"
           }
         ],
-        "timestamp": "2026-09-25T18:14:46.721715",
-        "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
-      }
+        "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
+        "timestamp": "2026-09-27T18:03:48.875296"
+      },
+      "name": "tech",
+      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
+      "timestamp": "2026-09-27T18:03:48.875296"
     },
     {
-      "name": "market",
       "data": {
         "indexes": [
           {
-            "change": -6.3,
-            "change_percent": -0.08,
-            "is_positive": false,
+            "change": 41.7,
+            "change_percent": 0.54,
+            "is_positive": true,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 7671.8
+            "value": 7713.5
           }
         ],
-        "market_summary": "Markets declined on concerns about economic outlook.",
-        "timestamp": "2026-09-25T18:14:46.884475",
-        "source": "Alpha Vantage API (via ETF proxies)"
-      }
+        "market_summary": "Markets rallied across all major indexes on positive sentiment.",
+        "source": "Alpha Vantage API (via ETF proxies)",
+        "timestamp": "2026-09-27T18:03:49.318249"
+      },
+      "name": "market",
+      "source": "Alpha Vantage API (via ETF proxies)",
+      "timestamp": "2026-09-27T18:03:49.318249"
     }
   ]
 }
