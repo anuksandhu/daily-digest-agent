@@ -1,66 +1,67 @@
 {
-  "date": "2026-09-27",
-  "generated_at": "2026-09-27T18:03:49.320000",
+  "date": "2026-09-28",
+  "generated_at": "2026-09-28T20:23:44.142588",
   "sections": [
     {
+      "name": "weather",
       "data": {
         "current": {
-          "description": "Broken clouds",
-          "feels_like": 62.8,
-          "humidity": 71,
-          "icon": "04d",
-          "temp": 63.4,
-          "wind_speed": 6.9
+          "description": "Clear sky",
+          "feels_like": 72.9,
+          "humidity": 52,
+          "icon": "01d",
+          "temp": 73.4,
+          "wind_speed": 9.2
         },
         "forecast": [
           {
-            "date": "2026-09-27",
-            "description": "Broken clouds",
-            "icon": "04d",
-            "temp": 66.2
-          },
-          {
             "date": "2026-09-28",
-            "description": "Scattered clouds",
-            "icon": "03n",
-            "temp": 77.7
+            "description": "Clear sky",
+            "icon": "01d",
+            "temp": 73.3
           },
           {
             "date": "2026-09-29",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 84.8
+            "temp": 85.1
           },
           {
             "date": "2026-09-30",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 87.5
+            "temp": 86.3
           },
           {
             "date": "2026-10-01",
             "description": "Clear sky",
             "icon": "01n",
+            "temp": 84.4
+          },
+          {
+            "date": "2026-10-02",
+            "description": "Broken clouds",
+            "icon": "04n",
             "temp": 85.5
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-09-27T18:03:46.073385"
+        "timestamp": "2026-09-28T20:23:42.096868"
       },
-      "name": "weather",
-      "source": "OpenWeather API",
-      "timestamp": "2026-09-27T18:03:46.073385"
+      "timestamp": "2026-09-28T20:23:42.096868",
+      "source": "OpenWeather API"
     },
     {
+      "name": "sports",
       "data": {
         "source": "The Sports DB API",
         "teams": [
           {
-            "latest_game": "W 35-13 vs Dolphins (2026-09-20)",
+            "latest_game": "W 36-30 vs Cardinals (2026-09-27)",
             "league": "NFL",
             "name": "San Francisco 49ers",
-            "next_game": "vs Cardinals on 2026-09-27",
+            "next_game": "vs Broncos on 2026-10-04",
             "record": "Season in progress",
             "standings": "N/A"
           },
@@ -68,7 +69,7 @@
             "latest_game": "W 10-0 vs Ducks (2026-09-25)",
             "league": "NHL",
             "name": "San Jose Sharks",
-            "next_game": "@ Knights on 2026-09-27",
+            "next_game": "vs Panthers on 2026-10-02",
             "record": "Season in progress",
             "standings": "N/A"
           },
@@ -81,82 +82,81 @@
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-09-27T18:03:47.902488"
+        "timestamp": "2026-09-28T20:23:43.279929"
       },
-      "name": "sports",
-      "source": "The Sports DB API",
-      "timestamp": "2026-09-27T18:03:47.902488"
+      "timestamp": "2026-09-28T20:23:43.279929",
+      "source": "The Sports DB API"
     },
     {
+      "name": "tech",
       "data": {
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-09-27T16:30:00Z",
+            "published_at": "2026-09-28T19:33:57Z",
             "source": "TechCrunch",
-            "summary": "\"AI is the devil and I its maker.\"",
-            "title": "Anthropic\u2019s Dario Amodei gets the SNL treatment",
-            "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/"
+            "summary": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer\u2019s authorization.",
+            "title": "Shopify opens checkout to browser-based AI agents",
+            "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/"
           },
           {
             "category": "technology",
-            "published_at": "2026-09-27T17:21:07Z",
+            "published_at": "2026-09-28T19:31:24Z",
             "source": "The Verge",
-            "summary": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the inciden",
-            "title": "OpenAI agents tried to \u2018bruteforce\u2019 a UN website",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website"
+            "summary": "A new firmware update for the $449 Bose QuietComfort Ultra Headphones Gen 2 adds support for Bluetooth LE Audio and Auracast as beta features. The flagship Ultra headphones are the first from Bose to ",
+            "title": "Bose starts adding Auracast to its headphones",
+            "url": "https://www.theverge.com/tech/1001522/bose-headphones-get-auracast-support"
           },
           {
             "category": "technology",
-            "published_at": "2026-09-25T21:36:20Z",
+            "published_at": "2026-09-28T19:35:51Z",
             "source": "Ars Technica",
-            "summary": "\"Overly constrained AI models\" could cause military operations to fail, judges say.",
-            "title": "Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features",
-            "url": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/"
+            "summary": "In 2020, Trump cut CAFE to 40 mpg. Now he\u2019s cut it again to just 35 mpg.",
+            "title": "Trump cuts fuel economy standards back to 2014 levels",
+            "url": "https://arstechnica.com/cars/2026/09/trump-cuts-fuel-economy-standards-back-to-2014-levels/"
           },
           {
             "category": "technology",
-            "published_at": "2026-09-27T10:00:00Z",
+            "published_at": "2026-09-28T11:32:19Z",
             "source": "Wired",
-            "summary": "Climate groups are latching onto the data center opposition movement, but it remains to be seen if they can get people to care about the facilities\u2019 impact on the atmosphere.",
-            "title": "The Data Center Backlash Should Also Be a Climate Reckoning. It Isn\u2019t Yet",
-            "url": "https://www.wired.com/story/data-center-backlash-climate-reckoning/"
+            "summary": "Sam Altman says the company \u201chave not been as fast as we would have liked\u201d at dealing with security breaches, after news of further incidents over the summer forces another temporary halt.",
+            "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
+            "url": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/"
           },
           {
             "category": "technology",
-            "published_at": "2026-09-25T12:10:00Z",
+            "published_at": "2026-09-28T17:03:16Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily download of what&#8217;s going on in the world of technology. The Pentagon wants $30 million to build an AI-powe",
-            "title": "The Download: the Pentagon\u2019s AI-powered lie detector and young organ limits",
-            "url": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/"
+            "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. Last Wednesday, Anthropic announced that earlier this year it ",
+            "title": "When can we say AI made a scientific discovery?",
+            "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-09-27T18:03:48.875296"
+        "timestamp": "2026-09-28T20:23:43.961197"
       },
-      "name": "tech",
-      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-      "timestamp": "2026-09-27T18:03:48.875296"
+      "timestamp": "2026-09-28T20:23:43.961197",
+      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
+      "name": "market",
       "data": {
         "indexes": [
           {
-            "change": 41.7,
-            "change_percent": 0.54,
-            "is_positive": true,
+            "change": -58,
+            "change_percent": -0.75,
+            "is_positive": false,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 7713.5
+            "value": 7655.5
           }
         ],
-        "market_summary": "Markets rallied across all major indexes on positive sentiment.",
+        "market_summary": "Markets declined on concerns about economic outlook.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-09-27T18:03:49.318249"
+        "timestamp": "2026-09-28T20:23:44.122850"
       },
-      "name": "market",
-      "source": "Alpha Vantage API (via ETF proxies)",
-      "timestamp": "2026-09-27T18:03:49.318249"
+      "timestamp": "2026-09-28T20:23:44.122850",
+      "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
 }
