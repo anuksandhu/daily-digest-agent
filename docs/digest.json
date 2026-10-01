@@ -1,6 +1,178 @@
 {
-  "date": "2026-09-30",
-  "generated_at": "2026-09-30T18:50:45.394249",
-  "sections": [],
-  "raw_response": "```\n{\"date\": \"2026-09-30\", \"generated_at\": \"2026-09-30T18:50:41.235687\", \"sections\": [{\"data\": {\"current\": {\"description\": \"Clear sky\", \"feels_like\": 82.3, \"humidity\": 41, \"icon\": \"01d\", \"temp\": 82.8, \"wind_speed\": 1.7}, \"forecast\": [{\"date\": \"2026-09-30\", \"description\": \"Clear sky\", \"icon\": \"01d\", \"temp\": 84.2}, {\"date\": \"2026-10-01\", \"description\": \"Clear sky\", \"icon\": \"01n\", \"temp\": 86.7}, {\"date\": \"2026-10-02\", \"description\": \"Overcast clouds\", \"icon\": \"04n\", \"temp\": 83.2}, {\"date\": \"2026-10-03\", \"description\": \"Clear sky\", \"icon\": \"01n\", \"temp\": 94.4}, {\"date\": \"2026-10-04\", \"description\": \"Clear sky\", \"icon\": \"01n\", \"temp\": 91.3}], \"location\": \"San Jose\", \"source\": \"OpenWeather API\", \"timestamp\": \"2026-09-30T18:50:38.893917\"}, \"name\": \"weather\", \"source\": \"OpenWeather API\", \"timestamp\": \"2026-09-30T18:50:38.893917\"}, {\"data\": {\"source\": \"The Sports DB API\", \"teams\": [{\"latest_game\": \"W 36-30 vs Cardinals (2026-09-27)\", \"league\": \"NFL\", \"name\": \"San Francisco 49ers\", \"next_game\": \"vs Broncos on 2026-10-04\", \"record\": \"Season in progress\", \"standings\": \"N/A\"}, {\"latest_game\": \"W 10-0 vs Ducks (2026-09-25)\", \"league\": \"NHL\", \"name\": \"San Jose Sharks\", \"next_game\": \"vs Panthers on 2026-10-02\", \"record\": \"Season in progress\", \"standings\": \"N/A\"}, {\"latest_game\": \"L 85-106 vs Grizzlies (2026-07-14)\", \"league\": \"NBA\", \"name\": \"Golden State Warriors\", \"next_game\": \"@ Clippers on 2026-10-04\", \"record\": \"Season in progress\", \"standings\": \"N/A\"}], \"timestamp\": \"2026-09-30T18:50:40.194662\"}, \"name\": \"sports\", \"source\": \"The Sports DB API\", \"timestamp\": \"2026-09-30T18:50:40.194662\"}, {\"data\": {\"articles\": [{\"category\": \"technology\", \"published_at\": \"2026-09-30T18:23:57Z\", \"source\": \"TechCrunch\", \"summary\": \"The $300 million employee tender was co-led by Wellington and T. Rowe Price.\", \"title\": \"AI voice startup ElevenLabs doubles valuation to $22B\", \"url\": \"https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/\"}, {\"category\": \"technology\", \"published_at\": \"2026-09-30T18:07:38Z\", \"source\": \"The Verge\", \"summary\": \"While AI has made plenty of inroads on people\\'s phones and computers, it's largely failed in dedicated devices. But over the next year, two major AI companies, Meta and OpenAI, will attempt to change \", \"title\": \"The AI Tamagotchis are coming\", \"url\": \"https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices\"}, {\"category\": \"technology\", \"published_at\": \"2026-09-30T18:25:04Z\", \"source\": \"Ars Technica\", \"summary\": \"OpenAI makes others suffer \\\"the harms of its unsafe decision-making,\\\" nonprofit says.\", \"title\": \"Lawsuit demands OpenAI halt unsafe development that caused Hugging Face hack\", \"url\": \"https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/\"}, {\"category\": \"technology\", \"published_at\": \"2026-09-30T14:30:00Z\", \"source\": \"Wired\", \"summary\": \"The practice of editing the genes of embryos remains highly controversial and risky, but Origin Genomics founder Cathy Tie argues its a \u201cmoral imperative\u201d to address hereditary diseases.\", \"title\": \"A Biotech Founder Makes the Moral Case for Gene-Editing Human Embryos\", \"url\": \"https://www.wired.com/story/biotech-founder-cathy-tie-moral-case-gene-editing-human-embryos/\"}, {\"category\": \"technology\", \"published_at\": \"2026-09-30T12:10:00Z\", \"source\": \"MIT Technology Review\", \"summary\": \"This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. \u201cWe\u2019re not going to shoot ourselves in the foot\u201d o\", \"title\": \"The Download: OpenAI\u2019s chief research officer explains its hacking response\", \"url\": \"https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/\"}], \"source\": \"RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)\", \"timestamp\": \"2026-09-30T18:50:40.933418\"}, \"name\": \"tech\", \"source\": \"RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)\", \"timestamp\": \"2026-09-30T18:50:40.933418\"}, {\"data\": {\"indexes\": [{\"change\": -14.1, \"change_percent\": -0.18, \"is_positive\": False, \"name\": \"S&P 500\", \"symbol\": \"^GSPC\", \"value\": 7642}], \"market_summary\": \"Markets declined on concerns about economic outlook.\", \"source\": \"Alpha Vantage API (via ETF proxies)\", \"timestamp\": \"2026-09-30T18:50:41.235687\"}, \"name\": \"market\", \"source\": \"Alpha Vantage API (via ETF proxies)\", \"timestamp\": \"2026-09-30T18:50:41.235687\"}]}"
+  "date": "2026-10-01",
+  "generated_at": "2026-10-01T19:17:43.100000",
+  "sections": [
+    {
+      "name": "weather",
+      "data": {
+        "current": {
+          "description": "Clear sky",
+          "feels_like": 75.7,
+          "humidity": 50,
+          "icon": "01d",
+          "temp": 76,
+          "wind_speed": 5.8
+        },
+        "forecast": [
+          {
+            "date": "2026-10-01",
+            "description": "Clear sky",
+            "icon": "01d",
+            "temp": 78.7
+          },
+          {
+            "date": "2026-10-02",
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 87.6
+          },
+          {
+            "date": "2026-10-03",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 93.6
+          },
+          {
+            "date": "2026-10-04",
+            "description": "Few clouds",
+            "icon": "02n",
+            "temp": 92.2
+          },
+          {
+            "date": "2026-10-05",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 88.7
+          }
+        ],
+        "location": "San Jose",
+        "source": "OpenWeather API",
+        "timestamp": "2026-10-01T19:17:38.848925"
+      },
+      "timestamp": "2026-10-01T19:17:38.848925",
+      "source": "OpenWeather API"
+    },
+    {
+      "name": "sports",
+      "data": {
+        "source": "The Sports DB API",
+        "teams": [
+          {
+            "latest_game": "W 36-30 vs Cardinals (2026-09-27)",
+            "league": "NFL",
+            "name": "San Francisco 49ers",
+            "next_game": "vs Broncos on 2026-10-04",
+            "record": "Season in progress",
+            "standings": "N/A"
+          },
+          {
+            "latest_game": "W 10-0 vs Ducks (2026-09-25)",
+            "league": "NHL",
+            "name": "San Jose Sharks",
+            "next_game": "vs Panthers on 2026-10-02",
+            "record": "Season in progress",
+            "standings": "N/A"
+          },
+          {
+            "latest_game": "L 85-106 vs Grizzlies (2026-07-14)",
+            "league": "NBA",
+            "name": "Golden State Warriors",
+            "next_game": "@ Clippers on 2026-10-04",
+            "record": "Season in progress",
+            "standings": "N/A"
+          }
+        ],
+        "timestamp": "2026-10-01T19:17:41.919040"
+      },
+      "timestamp": "2026-10-01T19:17:41.919040",
+      "source": "The Sports DB API"
+    },
+    {
+      "name": "tech",
+      "data": {
+        "articles": [
+          {
+            "category": "technology",
+            "published_at": "2026-10-01T18:14:42Z",
+            "source": "TechCrunch",
+            "summary": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
+            "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+            "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-10-01T18:52:58Z",
+            "source": "The Verge",
+            "summary": "The Steam Deck is four and a half years old, and handheld gamers are eagerly awaiting a Steam Deck 2 - but Valve has consistently said it needs a new chip with a \"generational leap\" in performance and",
+            "title": "Steam Deck 2: Is AMD Gainsborough the chip Valve\u2019s been waiting for?",
+            "url": "https://www.theverge.com/games/1003593/steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-10-01T18:04:48Z",
+            "source": "Ars Technica",
+            "summary": "\"This is a fight I likely won't win. We have said goodbye before. But remember, family is forever.\"",
+            "title": "Marvel releases one last VisionQuest trailer",
+            "url": "https://arstechnica.com/culture/2026/10/marvel-releases-one-last-visionquest-trailer/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-10-01T13:00:00Z",
+            "source": "Wired",
+            "summary": "Amazon raised prices across its devices in August. Here are the early device deals ahead of Prime Day that are still worth it\u2014and which aren\u2019t.",
+            "title": "The Best Early Amazon Echo Deals (and the Worst) Ahead of Prime Big Deal Days",
+            "url": "https://www.wired.com/story/best-amazon-alexa-device-deals-prime-day/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-10-01T12:10:00Z",
+            "source": "MIT Technology Review",
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. An AI \u201cmind-reading\u201d tool can reconstruct what you",
+            "title": "The Download: AI \u201cmind-reading\u201d and creative uses for small batteries",
+            "url": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/"
+          }
+        ],
+        "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
+        "timestamp": "2026-10-01T19:17:42.608516"
+      },
+      "timestamp": "2026-10-01T19:17:42.608516",
+      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
+    },
+    {
+      "name": "market",
+      "data": {
+        "indexes": [
+          {
+            "change": -15.7,
+            "change_percent": -0.21,
+            "is_positive": false,
+            "name": "S&P 500",
+            "symbol": "^GSPC",
+            "value": 7626.3
+          },
+          {
+            "change": -25.5,
+            "change_percent": -0.33,
+            "is_positive": false,
+            "name": "NASDAQ",
+            "symbol": "^IXIC",
+            "value": 7700.1
+          },
+          {
+            "change": -100.2,
+            "change_percent": -0.99,
+            "is_positive": false,
+            "name": "DOW JONES",
+            "symbol": "^DJI",
+            "value": 10000.5
+          }
+        ],
+        "market_summary": "Markets declined on concerns about economic outlook.",
+        "source": "Alpha Vantage API (via ETF proxies)",
+        "timestamp": "2026-10-01T19:17:43.094269"
+      },
+      "timestamp": "2026-10-01T19:17:43.094269",
+      "source": "Alpha Vantage API (via ETF proxies)"
+    }
+  ]
 }
