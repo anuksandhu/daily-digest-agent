@@ -1,61 +1,60 @@
 {
-  "date": "2026-10-01",
-  "generated_at": "2026-10-01T19:17:43.100000",
+  "date": "2026-10-02",
+  "generated_at": "2026-10-02T19:00:51.123456",
   "sections": [
     {
       "name": "weather",
       "data": {
         "current": {
-          "description": "Clear sky",
-          "feels_like": 75.7,
+          "description": "Overcast clouds",
+          "feels_like": 80.8,
           "humidity": 50,
-          "icon": "01d",
-          "temp": 76,
-          "wind_speed": 5.8
+          "icon": "04d",
+          "temp": 80,
+          "wind_speed": 0
         },
         "forecast": [
           {
-            "date": "2026-10-01",
-            "description": "Clear sky",
-            "icon": "01d",
-            "temp": 78.7
-          },
-          {
             "date": "2026-10-02",
             "description": "Overcast clouds",
-            "icon": "04n",
-            "temp": 87.6
+            "icon": "04d",
+            "temp": 86.4
           },
           {
             "date": "2026-10-03",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 93.6
+            "temp": 95.7
           },
           {
             "date": "2026-10-04",
             "description": "Few clouds",
             "icon": "02n",
-            "temp": 92.2
+            "temp": 94.6
           },
           {
             "date": "2026-10-05",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 88.7
+            "temp": 87.8
+          },
+          {
+            "date": "2026-10-06",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 86.5
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-10-01T19:17:38.848925"
+        "timestamp": "2026-10-02T19:00:46.877986"
       },
-      "timestamp": "2026-10-01T19:17:38.848925",
+      "timestamp": "2026-10-02T19:00:46.877986",
       "source": "OpenWeather API"
     },
     {
       "name": "sports",
       "data": {
-        "source": "The Sports DB API",
         "teams": [
           {
             "latest_game": "W 36-30 vs Cardinals (2026-09-27)",
@@ -82,9 +81,10 @@
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-10-01T19:17:41.919040"
+        "timestamp": "2026-10-02T19:00:48.816401",
+        "source": "The Sports DB API"
       },
-      "timestamp": "2026-10-01T19:17:41.919040",
+      "timestamp": "2026-10-02T19:00:48.816401",
       "source": "The Sports DB API"
     },
     {
@@ -93,49 +93,49 @@
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-10-01T18:14:42Z",
+            "published_at": "2026-10-02T18:11:27Z",
             "source": "TechCrunch",
-            "summary": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
-            "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-            "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/"
+            "summary": "Apple says it will add new controls around macOS\u2019s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users\u2019 files, messages, mail, and browsing history risk",
+            "title": "Apple says it\u2019s tightening macOS \u2018Full Disk Access\u2019 controls due to new risks from AI agents",
+            "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/"
           },
           {
             "category": "technology",
-            "published_at": "2026-10-01T18:52:58Z",
+            "published_at": "2026-10-02T18:00:00Z",
             "source": "The Verge",
-            "summary": "The Steam Deck is four and a half years old, and handheld gamers are eagerly awaiting a Steam Deck 2 - but Valve has consistently said it needs a new chip with a \"generational leap\" in performance and",
-            "title": "Steam Deck 2: Is AMD Gainsborough the chip Valve\u2019s been waiting for?",
-            "url": "https://www.theverge.com/games/1003593/steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for"
+            "summary": "It\\'s a tale as old as last week: OpenAI\\'s new agent platform, called Dots, is full of cute little guys who can do your bidding. But unlike the ultra-approachable Meta Muse, Dots feel very much like us",
+            "title": "OpenAI\u2019s Dot agent is enterprise software that can also order your dinner",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent"
           },
           {
             "category": "technology",
-            "published_at": "2026-10-01T18:04:48Z",
+            "published_at": "2026-10-02T14:52:16Z",
             "source": "Ars Technica",
-            "summary": "\"This is a fight I likely won't win. We have said goodbye before. But remember, family is forever.\"",
-            "title": "Marvel releases one last VisionQuest trailer",
-            "url": "https://arstechnica.com/culture/2026/10/marvel-releases-one-last-visionquest-trailer/"
+            "summary": "Initially launched in 2019, the Nvidia Shield TV Pro now retails for $299.99.",
+            "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive due to AI",
+            "url": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/"
           },
           {
             "category": "technology",
-            "published_at": "2026-10-01T13:00:00Z",
+            "published_at": "2026-10-02T18:19:53Z",
             "source": "Wired",
-            "summary": "Amazon raised prices across its devices in August. Here are the early device deals ahead of Prime Day that are still worth it\u2014and which aren\u2019t.",
-            "title": "The Best Early Amazon Echo Deals (and the Worst) Ahead of Prime Big Deal Days",
-            "url": "https://www.wired.com/story/best-amazon-alexa-device-deals-prime-day/"
+            "summary": "A collaborative Instagram post between footwear line HEYDUDE and a University of Florida frat is sparking backlash due to sexual cyberharassment allegations against two former members.",
+            "title": "This Shoe Company\u2019s Instagram Ad With a Frat Is Pissing People Off",
+            "url": "https://www.wired.com/story/this-shoe-companys-instagram-ad-with-a-frat-is-pissing-people-off/"
           },
           {
             "category": "technology",
-            "published_at": "2026-10-01T12:10:00Z",
+            "published_at": "2026-10-02T15:49:04Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. An AI \u201cmind-reading\u201d tool can reconstruct what you",
-            "title": "The Download: AI \u201cmind-reading\u201d and creative uses for small batteries",
-            "url": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/"
+            "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to f",
+            "title": "Redefining enterprise intelligence with autonomous AI",
+            "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/"
           }
         ],
-        "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-10-01T19:17:42.608516"
+        "timestamp": "2026-10-02T19:00:49.589678",
+        "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
       },
-      "timestamp": "2026-10-01T19:17:42.608516",
+      "timestamp": "2026-10-02T19:00:49.589678",
       "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
@@ -143,35 +143,35 @@
       "data": {
         "indexes": [
           {
-            "change": -15.7,
-            "change_percent": -0.21,
-            "is_positive": false,
+            "change": 13.6,
+            "change_percent": 0.18,
+            "is_positive": true,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 7626.3
+            "value": 7639.9
           },
           {
-            "change": -25.5,
-            "change_percent": -0.33,
-            "is_positive": false,
+            "change": 16.7,
+            "change_percent": 0.22,
+            "is_positive": true,
             "name": "NASDAQ",
             "symbol": "^IXIC",
-            "value": 7700.1
+            "value": 7669.3
           },
           {
-            "change": -100.2,
-            "change_percent": -0.99,
-            "is_positive": false,
+            "change": 10.1,
+            "change_percent": 0.13,
+            "is_positive": true,
             "name": "DOW JONES",
             "symbol": "^DJI",
-            "value": 10000.5
+            "value": 7780.1
           }
         ],
-        "market_summary": "Markets declined on concerns about economic outlook.",
-        "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-10-01T19:17:43.094269"
+        "market_summary": "Markets rallied across all major indexes on positive sentiment.",
+        "timestamp": "2026-10-02T19:00:50.433172",
+        "source": "Alpha Vantage API (via ETF proxies)"
       },
-      "timestamp": "2026-10-01T19:17:43.094269",
+      "timestamp": "2026-10-02T19:00:50.433172",
       "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
