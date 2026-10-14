@@ -1,57 +1,59 @@
 {
-  "date": "2026-10-13",
-  "generated_at": "2026-10-13T20:06:01.488281",
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T18:19:57.254891",
   "sections": [
     {
+      "name": "weather",
       "data": {
         "current": {
           "description": "Clear sky",
-          "feels_like": 69.6,
-          "humidity": 31,
+          "feels_like": 70.2,
+          "humidity": 32,
           "icon": "01d",
-          "temp": 71.3,
-          "wind_speed": 25.5
+          "temp": 71.8,
+          "wind_speed": 2.9
         },
         "forecast": [
           {
-            "date": "2026-10-13",
-            "description": "Clear sky",
-            "icon": "01d",
-            "temp": 71.3
-          },
-          {
             "date": "2026-10-14",
             "description": "Clear sky",
-            "icon": "01n",
-            "temp": 80.4
+            "icon": "01d",
+            "temp": 73.8
           },
           {
             "date": "2026-10-15",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 82.4
+            "temp": 84
           },
           {
             "date": "2026-10-16",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 89.3
+            "temp": 88.4
           },
           {
             "date": "2026-10-17",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 89.9
+            "temp": 91.9
+          },
+          {
+            "date": "2026-10-18",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 86
           }
         ],
         "location": "San Jose",
-        "source": "OpenWeather API"
+        "source": "OpenWeather API",
+        "timestamp": "2026-10-14T18:19:49.220474"
       },
-      "name": "weather",
-      "source": "OpenWeather API",
-      "timestamp": "2026-10-13T20:05:52.776843"
+      "timestamp": "2026-10-14T18:19:49.220474",
+      "source": "OpenWeather API"
     },
     {
+      "name": "sports",
       "data": {
         "source": "The Sports DB API",
         "teams": [
@@ -80,90 +82,97 @@
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-10-13T20:05:58.622961"
+        "timestamp": "2026-10-14T18:19:53.145284"
       },
-      "name": "sports",
-      "source": "The Sports DB API",
-      "timestamp": "2026-10-13T20:05:58.622961"
+      "timestamp": "2026-10-14T18:19:53.145284",
+      "source": "The Sports DB API"
     },
     {
+      "name": "tech",
       "data": {
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-10-13T19:00:00Z",
+            "published_at": "2026-10-14T18:00:00Z",
             "source": "TechCrunch",
-            "summary": "The San Francisco startup aims to help battery and chip manufacturers identify defects on production lines, reducing downtime and costly mistakes.",
-            "title": "Niobia takes the guesswork out of some of tech\u2019s most expensive mistakes",
-            "url": "https://techcrunch.com/2026/10/13/niobia-takes-the-guesswork-out-of-some-of-techs-most-expensive-mistakes/"
+            "summary": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
+            "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+            "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/"
           },
           {
             "category": "technology",
-            "published_at": "2026-10-13T19:42:42Z",
+            "published_at": "2026-10-14T17:00:00Z",
             "source": "The Verge",
-            "summary": "More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company\\'s agentic commerce ambitions. Shopify announced Tuesday it will let shoppers configur",
-            "title": "Shopify opens its catalog up to more AI agents",
-            "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents"
+            "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for ",
+            "title": "My AI doppelganger tells me what to eat",
+            "url": "https://www.theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health"
           },
           {
             "category": "technology",
-            "published_at": "2026-10-13T17:00:39Z",
+            "published_at": "2026-10-14T13:56:11Z",
             "source": "Ars Technica",
-            "summary": "Google plans to help turn those personal AI-generated apps into wide releases.",
-            "title": "Google wants to host your personal vibe-coded apps in the Play Store",
-            "url": "https://arstechnica.com/google/2026/10/google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store/"
+            "summary": "Kyiv\u2019s forces experience connectivity problems on Elon Musk\u2019s satellite network.",
+            "title": "Ukraine blindsided by Starlink throttling restrictions and intelligence gaps",
+            "url": "https://arstechnica.com/gadgets/2026/10/ukraine-blindsided-by-starlink-throttling-restrictions-and-intelligence-gaps/"
           },
           {
             "category": "technology",
-            "published_at": "2026-10-13T19:35:29Z",
+            "published_at": "2026-10-14T18:15:00Z",
             "source": "Wired",
-            "summary": "AI leaders joined whistleblowers and security leaders at a sweeping parliamentary session, while a few hundred meters away Britain\u2019s spy chief warned AI could be used to create new bioweapons.",
-            "title": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us",
-            "url": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/"
+            "summary": "AI may soon be the default way to solve theoretical problems in economics, high-energy physics, and other fields, MIT researchers tell WIRED.",
+            "title": "AI Came for Math. Now It\u2019s Chasing the Rest of Science",
+            "url": "https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/"
           },
           {
             "category": "technology",
-            "published_at": "2026-10-13T12:00:00Z",
+            "published_at": "2026-10-14T12:10:00Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Open models have real benefits. Do they outweigh t",
-            "title": "The Download: open model trade-offs and geothermal power\u2019s promise",
-            "url": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/"
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The US military\u2019s race to make fake blood In Febru",
+            "title": "The Download: faking blood and the future of batteries",
+            "url": "https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-10-13T20:05:59.392987"
+        "timestamp": "2026-10-14T18:19:55.489839"
       },
-      "name": "tech",
-      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-      "timestamp": "2026-10-13T20:05:59.392987"
+      "timestamp": "2026-10-14T18:19:55.489839",
+      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
+      "name": "market",
       "data": {
         "indexes": [
           {
-            "change": -4.7,
-            "change_percent": -0.06,
+            "change": -0.9,
+            "change_percent": -0.01,
             "is_positive": false,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 7781
+            "value": 7780.1
           },
           {
-            "change": 180,
-            "change_percent": 0.35,
-            "is_positive": true,
+            "change": -0.9,
+            "change_percent": -0.01,
+            "is_positive": false,
+            "name": "NASDAQ",
+            "symbol": "^IXIC",
+            "value": 11100.5
+          },
+          {
+            "change": -0.9,
+            "change_percent": -0.01,
+            "is_positive": false,
             "name": "DOW JONES",
             "symbol": "^DJI",
-            "value": 51791
+            "value": 26000.2
           }
         ],
-        "market_summary": "Mixed trading session with varied performance across indexes.",
+        "market_summary": "Markets declined on concerns about economic outlook.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-10-13T20:06:01.391530"
+        "timestamp": "2026-10-14T18:19:56.745952"
       },
-      "name": "market",
-      "source": "Alpha Vantage API (via ETF proxies)",
-      "timestamp": "2026-10-13T20:06:01.391530"
+      "timestamp": "2026-10-14T18:19:56.745952",
+      "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
 }
