@@ -1,6 +1,154 @@
 {
-  "date": "2026-10-16",
-  "generated_at": "2026-10-16T17:49:22.704436",
-  "sections": [],
-  "raw_response": "```\n{\"date\": \"2026-10-16\", \"generated_at\": \"2026-10-16T17:49:18.789114\", \"sections\": [{\"name\": \"weather\", \"data\": {\"current\": {\"description\": \"Clear sky\", \"feels_like\": 79.8, \"humidity\": 29, \"icon\": \"01d\", \"temp\": 79.8, \"wind_speed\": 0}, \"forecast\": [{\"date\": \"2026-10-16\", \"description\": \"Clear sky\", \"icon\": \"01d\", \"temp\": 83.2}, {\"date\": \"2026-10-17\", \"description\": \"Clear sky\", \"icon\": \"01n\", \"temp\": 93.6}, {\"date\": \"2026-10-18\", \"description\": \"Clear sky\", \"icon\": \"01n\", \"temp\": 87.5}, {\"date\": \"2026-10-19\", \"description\": \"Broken clouds\", \"icon\": \"04n\", \"temp\": 66.5}, {\"date\": \"2026-10-20\", \"description\": \"Overcast clouds\", \"icon\": \"04n\", \"temp\": 63}], \"location\": \"San Jose\", \"source\": \"OpenWeather API\", \"timestamp\": \"2026-10-16T17:49:16.660030\"}, \"timestamp\": \"2026-10-16T17:49:16.660030\", \"source\": \"OpenWeather API\"}, {\"name\": \"sports\", \"data\": {\"teams\": [{\"latest_game\": \"W 30-18 vs Opponent (2026-10-14)\", \"league\": \"NFL\", \"name\": \"San Francisco 49ers\", \"next_game\": \"vs Opponent on 2026-10-19\", \"record\": \"11-4\", \"standings\": \"#6 in division\"}, {\"latest_game\": \"L 21-21 vs Opponent (2026-10-15)\", \"league\": \"NHL\", \"name\": \"San Jose Sharks\", \"next_game\": \"vs Opponent on 2026-10-19\", \"record\": \"9-3\", \"standings\": \"#6 in division\"}, {\"latest_game\": \"L 87-99 vs Opponent (2026-10-13)\", \"league\": \"NBA\", \"name\": \"Golden State Warriors\", \"next_game\": \"vs Opponent on 2026-10-19\", \"record\": \"10-6\", \"standings\": \"#7 in division\"}], \"timestamp\": \"2026-10-16T17:49:16.952432\", \"source\": \"Mock Sports Data (API failed for all teams)\"}, \"timestamp\": \"2026-10-16T17:49:16.952432\", \"source\": \"Mock Sports Data (API failed for all teams)\"}, {\"name\": \"tech\", \"data\": {\"articles\": [{\"category\": \"technology\", \"published_at\": \"2026-10-16T16:01:37Z\", \"source\": \"TechCrunch\", \"summary\": \"According to Elorian\\'s evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.\", \"title\": \"Elorian\u2019s first AI model wants to reason with images, not just about them\", \"url\": \"https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/\"}, {\"category\": \"technology\", \"published_at\": \"2026-10-16T14:15:29Z\", \"source\": \"The Verge\", \"summary\": \"Last night, Elon Musk gave the people what they want: a car driving vertically up a multi-story ramp, launching off the edge, executing a mid-air \\\"kickflip\\\" over a lineup of Teslas, and landing via co\", \"title\": \"The incredible flying Tesla Roadster is just for show\", \"url\": \"https://www.theverge.com/transportation/1012783/tesla-roadster-flying-stunt-production-reality-musk\"}, {\"category\": \"technology\", \"published_at\": \"2026-10-16T15:41:00Z\", \"source\": \"Ars Technica\", \"summary\": \"Meta \u201cstreamlined\u201d its commercial TOS. Legal experts warn it\u2019s an AI power grab.\", \"title\": \"Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees\", \"url\": \"https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/\"}, {\"category\": \"technology\", \"published_at\": \"2026-10-16T13:00:00Z\", \"source\": \"Wired\", \"summary\": \"The Surface Laptop Ultra is a true MacBook Pro competitor for Windows, and Microsoft has never been so close to dethroning Apple\u2014if only it weren\\'t for the lack of battery life.\", \"title\": \"Microsoft Surface Laptop Ultra Review: The First Real AI PC\", \"url\": \"https://www.wired.com/review/microsoft-surface-laptop-ultra/\"}, {\"category\": \"technology\", \"published_at\": \"2026-10-16T12:10:00Z\", \"source\": \"MIT Technology Review\", \"summary\": \"This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Kids are outsmarting social media bans. That\u2019s not\", \"title\": \"The Download: failed social media bans, and extending pets\u2019 lives\", \"url\": \"https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/\"}], \"timestamp\": \"2026-10-16T17:49:18.133255\", \"source\": \"RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)\"}, \"timestamp\": \"2026-10-16T17:49:18.133255\", \"source\": \"RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)\"}, {\"name\": \"market\", \"data\": {\"indexes\": [{\"change\": 21.9, \"change_percent\": 0.28, \"is_positive\": True, \"name\": \"S&P 500\", \"symbol\": \"^GSPC\", \"value\": 7717.9}], \"market_summary\": \"Markets rallied across all major indexes on positive sentiment.\", \"timestamp\": \"2026-10-16T17:49:18.539725\", \"source\": \"Alpha Vantage API (via ETF proxies)\"}, \"timestamp\": \"2026-10-16T17:49:18.539725\", \"source\": \"Alpha Vantage API (via ETF proxies)\"}]}"
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T16:52:09.261292",
+  "sections": [
+    {
+      "data": {
+        "current": {
+          "description": "Clear sky",
+          "feels_like": 63.3,
+          "humidity": 41,
+          "icon": "01d",
+          "temp": 65.2,
+          "wind_speed": 0
+        },
+        "forecast": [
+          {
+            "date": "2026-10-17",
+            "description": "Clear sky",
+            "icon": "01d",
+            "temp": 78.2
+          },
+          {
+            "date": "2026-10-18",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 80.2
+          },
+          {
+            "date": "2026-10-19",
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 67.5
+          },
+          {
+            "date": "2026-10-20",
+            "description": "Broken clouds",
+            "icon": "04n",
+            "temp": 64.3
+          },
+          {
+            "date": "2026-10-21",
+            "description": "Light rain",
+            "icon": "10n",
+            "temp": 69.7
+          }
+        ],
+        "location": "San Jose",
+        "timestamp": "2026-10-17T16:52:06.778193"
+      },
+      "name": "weather",
+      "source": "OpenWeather API"
+    },
+    {
+      "data": {
+        "teams": [
+          {
+            "latest_game": "W 24-14 vs Broncos (2026-10-04)",
+            "league": "NFL",
+            "name": "San Francisco 49ers",
+            "next_game": "vs Commanders on 2026-10-20",
+            "record": "Season in progress",
+            "standings": "N/A"
+          },
+          {
+            "latest_game": "L 3-6 vs Bruins (2026-10-14)",
+            "league": "NHL",
+            "name": "San Jose Sharks",
+            "next_game": "@ Wings on 2026-10-17",
+            "record": "Season in progress",
+            "standings": "N/A"
+          },
+          {
+            "latest_game": "W 111-106 vs Kings (2026-10-11)",
+            "league": "NBA",
+            "name": "Golden State Warriors",
+            "next_game": "vs Blazers on 2026-10-17",
+            "record": "Season in progress",
+            "standings": "N/A"
+          }
+        ],
+        "timestamp": "2026-10-17T16:52:08.316799"
+      },
+      "name": "sports",
+      "source": "The Sports DB API"
+    },
+    {
+      "data": {
+        "articles": [
+          {
+            "category": "technology",
+            "published_at": "2026-10-17T02:36:18Z",
+            "source": "TechCrunch",
+            "summary": "Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you\u2019ll get a cold plunge, a blood panel and a protein muffin without needing ",
+            "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
+            "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-10-17T15:04:36Z",
+            "source": "The Verge",
+            "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no lo",
+            "title": "Meta removes language that may have allowed it to scrape news sites",
+            "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-10-17T11:15:11Z",
+            "source": "Ars Technica",
+            "summary": "Research suggests listening more while talking less. Killing aimless meetings can help, too.",
+            "title": "Science says your boss should talk less in meetings",
+            "url": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-10-17T10:30:00Z",
+            "source": "Wired",
+            "summary": "Claiming an inheritance of Bitcoin or other cryptocurrency can be like hunting for buried treasure. It doesn\u2019t have to be.",
+            "title": "Don\u2019t Let a Crypto Inheritance Get Stuck on the Blockchain",
+            "url": "https://www.wired.com/story/crypto-inheritance-how-to/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-10-16T18:00:00Z",
+            "source": "MIT Technology Review",
+            "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose ",
+            "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+            "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
+          }
+        ],
+        "timestamp": "2026-10-17T16:52:08.996035"
+      },
+      "name": "tech",
+      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
+    },
+    {
+      "data": {
+        "indexes": [
+          {
+            "change": -85.4,
+            "change_percent": -1.11,
+            "is_positive": false,
+            "name": "S&P 500",
+            "symbol": "^GSPC",
+            "value": 7632.5
+          }
+        ],
+        "market_summary": "Markets declined on concerns about economic outlook.",
+        "timestamp": "2026-10-17T16:52:09.260292"
+      },
+      "name": "market",
+      "source": "Alpha Vantage API (via ETF proxies)"
+    }
+  ]
 }
