@@ -1,59 +1,58 @@
 {
-  "date": "2026-10-22",
-  "generated_at": "2026-10-22T18:20:14.000000",
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T18:06:57.252569",
   "sections": [
     {
-      "name": "weather",
       "data": {
         "current": {
-          "description": "Moderate rain",
-          "feels_like": 61,
-          "humidity": 88,
-          "icon": "10d",
-          "temp": 61,
-          "wind_speed": 4.5
+          "description": "Haze",
+          "feels_like": 62.1,
+          "humidity": 79,
+          "icon": "50d",
+          "temp": 62.4,
+          "wind_speed": 10.4
         },
         "forecast": [
           {
-            "date": "2026-10-22",
+            "date": "2026-10-23",
             "description": "Light rain",
             "icon": "10d",
-            "temp": 61.6
-          },
-          {
-            "date": "2026-10-23",
-            "description": "Overcast clouds",
-            "icon": "04n",
-            "temp": 66.6
+            "temp": 63.3
           },
           {
             "date": "2026-10-24",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 67.9
+            "temp": 71
           },
           {
             "date": "2026-10-25",
             "description": "Clear sky",
             "icon": "01n",
-            "temp": 72.2
+            "temp": 73.3
           },
           {
             "date": "2026-10-26",
             "description": "Few clouds",
             "icon": "02n",
             "temp": 68.7
+          },
+          {
+            "date": "2026-10-27",
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 64.4
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-10-22T18:20:10.067897"
+        "timestamp": "2026-10-23T18:06:52.168772"
       },
-      "timestamp": "2026-10-22T18:20:10.067897",
-      "source": "OpenWeather API"
+      "name": "weather",
+      "source": "OpenWeather API",
+      "timestamp": "2026-10-23T18:06:52.168772"
     },
     {
-      "name": "sports",
       "data": {
         "source": "The Sports DB API",
         "teams": [
@@ -69,7 +68,7 @@
             "latest_game": "L 3-6 vs Bruins (2026-10-14)",
             "league": "NHL",
             "name": "San Jose Sharks",
-            "next_game": "@ Senators on 2026-10-22",
+            "next_game": "@ Bruins on 2026-10-24",
             "record": "Season in progress",
             "standings": "N/A"
           },
@@ -77,102 +76,87 @@
             "latest_game": "W 128-118 vs Blazers (2026-10-17)",
             "league": "NBA",
             "name": "Golden State Warriors",
-            "next_game": "@ Lakers on 2026-10-22",
+            "next_game": "vs Grizzlies on 2026-10-24",
             "record": "Season in progress",
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-10-22T18:20:12.266756"
+        "timestamp": "2026-10-23T18:06:54.535113"
       },
-      "timestamp": "2026-10-22T18:20:12.266756",
-      "source": "The Sports DB API"
+      "name": "sports",
+      "source": "The Sports DB API",
+      "timestamp": "2026-10-23T18:06:54.535113"
     },
     {
-      "name": "tech",
       "data": {
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-10-22T16:47:17Z",
+            "published_at": "2026-10-23T16:02:43Z",
             "source": "TechCrunch",
-            "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
-            "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
-            "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/"
+            "summary": "Early-stage and follow-on investors in the AI lab are already sitting on major paper returns.",
+            "title": "What some of Anthropic\u2019s backers are reportedly worth before its IPO",
+            "url": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/"
           },
           {
             "category": "technology",
-            "published_at": "2026-10-22T18:15:00Z",
+            "published_at": "2026-10-23T17:35:15Z",
             "source": "The Verge",
-            "summary": "Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people's AI agents for us. Are humans r",
-            "title": "In Meta\u2019s version of the future, I\u2019ll have my Muse call your Muse",
-            "url": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network"
+            "summary": "Last week, Starshield - the version of SpaceX's Starlink used by the Ukrainian military - was throttled to block terminals traveling above certain speeds from accessing the service. The Ukrainian army",
+            "title": "Elon Musk\u2019s dangerous grip on outer space",
+            "url": "https://www.theverge.com/science/1017443/spacex-starlink-ukraine-elon-musk-monopoly"
           },
           {
             "category": "technology",
-            "published_at": "2026-10-22T14:22:31Z",
+            "published_at": "2026-10-23T17:18:31Z",
             "source": "Ars Technica",
-            "summary": "\"I will take my place as the conqueror, a sorcerer, a king.\"",
-            "title": "Sauron recruits his future Ringwraiths in Rings of Power S3 trailer",
-            "url": "https://arstechnica.com/culture/2026/10/sauron-recruits-his-future-ringwraiths-in-rings-of-power-s3-trailer/"
+            "summary": "Company says foreign-made robotic vehicles are crucial to US chip production.",
+            "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
+            "url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/"
           },
           {
             "category": "technology",
-            "published_at": "2026-10-22T15:14:37Z",
+            "published_at": "2026-10-23T17:00:00Z",
             "source": "Wired",
-            "summary": "The Fellow Aiden Precision Coffee Maker is a smart, high-end machine that offers pour-over quality. You can get it refurbished from the brand for 25 percent off.",
-            "title": "Fellow Aiden Precision Coffee Maker is $100 Off",
-            "url": "https://www.wired.com/story/fellow-aiden-precision-coffee-maker-deal-october-2026/"
+            "summary": "The first folding iPhone Duo is here, alongside the 18 Pro and 18 Pro Max, but they\u2019re not your only options. We have all the details on Apple\u2019s smartphone lineup to help you find the right model.",
+            "title": "What\u2019s the Best iPhone to Buy or Avoid Right Now? (2026)",
+            "url": "https://www.wired.com/gallery/iphone-buying-guide/"
           },
           {
             "category": "technology",
-            "published_at": "2026-10-22T12:10:00Z",
+            "published_at": "2026-10-23T12:10:00Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily download of what&#8217;s going on in the world of technology. How far can we push computing? On a December eveni",
-            "title": "The Download: computing\u2019s next leap and permafrost\u2019s climate threat",
-            "url": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/"
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Are we there yet? A reality check on six big tech ",
+            "title": "The Download: testing six tech promises and biotech\u2019s blind spots",
+            "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-10-22T18:20:13.191694"
+        "timestamp": "2026-10-23T18:06:55.871320"
       },
-      "timestamp": "2026-10-22T18:20:13.191694",
-      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
+      "name": "tech",
+      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
+      "timestamp": "2026-10-23T18:06:55.871320"
     },
     {
-      "name": "market",
       "data": {
         "indexes": [
           {
-            "change": 40.4,
-            "change_percent": 0.53,
-            "is_positive": true,
+            "change": -91.3,
+            "change_percent": -1.18,
+            "is_positive": false,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 7730.9
-          },
-          {
-            "change": 40.4,
-            "change_percent": 0.53,
-            "is_positive": true,
-            "name": "NASDAQ",
-            "symbol": "^IXIC",
-            "value": 7730.9
-          },
-          {
-            "change": 40.4,
-            "change_percent": 0.53,
-            "is_positive": true,
-            "name": "DOW JONES",
-            "symbol": "^DJI",
-            "value": 7730.9
+            "value": 7639.6
           }
         ],
-        "market_summary": "Markets rallied across all major indexes on positive sentiment.",
+        "market_summary": "Markets declined on concerns about economic outlook.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-10-22T18:20:13.812166"
+        "timestamp": "2026-10-23T18:06:56.396001"
       },
-      "timestamp": "2026-10-22T18:20:13.812166",
-      "source": "Alpha Vantage API (via ETF proxies)"
+      "name": "market",
+      "source": "Alpha Vantage API (via ETF proxies)",
+      "timestamp": "2026-10-23T18:06:56.396001"
     }
   ]
 }
