@@ -1,6 +1,162 @@
 {
-  "date": "2026-10-25",
-  "generated_at": "2026-10-25T17:26:14.909834",
-  "sections": [],
-  "raw_response": "```\n```"
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T19:45:38.470759",
+  "sections": [
+    {
+      "data": {
+        "current": {
+          "description": "Few clouds",
+          "feels_like": 65.3,
+          "humidity": 60,
+          "icon": "02d",
+          "temp": 66.2,
+          "wind_speed": 10.4
+        },
+        "forecast": [
+          {
+            "date": "2026-10-26",
+            "description": "Few clouds",
+            "icon": "02d",
+            "temp": 66.4
+          },
+          {
+            "date": "2026-10-27",
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 66.7
+          },
+          {
+            "date": "2026-10-28",
+            "description": "Scattered clouds",
+            "icon": "03n",
+            "temp": 67.2
+          },
+          {
+            "date": "2026-10-29",
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 69.6
+          },
+          {
+            "date": "2026-10-30",
+            "description": "Broken clouds",
+            "icon": "04n",
+            "temp": 67.7
+          }
+        ],
+        "location": "San Jose",
+        "source": "OpenWeather API",
+        "timestamp": "2026-10-26T19:45:35.873844"
+      },
+      "name": "weather",
+      "source": "OpenWeather API",
+      "timestamp": "2026-10-26T19:45:35.873844"
+    },
+    {
+      "data": {
+        "source": "The Sports DB API",
+        "teams": [
+          {
+            "latest_game": "W 23-17 vs Commanders (2026-10-20)",
+            "league": "NFL",
+            "name": "San Francisco 49ers",
+            "next_game": "vs Raiders on 2026-11-08",
+            "record": "Season in progress",
+            "standings": "N/A"
+          },
+          {
+            "latest_game": "L 3-6 vs Bruins (2026-10-14)",
+            "league": "NHL",
+            "name": "San Jose Sharks",
+            "next_game": "vs Sabres on 2026-10-28",
+            "record": "Season in progress",
+            "standings": "N/A"
+          },
+          {
+            "latest_game": "L 108-111 vs Grizzlies (2026-10-24)",
+            "league": "NBA",
+            "name": "Golden State Warriors",
+            "next_game": "@ Nuggets on 2026-10-27",
+            "record": "Season in progress",
+            "standings": "N/A"
+          }
+        ],
+        "timestamp": "2026-10-26T19:45:37.491199"
+      },
+      "name": "sports",
+      "source": "The Sports DB API",
+      "timestamp": "2026-10-26T19:45:37.491199"
+    },
+    {
+      "data": {
+        "articles": [
+          {
+            "category": "technology",
+            "published_at": "2026-10-26T19:22:40Z",
+            "source": "TechCrunch",
+            "summary": "A small number of early adopters of the much hyped new phone from Apple have complained of screens cracking.",
+            "title": "Uh oh, it sounds like the iPhone Duo keeps cracking and users aren\u2019t happy about it",
+            "url": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-10-26T18:51:06Z",
+            "source": "The Verge",
+            "summary": "Apple has just released iOS 27.2, bringing Apple Pencil support to the iPhone Duo. The software update also includes an \"Edge Light\" feature for the iPhone Duo that\\'s intended to illuminate your face.",
+            "title": "iPhone Duo now supports Apple Pencil with iOS 27.2",
+            "url": "https://www.theverge.com/tech/1018827/ios-27-2-iphone-duo-apple-pencil"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-10-26T18:09:08Z",
+            "source": "Ars Technica",
+            "summary": "Ukraine says Starshield back to normal, denies misuse of Starlink commercial service.",
+            "title": "Musk accuses Ukraine of violating Starlink terms with deadly drone strikes",
+            "url": "https://arstechnica.com/tech-policy/2026/10/musk-accuses-ukraine-of-violating-starlink-terms-with-deadly-drone-strikes/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-10-26T19:40:31Z",
+            "source": "Wired",
+            "summary": "Track down your suitcase, car keys, and other essentials with this $23 Bluetooth tracker.",
+            "title": "Apple AirTags (2nd Gen) Are on Sale for 20% Off Right Now",
+            "url": "https://www.wired.com/story/apple-airtag-deal-october-2026/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-10-26T17:45:43Z",
+            "source": "MIT Technology Review",
+            "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. After weeks of frenzied speculation, Anthropic has filed its I",
+            "title": "Will the real Anthropic please stand up",
+            "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/"
+          }
+        ],
+        "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
+        "timestamp": "2026-10-26T19:45:38.133204"
+      },
+      "name": "tech",
+      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
+      "timestamp": "2026-10-26T19:45:38.133204"
+    },
+    {
+      "data": {
+        "indexes": [
+          {
+            "change": -39.9,
+            "change_percent": -0.52,
+            "is_positive": false,
+            "name": "S&P 500",
+            "symbol": "^GSPC",
+            "value": 7599.7
+          }
+        ],
+        "market_summary": "Markets declined on concerns about economic outlook.",
+        "source": "Alpha Vantage API (via ETF proxies)",
+        "timestamp": "2026-10-26T19:45:38.297349"
+      },
+      "name": "market",
+      "source": "Alpha Vantage API (via ETF proxies)",
+      "timestamp": "2026-10-26T19:45:38.297349"
+    }
+  ]
 }
