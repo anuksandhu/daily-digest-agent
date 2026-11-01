@@ -1,57 +1,61 @@
 {
-  "date": "2026-10-31",
-  "generated_at": "2026-10-31T18:14:06.000000",
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T18:45:41.805821",
   "sections": [
     {
+      "name": "weather",
       "data": {
         "current": {
           "description": "Broken clouds",
-          "feels_like": 60.1,
-          "humidity": 67,
+          "feels_like": 58,
+          "humidity": 71,
           "icon": "04d",
-          "temp": 61.2,
-          "wind_speed": 4.6
+          "temp": 59.1,
+          "wind_speed": 12.5
         },
         "forecast": [
           {
-            "date": "2026-10-31",
+            "date": "2026-11-01",
             "description": "Broken clouds",
             "icon": "04d",
-            "temp": 62.4
-          },
-          {
-            "date": "2026-11-01",
-            "description": "Light rain",
-            "icon": "10n",
-            "temp": 65.3
+            "temp": 60.1
           },
           {
             "date": "2026-11-02",
-            "description": "Scattered clouds",
-            "icon": "03n",
-            "temp": 66.8
+            "description": "Broken clouds",
+            "icon": "04n",
+            "temp": 65.3
           },
           {
             "date": "2026-11-03",
-            "description": "Broken clouds",
+            "description": "Overcast clouds",
             "icon": "04n",
-            "temp": 65.8
+            "temp": 64.7
           },
           {
             "date": "2026-11-04",
+            "description": "Broken clouds",
+            "icon": "04n",
+            "temp": 67.4
+          },
+          {
+            "date": "2026-11-05",
             "description": "Scattered clouds",
             "icon": "03n",
-            "temp": 63.9
+            "temp": 70.4
           }
         ],
         "location": "San Jose",
-        "timestamp": "2026-10-31T18:14:03.384931"
+        "source": "OpenWeather API",
+        "timestamp": "2026-11-01T18:45:39.358159"
       },
-      "name": "weather",
+      "timestamp": "2026-11-01T18:45:39.358159",
       "source": "OpenWeather API"
     },
     {
+      "name": "sports",
       "data": {
+        "source": "The Sports DB API",
         "teams": [
           {
             "latest_game": "W 23-17 vs Commanders (2026-10-20)",
@@ -62,61 +66,62 @@
             "standings": "N/A"
           },
           {
-            "latest_game": "W 3-2 vs Canucks (2026-10-30)",
+            "latest_game": "L 1-5 vs Senators (2026-10-31)",
             "league": "NHL",
             "name": "San Jose Sharks",
-            "next_game": "vs Senators on 2026-10-31",
+            "next_game": "vs Flames on 2026-11-03",
             "record": "Season in progress",
             "standings": "N/A"
           },
           {
-            "latest_game": "L 108-111 vs Grizzlies (2026-10-24)",
+            "latest_game": "W 112-95 vs Lakers (2026-10-31)",
             "league": "NBA",
             "name": "Golden State Warriors",
-            "next_game": "vs Lakers on 2026-10-31",
+            "next_game": "vs Clippers on 2026-11-02",
             "record": "Season in progress",
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-10-31T18:14:04.741263"
+        "timestamp": "2026-11-01T18:45:40.756019"
       },
-      "name": "sports",
+      "timestamp": "2026-11-01T18:45:40.756019",
       "source": "The Sports DB API"
     },
     {
+      "name": "tech",
       "data": {
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-10-31T16:12:55Z",
+            "published_at": "2026-11-01T17:04:00Z",
             "source": "TechCrunch",
-            "summary": "OpenAI\u2019s latest funding round doesn\\'t seem to be living up to expectations.",
-            "title": "OpenAI reportedly lowers funding target for new round",
-            "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/"
+            "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+            "title": "TechCrunch Mobility: A new, bigger AV boom is here",
+            "url": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/"
           },
           {
             "category": "technology",
-            "published_at": "2026-10-31T16:05:00Z",
+            "published_at": "2026-11-01T14:33:11Z",
             "source": "The Verge",
-            "summary": "Mark Zuckerberg\\'s Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a",
-            "title": "I built an AI Tamagotchi before Meta could",
-            "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code"
+            "summary": "The FBI says North Korea was behind the massive $6.3 billion crypto heist that hit Binance on October 29th. The FBI labeled the activity \"TraderTraitor\" and said that it had observed actors it has con",
+            "title": "North Korea linked to massive Binance crypto heist",
+            "url": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist"
           },
           {
             "category": "technology",
             "published_at": "2026-10-31T00:07:22Z",
             "source": "Ars Technica",
-            "summary": "The space agency solicited ideas for reboosting Hubble four years ago, but they didn\\'t go anywhere.",
+            "summary": "The space agency solicited ideas for reboosting Hubble four years ago, but they didn't go anywhere.",
             "title": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
             "url": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/"
           },
           {
             "category": "technology",
-            "published_at": "2026-10-31T12:00:00Z",
+            "published_at": "2026-11-01T12:00:00Z",
             "source": "Wired",
-            "summary": "Named \u201cVolta-Autodoxer,\u201d the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.",
-            "title": "Spooky New Infostealer Malware Uses AI to \u2018Autodox\u2019 Victims",
-            "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/"
+            "summary": "The Chromagraph Camera app costs $13 dollars and processes iPhone photos with the same color math Rian Johnson\u2019s cinematographer, Steve Yedlin, uses for film.",
+            "title": "The Hollywood Color Nerd Who Shot \u2018Knives Out\u2019 Explains His Viral iPhone Camera App",
+            "url": "https://www.wired.com/story/the-hollywood-color-nerd-who-shot-knives-out-explains-his-viral-iphone-camera-app/"
           },
           {
             "category": "technology",
@@ -127,12 +132,14 @@
             "url": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/"
           }
         ],
-        "timestamp": "2026-10-31T18:14:05.451239"
+        "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
+        "timestamp": "2026-11-01T18:45:41.487792"
       },
-      "name": "tech",
+      "timestamp": "2026-11-01T18:45:41.487792",
       "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
+      "name": "market",
       "data": {
         "indexes": [
           {
@@ -145,9 +152,10 @@
           }
         ],
         "market_summary": "Markets declined on concerns about economic outlook.",
-        "timestamp": "2026-10-31T18:14:05.617761"
+        "source": "Alpha Vantage API (via ETF proxies)",
+        "timestamp": "2026-11-01T18:45:41.654503"
       },
-      "name": "market",
+      "timestamp": "2026-11-01T18:45:41.654503",
       "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
