@@ -1,59 +1,58 @@
 {
-  "date": "2026-11-01",
-  "generated_at": "2026-11-01T18:45:41.805821",
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T22:36:55.209109",
   "sections": [
     {
-      "name": "weather",
       "data": {
         "current": {
-          "description": "Broken clouds",
-          "feels_like": 58,
-          "humidity": 71,
+          "description": "Overcast clouds",
+          "feels_like": 65.2,
+          "humidity": 53,
           "icon": "04d",
-          "temp": 59.1,
-          "wind_speed": 12.5
+          "temp": 66.4,
+          "wind_speed": 4.6
         },
         "forecast": [
-          {
-            "date": "2026-11-01",
-            "description": "Broken clouds",
-            "icon": "04d",
-            "temp": 60.1
-          },
-          {
-            "date": "2026-11-02",
-            "description": "Broken clouds",
-            "icon": "04n",
-            "temp": 65.3
-          },
           {
             "date": "2026-11-03",
             "description": "Overcast clouds",
             "icon": "04n",
-            "temp": 64.7
+            "temp": 66.4
           },
           {
             "date": "2026-11-04",
-            "description": "Broken clouds",
+            "description": "Overcast clouds",
             "icon": "04n",
-            "temp": 67.4
+            "temp": 66.9
           },
           {
             "date": "2026-11-05",
             "description": "Scattered clouds",
             "icon": "03n",
-            "temp": 70.4
+            "temp": 68.4
+          },
+          {
+            "date": "2026-11-06",
+            "description": "Broken clouds",
+            "icon": "04n",
+            "temp": 68.8
+          },
+          {
+            "date": "2026-11-07",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 72.7
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-11-01T18:45:39.358159"
+        "timestamp": "2026-11-02T22:36:52.320689"
       },
-      "timestamp": "2026-11-01T18:45:39.358159",
-      "source": "OpenWeather API"
+      "name": "weather",
+      "source": "OpenWeather API",
+      "timestamp": "2026-11-02T22:36:52.320689"
     },
     {
-      "name": "sports",
       "data": {
         "source": "The Sports DB API",
         "teams": [
@@ -82,81 +81,82 @@
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-11-01T18:45:40.756019"
+        "timestamp": "2026-11-02T22:36:53.835745"
       },
-      "timestamp": "2026-11-01T18:45:40.756019",
-      "source": "The Sports DB API"
+      "name": "sports",
+      "source": "The Sports DB API",
+      "timestamp": "2026-11-02T22:36:53.835745"
     },
     {
-      "name": "tech",
       "data": {
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-11-01T17:04:00Z",
+            "published_at": "2026-11-02T22:14:50Z",
             "source": "TechCrunch",
-            "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-            "title": "TechCrunch Mobility: A new, bigger AV boom is here",
-            "url": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/"
+            "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+            "title": "Anthropic warns that it\u2019s very close to RSI capability, aka self-building AI",
+            "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/"
           },
           {
             "category": "technology",
-            "published_at": "2026-11-01T14:33:11Z",
+            "published_at": "2026-11-02T20:37:49Z",
             "source": "The Verge",
-            "summary": "The FBI says North Korea was behind the massive $6.3 billion crypto heist that hit Binance on October 29th. The FBI labeled the activity \"TraderTraitor\" and said that it had observed actors it has con",
-            "title": "North Korea linked to massive Binance crypto heist",
-            "url": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist"
+            "summary": "Google says one of its Android manufacturing partners secretly built a backdoor in 1.3 million devices and turned them into a botnet. The company says it has now dismantled the backdoor and \"cut ties\"",
+            "title": "One of Google&#8217;s Android partners turned 1.3 million set-top boxes into a botnet",
+            "url": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down"
           },
           {
             "category": "technology",
-            "published_at": "2026-10-31T00:07:22Z",
+            "published_at": "2026-11-02T18:05:31Z",
             "source": "Ars Technica",
-            "summary": "The space agency solicited ideas for reboosting Hubble four years ago, but they didn't go anywhere.",
-            "title": "Once again, NASA is asking for ideas to rescue Hubble from certain death",
-            "url": "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/"
+            "summary": "The tsunami of imitators is way bigger than one model maker can stem.",
+            "title": "Claude\u2019s new rules against game cloning won\u2019t stop the AI copying boom",
+            "url": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/"
           },
           {
             "category": "technology",
-            "published_at": "2026-11-01T12:00:00Z",
+            "published_at": "2026-11-02T21:00:00Z",
             "source": "Wired",
-            "summary": "The Chromagraph Camera app costs $13 dollars and processes iPhone photos with the same color math Rian Johnson\u2019s cinematographer, Steve Yedlin, uses for film.",
-            "title": "The Hollywood Color Nerd Who Shot \u2018Knives Out\u2019 Explains His Viral iPhone Camera App",
-            "url": "https://www.wired.com/story/the-hollywood-color-nerd-who-shot-knives-out-explains-his-viral-iphone-camera-app/"
+            "summary": "Black Friday is still weeks away, but you don\u2019t have to wait for a good sale on Dyson vacuums.",
+            "title": "Best Dyson Vacuum Deals (2026): Dyson Spot+Scrub Ai, Dyson V16 Piston Animal",
+            "url": "https://www.wired.com/story/dyson-vacuum-deals-nov-2026/"
           },
           {
             "category": "technology",
-            "published_at": "2026-10-30T11:30:00Z",
+            "published_at": "2026-11-02T17:00:00Z",
             "source": "MIT Technology Review",
-            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Eating disorders are on the rise. GLP-1s could mak",
-            "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
-            "url": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/"
+            "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automa",
+            "title": "Raising the quality of insights in agentic analytics",
+            "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-11-01T18:45:41.487792"
+        "timestamp": "2026-11-02T22:36:54.470379"
       },
-      "timestamp": "2026-11-01T18:45:41.487792",
-      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
+      "name": "tech",
+      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
+      "timestamp": "2026-11-02T22:36:54.470379"
     },
     {
-      "name": "market",
       "data": {
         "indexes": [
           {
-            "change": -136.4,
-            "change_percent": -1.77,
+            "change": -35.7,
+            "change_percent": -0.47,
             "is_positive": false,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 7557.2
+            "value": 7521.5
           }
         ],
         "market_summary": "Markets declined on concerns about economic outlook.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-11-01T18:45:41.654503"
+        "timestamp": "2026-11-02T22:36:54.737874"
       },
-      "timestamp": "2026-11-01T18:45:41.654503",
-      "source": "Alpha Vantage API (via ETF proxies)"
+      "name": "market",
+      "source": "Alpha Vantage API (via ETF proxies)",
+      "timestamp": "2026-11-02T22:36:54.737874"
     }
   ]
 }
