@@ -1,6 +1,162 @@
 {
-  "date": "2026-11-06",
-  "generated_at": "2026-11-06T20:15:52.530566",
-  "sections": [],
-  "raw_response": "I am sorry, but I cannot provide a digest for a future date (2026-11-06). I can only provide information for the current date. Please provide today's date if you would like me to generate the Daily Digest."
+  "date": "2026-11-07",
+  "generated_at": "2026-11-07T18:29:19.204432",
+  "sections": [
+    {
+      "name": "weather",
+      "data": {
+        "current": {
+          "description": "Few clouds",
+          "feels_like": 66.4,
+          "humidity": 44,
+          "icon": "02d",
+          "temp": 67.8,
+          "wind_speed": 0
+        },
+        "forecast": [
+          {
+            "date": "2026-11-07",
+            "description": "Few clouds",
+            "icon": "02d",
+            "temp": 69.6
+          },
+          {
+            "date": "2026-11-08",
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 72.1
+          },
+          {
+            "date": "2026-11-09",
+            "description": "Few clouds",
+            "icon": "02n",
+            "temp": 72.3
+          },
+          {
+            "date": "2026-11-10",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 74.7
+          },
+          {
+            "date": "2026-11-11",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 74.5
+          }
+        ],
+        "location": "San Jose",
+        "source": "OpenWeather API",
+        "timestamp": "2026-11-07T18:29:16.137954"
+      },
+      "timestamp": "2026-11-07T18:29:16.137954",
+      "source": "OpenWeather API"
+    },
+    {
+      "name": "sports",
+      "data": {
+        "source": "The Sports DB API",
+        "teams": [
+          {
+            "latest_game": "W 23-17 vs Commanders (2026-10-20)",
+            "league": "NFL",
+            "name": "San Francisco 49ers",
+            "next_game": "vs Raiders on 2026-11-08",
+            "record": "Season in progress",
+            "standings": "N/A"
+          },
+          {
+            "latest_game": "L 1-2 vs Flames (2026-11-03)",
+            "league": "NHL",
+            "name": "San Jose Sharks",
+            "next_game": "@ Wild on 2026-11-07",
+            "record": "Season in progress",
+            "standings": "N/A"
+          },
+          {
+            "latest_game": "W 120-100 vs Heat (2026-11-06)",
+            "league": "NBA",
+            "name": "Golden State Warriors",
+            "next_game": "vs Magic on 2026-11-08",
+            "record": "Season in progress",
+            "standings": "N/A"
+          }
+        ],
+        "timestamp": "2026-11-07T18:29:18.081233"
+      },
+      "timestamp": "2026-11-07T18:29:18.081233",
+      "source": "The Sports DB API"
+    },
+    {
+      "name": "tech",
+      "data": {
+        "articles": [
+          {
+            "category": "technology",
+            "published_at": "2026-11-07T04:16:43Z",
+            "source": "TechCrunch",
+            "summary": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what st",
+            "title": "From the front row to the hot seat \u2014 what the midterms mean for Big Tech",
+            "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-11-07T16:00:00Z",
+            "source": "The Verge",
+            "summary": "While some retailers were offering preorder discounts on the remastered Legend of Zelda: The Ocarina of Time, it\u2019s not too late to save if you missed out. Costco members can currently get $5 off the d",
+            "title": "Costco members can get $5 off the reimagined Ocarina of Time",
+            "url": "https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-11-07T11:00:34Z",
+            "source": "Ars Technica",
+            "summary": "Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed.",
+            "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
+            "url": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-11-07T11:37:00Z",
+            "source": "Wired",
+            "summary": "Ensuring your cat stays hydrated is one of the best ways to keep your pet healthy. The right pet water fountain can help.",
+            "title": "The Best Cat Water Fountains of 2026: Petlibro, Petkit, Oneisall",
+            "url": "https://www.wired.com/gallery/best-cat-water-fountains/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-11-06T13:10:00Z",
+            "source": "MIT Technology Review",
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. I watched a humanoid robot clean my apartment. It ",
+            "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+            "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/"
+          }
+        ],
+        "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
+        "timestamp": "2026-11-07T18:29:18.849042"
+      },
+      "timestamp": "2026-11-07T18:29:18.849042",
+      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
+    },
+    {
+      "name": "market",
+      "data": {
+        "indexes": [
+          {
+            "change": 22.9,
+            "change_percent": 0.31,
+            "is_positive": true,
+            "name": "S&P 500",
+            "symbol": "^GSPC",
+            "value": 7352.9
+          }
+        ],
+        "market_summary": "Markets rallied across all major indexes on positive sentiment.",
+        "source": "Alpha Vantage API (via ETF proxies)",
+        "timestamp": "2026-11-07T18:29:19.204432"
+      },
+      "timestamp": "2026-11-07T18:29:19.204432",
+      "source": "Alpha Vantage API (via ETF proxies)"
+    }
+  ]
 }
