@@ -1,6 +1,178 @@
 {
-  "date": "2026-11-09",
-  "generated_at": "2026-11-09T23:17:17.794633",
-  "sections": [],
-  "raw_response": "```\n{\"date\": \"2026-11-09\", \"generated_at\": \"2026-11-09T23:17:14.000000\", \"sections\": [{\"name\": \"weather\", \"data\": {\"current\": {\"description\": \"Broken clouds\", \"feels_like\": 70.2, \"humidity\": 63, \"icon\": \"04d\", \"temp\": 70.5, \"wind_speed\": 14.5}, \"forecast\": [{\"date\": \"2026-11-10\", \"description\": \"Clear sky\", \"icon\": \"01n\", \"temp\": 75}, {\"date\": \"2026-11-11\", \"description\": \"Clear sky\", \"icon\": \"01n\", \"temp\": 72.9}, {\"date\": \"2026-11-12\", \"description\": \"Clear sky\", \"icon\": \"01n\", \"temp\": 75.4}, {\"date\": \"2026-11-13\", \"description\": \"Clear sky\", \"icon\": \"01n\", \"temp\": 74.3}, {\"date\": \"2026-11-14\", \"description\": \"Scattered clouds\", \"icon\": \"03n\", \"temp\": 63.7}], \"location\": \"San Jose\", \"source\": \"OpenWeather API\", \"timestamp\": \"2026-11-09T23:17:10.345569\"}, \"timestamp\": \"2026-11-09T23:17:10.345569\", \"source\": \"OpenWeather API\"}, {\"name\": \"sports\", \"data\": {\"source\": \"The Sports DB API\", \"teams\": [{\"latest_game\": \"W 38-17 vs Raiders (2026-11-08)\", \"league\": \"NFL\", \"name\": \"San Francisco 49ers\", \"next_game\": \"@ Cowboys on 2026-11-15\", \"record\": \"Season in progress\", \"standings\": \"N/A\"}, {\"latest_game\": \"L 1-2 vs Flames (2026-11-03)\", \"league\": \"NHL\", \"name\": \"San Jose Sharks\", \"next_game\": \"vs Islanders on 2026-11-10\", \"record\": \"Season in progress\", \"standings\": \"N/A\"}, {\"latest_game\": \"W 126-119 vs Magic (2026-11-08)\", \"league\": \"NBA\", \"name\": \"Golden State Warriors\", \"next_game\": \"vs Pelicans on 2026-11-10\", \"record\": \"Season in progress\", \"standings\": \"N/A\"}], \"timestamp\": \"2026-11-09T23:17:12.548440\"}, \"timestamp\": \"2026-11-09T23:17:12.548440\", \"source\": \"The Sports DB API\"}, {\"name\": \"tech\", \"data\": {\"articles\": [{\"category\": \"technology\", \"published_at\": \"2026-11-09T19:21:46Z\", \"source\": \"TechCrunch\", \"summary\": \"Nominal, a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer, has raised another big round of financing that triples its valuation.\", \"title\": \"AI hardware startup Nominal triples valuation to $3B in 8 months\", \"url\": \"https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/\"}, {\"category\": \"technology\", \"published_at\": \"2026-11-09T23:07:59Z\", \"source\": \"The Verge\", \"summary\": \"The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporti\", \"title\": \"Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang\", \"url\": \"https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang\"}, {\"category\": \"technology\", \"published_at\": \"2026-11-09T20:49:09Z\", \"source\": \"Ars Technica\", \"summary\": \"We verified the RAM numbers are real without sending any emails to OpenAI.\", \"title\": \"A Sam Altman parody offers an amusing lesson in memory management\", \"url\": \"https://arstechnica.com/gadgets/2026/11/a-sam-altman-parody-offers-an-amusing-lesson-in-memory-management/\"}, {\"category\": \"technology\", \"published_at\": \"2026-11-09T22:40:10Z\", \"source\": \"Wired\", \"summary\": \"Last year, Waymo recalled its software after several of its autonomous cars drove around stopped buses. But the problems remained. Now the feds want to know more.\", \"title\": \"Waymo Said It Fixed Its School Bus Problem. The US Government Says It Didn\u2019t Work\", \"url\": \"https://www.wired.com/story/waymo-school-bus-problem-the-us-government-says-it-didnt-work/\"}, {\"category\": \"technology\", \"published_at\": \"2026-11-09T19:35:33Z\", \"source\": \"MIT Technology Review\", \"summary\": \"This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. As voters went to the polls across the US last week, I was in \", \"title\": \"The backlash about data centers might really just be about electricity\", \"url\": \"https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/\"}], \"source\": \"RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)\", \"timestamp\": \"2026-11-09T23:17:13.215104\"}, \"timestamp\": \"2026-11-09T23:17:13.215104\", \"source\": \"RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)\"}, {\"name\": \"market\", \"data\": {\"indexes\": [{\"change\": 173.5, \"change_percent\": 2.36, \"is_positive\": True, \"name\": \"S&P 500\", \"symbol\": \"^GSPC\", \"value\": 7526.4}], \"market_summary\": \"Markets rallied across all major indexes on positive sentiment.\", \"source\": \"Alpha Vantage API (via ETF proxies)\", \"timestamp\": \"2026-11-09T23:17:13.625888\"}, \"timestamp\": \"2026-11-09T23:17:13.625888\", \"source\": \"Alpha Vantage API (via ETF proxies)\"}]}"
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T20:42:41.123456",
+  "sections": [
+    {
+      "name": "weather",
+      "data": {
+        "current": {
+          "description": "Clear sky",
+          "feels_like": 73.7,
+          "humidity": 56,
+          "icon": "01d",
+          "temp": 74,
+          "wind_speed": 7.6
+        },
+        "forecast": [
+          {
+            "date": "2026-11-10",
+            "description": "Clear sky",
+            "icon": "01d",
+            "temp": 74
+          },
+          {
+            "date": "2026-11-11",
+            "description": "Broken clouds",
+            "icon": "04n",
+            "temp": 74
+          },
+          {
+            "date": "2026-11-12",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 77.9
+          },
+          {
+            "date": "2026-11-13",
+            "description": "Broken clouds",
+            "icon": "04n",
+            "temp": 69.5
+          },
+          {
+            "date": "2026-11-14",
+            "description": "Light rain",
+            "icon": "10n",
+            "temp": 61.3
+          }
+        ],
+        "location": "San Jose",
+        "source": "OpenWeather API",
+        "timestamp": "2026-11-10T20:42:37.264893"
+      },
+      "timestamp": "2026-11-10T20:42:37.264893",
+      "source": "OpenWeather API"
+    },
+    {
+      "name": "sports",
+      "data": {
+        "source": "The Sports DB API",
+        "teams": [
+          {
+            "latest_game": "W 38-17 vs Raiders (2026-11-08)",
+            "league": "NFL",
+            "name": "San Francisco 49ers",
+            "next_game": "@ Cowboys on 2026-11-15",
+            "record": "Season in progress",
+            "standings": "N/A"
+          },
+          {
+            "latest_game": "L 1-2 vs Flames (2026-11-03)",
+            "league": "NHL",
+            "name": "San Jose Sharks",
+            "next_game": "vs Islanders on 2026-11-10",
+            "record": "Season in progress",
+            "standings": "N/A"
+          },
+          {
+            "latest_game": "W 126-119 vs Magic (2026-11-08)",
+            "league": "NBA",
+            "name": "Golden State Warriors",
+            "next_game": "vs Pelicans on 2026-11-10",
+            "record": "Season in progress",
+            "standings": "N/A"
+          }
+        ],
+        "timestamp": "2026-11-10T20:42:39.295312"
+      },
+      "timestamp": "2026-11-10T20:42:39.295312",
+      "source": "The Sports DB API"
+    },
+    {
+      "name": "tech",
+      "data": {
+        "articles": [
+          {
+            "category": "technology",
+            "published_at": "2026-11-10T19:23:34Z",
+            "source": "TechCrunch",
+            "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing \u201cuncertainty in the IPO market.\u201d",
+            "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+            "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-11-10T19:40:52Z",
+            "source": "The Verge",
+            "summary": "Sony is retiring the PlayStation Plus app for PC on December 10th. Sony says it will notify users directly about the shutdown. The app allowed PlayStation Plus Premium subscribers to stream certain ga",
+            "title": "The PlayStation Plus PC app is shutting down next month",
+            "url": "https://www.theverge.com/games/1031144/sony-playstation-plus-windows-pc-app-shutting-down"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-11-10T19:00:26Z",
+            "source": "Ars Technica",
+            "summary": "Spruce up your home screen with expanded custom icons and AI-generated widgets.",
+            "title": "Pixel phones getting new icon styles, Create My Widget, and more in November Pixel Drop",
+            "url": "https://arstechnica.com/gadgets/2026/11/november-pixel-drop-brings-gemini-intelligence-to-pixel-10-family/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-11-10T16:40:19Z",
+            "source": "Wired",
+            "summary": "MAGA failed because it didn\u2019t go far enough, right-wing extremists say\u2014and following devastating midterm losses, they see an opportunity to take over.",
+            "title": "\u2018We Have to Take Over\u2019: Far-Right Extremists Want to Seize Control of the GOP",
+            "url": "https://www.wired.com/story/we-have-to-take-over-far-right-extremists-want-to-seize-control-of-the-gop/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-11-10T13:10:00Z",
+            "source": "MIT Technology Review",
+            "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Nancy Pelosi\u2019s replacement is ready to regulate AI",
+            "title": "The Download: Pelosi\u2019s successor targets AI and data centers face power woes",
+            "url": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/"
+          }
+        ],
+        "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
+        "timestamp": "2026-11-10T20:42:40.311343"
+      },
+      "timestamp": "2026-11-10T20:42:40.311343",
+      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
+    },
+    {
+      "name": "market",
+      "data": {
+        "indexes": [
+          {
+            "change": 174,
+            "change_percent": 2.37,
+            "is_positive": true,
+            "name": "S&P 500",
+            "symbol": "^GSPC",
+            "value": 7526.9
+          },
+          {
+            "change": 174,
+            "change_percent": 2.37,
+            "is_positive": true,
+            "name": "NASDAQ",
+            "symbol": "^IXIC",
+            "value": 7526.9
+          },
+          {
+            "change": 174,
+            "change_percent": 2.37,
+            "is_positive": true,
+            "name": "DOW JONES",
+            "symbol": "^DJI",
+            "value": 7526.9
+          }
+        ],
+        "market_summary": "Markets rallied across all major indexes on positive sentiment.",
+        "source": "Alpha Vantage API (via ETF proxies)",
+        "timestamp": "2026-11-10T20:42:40.736034"
+      },
+      "timestamp": "2026-11-10T20:42:40.736034",
+      "source": "Alpha Vantage API (via ETF proxies)"
+    }
+  ]
 }
