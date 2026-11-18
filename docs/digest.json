@@ -1,6 +1,162 @@
 {
-  "date": "2026-11-15",
-  "generated_at": "2026-11-15T19:34:13.195914",
-  "sections": [],
-  "raw_response": "```\n```"
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T21:42:52.000000",
+  "sections": [
+    {
+      "name": "weather",
+      "data": {
+        "current": {
+          "description": "Heavy intensity rain",
+          "feels_like": 52.7,
+          "humidity": 91,
+          "icon": "10d",
+          "temp": 53.4,
+          "wind_speed": 18.1
+        },
+        "forecast": [
+          {
+            "date": "2026-11-19",
+            "description": "Moderate rain",
+            "icon": "10n",
+            "temp": 54.9
+          },
+          {
+            "date": "2026-11-20",
+            "description": "Light rain",
+            "icon": "10n",
+            "temp": 57.7
+          },
+          {
+            "date": "2026-11-21",
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 56.6
+          },
+          {
+            "date": "2026-11-22",
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 56
+          },
+          {
+            "date": "2026-11-23",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 57.5
+          }
+        ],
+        "location": "San Jose",
+        "source": "OpenWeather API",
+        "timestamp": "2026-11-18T21:42:48.731332"
+      },
+      "timestamp": "2026-11-18T21:42:48.731332",
+      "source": "OpenWeather API"
+    },
+    {
+      "name": "sports",
+      "data": {
+        "source": "The Sports DB API",
+        "teams": [
+          {
+            "latest_game": "W 38-17 vs Raiders (2026-11-08)",
+            "league": "NFL",
+            "name": "San Francisco 49ers",
+            "next_game": "vs Vikings on 2026-11-23",
+            "record": "Season in progress",
+            "standings": "N/A"
+          },
+          {
+            "latest_game": "W 4-2 vs Predators (2026-11-16)",
+            "league": "NHL",
+            "name": "San Jose Sharks",
+            "next_game": "vs Flames on 2026-11-18",
+            "record": "Season in progress",
+            "standings": "N/A"
+          },
+          {
+            "latest_game": "W 138-87 vs Pelicans (2026-11-10)",
+            "league": "NBA",
+            "name": "Golden State Warriors",
+            "next_game": "@ Mavericks on 2026-11-19",
+            "record": "Season in progress",
+            "standings": "N/A"
+          }
+        ],
+        "timestamp": "2026-11-18T21:42:50.597675"
+      },
+      "timestamp": "2026-11-18T21:42:50.597675",
+      "source": "The Sports DB API"
+    },
+    {
+      "name": "tech",
+      "data": {
+        "articles": [
+          {
+            "category": "technology",
+            "published_at": "2026-11-18T21:34:13Z",
+            "source": "TechCrunch",
+            "summary": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.",
+            "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: \u2018It\u2019s time to start running\u2019",
+            "url": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-11-18T19:40:36Z",
+            "source": "The Verge",
+            "summary": "President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local news outlet Rappler. As he stepped onto the tarmac, a child hande",
+            "title": "Trump\u2019s latest land grab is an AI hub in the Philippines",
+            "url": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-11-18T20:41:12Z",
+            "source": "Ars Technica",
+            "summary": "Hardened defaults align with DoD standards, but there may be growing pains.",
+            "title": "Windows Server 2028 trades compatibility for out-of-the-box security",
+            "url": "https://arstechnica.com/gadgets/2026/11/windows-server-2028-public-preview-bets-on-a-security-first-approach/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-11-18T21:15:00Z",
+            "source": "Wired",
+            "summary": "The Trump administration announced plans to clamp down on China\u2019s access to AI chips. Apparently, the cheating scandal of the century was the motivation they were missing.",
+            "title": "America\u2019s AI Chip War Is Heating Up in the Dumbest Possible Ways",
+            "url": "https://www.wired.com/story/the-ai-chip-war-meets-the-jensen-huang-affair/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-11-18T14:42:44Z",
+            "source": "MIT Technology Review",
+            "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you migh",
+            "title": "The AI Hype Index: AI is everywhere",
+            "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/"
+          }
+        ],
+        "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
+        "timestamp": "2026-11-18T21:42:51.384212"
+      },
+      "timestamp": "2026-11-18T21:42:51.384212",
+      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
+    },
+    {
+      "name": "market",
+      "data": {
+        "indexes": [
+          {
+            "change": -21.9,
+            "change_percent": -0.3,
+            "is_positive": false,
+            "name": "S&P 500",
+            "symbol": "^GSPC",
+            "value": 7302.5
+          }
+        ],
+        "market_summary": "Markets declined on concerns about economic outlook.",
+        "source": "Alpha Vantage API (via ETF proxies)",
+        "timestamp": "2026-11-18T21:42:51.687156"
+      },
+      "timestamp": "2026-11-18T21:42:51.687156",
+      "source": "Alpha Vantage API (via ETF proxies)"
+    }
+  ]
 }
