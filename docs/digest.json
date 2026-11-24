@@ -1,55 +1,55 @@
 {
   "date": "2026-11-24",
-  "generated_at": "2026-11-24T01:29:35.112919",
+  "generated_at": "2026-11-24T23:23:34.029415",
   "sections": [
     {
       "name": "weather",
       "data": {
         "current": {
           "description": "Scattered clouds",
-          "feels_like": 52.9,
-          "humidity": 73,
-          "icon": "03n",
-          "temp": 54.3,
-          "wind_speed": 9.2
+          "feels_like": 62.7,
+          "humidity": 65,
+          "icon": "03d",
+          "temp": 63.5,
+          "wind_speed": 10.4
         },
         "forecast": [
           {
-            "date": "2026-11-24",
-            "description": "Scattered clouds",
-            "icon": "03n",
-            "temp": 63.1
-          },
-          {
             "date": "2026-11-25",
-            "description": "Scattered clouds",
-            "icon": "03n",
-            "temp": 65.1
+            "description": "Light rain",
+            "icon": "10n",
+            "temp": 67.7
           },
           {
             "date": "2026-11-26",
             "description": "Overcast clouds",
             "icon": "04n",
-            "temp": 63.8
+            "temp": 63.3
           },
           {
             "date": "2026-11-27",
-            "description": "Clear sky",
-            "icon": "01n",
+            "description": "Overcast clouds",
+            "icon": "04n",
             "temp": 61
           },
           {
             "date": "2026-11-28",
             "description": "Overcast clouds",
             "icon": "04n",
-            "temp": 61.7
+            "temp": 62
+          },
+          {
+            "date": "2026-11-29",
+            "description": "Scattered clouds",
+            "icon": "03n",
+            "temp": 64
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-11-24T01:29:32.317479"
+        "timestamp": "2026-11-24T23:23:31.593522"
       },
-      "timestamp": "2026-11-24T01:29:32.317479",
+      "timestamp": "2026-11-24T23:23:31.593522",
       "source": "OpenWeather API"
     },
     {
@@ -82,9 +82,9 @@
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-11-24T01:29:33.590124"
+        "timestamp": "2026-11-24T23:23:33.013183"
       },
-      "timestamp": "2026-11-24T01:29:33.590124",
+      "timestamp": "2026-11-24T23:23:33.013183",
       "source": "The Sports DB API"
     },
     {
@@ -93,49 +93,49 @@
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-11-23T22:05:50Z",
+            "published_at": "2026-11-24T21:48:27Z",
             "source": "TechCrunch",
-            "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
-            "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-            "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"
+            "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
+            "title": "In all-hands meeting, Jensen Huang thanks White House and says he\u2019s in therapy",
+            "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/"
           },
           {
             "category": "technology",
-            "published_at": "2026-11-24T00:02:52Z",
+            "published_at": "2026-11-24T22:23:27Z",
             "source": "The Verge",
-            "summary": "Kagi, which already offers a paid alternative to Google Search and its own Orion browser as a rival to Chrome, is taking on another Google service: Gmail. Today, Kagi announced a public beta of Kagi M",
-            "title": "Google alternative Kagi launches an email service",
-            "url": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative"
+            "summary": "A jury has found Huawei guilty of stealing US trade secrets, as reported earlier by NBC News and Bloomberg. The verdict, handed down in a federal court in New York, concludes a years-long legal battle",
+            "title": "Huawei found guilty of stealing trade secrets",
+            "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial"
           },
           {
             "category": "technology",
-            "published_at": "2026-11-23T21:58:34Z",
+            "published_at": "2026-11-24T20:34:53Z",
             "source": "Ars Technica",
-            "summary": "The Army said on Sunday that it would carry out the detonation on Wednesday.",
-            "title": "Trump halts Iowa detonation, says new governor to blame if it blows accidentally",
-            "url": "https://arstechnica.com/health/2026/11/trump-halts-iowa-detonation-says-new-governor-to-blame-if-it-blows-accidentally/"
+            "summary": "A new AI-assisted proof seems to be solid, but we're not sure what it tells us.",
+            "title": "What's going on with the Riemann hypothesis?",
+            "url": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/"
           },
           {
             "category": "technology",
-            "published_at": "2026-11-23T18:46:51Z",
+            "published_at": "2026-11-24T19:33:23Z",
             "source": "Wired",
-            "summary": "The US Army plans to blow up 9,500 pounds of lead azide held at an Iowa ammunition plant. Local officials say they learned most of the details through a press release.",
-            "title": "The Feds Left Iowans in the Dark About Plans to Blow Up Tons of Lead",
-            "url": "https://www.wired.com/story/the-feds-left-iowans-in-the-dark-about-plans-to-blow-up-tons-of-lead/"
+            "summary": "The newly reinstated CEO discussed his daily therapy sessions, his reputation as a \u201ctech bro,\u201d his disdain for succession planning, and his relationship with President Trump.",
+            "title": "11 Things Jensen Huang Actually Said at His First All-Hands Back at Nvidia",
+            "url": "https://www.wired.com/story/11-things-jensen-huang-actually-said-at-his-first-all-hands-back-at-nvidia/"
           },
           {
             "category": "technology",
-            "published_at": "2026-11-23T17:36:08Z",
+            "published_at": "2026-11-24T15:15:16Z",
             "source": "MIT Technology Review",
-            "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. Before going public last week, Anthropic named the possibility",
-            "title": "A legendary philosopher isn\u2019t buying Anthropic\u2019s consciousness argument",
-            "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/"
+            "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is add",
+            "title": "Raising the stakes for enterprise networks with AI modernization",
+            "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-11-24T01:29:34.187151"
+        "timestamp": "2026-11-24T23:23:33.825949"
       },
-      "timestamp": "2026-11-24T01:29:34.187151",
+      "timestamp": "2026-11-24T23:23:33.825949",
       "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
@@ -143,35 +143,35 @@
       "data": {
         "indexes": [
           {
-            "change": 324.8,
-            "change_percent": 4.71,
-            "is_positive": true,
+            "change": -37.1,
+            "change_percent": -0.51,
+            "is_positive": false,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 7222.9
+            "value": 7185.8
           },
           {
-            "change": 0,
-            "change_percent": 0,
+            "change": -25.2,
+            "change_percent": -0.18,
             "is_positive": false,
             "name": "NASDAQ",
             "symbol": "^IXIC",
-            "value": null
+            "value": 13728.5
           },
           {
-            "change": 0,
-            "change_percent": 0,
+            "change": -85.4,
+            "change_percent": -0.27,
             "is_positive": false,
             "name": "DOW JONES",
             "symbol": "^DJI",
-            "value": null
+            "value": 31580.2
           }
         ],
-        "market_summary": "Markets rallied across all major indexes on positive sentiment.",
+        "market_summary": "Markets declined on concerns about economic outlook.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-11-24T01:29:34.838193"
+        "timestamp": "2026-11-24T23:23:34.028936"
       },
-      "timestamp": "2026-11-24T01:29:34.838193",
+      "timestamp": "2026-11-24T23:23:34.028936",
       "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
