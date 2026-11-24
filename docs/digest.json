@@ -1,6 +1,178 @@
 {
-  "date": "2026-11-20",
-  "generated_at": "2026-11-20T21:41:21.318087",
-  "sections": [],
-  "raw_response": "```\n{\n    \"date\": \"2026-11-20\",\n    \"generated_at\": \"2026-11-20T21:41:17.123456\",\n    \"sections\": [\n        {\n            \"name\": \"weather\",\n            \"data\": {\n                \"current\": {\n                    \"description\": \"Few clouds\",\n                    \"feels_like\": 57,\n                    \"humidity\": 66,\n                    \"icon\": \"02d\",\n                    \"temp\": 58.4,\n                    \"wind_speed\": 6.9\n                },\n                \"forecast\": [\n                    {\n                        \"date\": \"2026-11-21\",\n                        \"description\": \"Few clouds\",\n                        \"icon\": \"02n\",\n                        \"temp\": 57.7\n                    },\n                    {\n                        \"date\": \"2026-11-22\",\n                        \"description\": \"Overcast clouds\",\n                        \"icon\": \"04n\",\n                        \"temp\": 53.8\n                    },\n                    {\n                        \"date\": \"2026-11-23\",\n                        \"description\": \"Few clouds\",\n                        \"icon\": \"02n\",\n                        \"temp\": 57.6\n                    },\n                    {\n                        \"date\": \"2026-11-24\",\n                        \"description\": \"Overcast clouds\",\n                        \"icon\": \"04n\",\n                        \"temp\": 59.8\n                    },\n                    {\n                        \"date\": \"2026-11-25\",\n                        \"description\": \"Moderate rain\",\n                        \"icon\": \"10n\",\n                        \"temp\": 62.6\n                    }\n                ],\n                \"location\": \"San Jose\",\n                \"source\": \"OpenWeather API\",\n                \"timestamp\": \"2026-11-20T21:41:14.547552\"\n            },\n            \"timestamp\": \"2026-11-20T21:41:14.547552\",\n            \"source\": \"OpenWeather API\"\n        },\n        {\n            \"name\": \"sports\",\n            \"data\": {\n                \"source\": \"The Sports DB API\",\n                \"teams\": [\n                    {\n                        \"latest_game\": \"W 38-17 vs Raiders (2026-11-08)\",\n                        \"league\": \"NFL\",\n                        \"name\": \"San Francisco 49ers\",\n                        \"next_game\": \"vs Vikings on 2026-11-23\",\n                        \"record\": \"Season in progress\",\n                        \"standings\": \"N/A\"\n                    },\n                    {\n                        \"latest_game\": \"L 2-5 vs Flames (2026-11-18)\",\n                        \"league\": \"NHL\",\n                        \"name\": \"San Jose Sharks\",\n                        \"next_game\": \"vs Kraken on 2026-11-22\",\n                        \"record\": \"Season in progress\",\n                        \"standings\": \"N/A\"\n                    },\n                    {\n                        \"latest_game\": \"W 138-87 vs Pelicans (2026-11-10)\",\n                        \"league\": \"NBA\",\n                        \"name\": \"Golden State Warriors\",\n                        \"next_game\": \"@ Grizzlies on 2026-11-20\",\n                        \"record\": \"Season in progress\",\n                        \"standings\": \"N/A\"\n                    }\n                ],\n                \"timestamp\": \"2026-11-20T21:41:15.750991\"\n            },\n            \"timestamp\": \"2026-11-20T21:41:15.750991\",\n            \"source\": \"The Sports DB API\"\n        },\n        {\n            \"name\": \"tech\",\n            \"data\": {\n                \"articles\": [\n                    {\n                        \"category\": \"technology\",\n                        \"published_at\": \"2026-11-20T20:58:29Z\",\n                        \"source\": \"TechCrunch\",\n                        \"summary\": \"Techies are building technology that can advance all aspects of the world \u2014 but can they protect their hearts? That's the vulnerability that honey pots exploit.\",\n                        \"title\": \"Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now\",\n                        \"url\": \"https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/\"\n                    },\n                    {\n                        \"category\": \"technology\",\n                        \"published_at\": \"2026-11-20T20:43:52Z\",\n                        \"source\": \"The Verge\",\n                        \"summary\": \"YouTube is preparing to pay $3 billion to thousands of school districts to settle claims that its \\\"addictive design\\\" harmed kids, according to Bloomberg. Sources tell the publication that YouTube reac\",\n                        \"title\": \"YouTube is reportedly preparing to settle social media addiction claims for $3 billion\",\n                        \"url\": \"https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement\"\n                    },\n                    {\n                        \"category\": \"technology\",\n                        \"published_at\": \"2026-11-20T20:59:08Z\",\n                        \"source\": \"Ars Technica\",\n                        \"summary\": \"Test using prompts with unique, trackable secrets proves that data doesn't stay private.\",\n                        \"title\": \"Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.\",\n                        \"url\": \"https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/\"\n                    },\n                    {\n                        \"category\": \"technology\",\n                        \"published_at\": \"2026-11-20T19:52:21Z\",\n                        \"source\": \"Wired\",\n                        \"summary\": \"Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board\u2019s main issue was the former CEO\u2019s \u201clack of candor.\u201d\",\n                        \"title\": \"Jensen Huang\u2019s \u2018Lying\u2019 Alarmed Nvidia Board Ahead of His Resignation\",\n                        \"url\": \"https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/\"\n                    },\n                    {\n                        \"category\": \"technology\",\n                        \"published_at\": \"2026-11-20T18:15:15Z\",\n                        \"source\": \"MIT Technology Review\",\n                        \"summary\": \"A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory\u2014but it also indicates that models aren\u2019t quite as good at t\",\n                        \"title\": \"The most misunderstood graph in AI just got a major update\",\n                        \"url\": \"https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/\"\n                    }\n                ],\n                \"source\": \"RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)\",\n                \"timestamp\": \"2026-11-20T21:41:16.408690\"\n            },\n            \"timestamp\": \"2026-11-20T21:41:16.408690\",\n            \"source\": \"RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)\"\n        },\n        {\n            \"name\": \"market\",\n            \"data\": {\n                \"indexes\": [\n                    {\n                        \"change\": -254.4,\n                        \"change_percent\": -3.55,\n                        \"is_positive\": False,\n                        \"name\": \"S&P 500\",\n                        \"symbol\": \"^GSPC\",\n                        \"value\": 6904.3\n                    },\n                    {\n                        \"change\": null,\n                        \"change_percent\": null,\n                        \"is_positive\": null,\n                        \"name\": \"NASDAQ\",\n                        \"symbol\": \"^IXIC\",\n                        \"value\": null\n                    },\n                    {\n                        \"change\": null,\n                        \"change_percent\": null,\n                        \"is_positive\": null,\n                        \"name\": \"DOW JONES\",\n                        \"symbol\": \"^DJI\",\n                        \"value\": null\n                    }\n                ],\n                \"market_summary\": \"Markets declined on concerns about economic outlook.\",\n                \"source\": \"Alpha Vantage API (via ETF proxies)\",\n                \"timestamp\": \"2026-11-20T21:41:16.559237\"\n            },\n            \"timestamp\": \"2026-11-20T21:41:16.559237\",\n            \"source\": \"Alpha Vantage API (via ETF proxies)\"\n        }\n    ]\n}"
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T01:29:35.112919",
+  "sections": [
+    {
+      "name": "weather",
+      "data": {
+        "current": {
+          "description": "Scattered clouds",
+          "feels_like": 52.9,
+          "humidity": 73,
+          "icon": "03n",
+          "temp": 54.3,
+          "wind_speed": 9.2
+        },
+        "forecast": [
+          {
+            "date": "2026-11-24",
+            "description": "Scattered clouds",
+            "icon": "03n",
+            "temp": 63.1
+          },
+          {
+            "date": "2026-11-25",
+            "description": "Scattered clouds",
+            "icon": "03n",
+            "temp": 65.1
+          },
+          {
+            "date": "2026-11-26",
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 63.8
+          },
+          {
+            "date": "2026-11-27",
+            "description": "Clear sky",
+            "icon": "01n",
+            "temp": 61
+          },
+          {
+            "date": "2026-11-28",
+            "description": "Overcast clouds",
+            "icon": "04n",
+            "temp": 61.7
+          }
+        ],
+        "location": "San Jose",
+        "source": "OpenWeather API",
+        "timestamp": "2026-11-24T01:29:32.317479"
+      },
+      "timestamp": "2026-11-24T01:29:32.317479",
+      "source": "OpenWeather API"
+    },
+    {
+      "name": "sports",
+      "data": {
+        "source": "The Sports DB API",
+        "teams": [
+          {
+            "latest_game": "W 35-10 vs Vikings (2026-11-23)",
+            "league": "NFL",
+            "name": "San Francisco 49ers",
+            "next_game": "vs Seahawks on 2026-11-29",
+            "record": "Season in progress",
+            "standings": "N/A"
+          },
+          {
+            "latest_game": "W 4-3 vs Kraken (2026-11-22)",
+            "league": "NHL",
+            "name": "San Jose Sharks",
+            "next_game": "vs Wild on 2026-11-24",
+            "record": "Season in progress",
+            "standings": "N/A"
+          },
+          {
+            "latest_game": "W 88-87 vs Celtics (2026-11-23)",
+            "league": "NBA",
+            "name": "Golden State Warriors",
+            "next_game": "vs Kings on 2026-11-26",
+            "record": "Season in progress",
+            "standings": "N/A"
+          }
+        ],
+        "timestamp": "2026-11-24T01:29:33.590124"
+      },
+      "timestamp": "2026-11-24T01:29:33.590124",
+      "source": "The Sports DB API"
+    },
+    {
+      "name": "tech",
+      "data": {
+        "articles": [
+          {
+            "category": "technology",
+            "published_at": "2026-11-23T22:05:50Z",
+            "source": "TechCrunch",
+            "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+            "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+            "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-11-24T00:02:52Z",
+            "source": "The Verge",
+            "summary": "Kagi, which already offers a paid alternative to Google Search and its own Orion browser as a rival to Chrome, is taking on another Google service: Gmail. Today, Kagi announced a public beta of Kagi M",
+            "title": "Google alternative Kagi launches an email service",
+            "url": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-11-23T21:58:34Z",
+            "source": "Ars Technica",
+            "summary": "The Army said on Sunday that it would carry out the detonation on Wednesday.",
+            "title": "Trump halts Iowa detonation, says new governor to blame if it blows accidentally",
+            "url": "https://arstechnica.com/health/2026/11/trump-halts-iowa-detonation-says-new-governor-to-blame-if-it-blows-accidentally/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-11-23T18:46:51Z",
+            "source": "Wired",
+            "summary": "The US Army plans to blow up 9,500 pounds of lead azide held at an Iowa ammunition plant. Local officials say they learned most of the details through a press release.",
+            "title": "The Feds Left Iowans in the Dark About Plans to Blow Up Tons of Lead",
+            "url": "https://www.wired.com/story/the-feds-left-iowans-in-the-dark-about-plans-to-blow-up-tons-of-lead/"
+          },
+          {
+            "category": "technology",
+            "published_at": "2026-11-23T17:36:08Z",
+            "source": "MIT Technology Review",
+            "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. Before going public last week, Anthropic named the possibility",
+            "title": "A legendary philosopher isn\u2019t buying Anthropic\u2019s consciousness argument",
+            "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/"
+          }
+        ],
+        "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
+        "timestamp": "2026-11-24T01:29:34.187151"
+      },
+      "timestamp": "2026-11-24T01:29:34.187151",
+      "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
+    },
+    {
+      "name": "market",
+      "data": {
+        "indexes": [
+          {
+            "change": 324.8,
+            "change_percent": 4.71,
+            "is_positive": true,
+            "name": "S&P 500",
+            "symbol": "^GSPC",
+            "value": 7222.9
+          },
+          {
+            "change": 0,
+            "change_percent": 0,
+            "is_positive": false,
+            "name": "NASDAQ",
+            "symbol": "^IXIC",
+            "value": null
+          },
+          {
+            "change": 0,
+            "change_percent": 0,
+            "is_positive": false,
+            "name": "DOW JONES",
+            "symbol": "^DJI",
+            "value": null
+          }
+        ],
+        "market_summary": "Markets rallied across all major indexes on positive sentiment.",
+        "source": "Alpha Vantage API (via ETF proxies)",
+        "timestamp": "2026-11-24T01:29:34.838193"
+      },
+      "timestamp": "2026-11-24T01:29:34.838193",
+      "source": "Alpha Vantage API (via ETF proxies)"
+    }
+  ]
 }
