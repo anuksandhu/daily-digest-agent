@@ -1,55 +1,55 @@
 {
-  "date": "2026-11-24",
-  "generated_at": "2026-11-24T23:23:34.029415",
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T22:57:38.346240",
   "sections": [
     {
       "name": "weather",
       "data": {
         "current": {
           "description": "Scattered clouds",
-          "feels_like": 62.7,
-          "humidity": 65,
+          "feels_like": 63.8,
+          "humidity": 70,
           "icon": "03d",
-          "temp": 63.5,
+          "temp": 64.3,
           "wind_speed": 10.4
         },
         "forecast": [
           {
-            "date": "2026-11-25",
-            "description": "Light rain",
-            "icon": "10n",
-            "temp": 67.7
-          },
-          {
             "date": "2026-11-26",
             "description": "Overcast clouds",
             "icon": "04n",
-            "temp": 63.3
+            "temp": 64.3
           },
           {
             "date": "2026-11-27",
-            "description": "Overcast clouds",
+            "description": "Broken clouds",
             "icon": "04n",
-            "temp": 61
+            "temp": 62.7
           },
           {
             "date": "2026-11-28",
             "description": "Overcast clouds",
             "icon": "04n",
-            "temp": 62
+            "temp": 65.8
           },
           {
             "date": "2026-11-29",
-            "description": "Scattered clouds",
-            "icon": "03n",
+            "description": "Broken clouds",
+            "icon": "04n",
             "temp": 64
+          },
+          {
+            "date": "2026-11-30",
+            "description": "Light rain",
+            "icon": "10n",
+            "temp": 65
           }
         ],
         "location": "San Jose",
         "source": "OpenWeather API",
-        "timestamp": "2026-11-24T23:23:31.593522"
+        "timestamp": "2026-11-25T22:57:34.799836"
       },
-      "timestamp": "2026-11-24T23:23:31.593522",
+      "timestamp": "2026-11-25T22:57:34.799836",
       "source": "OpenWeather API"
     },
     {
@@ -66,10 +66,10 @@
             "standings": "N/A"
           },
           {
-            "latest_game": "W 4-3 vs Kraken (2026-11-22)",
+            "latest_game": "L 2-5 vs Wild (2026-11-24)",
             "league": "NHL",
             "name": "San Jose Sharks",
-            "next_game": "vs Wild on 2026-11-24",
+            "next_game": "@ Ducks on 2026-11-26",
             "record": "Season in progress",
             "standings": "N/A"
           },
@@ -82,9 +82,9 @@
             "standings": "N/A"
           }
         ],
-        "timestamp": "2026-11-24T23:23:33.013183"
+        "timestamp": "2026-11-25T22:57:36.854155"
       },
-      "timestamp": "2026-11-24T23:23:33.013183",
+      "timestamp": "2026-11-25T22:57:36.854155",
       "source": "The Sports DB API"
     },
     {
@@ -93,49 +93,49 @@
         "articles": [
           {
             "category": "technology",
-            "published_at": "2026-11-24T21:48:27Z",
+            "published_at": "2026-11-25T20:56:44Z",
             "source": "TechCrunch",
-            "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
-            "title": "In all-hands meeting, Jensen Huang thanks White House and says he\u2019s in therapy",
-            "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/"
+            "summary": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory authority.",
+            "title": "FCC approves SpaceX plan to put AI data centers in space",
+            "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/"
           },
           {
             "category": "technology",
-            "published_at": "2026-11-24T22:23:27Z",
+            "published_at": "2026-11-25T21:51:26Z",
             "source": "The Verge",
-            "summary": "A jury has found Huawei guilty of stealing US trade secrets, as reported earlier by NBC News and Bloomberg. The verdict, handed down in a federal court in New York, concludes a years-long legal battle",
-            "title": "Huawei found guilty of stealing trade secrets",
-            "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial"
+            "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows ",
+            "title": "Google\u2019s patent for custom AI video feeds paints a bleak picture of entertainment\u2019s future",
+            "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent"
           },
           {
             "category": "technology",
-            "published_at": "2026-11-24T20:34:53Z",
+            "published_at": "2026-11-25T20:57:09Z",
             "source": "Ars Technica",
-            "summary": "A new AI-assisted proof seems to be solid, but we're not sure what it tells us.",
-            "title": "What's going on with the Riemann hypothesis?",
-            "url": "https://arstechnica.com/ai/2026/11/whats-going-on-with-the-riemann-hypothesis/"
+            "summary": "The pitch is an unusual combination of privacy promises and AI features.",
+            "title": "Google search alternative Kagi launches Gmail rival",
+            "url": "https://arstechnica.com/gadgets/2026/11/google-search-alternative-kagi-launches-gmail-rival/"
           },
           {
             "category": "technology",
-            "published_at": "2026-11-24T19:33:23Z",
+            "published_at": "2026-11-25T12:00:00Z",
             "source": "Wired",
-            "summary": "The newly reinstated CEO discussed his daily therapy sessions, his reputation as a \u201ctech bro,\u201d his disdain for succession planning, and his relationship with President Trump.",
-            "title": "11 Things Jensen Huang Actually Said at His First All-Hands Back at Nvidia",
-            "url": "https://www.wired.com/story/11-things-jensen-huang-actually-said-at-his-first-all-hands-back-at-nvidia/"
+            "summary": "The holiday theme park performers started posting their own AI fan videos as an inside joke. They didn\u2019t expect it to actually catch on.",
+            "title": "How Jump-Roping Toy Soldiers Accidentally Took Over Your FYP",
+            "url": "https://www.wired.com/story/hot-jump-roping-toy-soldiers-accidentally-made-their-own-psyop/"
           },
           {
             "category": "technology",
-            "published_at": "2026-11-24T15:15:16Z",
+            "published_at": "2026-11-25T17:00:00Z",
             "source": "MIT Technology Review",
-            "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is add",
-            "title": "Raising the stakes for enterprise networks with AI modernization",
-            "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/"
+            "summary": "In May 2025, my colleague David Rotman wrote a feature story describing how AI could keep us dependent on natural gas. Just 18 months later, I\u2019ve lost count of how many times he\u2019s already been proved ",
+            "title": "How data centers are driving a US natural-gas boom",
+            "url": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/"
           }
         ],
         "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)",
-        "timestamp": "2026-11-24T23:23:33.825949"
+        "timestamp": "2026-11-25T22:57:37.515528"
       },
-      "timestamp": "2026-11-24T23:23:33.825949",
+      "timestamp": "2026-11-25T22:57:37.515528",
       "source": "RSS Feeds (TechCrunch, The Verge, Ars Technica, Wired, MIT Tech Review, VentureBeat)"
     },
     {
@@ -143,35 +143,19 @@
       "data": {
         "indexes": [
           {
-            "change": -37.1,
-            "change_percent": -0.51,
+            "change": -19.7,
+            "change_percent": -0.27,
             "is_positive": false,
             "name": "S&P 500",
             "symbol": "^GSPC",
-            "value": 7185.8
-          },
-          {
-            "change": -25.2,
-            "change_percent": -0.18,
-            "is_positive": false,
-            "name": "NASDAQ",
-            "symbol": "^IXIC",
-            "value": 13728.5
-          },
-          {
-            "change": -85.4,
-            "change_percent": -0.27,
-            "is_positive": false,
-            "name": "DOW JONES",
-            "symbol": "^DJI",
-            "value": 31580.2
+            "value": 7168.1
           }
         ],
         "market_summary": "Markets declined on concerns about economic outlook.",
         "source": "Alpha Vantage API (via ETF proxies)",
-        "timestamp": "2026-11-24T23:23:34.028936"
+        "timestamp": "2026-11-25T22:57:38.346240"
       },
-      "timestamp": "2026-11-24T23:23:34.028936",
+      "timestamp": "2026-11-25T22:57:38.346240",
       "source": "Alpha Vantage API (via ETF proxies)"
     }
   ]
